@@ -1,19 +1,23 @@
-# TJSP 2027 — Escrevente Técnico Judiciário
+# TJSP Escrevente 2027 — Edital 02/2026
 
-Material de preparação modular baseado no **Edital de Abertura 02/2026**, Anexo VIII (pp. 61–63), fornecido pelo candidato. **Prova prevista: 14/03/2027.** Versão inicial: 25/10/2026.
+**Ad astra per scientiam**
 
-## Estrutura e método
+Preparação modular, 20 semanas, para a prova prevista em 14/03/2027. [Edital Vunesp](https://www.vunesp.com.br/) · [Materiais no Drive](https://drive.google.com/drive/folders/1AoOIv-710bcrmRqCO2H80DAX89yo4g_g).
 
-Adota o formato do curso de Oficial de Justiça: **20 semanas**, livro-texto semanal, fichas de fixação, 12 questões autorais (6 do tema + 6 de revisão cumulativa), gabarito comentado separado, mapas conceituais, revisão de erros em 24 horas e 7 dias, exercícios de provas VUNESP e controle semanal de desempenho. Uma redação dissertativo-argumentativa por semana, intensificando para duas nas semanas finais.
+## Edição V3 · 26/10/2026
 
-- [Guia geral e cronograma](docs/00_GUIA_GERAL_E_CRONOGRAMA.md)
-- [Semana 01 — livro-texto](semanas/01/LIVRO_TEXTO.md)
-- [Semana 01 — exercícios](semanas/01/EXERCICIOS.md)
-- [Semana 01 — gabarito](semanas/01/GABARITO.md)
-- [Controle de evolução](docs/CONTROLE_DE_EVOLUCAO.md)
+- [Guia e limites da V3](conteudo/v3/README_V3.md)
+- [20 cadernos editáveis](conteudo/v3/cadernos) · PDF no ZIP consolidado do Drive
+- [Simulados 02 e 03, 70 questões cada](conteudo/v3/simulados)
+- [Redação — 10 propostas e modelos](conteudo/v3/redacao)
+- [Legislação, fontes e atualidades](conteudo/v3/legislacao)
+- [Matriz de referências do edital](conteudo/v3/legislacao/MATRIZ_INDEXADA_V3.csv)
+- [Backlog real](conteudo/v3/BACKLOG_STATUS.md)
+- [Relatório de testes](conteudo/v3/qa/RELATORIO_QA.md)
 
-**Fonte de autoridade:** edital 02/2026, especialmente cap. X–XI e Anexo VIII. Exames antigos orientam o estilo de cobrança, nunca substituem o recorte do edital. Textos legais e retificações devem ser consultados nas fontes oficiais. Questões aqui são **autorais**, não questões oficiais da VUNESP.
+**Importante:** a matriz identifica dispositivos e blocos; **não** significa 937 artigos homologados. O curso ainda exige cotejo legal artigo por artigo, revisão independente e atualização de Atualidades até a prova. As questões são autorais, não provas oficiais da Vunesp. A redação é eliminatória.
 
-**Atenção:** o plano de Oficial não pode ser transposto literalmente: Escrevente tem uma **redação**, e não duas questões jurídicas discursivas. A redação é eliminatória e não é somada à nota objetiva para classificação.
+## Versionamento
 
-**Versionamento:** toda alteração de conteúdo deve ser registrada em Git, anotando semana, fonte, artigo e justificativa; não sobrescrever silenciosamente material já resolvido.
+- 26/10/2026: V3 com PDFs editáveis, dois novos simulados integrais e matriz de cobertura. Fontes Markdown versionadas neste Git; PDFs e dados de reprodução no pacote consolidado arquivado no Drive.
+- Preserve versões e nunca marque material como auditado sem fonte, data e exame editorial.
