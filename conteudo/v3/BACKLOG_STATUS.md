@@ -17,13 +17,13 @@
 |B11|Português|Parcial — 20 fichas antigas + 32 questões novas; não banco exaustivo|
 |B12|Matemática e Lógica|Parcial — treino resolvido, falta bateria extensa|
 |B13|Informática|Parcial — 18 perguntas e guias, falta prática integral|
-|B14|Atualidades|Parcial / temporal — snapshot de 26/10; precisa atualização até 03/2027|
+|B14|Atualidades|Parcial — boletim de 26/10; acompanhamento semanal programado de 02/11/2026 a 08/03/2027|
 |B15|Questões contextualizadas|Concluído para novos simulados (140); profundidade por artigo parcial|
 |B16|Dois simulados completos adicionais|Concluído operacionalmente: 2×70, cinco alternativas, 16/30/24|
 |B17|Oficina de redação|Concluído material (10 temas, 5 modelos); correção individual depende de texto autoral|
 |B18|QA|Parcial — testes automáticos aprovados; auditoria jurídica independente pendente|
 |B19|Publicar 20 livros definitivos|Parcial — 20 PDFs V3 editados; homologação jurídica pendente|
-|B20|GitHub e Drive|Em andamento: ZIP no Drive e código/índice no GitHub; fonte individual requer push|
+|B20|GitHub e Drive|Concluído para a V3: 20 MD no GitHub, 20 PDFs individuais e ZIP no Drive; revisão futura terá novos commits|
 
 ## Critério de conclusão jurídica
 
