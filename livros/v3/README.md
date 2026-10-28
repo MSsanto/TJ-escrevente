@@ -34,3 +34,10 @@ Estes materiais são versões iniciais de estudo, não livros certificados como 
 - [Relatório de auditoria](../../docs/RELATORIO_AUDITORIA_COBERTURA_2026-10-28.md)
 
 **Status:** materiais ampliados, mas não homologados. A referência de um artigo a um livro não prova explicação integral, conferência da redação vigente nem bateria de questões suficiente. A validação jurídica independente e a correção humana de redações continuam pendentes.
+
+## Volume único
+
+- [**Todas as Apostilas — compilação por matérias e capítulos (Markdown editável)**](TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.md)
+- [Workflow de geração do PDF](../../.github/workflows/build-apostilas-pdf.yml)
+
+A compilação reúne os 12 cadernos/livros atuais. O PDF será considerado disponível somente depois que a geração automatizada for concluída e o arquivo binário estiver presente no repositório. A compilação não equivale à homologação jurídica ou à comprovação de cobertura integral do edital.
