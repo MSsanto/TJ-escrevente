@@ -16,3 +16,21 @@ Estes materiais são versões iniciais de estudo, não livros certificados como 
 
 ## Fonte oficial do concurso
 [Vunesp — TJSP2607, Escrevente](https://www.vunesp.com.br/TJSP2607)
+
+## Biblioteca ampliada — auditoria de 28/10/2026
+
+### Livros jurídicos
+- [Direito Penal](DIREITO_PENAL_LIVRO_TEXTO.md)
+- [Direito Processual Penal](DIREITO_PROCESSUAL_PENAL_LIVRO_TEXTO.md)
+- [Direito Processual Civil](DIREITO_PROCESSUAL_CIVIL_LIVRO_TEXTO.md)
+- [Direito Constitucional](DIREITO_CONSTITUCIONAL_LIVRO_TEXTO.md)
+- [Direito Administrativo](DIREITO_ADMINISTRATIVO_LIVRO_TEXTO.md)
+- [Legislação Interna do TJSP](LEGISLACAO_INTERNA_TJSP_LIVRO_TEXTO.md)
+- [LBI — Estatuto da Pessoa com Deficiência](LBI_CADERNO_ESTUDO.md)
+- [Rubrica oficial da redação](REDACAO_RUBRICA_EDITAL.md)
+
+### Controle de cobertura
+- [Matriz do Anexo VIII](../../docs/MATRIZ_COBERTURA_ANEXO_VIII_2026-10-28.csv)
+- [Relatório de auditoria](../../docs/RELATORIO_AUDITORIA_COBERTURA_2026-10-28.md)
+
+**Status:** materiais ampliados, mas não homologados. A referência de um artigo a um livro não prova explicação integral, conferência da redação vigente nem bateria de questões suficiente. A validação jurídica independente e a correção humana de redações continuam pendentes.
