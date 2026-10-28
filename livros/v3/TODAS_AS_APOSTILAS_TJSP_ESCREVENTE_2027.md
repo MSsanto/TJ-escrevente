@@ -47,7 +47,7 @@ Este volume reúne os livros-texto e cadernos existentes na biblioteca do projet
 # PARTE I — CONHECIMENTOS GERAIS
 
 
-\\newpage
+\newpage
 
 ## Língua Portuguesa
 
@@ -247,7 +247,7 @@ Estude próclise, ênclise e mesóclise, considerando fatores de atração, iní
 
 ---
 
-\\newpage
+\newpage
 
 ## Matemática e Raciocínio Lógico
 
@@ -413,7 +413,7 @@ Fazer bateria separada para cada um dos 13 tópicos de Matemática e cada tipo d
 
 ---
 
-\\newpage
+\newpage
 
 ## Informática
 
@@ -533,7 +533,7 @@ Confirmar a versão/idioma do Microsoft 365 usado como referência, criar exerc�
 
 ---
 
-\\newpage
+\newpage
 
 ## Atualidades
 
@@ -637,7 +637,7 @@ Para cada fato, registre: data de ocorrência; data da publicação; fonte origi
 
 ---
 
-\\newpage
+\newpage
 
 ## Estatuto da Pessoa com Deficiência (LBI)
 
@@ -740,7 +740,7 @@ A) é obrigatório para toda pessoa com deficiência; B) é facultativo e não s
 
 ---
 
-\\newpage
+\newpage
 
 ## Redação
 
@@ -837,12 +837,12 @@ Correção automatizada ajuda a detectar problemas de linguagem, mas não substi
 
 ---
 
-\\newpage
+\newpage
 
 # PARTE II — CONHECIMENTOS JURÍDICOS
 
 
-\\newpage
+\newpage
 
 ## Direito Constitucional
 
@@ -935,7 +935,7 @@ E) art. 6º exclusivamente.
 
 ---
 
-\\newpage
+\newpage
 
 ## Direito Administrativo
 
@@ -1091,7 +1091,7 @@ A descrição acima foi confrontada com a página compilada da ALESP, mas não �
 
 ---
 
-\\newpage
+\newpage
 
 ## Direito Penal
 
@@ -1303,7 +1303,7 @@ E) nenhuma regra penal pode ser pertinente.
 
 ---
 
-\\newpage
+\newpage
 
 ## Direito Processual Civil
 
@@ -1489,7 +1489,7 @@ A) Lei 9.099/1995, art. 12-A; B) CPP, art. 400-A; C) CP, art. 313-B; D) LBI, art
 
 ---
 
-\\newpage
+\newpage
 
 ## Direito Processual Penal
 
@@ -1787,7 +1787,7 @@ A) aplicar literalmente qualquer valor em réis como moeda atual. B) concluir qu
 
 ---
 
-\\newpage
+\newpage
 
 ## Legislação Interna do TJSP
 
@@ -1957,7 +1957,7 @@ As páginas do sistema de legislação do TJSP dependem de JavaScript e não per
 
 ---
 
-\\newpage
+\newpage
 
 
 
