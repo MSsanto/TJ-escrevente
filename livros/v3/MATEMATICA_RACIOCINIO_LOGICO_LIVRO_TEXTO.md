@@ -84,3 +84,35 @@ Operações e frações; razão e regra de três; porcentagem; equações; medid
 
 ## Fontes de trabalho
 Anexo de Conteúdo Programático do edital vigente; questões oficiais anteriores da Vunesp, identificadas por ano e cargo.
+
+
+## Complemento de estudo — tópicos adicionais para conferir no edital
+Os tópicos abaixo ampliam a base. A inclusão neste livro não confirma, sozinha, que cada item esteja no programa oficial de 2026; a matriz final deve seguir o Anexo VIII.
+
+### Divisibilidade, MMC e MDC
+Divisor é um inteiro que divide outro sem resto. Para fatorar, decomponha o número em fatores primos. O **MDC** usa os fatores comuns com menores expoentes; o **MMC** usa todos os fatores necessários com maiores expoentes.
+
+Exemplo: 12 = 2²×3 e 18 = 2×3². Logo, MDC(12,18)=2×3=6 e MMC(12,18)=2²×3²=36. MMC costuma ajudar em eventos periódicos que precisam coincidir; MDC, em divisões em grupos iguais sem sobra.
+
+### Potências e raízes
+Para mesma base: aᵐ×aⁿ=aᵐ⁺ⁿ; aᵐ/aⁿ=aᵐ⁻ⁿ, com denominador não nulo; (aᵐ)ⁿ=aᵐⁿ. Raiz quadrada principal de 49 é 7. Respeite parênteses e sinais: −3² = −9, enquanto (−3)² = 9 na convenção usual.
+
+### Equação do segundo grau
+Na forma ax²+bx+c=0, com a≠0, o discriminante é Δ=b²−4ac. Se Δ>0, há duas raízes reais distintas; se Δ=0, uma raiz real dupla; se Δ<0, não há raízes reais. Quando aplicável, x=(-b±√Δ)/(2a). Confira as soluções na equação original.
+
+### Juros simples
+Juro simples é calculado sempre sobre o capital inicial: J=C×i×t, com taxa e tempo expressos em unidades compatíveis. Montante M=C+J. Exemplo: R$ 1.000 a 2% ao mês por 3 meses: J=1.000×0,02×3=R$ 60; M=R$ 1.060. Não confunda com juros compostos, em que o juro de cada período passa a integrar a base seguinte.
+
+### Geometria básica
+Perímetro é a soma dos comprimentos dos lados. Área do retângulo = base×altura; área do triângulo = base×altura/2; área do quadrado = lado². Confira unidades: perímetro é linear (cm, m); área é quadrada (cm², m²). Use fórmulas geométricas apenas quando o tópico estiver previsto no programa.
+
+### Argumentos e diagramas lógicos
+Avalie se a conclusão decorre das premissas. “Todos os A são B; x é A; logo, x é B” é válido. “Todos os A são B; x é B; logo, x é A” não é válido, pois B pode conter elementos que não são A. Diagramas de conjuntos ajudam a detectar esse erro.
+
+### Exercícios adicionais
+**9.** O MMC de 12 e 18 é: (A) 3 (B) 6 (C) 24 (D) 36 (E) 72.  
+**10.** Um capital de R$ 1.000 rende juros simples de 2% ao mês por 3 meses. O juro é: (A) R$ 20 (B) R$ 40 (C) R$ 60 (D) R$ 80 (E) R$ 120.  
+**11.** A equação x²−5x+6=0 tem raízes: (A) 1 e 6 (B) 2 e 3 (C) −2 e −3 (D) 0 e 6 (E) 1 e 5.  
+**12.** “Todos os A são B. Joana é B. Logo, Joana é A.” O argumento é: (A) necessariamente válido (B) inválido, pois B pode incluir quem não é A (C) tautologia (D) contradição em qualquer caso (E) equivalente a uma identidade.
+
+**Gabarito comentado:** 9. **D** — 36 é o menor múltiplo comum. 10. **C** — 1.000×0,02×3=60. 11. **B** — (x−2)(x−3)=0. 12. **B** — a premissa não afirma que todo B seja A.
