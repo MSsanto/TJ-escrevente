@@ -21,24 +21,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Inspect LaTeX list nesting before PDF render
-        run: |
-          docker run --rm \
-            -v "$PWD:/data" \
-            -w /data \
-            pandoc/latex:3.7 \
-            --from=markdown-raw_tex \
-            --to=latex \
-            "livros/v3/TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.md" \
-            --output="build-debug.tex" \
-            --toc \
-            --toc-depth=3 \
-            --standalone \
-            -V geometry:margin=2cm \
-            -V fontsize=10pt
-          sed -n '4960,5030p' build-debug.tex || true
-          rm -f build-debug.tex
-
       - name: Render consolidated volume
         run: |
           docker run --rm \
@@ -57,6 +39,14 @@ jobs:
             -V colorlinks=true \
             -V linkcolor=blue \
             -V urlcolor=blue
+
+      - name: Report PDF metadata
+        run: |
+          docker run --rm \
+            -v "$PWD:/data" \
+            -w /data \
+            pandoc/latex:3.7 \
+            sh -c 'pdfinfo livros/v3/TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.pdf | grep -E "Pages:|Page size:|File size:"'
 
       - name: Commit generated PDF
         run: |
