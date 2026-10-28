@@ -21,21 +21,19 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Install Pandoc and PDF engine
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-latex-recommended fonts-dejavu-core
-
       - name: Render consolidated volume
         run: |
-          pandoc --from=markdown-raw_tex "livros/v3/TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.md" \
+          docker run --rm \
+            -v "$PWD:/data" \
+            -w /data \
+            pandoc/latex:3.7 \
+            --from=markdown-raw_tex \
+            "livros/v3/TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.md" \
             --output="livros/v3/TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.pdf" \
-            --pdf-engine=xelatex \
             --toc \
             --toc-depth=3 \
             --standalone \
             -V geometry:margin=2cm \
-            -V mainfont="DejaVu Sans" \
             -V fontsize=10pt \
             -V colorlinks=true \
             -V linkcolor=blue \
