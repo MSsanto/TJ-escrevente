@@ -19,7 +19,7 @@ Preparação modular, 20 semanas, para a prova prevista em 14/03/2027. [Edital V
 
 ## Versionamento
 
-- 26/10/2026: V3 com PDFs editáveis, dois novos simulados integrais e matriz de cobertura. Fontes Markdown versionadas neste Git; PDFs e dados de reprodução no pacote consolidado arquivado no Drive.
+- 26/10/2026: V3 com PDFs editáveis, simulados e matriz de cobertura. Fontes Markdown e PDFs versionados neste GitHub; o pacote do Google Drive não foi atualizado nesta revisão.
 - Preserve versões e nunca marque material como auditado sem fonte, data e exame editorial.
 
 ## Apostilas consolidadas
@@ -27,4 +27,4 @@ Preparação modular, 20 semanas, para a prova prevista em 14/03/2027. [Edital V
 - [Todas as Apostilas — PDF consolidado](livros/v3/TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.pdf)
 - [Todas as Apostilas — versão editável](livros/v3/TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.md)
 
-Compilação por matérias e capítulos; ainda depende da validação humana indicada no relatório de auditoria.
+Compilação por matérias e capítulos. A versão atual tem **273 páginas** e aproximadamente **42,2 mil palavras**, com plano-base de 20 semanas e mini-simulado de 30 questões. A referência de 237 páginas é para Oficial de Justiça; foi usada como modelo de organização, não como fonte do conteúdo de Escrevente. O material ainda depende da validação humana indicada no relatório de auditoria.
