@@ -4348,6 +4348,312 @@ __________________________________________________________________
 **Revisão programada:** D+1 ________  D+7 ________  D+21 ________
 
 
+
+
+---
+
+# Mini-simulado misto de revisão — 30 questões
+
+Este simulado é autoral e serve para recuperação ativa. **Não reproduz a distribuição oficial da prova**, não substitui o caderno de questões por disciplina e não deve ser usado para estimar nota. Resolva sem consultar o material; depois, corrija cada item e registre o fundamento da resposta.
+
+## Bloco A — Português, Matemática e Raciocínio Lógico
+
+**S1.** Leia: “O relatório foi concluído no prazo; isso, porém, não significa que todas as informações tenham sido verificadas.” A expressão “isso” retoma:
+
+A) apenas a palavra “prazo”.  
+B) a conclusão do relatório no prazo.  
+C) todas as informações verificadas.  
+D) a ausência de relatório.  
+E) uma conclusão futura.
+
+**S2.** Assinale a frase adequada à norma-padrão:
+
+A) Houveram falhas no sistema.  
+B) Fazem três semanas que o setor mudou.  
+C) Havia dúvidas sobre o procedimento.  
+D) Existe documentos pendentes.  
+E) Segue anexas as certidões.
+
+**S3.** Um material custa R$ 320,00 e recebe desconto de 12,5%. Qual é o preço final?
+
+A) R$ 280,00.  
+B) R$ 284,00.  
+C) R$ 288,00.  
+D) R$ 300,00.  
+E) R$ 312,00.
+
+**S4.** Cinco servidores concluem 80 registros em quatro horas, mantendo o mesmo ritmo. Quantos registros oito servidores concluem em seis horas?
+
+A) 128.  
+B) 160.  
+C) 180.  
+D) 192.  
+E) 240.
+
+**S5.** A regra é: “Se o pedido for incompleto, a unidade solicitará complementação.” O pedido foi incompleto. Pela regra, conclui-se que:
+
+A) a unidade não poderá agir.  
+B) a unidade solicitará complementação.  
+C) o pedido foi necessariamente indeferido.  
+D) todos os pedidos são incompletos.  
+E) a regra é falsa.
+
+## Bloco B — Informática, Atualidades e LBI
+
+\newpage
+
+**S6.** No Excel, a referência $C$3 em uma fórmula:
+
+A) fixa a coluna e a linha.  
+B) fixa apenas a coluna.  
+C) fixa apenas a linha.  
+D) muda sempre ao copiar a fórmula.  
+E) transforma a célula em texto.
+
+**S7.** Uma mensagem pede que o usuário clique imediatamente em um link de redefinição de senha, com domínio semelhante ao oficial. A conduta mais segura é:
+
+A) clicar, porque há urgência.  
+B) responder com a senha atual.  
+C) acessar o serviço por endereço oficial conhecido e reportar a mensagem suspeita.  
+D) encaminhar a mensagem a todos os colegas.  
+E) desativar os mecanismos de segurança.
+
+**S8.** Uma notícia diz que um indicador “subiu muito”, sem apresentar período, unidade ou fonte. Para avaliá-la, o primeiro passo é:
+
+A) aceitar a afirmação pelo título.  
+B) localizar o indicador, o período, a metodologia e a fonte primária.  
+C) substituir o dado por uma estimativa pessoal.  
+D) assumir que o número se refere ao ano inteiro.  
+E) compartilhar antes de conferir.
+
+**S9.** Um sistema público não permite que usuários com deficiência visual acessem seus recursos por leitor de tela. A análise mais pertinente à LBI deve considerar:
+
+A) apenas a preferência individual do usuário.  
+B) a barreira tecnológica e as medidas de acessibilidade cabíveis.  
+C) a impossibilidade automática de uso de serviços públicos.  
+D) a obrigação de o usuário entregar sua senha a terceiros.  
+E) a perda de capacidade civil.
+
+**S10.** A deficiência, por si só:
+
+A) torna a pessoa absolutamente incapaz em todos os atos.  
+B) elimina o direito à autonomia.  
+C) não implica automaticamente incapacidade civil absoluta.  
+D) impede o exercício de direitos políticos em qualquer hipótese.  
+E) dispensa a análise das barreiras do ambiente.
+
+## Bloco C — Constitucional e Administrativo
+
+\newpage
+
+**S11.** Legalidade, impessoalidade, moralidade, publicidade e eficiência são princípios expressos no:
+
+A) art. 37 da Constituição Federal.  
+B) art. 4º da Constituição Federal.  
+C) art. 12 da Constituição Federal.  
+D) art. 92 do Código Penal.  
+E) art. 5º do CPC.
+
+**S12.** A nacionalidade constitucional exige distinguir:
+
+A) apenas residentes de não residentes.  
+B) brasileiros natos e naturalizados, conforme as hipóteses constitucionais.  
+C) servidores efetivos de comissionados.  
+D) pessoas com deficiência de pessoas sem deficiência.  
+E) autores de réus.
+
+**S13.** Um ato administrativo é rápido e barato, mas viola uma exigência legal expressa. A conclusão mais adequada é:
+
+A) eficiência sempre prevalece sobre legalidade.  
+B) a rapidez torna o ato automaticamente válido.  
+C) eficiência não autoriza, por si só, o descumprimento da lei.  
+D) legalidade só se aplica a particulares.  
+E) o ato fica dispensado de controle.
+
+**S14.** Uma irregularidade funcional é automaticamente um ato de improbidade administrativa?
+
+A) Sim, em qualquer hipótese.  
+B) Não; é necessário verificar os elementos e requisitos legais do enquadramento aplicável.  
+C) Sim, se houver crítica pública.  
+D) Sim, sempre que existir erro formal.  
+E) Não, porque improbidade não tem consequências legais.
+
+**S15.** Para responder sobre prazo disciplinar, o candidato deve:
+
+A) estimar a duração pelo senso comum.  
+B) aplicar automaticamente o prazo do CPC.  
+C) identificar o dispositivo, o termo inicial, a regra de contagem e as exceções.  
+D) escolher sempre o prazo mais curto.  
+E) ignorar a versão da norma.
+
+## Bloco D — Direito Penal
+
+\newpage
+
+**S16.** Um documento é materialmente autêntico, mas contém declaração falsa sobre fato juridicamente relevante, nas condições legais. O tipo a examinar é:
+
+A) falsidade ideológica, art. 299.  
+B) concussão, art. 316.  
+C) resistência, art. 329.  
+D) denunciação caluniosa, art. 339.  
+E) prevaricação, art. 319.
+
+**S17.** Um funcionário público exige vantagem indevida em razão da função. O tipo penal a examinar é:
+
+A) corrupção ativa.  
+B) concussão.  
+C) falsa identidade.  
+D) fraude processual.  
+E) comunicação falsa de crime.
+
+**S18.** O agente público retarda ou deixa de praticar indevidamente ato de ofício para satisfazer interesse ou sentimento pessoal, nos termos legais. O crime a examinar é:
+
+A) peculato.  
+B) prevaricação.  
+C) corrupção ativa.  
+D) uso de documento falso.  
+E) resistência.
+
+**S19.** Os arts. 313-A e 313-B devem ser estudados:
+
+A) como tipos necessariamente idênticos.  
+B) pela diferença entre inserir ou facilitar dados falsos e modificar ou alterar sistema/programa sem autorização, conforme os elementos de cada artigo.  
+C) apenas pela pena abstrata, sem ler a conduta.  
+D) como crimes contra a honra.  
+E) sem conferir a redação vigente.
+
+**S20.** Denunciação caluniosa e comunicação falsa de crime:
+
+A) são expressões sinônimas em qualquer caso.  
+B) são tipos distintos e devem ser comparados pelos elementos legais.  
+C) pertencem necessariamente aos crimes patrimoniais.  
+D) dispensam análise dos fatos.  
+E) nunca podem ser cobrados em questão de tipificação.
+
+## Bloco E — Processo Civil e Processo Penal
+
+\newpage
+
+**S21.** No CPC, citação e intimação diferem porque:
+
+A) ambas sempre convocam alguém para integrar o processo pela primeira vez.  
+B) a citação convoca para integrar a relação processual; a intimação dá ciência de atos e termos do processo.  
+C) a intimação nunca pode ser eletrônica.  
+D) a citação só existe no processo penal.  
+E) não há diferença legal entre elas.
+
+**S22.** A tutela de urgência exige atenção, entre outros elementos, a:
+
+A) probabilidade do direito e perigo de dano ou risco ao resultado útil do processo, conforme a regra aplicável.  
+B) certeza absoluta de vitória final.  
+C) concordância obrigatória de todos os envolvidos.  
+D) sentença transitada em julgado.  
+E) dispensa de fundamentação.
+
+**S23.** Para estudar um recurso, é necessário identificar:
+
+A) apenas o nome do tribunal.  
+B) cabimento, prazo, legitimidade, requisitos de admissibilidade e efeitos.  
+C) somente o valor da causa.  
+D) todos os recursos como idênticos.  
+E) apenas a data da sentença.
+
+**S24.** A defesa técnica no processo penal:
+
+A) é dispensável se o acusado disser que conhece a lei.  
+B) é garantia processual e deve seguir a disciplina legal.  
+C) só existe no Tribunal do Júri.  
+D) pode ser substituída por qualquer servidor em todos os casos.  
+E) elimina a autodefesa.
+
+**S25.** Ao estudar citação e intimação no CPP, o candidato deve:
+
+A) aplicar automaticamente os prazos do CPC.  
+B) conferir as regras próprias do CPP e as remissões legais pertinentes.  
+C) presumir que os dois códigos são idênticos.  
+D) ignorar o destinatário do ato.  
+E) dispensar a certidão.
+
+## Bloco F — Legislação Interna, Redação e revisão integrada
+
+\newpage
+
+**S26.** No índice oficial do Tomo I das Normas da Corregedoria, a Seção V do Capítulo III corresponde ao grupo sobre:
+
+A) sistema informatizado oficial.  
+B) recursos criminais.  
+C) nacionalidade.  
+D) tutela de evidência.  
+E) redação oficial federal.
+
+**S27.** A Resolução TJSP nº 963/2025 trata de:
+
+A) regras de nacionalidade.  
+B) governança e utilização do sistema eproc no TJSP.  
+C) falsidade documental.  
+D) direitos sociais.  
+E) processo disciplinar estadual em geral.
+
+**S28.** O material oficial consultado para as Normas da Corregedoria está atualizado até 22/10/2026, enquanto o edital foi publicado antes dessa data. A providência correta é:
+
+A) aplicar todas as alterações posteriores sem análise.  
+B) ignorar qualquer alteração posterior.  
+C) comparar as mudanças com a cláusula de legislação do edital e registrar a conclusão para validação.  
+D) usar somente resumos de terceiros.  
+E) considerar a data irrelevante.
+
+**S29.** Em uma redação argumentativa, a tese:
+
+A) deve apenas repetir o tema.  
+B) apresenta a posição central que será sustentada pelos argumentos.  
+C) substitui o desenvolvimento.  
+D) deve introduzir fatos sem relação com o tema.  
+E) pode ser omitida em qualquer proposta.
+
+**S30.** Ao comparar duas notícias sobre o mesmo indicador, os números diferem. O procedimento mais confiável é:
+
+A) escolher o número maior.  
+B) fazer a média sem investigar.  
+C) comparar definição, período, universo, metodologia e fonte dos dados.  
+D) usar o número mais compartilhado nas redes sociais.  
+E) concluir que ambos são falsos.
+
+\newpage
+
+## Gabarito comentado do mini-simulado
+
+- **S1 — B.** “Isso” retoma o fato de o relatório ter sido concluído no prazo; a oração seguinte ressalva que isso não comprova a verificação de todas as informações.
+- **S2 — C.** “Haver”, com sentido de existir, fica no singular. “Fazer”, indicando tempo decorrido, também é impessoal. “Existir” concorda com o sujeito.
+- **S3 — A.** 12,5% de R$ 320,00 são R$ 40,00; o preço final é R$ 280,00.
+- **S4 — D.** A produção é diretamente proporcional ao número de servidores e às horas: \(80 \times (8/5) \times (6/4)=192\).
+- **S5 — B.** A condição foi satisfeita e a regra enuncia a consequência.
+- **S6 — A.** Os dois cifrões fixam coluna e linha.
+- **S7 — C.** Acesso pelo endereço oficial e comunicação da mensagem suspeita reduzem o risco de phishing.
+- **S8 — B.** Indicador, período, metodologia e fonte são necessários para avaliar a afirmação.
+- **S9 — B.** A questão descreve uma barreira tecnológica; devem ser examinadas as medidas de acessibilidade cabíveis.
+- **S10 — C.** A deficiência não implica automaticamente incapacidade civil absoluta.
+- **S11 — A.** O art. 37 apresenta os princípios expressos LIMPE.
+- **S12 — B.** O texto constitucional distingue hipóteses de brasileiro nato e naturalizado.
+- **S13 — C.** Eficiência não é autorização genérica para descumprir a lei.
+- **S14 — B.** Irregularidade e improbidade não são sinônimos automáticos; é preciso verificar os requisitos legais.
+- **S15 — C.** A contagem exige dispositivo, termo inicial, regra e exceções.
+- **S16 — A.** A descrição remete à falsidade ideológica, mas a tipificação final depende dos elementos concretos do art. 299.
+- **S17 — B.** O verbo “exigir” é central para a concussão, art. 316.
+- **S18 — B.** A descrição corresponde ao núcleo da prevaricação, com os requisitos do art. 319.
+- **S19 — B.** Os tipos devem ser distinguidos pela conduta e pelos elementos previstos em cada artigo.
+- **S20 — B.** Os artigos possuem elementos distintos e não podem ser tratados como sinônimos.
+- **S21 — B.** Citação e intimação têm finalidades processuais diferentes.
+- **S22 — A.** São elementos centrais da tutela de urgência no CPC, observada a disciplina aplicável.
+- **S23 — B.** Cabimento, prazo, legitimidade, admissibilidade e efeitos distinguem os recursos.
+- **S24 — B.** A defesa técnica é garantia processual e não é dispensada por simples declaração do acusado.
+- **S25 — B.** O CPP tem regras próprias; não se importam automaticamente prazos do CPC.
+- **S26 — A.** O índice oficial aponta o sistema informatizado oficial nos arts. 46–62.
+- **S27 — B.** A ementa da Resolução nº 963/2025 trata da governança e utilização do eproc.
+- **S28 — C.** A diferença de datas exige análise da cláusula temporal do edital e registro da decisão.
+- **S29 — B.** A tese é a posição central a ser defendida, não uma repetição vazia do tema.
+- **S30 — C.** Números diferentes podem refletir períodos, definições ou métodos diferentes.
+
+
 # Anexo — controle editorial e validação humana
 
 Esta compilação foi montada a partir dos arquivos da biblioteca versionada. Antes de considerar o curso pronto para uso como fonte única, é necessário:
