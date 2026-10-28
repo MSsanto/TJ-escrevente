@@ -21,6 +21,25 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Check section pagination
+        run: |
+          docker run --rm \
+            -v "$PWD:/data" \
+            -w /data \
+            pandoc/latex:3.7 \
+            --from=markdown-raw_tex \
+            --to=latex \
+            "livros/v3/TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.md" \
+            --output="build-debug.tex" \
+            --toc \
+            --toc-depth=3 \
+            --standalone \
+            -V geometry:margin=2cm \
+            -V fontsize=10pt
+          echo "LaTeX newpage commands: $(grep -F -c '\\newpage' build-debug.tex || true)"
+          echo "LaTeX subsubsections: $(grep -F -c '\\subsubsection' build-debug.tex || true)"
+          rm -f build-debug.tex
+
       - name: Render consolidated volume
         run: |
           docker run --rm \
