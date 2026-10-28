@@ -2184,15 +2184,27 @@ E) 26 cm e 13 cm².
 
 **R1. Sequência numérica.** Qual é o próximo termo: 3, 7, 11, 15, ...?
 
-A) 17. B) 18. C) 19. D) 20. E) 22.
+A) 17.
+B) 18.
+C) 19.
+D) 20.
+E) 22.
 
 **R2. Sequência numérica.** Qual é o próximo termo: 2, 6, 18, 54, ...?
 
-A) 108. B) 126. C) 144. D) 162. E) 216.
+A) 108.
+B) 126.
+C) 144.
+D) 162.
+E) 216.
 
 **R3. Relações arbitrárias.** Ana chegou antes de Bruno; Bruno chegou antes de Caio. Quem chegou primeiro?
 
-A) Ana. B) Bruno. C) Caio. D) Não é possível saber. E) Todos chegaram juntos.
+A) Ana.
+B) Bruno.
+C) Caio.
+D) Não é possível saber.
+E) Todos chegaram juntos.
 
 **R4. Condicional.** A regra diz: “Se o sistema cair, será aberto um incidente”. O sistema caiu. O que se conclui?
 
@@ -2228,7 +2240,11 @@ E) nenhum servidor é técnico.
 
 **R8. Sequência figural.** Uma sequência alterna círculo, quadrado, círculo, quadrado. Qual é a quinta figura?
 
-A) Círculo. B) Quadrado. C) Triângulo. D) Retângulo. E) Não há padrão possível.
+A) Círculo.
+B) Quadrado.
+C) Triângulo.
+D) Retângulo.
+E) Não há padrão possível.
 
 ### Gabarito comentado
 
