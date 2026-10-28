@@ -84,3 +84,14 @@ E) apenas direito penal.
 - Conferir artigo e parágrafo por parágrafo, inclusive alterações recentes.
 - Revisar os conceitos de avaliação biopsicossocial, consentimento e trabalho inclusivo com fonte oficial.
 - Validar questões e comentários com revisão jurídica independente.
+
+## Complemento — art. 2-A e deficiência não aparente
+
+O art. 2-A, incluído na LBI pela Lei 14.624/2023, trata do uso facultativo de cordão de girassóis como símbolo para identificação de pessoas com deficiências ocultas/não aparentes. O uso do símbolo não substitui, quando solicitada nos termos legais, a apresentação de documento comprobatório da deficiência. Não se pode presumir a deficiência de alguém apenas pela ausência ou presença do cordão.
+
+Como o art. 2-A está dentro do intervalo 1º–13º do edital, ele precisa constar da matriz e do estudo, mesmo não sendo um número inteiro.
+
+### Questão adicional
+**5.** O uso do cordão de girassóis previsto no art. 2-A da LBI:  
+A) é obrigatório para toda pessoa com deficiência; B) é facultativo e não substitui automaticamente a comprovação quando exigida nos termos legais; C) elimina todos os critérios de atendimento prioritário; D) altera a capacidade civil; E) vale apenas para deficiência física visível.  
+**Gabarito:** B.
