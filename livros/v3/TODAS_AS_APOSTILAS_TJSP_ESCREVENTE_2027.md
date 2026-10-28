@@ -49,7 +49,7 @@ Este volume reúne os livros-texto e cadernos existentes na biblioteca do projet
 
 \newpage
 
-## Língua Portuguesa
+## Língua Portuguesa {#lingua-portuguesa}
 
 **TJSP Escrevente · versão 1.0 · 28/10/2026**
 
@@ -249,7 +249,7 @@ Estude próclise, ênclise e mesóclise, considerando fatores de atração, iní
 
 \newpage
 
-## Matemática e Raciocínio Lógico
+## Matemática e Raciocínio Lógico {#matematica-e-raciocinio-logico}
 
 **TJSP Escrevente · versão 1.0 · 28/10/2026**
 
@@ -293,12 +293,12 @@ Teste diferenças sucessivas, razões, alternância e posição. A regra precisa
 Proposição é frase declarativa que pode ser verdadeira ou falsa. “Feche a porta” não é proposição.
 
 - ¬p: não p.
-- p ∧ q: p e q; verdadeira apenas quando ambas são verdadeiras.
-- p ∨ q: ou inclusivo; falsa apenas quando ambas são falsas.
+- \(p \land q\): p e q; verdadeira apenas quando ambas são verdadeiras.
+- \(p \lor q\): ou inclusivo; falsa apenas quando ambas são falsas.
 - p → q: se p, então q; falsa apenas quando p é verdadeira e q falsa.
-- p ↔ q: verdadeira quando p e q têm o mesmo valor lógico.
+- \(p \leftrightarrow q\): verdadeira quando p e q têm o mesmo valor lógico.
 
-p→q equivale a ¬p∨q. A contrapositiva ¬q→¬p é equivalente à original; a recíproca q→p não é necessariamente equivalente.
+\(p \to q\) equivale a \(\neg p \lor q\). A contrapositiva \(\neg q \to \neg p\) é equivalente à original; a recíproca \(q \to p\) não é necessariamente equivalente.
 
 ### 9. Negação e quantificadores
 Negar “todos os servidores compareceram” é “pelo menos um servidor não compareceu”, não “nenhum servidor compareceu”. Negar “existe um pedido pendente” é “não existe pedido pendente”.
@@ -306,7 +306,7 @@ Negar “todos os servidores compareceram” é “pelo menos um servidor não c
 - Negação de “todo A é B”: existe A que não é B.
 - Negação de “existe A que é B”: nenhum A é B.
 
-Leis de De Morgan: ¬(p∧q)=¬p∨¬q; ¬(p∨q)=¬p∧¬q.
+Leis de De Morgan: \(\neg(p\land q)=\neg p\lor\neg q\); \(\neg(p\lor q)=\neg p\land\neg q\).
 
 ### 10. Conjuntos, contagem e probabilidade
 União reúne elementos de A ou B; interseção reúne os que pertencem a ambos; diferença A\B reúne elementos de A que não estão em B. Diagramas de Venn ajudam a contar sem duplicidade.
@@ -347,10 +347,10 @@ Divisor é um inteiro que divide outro sem resto. Para fatorar, decomponha o nú
 Exemplo: 12 = 2²×3 e 18 = 2×3². Logo, MDC(12,18)=2×3=6 e MMC(12,18)=2²×3²=36. MMC costuma ajudar em eventos periódicos que precisam coincidir; MDC, em divisões em grupos iguais sem sobra.
 
 #### Potências e raízes
-Para mesma base: aᵐ×aⁿ=aᵐ⁺ⁿ; aᵐ/aⁿ=aᵐ⁻ⁿ, com denominador não nulo; (aᵐ)ⁿ=aᵐⁿ. Raiz quadrada principal de 49 é 7. Respeite parênteses e sinais: −3² = −9, enquanto (−3)² = 9 na convenção usual.
+Para mesma base: \(a^m\times a^n=a^{m+n}\); \(a^m/a^n=a^{m-n}\), com denominador não nulo; \((a^m)^n=a^{mn}\). Raiz quadrada principal de 49 é 7. Respeite parênteses e sinais: \(-3^2=-9\), enquanto \((-3)^2=9\) na convenção usual.
 
 #### Equação do segundo grau
-Na forma ax²+bx+c=0, com a≠0, o discriminante é Δ=b²−4ac. Se Δ>0, há duas raízes reais distintas; se Δ=0, uma raiz real dupla; se Δ<0, não há raízes reais. Quando aplicável, x=(-b±√Δ)/(2a). Confira as soluções na equação original.
+Na forma \(ax^2+bx+c=0\), com \(a\ne0\), o discriminante é \(\Delta=b^2-4ac\). Se \(\Delta>0\), há duas raízes reais distintas; se \(\Delta=0\), uma raiz real dupla; se \(\Delta<0\), não há raízes reais. Quando aplicável, \(x=\frac{-b\pm\sqrt{\Delta}}{2a}\). Confira as soluções na equação original.
 
 #### Juros simples
 Juro simples é calculado sempre sobre o capital inicial: J=C×i×t, com taxa e tempo expressos em unidades compatíveis. Montante M=C+J. Exemplo: R$ 1.000 a 2% ao mês por 3 meses: J=1.000×0,02×3=R$ 60; M=R$ 1.060. Não confunda com juros compostos, em que o juro de cada período passa a integrar a base seguinte.
@@ -389,7 +389,7 @@ Revise conversões de comprimento, área, volume/capacidade, massa e tempo. Áre
 - Paralelepípedo retângulo: volume comprimento×largura×altura.
 - Cubo: volume lado³.
 - Ângulos: reto 90°, raso 180°, volta completa 360°.
-- Pitágoras, em triângulo retângulo: hipotenusa² = cateto₁² + cateto₂².
+- Pitágoras, em triângulo retângulo: \(\text{hipotenusa}^2=\text{cateto}_1^2+\text{cateto}_2^2\).
 Reconheça formas e unidades; não confunda perímetro, área e volume.
 
 #### Sequências numéricas e figurais
@@ -415,7 +415,7 @@ Fazer bateria separada para cada um dos 13 tópicos de Matemática e cada tipo d
 
 \newpage
 
-## Informática
+## Informática {#informatica}
 
 **TJSP Escrevente · versão 1.0 · 28/10/2026**
 
@@ -535,7 +535,7 @@ Confirmar a versão/idioma do Microsoft 365 usado como referência, criar exerc�
 
 \newpage
 
-## Atualidades
+## Atualidades {#atualidades}
 
 **TJSP Escrevente · versão 1.0 · 28/10/2026**
 
@@ -639,7 +639,7 @@ Para cada fato, registre: data de ocorrência; data da publicação; fonte origi
 
 \newpage
 
-## Estatuto da Pessoa com Deficiência (LBI)
+## Estatuto da Pessoa com Deficiência (LBI) {#estatuto-da-pessoa-com-deficiencia-lbi}
 
 **Base:** Edital nº 02/2026, Anexo VIII, p. 62.  
 **Recorte:** Lei nº 13.146/2015, arts. 1º–13 e 34–38.  
@@ -742,7 +742,7 @@ A) é obrigatório para toda pessoa com deficiência; B) é facultativo e não s
 
 \newpage
 
-## Redação
+## Redação {#redacao}
 
 **TJSP Escrevente · versão 1.0 · 28/10/2026**
 
@@ -844,7 +844,7 @@ Correção automatizada ajuda a detectar problemas de linguagem, mas não substi
 
 \newpage
 
-## Direito Constitucional
+## Direito Constitucional {#direito-constitucional}
 
 **Base:** Edital nº 02/2026, Anexo VIII, p. 62.  
 **Fonte primária:** [Constituição Federal — Planalto](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm).
@@ -937,7 +937,7 @@ E) art. 6º exclusivamente.
 
 \newpage
 
-## Direito Administrativo
+## Direito Administrativo {#direito-administrativo}
 
 **Base:** Edital nº 02/2026, Anexo VIII, p. 62.  
 **Fontes primárias:** [Lei paulista 10.261/1968 — Estatuto](https://www.al.sp.gov.br/repositorio/legislacao/lei/1968/lei-10261-28.10.1968.html) e [Lei 8.429/1992 — Improbidade Administrativa](https://www.planalto.gov.br/ccivil_03/leis/l8429compilada.htm).
@@ -1093,7 +1093,7 @@ A descrição acima foi confrontada com a página compilada da ALESP, mas não �
 
 \newpage
 
-## Direito Penal
+## Direito Penal {#direito-penal}
 
 **Base programática:** Edital TJSP nº 02/2026, Anexo VIII, p. 61.  
 **Fonte primária:** [Código Penal compilado — Presidência da República](https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm).  
@@ -1305,7 +1305,7 @@ E) nenhuma regra penal pode ser pertinente.
 
 \newpage
 
-## Direito Processual Civil
+## Direito Processual Civil {#direito-processual-civil}
 
 **Base:** Edital nº 02/2026, Anexo VIII, p. 62.  
 **Fontes primárias:** [CPC — Câmara dos Deputados, texto atualizado](https://www2.camara.leg.br/legin/fed/lei/2015/lei-13105-16-marco-2015-780273-normaatualizada-pl.html), [CPC compilado — Planalto](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm), [Lei 9.099/1995](https://www.planalto.gov.br/ccivil_03/leis/l9099.htm), [Lei 12.153/2009](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm).
@@ -1491,7 +1491,7 @@ A) Lei 9.099/1995, art. 12-A; B) CPP, art. 400-A; C) CP, art. 313-B; D) LBI, art
 
 \newpage
 
-## Direito Processual Penal
+## Direito Processual Penal {#direito-processual-penal}
 
 **Edital:** TJSP nº 02/2026, Anexo VIII, p. 61. **Fontes:** [CPP atualizado — Câmara](https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-3689-3-outubro-1941-322206-normaatualizada-pe.html) e [Lei 9.099/1995](https://www.planalto.gov.br/ccivil_03/leis/l9099.htm).
 
@@ -1789,7 +1789,7 @@ A) aplicar literalmente qualquer valor em réis como moeda atual. B) concluir qu
 
 \newpage
 
-## Legislação Interna do TJSP
+## Legislação Interna do TJSP {#legislacao-interna-do-tjsp}
 
 **Base:** Edital nº 02/2026, Anexo VIII, p. 62.  
 **Fontes oficiais de partida:** [Resolução TJSP 850/2021](https://esaj.tjsp.jus.br/gcn-frontend-vue/legislacao/find/196070), [Resolução TJSP 963/2025](https://esaj.tjsp.jus.br/gcn-frontend-vue/legislacao/find/229313), [Regimento Interno do TJSP](https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/RegimentoInternoTJSP.pdf), [Normas Judiciais da Corregedoria](https://www.tjsp.jus.br/Corregedoria/Comunicados/NormasJudiciais).
