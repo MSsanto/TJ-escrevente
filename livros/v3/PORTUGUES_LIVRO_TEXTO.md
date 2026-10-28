@@ -149,3 +149,45 @@ Texto verbal constrói sentido principalmente por palavras; não verbal usa elem
 **8.** Uma questão apresenta gráfico e legenda. A leitura adequada exige: (A) considerar apenas o título (B) ignorar a escala (C) relacionar título, dados, unidade, escala e legenda (D) supor a intenção do autor sem evidência (E) interpretar a imagem sem o texto.
 
 **Gabarito:** 6. **C** — modifica o verbo “trabalhou”. 7. **B** — sentido figurado de propagação. 8. **C** — todos esses elementos participam da leitura.
+
+## Complemento de cobertura do Anexo VIII — revisão 28/10/2026
+
+O edital inclui textos verbais e não verbais, literários e não literários; informações literais e inferências; ponto de vista; relações entre ideias e coesão; significação contextual; sinônimos/antônimos; sentido próprio/figurado; classes de palavras (substantivo, adjetivo, artigo, numeral, pronome, verbo, advérbio, preposição e conjunção); concordância; regência; colocação pronominal; crase; pontuação.
+
+### Leitura de textos verbais e não verbais
+Em tirinhas, anúncios, gráficos, charges e infográficos, relacione imagem, texto, contexto e efeito de sentido. Não interprete uma imagem isoladamente se a legenda ou o contexto altera a leitura. Separe informação explícita, inferência autorizada e opinião pessoal.
+
+### Coerência, coesão e intertextualidade
+- **Coerência:** compatibilidade lógica e temática das ideias.
+- **Coesão:** recursos linguísticos que ligam termos, orações e parágrafos — pronomes, elipses, substituições, conectivos e repetição controlada.
+- **Intertextualidade:** diálogo entre textos, por citação, alusão, paródia ou referência. Identifique o texto retomado e o efeito produzido.
+- **Ponto de vista:** distinga autor, narrador, personagem, fonte citada e opinião atribuída a terceiros.
+
+### Classes que precisam de treino explícito
+- **Artigo:** definido/indefinido; determinação e generalização.
+- **Numeral:** cardinal, ordinal, multiplicativo e fracionário.
+- **Pronome:** referência, retomada, colocação e ambiguidade.
+- **Preposição:** relação semântica e regência.
+- **Conjunção:** coordenação/subordinação e relação de sentido (causa, concessão, condição, consequência, finalidade, comparação, oposição, conclusão).
+- **Verbo:** tempo, modo, voz, pessoa, correlação temporal e valor aspectual.
+- **Advérbio:** circunstância, intensidade, negação, afirmação e modalização.
+
+### Colocação pronominal
+Estude próclise, ênclise e mesóclise, considerando fatores de atração, início de oração, locuções verbais e norma-padrão. Em alternativas, verifique a estrutura completa; não use uma regra simplificada sem observar a palavra atrativa e o tipo de oração.
+
+### Checklist final
+[ ] Interpretação literal e inferencial
+[ ] Textos verbais/não verbais e literários/não literários
+[ ] Coerência, coesão e intertextualidade
+[ ] Sentido contextual, sinonímia, antonímia e figuras
+[ ] Todas as classes de palavras listadas no edital
+[ ] Concordância nominal e verbal
+[ ] Regência nominal e verbal
+[ ] Colocação pronominal
+[ ] Crase
+[ ] Pontuação
+
+### Questões adicionais
+**1.** Uma charge usa uma imagem irônica para contradizer a frase escrita. O candidato deve analisar: (A) apenas o sentido literal da frase; (B) a relação entre elementos verbais e visuais; (C) somente a pontuação; (D) apenas a biografia do autor; (E) a classe de todos os substantivos.
+**2.** Em “Embora estivesse cansado, concluiu o relatório”, “embora” introduz relação de: (A) causa; (B) concessão; (C) finalidade; (D) conclusão; (E) proporção.
+**Gabarito:** 1-B; 2-B.
