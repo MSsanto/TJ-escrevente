@@ -64,7 +64,7 @@ Nova matriz: [MATRIZ_COBERTURA_ANEXO_VIII_2026-10-28.csv](MATRIZ_COBERTURA_ANEXO
 
 Foi criada a compilação única [TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.md](../livros/v3/TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.md), organizada em Conhecimentos Gerais e Conhecimentos Jurídicos, por matéria e capítulos. Ela reúne 12 cadernos/livros e preserva exercícios, gabaritos e avisos editoriais. A compilação é um índice de conveniência; não resolve lacunas de cobertura nem substitui a validação humana.
 
-O PDF consolidado foi gerado com sucesso e commitado em `livros/v3/TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.pdf` (**273 páginas; 480.103 bytes**; workflow de build concluído com sucesso). A versão editável está em `livros/v3/TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.md`. A geração confirma a existência dos artefatos, não a homologação jurídica ou a cobertura integral do edital.
+O PDF consolidado foi gerado com sucesso e commitado em `livros/v3/TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.pdf` (**273 páginas; 480.421 bytes**; workflow de build concluído com sucesso). A versão editável está em `livros/v3/TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.md`. A geração confirma a existência dos artefatos, não a homologação jurídica ou a cobertura integral do edital.
 
 
 ## Comparação editorial com a referência de 237 páginas — 28/10/2026
