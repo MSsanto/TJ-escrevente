@@ -29,6 +29,9 @@ Este volume reúne os livros-texto e cadernos existentes na biblioteca do projet
 - [Estatuto da Pessoa com Deficiência (LBI)](#estatuto-da-pessoa-com-deficiencia-lbi)
 - [Redação](#redacao)
 
+
+\newpage
+
 ### PARTE II — CONHECIMENTOS JURÍDICOS
 
 - [Direito Constitucional](#direito-constitucional)
@@ -55,6 +58,9 @@ Este volume reúne os livros-texto e cadernos existentes na biblioteca do projet
 ### Como estudar
 Leia a regra, explique-a sem consultar o texto, resolva exercícios e anote o motivo de cada erro. Em interpretação, a resposta precisa de evidência textual — não apenas de conhecimento de mundo.
 
+
+\newpage
+
 ### 1. Compreensão e interpretação
 Compreender é recuperar informação expressa; interpretar é estabelecer relações autorizadas pelo texto. Uma inferência válida precisa de evidência. Não confunda a opinião do autor com a fala de uma personagem, de uma fonte citada ou de um grupo criticado.
 
@@ -63,6 +69,9 @@ Compreender é recuperar informação expressa; interpretar é estabelecer rela�
 **Armadilhas:** “sempre”, “nunca”, “somente”, “todos” e “necessariamente” podem transformar uma afirmação plausível em falsa.
 
 Exemplo: “A digitalização reduziu o tempo médio de protocolo, mas parte dos usuários ainda precisa de atendimento presencial.” Pode-se concluir que o tempo médio caiu e que persiste a necessidade de atendimento presencial. Não se pode concluir que o canal presencial foi extinto nem que todos preferem o digital.
+
+
+\newpage
 
 ### 2. Tipologia e gênero textual
 - **Narração:** organiza acontecimentos.
@@ -73,10 +82,16 @@ Exemplo: “A digitalização reduziu o tempo médio de protocolo, mas parte dos
 
 Um texto pode combinar tipos; classifique pela função predominante. Gênero é a forma social de uso (notícia, relatório, requerimento); tipologia é o modo de organização.
 
+
+\newpage
+
 ### 3. Coesão e referenciação
 A coesão conecta partes do texto por pronomes, substituições lexicais, elipses e conectivos. Em “A equipe recebeu os documentos e os encaminhou ao setor”, “os” retoma “os documentos”. Em “O tribunal publicou a orientação. A medida…”, o antecedente depende do contexto.
 
 Quando houver mais de um antecedente possível, use concordância, sentido e sequência argumentativa. Não escolha apenas pela proximidade.
+
+
+\newpage
 
 ### 4. Conectivos e relações
 | Relação | Exemplos | Cuidado |
@@ -91,6 +106,9 @@ Quando houver mais de um antecedente possível, use concordância, sentido e seq
 | Proporção | à medida que, quanto mais… mais | Indica variação correlacionada |
 
 Trocar conectivos exige preservar a relação lógica. “O sistema falhou; portanto, o atendimento foi suspenso” não equivale a “o sistema falhou, embora o atendimento tenha sido suspenso”.
+
+
+\newpage
 
 ### 5. Sintaxe
 - **Sujeito:** termo sobre o qual se declara algo.
@@ -107,6 +125,9 @@ Em “A servidora encaminhou o processo ao setor competente ontem”, “a servi
 
 Orações coordenadas têm independência sintática relativa; subordinadas exercem função em relação a outra oração. Identifique a relação pelo conectivo e pelo sentido, não apenas pela pontuação.
 
+
+\newpage
+
 ### 6. Concordância
 O verbo concorda, em regra, com o núcleo do sujeito. Adjetivos e determinantes concordam com o substantivo a que se referem.
 
@@ -115,6 +136,9 @@ O verbo concorda, em regra, com o núcleo do sujeito. Adjetivos e determinantes 
 - “A relação de documentos foi publicada”: o núcleo é “relação”, singular.
 - “Existem dúvidas”; o verbo existir concorda com “dúvidas”.
 - “Havia dúvidas”: haver com sentido de existir é impessoal e fica no singular.
+
+
+\newpage
 
 ### 7. Regência e crase
 Regência trata da relação entre termo e complemento. Aprenda o verbo junto da preposição exigida no sentido usado.
@@ -126,6 +150,9 @@ Regência trata da relação entre termo e complemento. Aprenda o verbo junto da
 
 Crase é a fusão da preposição a com artigo feminino a/as ou certos demonstrativos. Teste: se no masculino couber “ao”, pode haver “à” no feminino: “dirigiu-se ao setor” / “dirigiu-se à unidade”. Não há crase antes de verbo ou palavra masculina. Em locuções femininas, costuma ocorrer: “à disposição”, “às vezes”, “à medida que”.
 
+
+\newpage
+
 ### 8. Pontuação
 A vírgula organiza a estrutura; não deve separar sujeito e verbo nem verbo e complemento sem justificativa sintática.
 
@@ -135,13 +162,22 @@ A vírgula organiza a estrutura; não deve separar sujeito e verbo nem verbo e c
 
 Orações adverbiais deslocadas costumam ser isoladas por vírgula. Ponto e vírgula pode separar itens complexos ou orações relacionadas. A pontuação pode alterar o sentido: decida pela estrutura, não apenas pela pausa.
 
+
+\newpage
+
 ### 9. Colocação pronominal e vozes verbais
 Próclise: pronome antes do verbo (“não se admite”); ênclise: depois (“encaminhou-se”); mesóclise aparece em registros formais específicos. Palavras negativas, pronomes relativos e certos advérbios favorecem próclise na norma-padrão.
 
 Voz ativa: “A equipe analisou o pedido.” Voz passiva analítica: “O pedido foi analisado pela equipe.” Preserve tempo verbal, agente quando relevante e sentido ao reescrever.
 
+
+\newpage
+
 ### 10. Semântica e reescrita
 Sinônimos não são intercambiáveis em todos os contextos. Verifique denotação, conotação, intensidade, registro e regência. Reescrita correta preserva conteúdo essencial, relações lógicas, correção gramatical e referência pronominal.
+
+
+\newpage
 
 ### Exercícios autorais
 **1.** “O relatório apontou falhas pontuais, embora o serviço tenha permanecido disponível.” “Embora” expressa: (A) causa (B) concessão (C) conclusão (D) finalidade (E) condição.
@@ -161,12 +197,21 @@ Sinônimos não são intercambiáveis em todos os contextos. Verifique denotaç�
 4. **B** — preposição e artigo feminino nas duas ocorrências.
 5. **B** — não há vírgula entre o sujeito “a lista de documentos” e o verbo.
 
+
+\newpage
+
 ### Plano de revisão
 Interpretação; coesão e conectivos; sintaxe; concordância; regência e crase; pontuação; colocação pronominal; semântica e reescrita. Validar a lista com o edital vigente.
+
+
+\newpage
 
 ### Fontes de trabalho
 Edital vigente e Anexo de Conteúdo Programático; gramática normativa de referência; provas oficiais anteriores da Vunesp com ano, cargo e gabarito identificados.
 
+
+
+\newpage
 
 ### Complemento de cobertura — classes de palavras e sentido
 Este complemento torna explícitos tópicos que não devem ficar implícitos na preparação.
@@ -198,6 +243,9 @@ Texto verbal constrói sentido principalmente por palavras; não verbal usa elem
 **8.** Uma questão apresenta gráfico e legenda. A leitura adequada exige: (A) considerar apenas o título (B) ignorar a escala (C) relacionar título, dados, unidade, escala e legenda (D) supor a intenção do autor sem evidência (E) interpretar a imagem sem o texto.
 
 **Gabarito:** 6. **C** — modifica o verbo “trabalhou”. 7. **B** — sentido figurado de propagação. 8. **C** — todos esses elementos participam da leitura.
+
+
+\newpage
 
 ### Complemento de cobertura do Anexo VIII — revisão 28/10/2026
 
@@ -255,36 +303,60 @@ Estude próclise, ênclise e mesóclise, considerando fatores de atração, iní
 ### Método de resolução
 Leia o que se pede; destaque unidades; traduza em operação, equação, tabela ou diagrama; resolva sem arredondar no meio; confira a ordem de grandeza.
 
+
+\newpage
+
 ### 1. Operações e frações
 Ordem convencional: parênteses, potências/raízes, multiplicação/divisão e adição/subtração. Operações de mesma prioridade seguem da esquerda para a direita.
 
 Para somar frações, use denominador comum: 1/3 + 1/4 = 4/12 + 3/12 = 7/12. Para multiplicar, multiplique numeradores e denominadores; para dividir, multiplique pela fração inversa. Exemplo: 3/5 de 80 = 80 × 3/5 = 48.
+
+
+\newpage
 
 ### 2. Razão, proporção e regra de três
 Razão compara grandezas; proporção estabelece igualdade entre razões. Antes de aplicar regra de três, determine se as grandezas são direta ou inversamente proporcionais.
 
 Se 4 pessoas concluem um serviço em 6 dias, 8 pessoas levariam 3 dias, mantida a produtividade individual e sendo o trabalho divisível. A regra falha quando se presume proporcionalidade que o enunciado não autoriza.
 
+
+\newpage
+
 ### 3. Porcentagem
 x% de N = x/100 × N. Aumentar 20% equivale a multiplicar por 1,20; reduzir 20%, por 0,80. Variação percentual = (valor final − valor inicial) / valor inicial × 100%.
 
 Descontos sucessivos são multiplicativos. R$ 200 com aumento de 10% e depois desconto de 10% resulta em 200×1,10×0,90 = R$ 198, não R$ 200.
+
+
+\newpage
 
 ### 4. Equações e sistemas
 Em 3x − 7 = 11, somar 7 aos dois lados resulta em 3x = 18; dividir por 3 dá x = 6. Confira substituindo na equação original.
 
 Sistema: x+y=10 e x−y=2. Somando, 2x=12; então x=6 e y=4. Escolha substituição ou eliminação conforme a estrutura.
 
+
+\newpage
+
 ### 5. Medidas e velocidade média
 Converta unidades antes de operar: 1 hora = 60 minutos; 1 km = 1.000 m; 1 m² = 10.000 cm². Área e volume exigem conversões elevadas ao quadrado ou cubo. Velocidade média é distância total dividida pelo tempo total, incluindo paradas quando o enunciado as inclui.
+
+
+\newpage
 
 ### 6. Médias e gráficos
 Média aritmética = soma / quantidade. Média ponderada = soma dos produtos entre valor e peso / soma dos pesos. Ao interpretar gráficos, verifique título, fonte, período, unidade, escala e se os dados são absolutos ou percentuais. Pontos percentuais não equivalem a variação percentual.
 
 Exemplo: notas 6 (peso 2) e 8 (peso 3): (6×2+8×3)/(2+3)=36/5=7,2.
 
+
+\newpage
+
 ### 7. Sequências
 Teste diferenças sucessivas, razões, alternância e posição. A regra precisa explicar todos os termos conhecidos. Sequência 2, 5, 8, 11 tem diferença constante +3; o próximo termo é 14.
+
+
+\newpage
 
 ### 8. Lógica proposicional
 Proposição é frase declarativa que pode ser verdadeira ou falsa. “Feche a porta” não é proposição.
@@ -297,6 +369,9 @@ Proposição é frase declarativa que pode ser verdadeira ou falsa. “Feche a p
 
 \(p \to q\) equivale a \(\neg p \lor q\). A contrapositiva \(\neg q \to \neg p\) é equivalente à original; a recíproca \(q \to p\) não é necessariamente equivalente.
 
+
+\newpage
+
 ### 9. Negação e quantificadores
 Negar “todos os servidores compareceram” é “pelo menos um servidor não compareceu”, não “nenhum servidor compareceu”. Negar “existe um pedido pendente” é “não existe pedido pendente”.
 
@@ -305,10 +380,16 @@ Negar “todos os servidores compareceram” é “pelo menos um servidor não c
 
 Leis de De Morgan: \(\neg(p\land q)=\neg p\lor\neg q\); \(\neg(p\lor q)=\neg p\land\neg q\).
 
+
+\newpage
+
 ### 10. Conjuntos, contagem e probabilidade
 União reúne elementos de A ou B; interseção reúne os que pertencem a ambos; diferença A\B reúne elementos de A que não estão em B. Diagramas de Venn ajudam a contar sem duplicidade.
 
 Se uma etapa tem m possibilidades e outra independente tem n, existem m×n pares. Probabilidade = casos favoráveis / casos possíveis quando resultados elementares são equiprováveis; confirme a condição antes de aplicar a fórmula.
+
+
+\newpage
 
 ### Exercícios autorais
 **1.** Um produto de R$ 250 recebe desconto de 12%. O preço final é: (A) 200 (B) 210 (C) 220 (D) 225 (E) 238.
@@ -328,12 +409,21 @@ Se uma etapa tem m possibilidades e outra independente tem n, existem m×n pares
 4. **B** — implicação só é falsa com antecedente verdadeiro e consequente falso.
 5. **D** — (5×2+8×3)/5 = 34/5 = 6,8.
 
+
+\newpage
+
 ### Plano de revisão
 Operações e frações; razão e regra de três; porcentagem; equações; medidas; médias e gráficos; sequências; proposições e negações; conjuntos, contagem e probabilidade, se confirmados no edital.
+
+
+\newpage
 
 ### Fontes de trabalho
 Anexo de Conteúdo Programático do edital vigente; questões oficiais anteriores da Vunesp, identificadas por ano e cargo.
 
+
+
+\newpage
 
 ### Complemento de estudo — tópicos adicionais para conferir no edital
 Os tópicos abaixo ampliam a base. A inclusão neste livro não confirma, sozinha, que cada item esteja no programa oficial de 2026; a matriz final deve seguir o Anexo VIII.
@@ -365,6 +455,9 @@ Avalie se a conclusão decorre das premissas. “Todos os A são B; x é A; logo
 **12.** “Todos os A são B. Joana é B. Logo, Joana é A.” O argumento é: (A) necessariamente válido (B) inválido, pois B pode incluir quem não é A (C) tautologia (D) contradição em qualquer caso (E) equivalente a uma identidade.
 
 **Gabarito comentado:** 9. **D** — 36 é o menor múltiplo comum. 10. **C** — 1.000×0,02×3=60. 11. **B** — (x−2)(x−3)=0. 12. **B** — a premissa não afirma que todo B seja A.
+
+
+\newpage
 
 ### Complemento obrigatório — cobertura integral dos tópicos de Matemática e Raciocínio Lógico
 
@@ -421,21 +514,36 @@ Fazer bateria separada para cada um dos 13 tópicos de Matemática e cada tipo d
 ### Hardware e software
 Hardware é a parte física; software são programas e instruções. CPU executa instruções; RAM mantém dados temporários; SSD/HD conserva dados. Sistema operacional administra arquivos, processos, dispositivos e permissões. Aplicativos executam tarefas do usuário. RAM não equivale a armazenamento permanente.
 
+
+\newpage
+
 ### Arquivos e Windows
 Arquivo possui nome, conteúdo e, muitas vezes, extensão indicativa de formato; extensão não garante segurança. Pastas organizam arquivos. Caminho absoluto parte da raiz/unidade; relativo depende do diretório de referência. Um atalho normalmente aponta para um recurso, sem necessariamente duplicar seu conteúdo.
 
 Atalhos comuns: Ctrl+C copiar; Ctrl+X recortar; Ctrl+V colar; Ctrl+Z desfazer em aplicativos compatíveis; Alt+Tab alternar janelas; Win+E abrir Explorador de Arquivos; Win+L bloquear sessão; Ctrl+Shift+Esc abrir Gerenciador de Tarefas. A Lixeira não garante recuperação em todos os casos.
 
+
+\newpage
+
 ### Word e documentos
 Formatação direta aplica atributos a um trecho; estilos são conjuntos reutilizáveis e ajudam na consistência e no sumário automático. Quebra de página e quebra de seção têm funções distintas. Comentários e controle de alterações apoiam revisão, mas correção ortográfica não garante correção factual. PDF tende a preservar layout; edição e acessibilidade dependem da ferramenta.
 
+
+\newpage
+
 ### Excel e planilhas
 Fórmulas começam normalmente com sinal de igual. Referência relativa A1 muda ao copiar; absoluta $A$1 fixa linha e coluna; mista $A1 ou A$1 fixa uma dimensão. Funções comuns, conforme versão e idioma: SOMA, MÉDIA, MÍNIMO, MÁXIMO, SE, CONT.SE e SOMASE. Filtros ocultam temporariamente linhas; não necessariamente apagam registros. Tabela dinâmica resume dados. Confira idioma, separadores e versão do aplicativo indicada no edital.
+
+
+\newpage
 
 ### Internet e e-mail
 Internet é infraestrutura de redes; Web é serviço que funciona sobre ela. Navegador acessa páginas; mecanismo de busca indexa conteúdo; URL identifica recurso. HTTPS protege a comunicação, mas não garante que o site seja honesto. Em e-mail, Para, Cc e Cco têm funções diferentes; Cco oculta esses destinatários dos demais destinatários comuns.
 
 Phishing tenta induzir a vítima a revelar credenciais, abrir arquivos ou pagar. Confira domínio real, contexto e pedidos incomuns; não confie apenas no nome exibido ou no logotipo. Anexos podem conter malware.
+
+
+\newpage
 
 ### Segurança da informação
 - **Confidencialidade:** acesso apenas por pessoas autorizadas.
@@ -446,10 +554,16 @@ Phishing tenta induzir a vítima a revelar credenciais, abrir arquivos ou pagar.
 
 Use senhas longas e únicas, autenticação multifator, atualizações e privilégio mínimo. Backups devem ser independentes e testados. Sincronização não substitui backup: ela pode replicar exclusões. Firewall filtra tráfego segundo regras, mas não elimina todos os riscos.
 
+
+\newpage
+
 ### Redes, nuvem e dados pessoais
 LAN conecta dispositivos em área limitada; WAN cobre áreas maiores. Roteador encaminha pacotes entre redes; switch conecta dispositivos em rede local; ponto de acesso oferece Wi-Fi. Wi-Fi não é sinônimo de internet. Armazenamento em nuvem usa infraestrutura remota; compartilhe dados com permissões mínimas.
 
 Dados pessoais relacionam-se a pessoa natural identificada ou identificável. Dados sensíveis são categoria legal específica. Acesse apenas o necessário e use canais autorizados. Estude a LGPD somente nos recortes previstos no edital.
+
+
+\newpage
 
 ### Exercícios autorais
 1. Qual afirmação é correta? (A) RAM é armazenamento permanente. (B) HTTPS garante que toda página é legítima. (C) Um atalho normalmente referencia um recurso. (D) Sincronização equivale a backup isolado. (E) Firewall elimina todo risco.
@@ -461,11 +575,20 @@ Dados pessoais relacionam-se a pessoa natural identificada ou identificável. Da
 #### Gabarito comentado
 1. **C** — atalho normalmente aponta para recurso. 2. **B** — integridade protege contra alteração indevida. 3. **B** — Cco oculta destinatários. 4. **D** — o cifrão fixa linha e coluna. 5. **D** — validação independente reduz o risco.
 
+
+\newpage
+
 ### Checklist de revisão
 Hardware/software; Windows e arquivos; Word; Excel; internet e e-mail; segurança; redes, nuvem e proteção de dados. Validar tópicos e versões com o edital.
 
+
+\newpage
+
 ### Fontes
 Edital vigente; documentação oficial Microsoft; CERT.br; texto oficial da LGPD nos recortes previstos no edital.
+
+
+\newpage
 
 ### Complemento — apresentação, comunicação e colaboração
 Os aplicativos e versões exigidos precisam ser confirmados no Anexo VIII do edital. Os conceitos abaixo são uma base de estudo, não uma afirmação de que cada aplicativo está nominalmente previsto.
@@ -491,6 +614,9 @@ Regra prática: mantenha cópias em locais independentes, limite acesso e teste 
 **8.** Um link de arquivo deve ser compartilhado preferencialmente com: (A) acesso público por padrão (B) todas as pessoas da internet (C) as pessoas necessárias, com permissão mínima suficiente (D) edição para todos (E) credenciais enviadas no mesmo e-mail.
 
 **Gabarito comentado:** 6. **A** — transições conectam slides. 7. **C** — a navegação privada não garante anonimato externo. 8. **C** — aplique o princípio do menor privilégio.
+
+
+\newpage
 
 ### Complemento obrigatório — lista operacional do Anexo VIII
 
@@ -553,6 +679,9 @@ Para cada acontecimento, registrar:
 
 Não misture anúncio com implementação, promessa com resultado, investigação com condenação, projeção com dado observado ou calendário com resultado eleitoral.
 
+
+\newpage
+
 ### 2. Eixos de acompanhamento
 A inclusão definitiva deve respeitar o período temporal e os temas do edital. Estes eixos organizam a busca, mas não confirmam por si sós que cada assunto será cobrado.
 
@@ -571,6 +700,9 @@ Eventos culturais, políticas educacionais e grandes competições. Verifique no
 #### Brasil e cenário internacional
 Conflitos, acordos, organismos multilaterais, migrações, comércio, crises humanitárias e cooperação. Evite reduzir acontecimentos complexos a uma causa única.
 
+
+\newpage
+
 ### 3. Hierarquia de fontes
 1. Documento, comunicado, base de dados ou legislação do órgão responsável.
 2. Organismos multilaterais e instituições científicas reconhecidas.
@@ -578,6 +710,9 @@ Conflitos, acordos, organismos multilaterais, migrações, comércio, crises hum
 4. Redes sociais como pista de busca, nunca como confirmação isolada.
 
 Fontes iniciais: IBGE, Banco Central, TSE, Planalto, ministérios e órgãos reguladores; ONU/UNFCCC; organismos esportivos oficiais e agências científicas. Para acontecimentos controversos, procure confirmação independente.
+
+
+\newpage
 
 ### 4. Rotina até a prova
 - **Semanal:** selecionar de 3 a 5 acontecimentos relevantes e revisar fichas anteriores.
@@ -587,10 +722,16 @@ Fontes iniciais: IBGE, Banco Central, TSE, Planalto, ministérios e órgãos reg
 
 Toda atualização precisa de data de revisão e link. Se uma informação for corrigida, registre o que mudou, quando e por quê.
 
+
+\newpage
+
 ### 5. Pontos já registrados no arquivo interno
 O arquivo de origem de 26/10/2026 lista eleições gerais brasileiras de 2026, Copa do Mundo FIFA 2026, Jogos Olímpicos e Paralímpicos de Inverno Milão–Cortina e COP31. O próprio arquivo declara cobertura parcial. Verifique fontes, resultados e status novamente antes de transformar esses itens em questões. Na edição anterior, COP31 aparecia como evento futuro de 9 a 20/11/2026 em Antália; depois do evento, atualize com decisões e documentos oficiais, sem presumir resultados.
 
 Estes itens são pontos de partida internos, não uma revisão independente nesta versão.
+
+
+\newpage
 
 ### 6. Exercício de leitura crítica
 Uma autoridade anuncia que uma política “deverá reduzir custos em 15%”. Um mês depois, relatório preliminar informa redução observada de 4% em um grupo-piloto.
@@ -602,12 +743,21 @@ Uma autoridade anuncia que uma política “deverá reduzir custos em 15%”. Um
 
 **Resposta orientadora:** 15% é previsão; 4% é observação preliminar no grupo-piloto; não se prova impacto nacional de 15%; faltam período, amostra, método, linha de base, incerteza e condições de implementação.
 
+
+\newpage
+
 ### 7. Critério de qualidade
 Uma notícia só entra no caderno definitivo quando tem data, fonte verificável, resumo factual, contexto mínimo e distinção explícita entre fato confirmado e interpretação. O caderno só pode ser considerado pronto após revisão da cobertura de todo o período previsto no edital.
+
+
+\newpage
 
 ### Fontes internas
 - conteudo/v3/legislacao/ATUALIDADES_2026.md — fotografia parcial de 26/10/2026.
 - conteudo/v3/legislacao/FONTES_OFICIAIS.md — catálogo de fontes do projeto.
+
+
+\newpage
 
 ### Boletim factual de referência — corte em 28/10/2026
 
@@ -650,6 +800,9 @@ A LBI promove igualdade, exercício de direitos, inclusão social e cidadania. A
 
 O art. 3º reúne definições importantes, como acessibilidade, desenho universal, tecnologia assistiva, barreiras, comunicação, adaptações razoáveis, pessoa com mobilidade reduzida e profissionais de apoio. Aprenda a distinguir barreira arquitetônica, urbanística, nos transportes, na comunicação/informação, atitudinal e tecnológica.
 
+
+\newpage
+
 ### 2. Arts. 4º–8º — igualdade, capacidade e proteção
 
 - Igualdade de oportunidades e proibição de discriminação.
@@ -659,9 +812,15 @@ O art. 3º reúne definições importantes, como acessibilidade, desenho univers
 
 **Armadilha:** não presumir incapacidade civil pela existência de deficiência; examine o texto vigente e as regras específicas de apoio/curatela quando pertinentes.
 
+
+\newpage
+
 ### 3. Art. 9º — atendimento prioritário
 
 O artigo lista finalidades do atendimento prioritário, incluindo proteção/socorro, atendimento em serviços ao público, recursos de acessibilidade, transporte, informação/comunicação acessível, restituição de imposto de renda e tramitação processual/administrativa nos termos legais. O alcance da extensão ao acompanhante/atendente tem exceções expressas. Não generalize a extensão sem ler os parágrafos.
+
+
+\newpage
 
 ### 4. Arts. 10º–13 — vida, autonomia e consentimento
 
@@ -675,11 +834,17 @@ Estude:
 
 Diferencie consentimento, capacidade civil, curatela e exceção emergencial.
 
+
+\newpage
+
 ### 5. Arts. 34º–38 — trabalho e inclusão profissional
 
 Leia os dispositivos completos sobre direito ao trabalho em ambiente acessível e inclusivo, igualdade de oportunidades, condições justas e favoráveis, acesso e permanência no trabalho, inclusão e habilitação/reabilitação profissional, além dos deveres atribuídos aos agentes previstos na lei.
 
 Compare os papéis de Estado, empregador e serviços de habilitação/reabilitação. Não reduza o capítulo a “cota de vagas”: o recorte trata de acesso, permanência, acessibilidade, igualdade e condições de trabalho.
+
+
+\newpage
 
 ### 6. Questões autorais
 
@@ -717,11 +882,17 @@ E) apenas direito penal.
 
 **Gabarito:** 1-B; 2-B; 3-A; 4-B.
 
+
+\newpage
+
 ### 7. Pendências humanas
 
 - Conferir artigo e parágrafo por parágrafo, inclusive alterações recentes.
 - Revisar os conceitos de avaliação biopsicossocial, consentimento e trabalho inclusivo com fonte oficial.
 - Validar questões e comentários com revisão jurídica independente.
+
+
+\newpage
 
 ### Complemento — art. 2-A e deficiência não aparente
 
@@ -748,6 +919,9 @@ A) é obrigatório para toda pessoa com deficiência; B) é facultativo e não s
 ### 1. Entenda a tarefa
 Antes de escrever, identifique gênero solicitado, tema, recorte, extensão, formato, critérios e proibições de identificação. Texto dissertativo-argumentativo normalmente exige tese clara e argumentos organizados; não basta listar opiniões.
 
+
+\newpage
+
 ### 2. Planejamento em cinco minutos
 1. Reescreva o tema como pergunta-problema.
 2. Formule uma resposta em uma frase: a tese provisória.
@@ -756,6 +930,9 @@ Antes de escrever, identifique gênero solicitado, tema, recorte, extensão, for
 5. Planeje conclusão que retome a tese sem abrir assunto novo.
 
 Modelos ajudam na estrutura, mas conteúdo genérico não responde ao tema.
+
+
+\newpage
 
 ### 3. Estrutura funcional
 **Introdução:** apresente o problema e declare o ponto de vista. Evite aberturas vagas sem relação com a tese.
@@ -766,8 +943,14 @@ Modelos ajudam na estrutura, mas conteúdo genérico não responde ao tema.
 
 **Conclusão:** retome a tese e sintetize o raciocínio. Propostas de intervenção só devem aparecer se forem pertinentes ao comando e compatíveis com critérios oficiais.
 
+
+\newpage
+
 ### 4. Coerência, coesão e linguagem
 Cada parágrafo deve ter função reconhecível. Use conectivos conforme a relação lógica. Evite contradição entre tese, argumentos e conclusão. Prefira precisão a palavras rebuscadas. Revise concordância, regência, crase, pontuação e repetição lexical. Não invente estatísticas, leis, pesquisas ou citações.
+
+
+\newpage
 
 ### 5. Rubrica de autoavaliação
 Atribua 0, 1 ou 2 pontos por critério (máximo interno: 12; não equivale à nota oficial):
@@ -780,15 +963,24 @@ Atribua 0, 1 ou 2 pontos por critério (máximo interno: 12; não equivale à no
 
 **0:** ausente ou inadequado; **1:** parcial ou inconsistente; **2:** claro e consistente. Registre evidência concreta para cada nota. Se o edital tiver critérios ou pesos diferentes, substitua esta rubrica pela oficial.
 
+
+\newpage
+
 ### 6. Revisão em três passagens
 - **Conteúdo:** respondi ao tema? A tese está explícita? Cada argumento tem explicação e consequência?
 - **Estrutura:** cada parágrafo tem função? Há salto lógico? Os conectivos expressam a relação pretendida?
 - **Língua:** concordância, regência, crase, pontuação, ortografia, acentuação, repetição e legibilidade.
 
+
+\newpage
+
 ### 7. Proposta autoral
 **Tema:** Como conciliar a ampliação dos serviços públicos digitais com o acesso de pessoas que enfrentam barreiras tecnológicas?
 
 Planeje: quais barreiras limitam o acesso? Quais benefícios a digitalização oferece? Que medidas de transição e atendimento alternativo tornam o serviço mais inclusivo? Como sustentar a tese sem tratar todos os usuários como se tivessem a mesma realidade?
+
+
+\newpage
 
 ### 8. Folha de reescrita
 - Problema identificado:
@@ -800,6 +992,9 @@ Planeje: quais barreiras limitam o acesso? Quais benefícios a digitalização o
 
 Reescreva o texto inteiro quando os problemas forem de organização; corrigir frases isoladas não resolve uma tese incoerente.
 
+
+\newpage
+
 ### 9. Fontes internas e controle
 - conteudo/v3/redacao/OFICINA_10_PROPOSTAS.md
 - conteudo/v3/redacao/MODELOS_ANTERIORES_REVISAR.md
@@ -808,9 +1003,15 @@ Reescreva o texto inteiro quando os problemas forem de organização; corrigir f
 **Status:** guia inicial criado; propostas e modelos existentes precisam de revisão individual contra o edital e de uma rotina de correção e reescrita.
 
 
+
+\newpage
+
 ### Complemento integrado — REDACAO RUBRICA EDITAL
 
 **Fonte:** Edital nº 02/2026, capítulos X–XI, pp. 27 e 36–38. A redação é dissertativo-argumentativa em prosa, coerente, coesa e na norma-padrão, com base na leitura de textos auxiliares. Nota de 0 a 40; mínimo de 24 pontos para a lista geral e 19,2 para listas reservadas indicadas no edital. Caráter eliminatório, sem soma à nota objetiva.
+
+
+\newpage
 
 ### Critérios do edital
 1. **Tema:** atendimento ao tema. Fuga completa zera a prova.
@@ -818,8 +1019,14 @@ Reescreva o texto inteiro quando os problemas forem de organização; corrigir f
 3. **Língua e registro:** norma-padrão, concordância, regência, ortografia, acentuação, pontuação, precisão vocabular e formalidade.
 4. **Coesão:** anáforas, catáforas, substituições, conjunções e conexões entre frases/parágrafos. Evitar monobloco, rupturas, conectivos inadequados e repetição excessiva.
 
+
+\newpage
+
 ### Riscos expressos de nota zero
 Fuga ao tema/gênero; identificação do candidato; texto em branco ou não articulado verbalmente; idioma diferente do português; letra ilegível; texto fora do espaço definitivo; sete linhas ou menos (título não conta); menos de oito linhas autorais contínuas ou predominância de cópia; redações idênticas/muito semelhantes; anulação deliberada; escrita a lápis ou em cor diversa da permitida. Trechos rasurados, ilegíveis, fora do espaço ou em idioma diferente podem ser considerados não escritos, nos termos do edital.
+
+
+\newpage
 
 ### Protocolo de produção
 1. Transformar o tema em uma pergunta central.
@@ -827,6 +1034,9 @@ Fuga ao tema/gênero; identificação do candidato; texto em branco ou não arti
 3. Planejar dois argumentos diferentes, cada um com explicação e exemplo pertinente.
 4. Concluir a partir do raciocínio desenvolvido, sem inserir tema novo.
 5. Revisar tema, gênero, estrutura, coesão, gramática, autoria, legibilidade e número de linhas.
+
+
+\newpage
 
 ### Limite
 Correção automatizada ajuda a detectar problemas de linguagem, mas não substitui avaliador humano para nota de tema, coerência, repertório e argumentação. Cada redação de treino deve receber feedback por critério e ser reescrita.
@@ -854,6 +1064,9 @@ Constituição Federal: Título II, capítulos I, II e III; Título III, capítu
 
 Isso corresponde, em termos gerais, a direitos e deveres individuais e coletivos, direitos sociais, nacionalidade, Administração Pública e servidores públicos, além dos órgãos do Poder Judiciário previstos no art. 92. Confira o texto consolidado e as emendas constitucionais relevantes até a data do edital.
 
+
+\newpage
+
 ### 2. Direitos e deveres individuais e coletivos — art. 5º
 
 Estude a estrutura do artigo por grupos:
@@ -868,9 +1081,15 @@ Estude a estrutura do artigo por grupos:
 
 **Método:** para cada inciso, escreva regra, exceção expressa, titular, destinatário e remédio/efeito previsto. Não transforme uma regra constitucional em absoluta quando o próprio texto estabelece ressalvas.
 
+
+\newpage
+
 ### 3. Direitos sociais — art. 6º e capítulo II
 
 Identifique os direitos sociais expressamente previstos e acompanhe a redação constitucional vigente. Diferencie o rol constitucional de direitos de políticas públicas concretas e de direitos individuais do art. 5º. Questões podem trocar a localização de um direito ou atribuir-lhe uma formulação que não está no texto.
+
+
+\newpage
 
 ### 4. Nacionalidade — arts. 12 e 13
 
@@ -883,6 +1102,9 @@ Organize o estudo por:
 
 Não use resumos anteriores a emendas constitucionais sem confirmar a redação atual. O regime de nacionalidade foi alterado por emenda recente e é área de risco para material desatualizado.
 
+
+\newpage
+
 ### 5. Administração Pública — arts. 37–41
 
 #### Princípios e regras gerais
@@ -891,9 +1113,15 @@ O caput do art. 37 apresenta os princípios da legalidade, impessoalidade, moral
 #### Servidores públicos
 Leia os arts. 39–41 na redação atual, incluindo regime jurídico, remuneração, direitos, estabilidade, avaliação e perda do cargo conforme as condições constitucionais. Diferencie estabilidade de efetividade e não confunda regras constitucionais gerais com o Estatuto paulista.
 
+
+\newpage
+
 ### 6. Poder Judiciário — art. 92
 
 Conheça os órgãos do Poder Judiciário listados no artigo e as distinções entre Justiça comum, Justiça especializada, tribunais superiores e órgãos locais. Não presuma que todos os órgãos do sistema de Justiça são órgãos do Poder Judiciário: Ministério Público, Defensoria e advocacia possuem posições constitucionais próprias.
+
+
+\newpage
 
 ### 7. Questões autorais
 
@@ -923,6 +1151,9 @@ E) art. 6º exclusivamente.
 
 **Gabarito:** 1-A; 2-B; 3-A.
 
+
+\newpage
+
 ### 8. Pendências humanas
 
 - Conferir a redação vigente de todos os dispositivos e emendas até 19/10/2026.
@@ -948,6 +1179,9 @@ E) art. 6º exclusivamente.
 
 **Não presumir que o Estatuto inteiro esteja no programa:** o edital especifica intervalos. Leia os artigos indicados e as remissões necessárias; evite expandir para todo o diploma sem motivo.
 
+
+\newpage
+
 ### 2. Estatuto paulista — arts. 1º–86
 
 Esse bloco deve ser estudado pela sequência sistemática da lei. Para cada capítulo dentro do intervalo, registre:
@@ -959,9 +1193,15 @@ Esse bloco deve ser estudado pela sequência sistemática da lei. Para cada cap�
 
 **Procedimento recomendado:** use o sumário oficial do Estatuto, marque cada artigo do intervalo e construa um quadro “instituto — requisito — prazo — autoridade — consequência”. Não aceite listas de prazos sem conferência do texto vigente.
 
+
+\newpage
+
 ### 3. Arts. 171–175
 
 Trate esse recorte como unidade autônoma. Leia os cinco artigos, seus parágrafos e as remissões. A matriz anterior indexava apenas os números, sem confirmar o conteúdo de cada dispositivo. Antes da homologação, o revisor deverá registrar o título/capítulo exato a que pertencem na versão vigente, e não confiar apenas na descrição genérica de uma apostila.
+
+
+\newpage
 
 ### 4. Deveres, responsabilidades e processo disciplinar — arts. 239–323
 
@@ -974,6 +1214,9 @@ O bloco final do Estatuto exige distinguir:
 - penalidades, aplicação, prescrição e recursos, nos termos do texto vigente.
 
 Faça um fluxograma dos procedimentos disciplinares com o nome exato de cada fase, autoridade responsável, prazo, direito de defesa e decisão. Não trate sindicância e processo administrativo disciplinar como sinônimos.
+
+
+\newpage
 
 ### 5. Lei de Improbidade Administrativa — Lei 8.429/1992
 
@@ -990,6 +1233,9 @@ Estude:
 
 **Armadilhas:** não presumir que mera ilegalidade administrativa seja automaticamente improbidade; não usar automaticamente a redação anterior a 2021; não tratar todas as categorias de ato como se tivessem os mesmos requisitos e sanções.
 
+
+\newpage
+
 ### 6. Comparações fundamentais
 
 | Conceito | Pergunta de controle |
@@ -999,6 +1245,9 @@ Estude:
 | Sindicância × processo disciplinar | Qual procedimento legal se aplica, com quais garantias? |
 | Ilícito administrativo × improbidade | Estão presentes os requisitos específicos da Lei 8.429/1992? |
 | Sanção disciplinar × sanção de improbidade | Qual autoridade, processo e norma fundamentam a consequência? |
+
+
+\newpage
 
 ### 7. Questões autorais
 
@@ -1028,12 +1277,18 @@ E) a lei de improbidade não se aplica a agentes públicos.
 
 **Gabarito:** 1-C; 2-B; 3-B.
 
+
+\newpage
+
 ### 8. Pendências humanas
 
 - Conferir o conteúdo exato dos arts. 1º–86, 171–175 e 239–323 na versão consolidada da lei estadual.
 - Atualizar a Lei 8.429/1992 com legislação e jurisprudência vigentes na data do edital.
 - Revisar individualmente prazos, competências, penalidades, prescrição e transições.
 - Homologação por revisor jurídico independente.
+
+
+\newpage
 
 ### Complemento artigo-orientado — Estatuto paulista (consulta à ALESP em 28/10/2026)
 
@@ -1104,6 +1359,9 @@ O edital cobra: arts. 293 a 305; 307; 308; 311-A; 312 a 317; 319 a 333; 336 e 33
 
 **Atenção à atomização:** intervalos numéricos não podem ser tratados como uma sequência de inteiros sem letras. Nos arts. 312 a 317, verificar também os arts. 313-A e 313-B. Não ampliar automaticamente o recorte para 359-A a 359-H: o edital menciona o art. 359, não a série inteira.
 
+
+\newpage
+
 ### 2. Falsidades documentais e de sinais públicos — arts. 293–305
 
 Estude os dispositivos como um sistema de perguntas:
@@ -1126,6 +1384,9 @@ Estude os dispositivos como um sistema de perguntas:
 
 Leia cada artigo e seus parágrafos no texto consolidado. Faça uma ficha com: verbo do tipo, objeto material, sujeito ativo, finalidade/dolo, pena, majorantes, figura equiparada e relação com o artigo vizinho. Inclua as hipóteses de aumento ou equiparação apenas se estiverem no texto vigente.
 
+
+\newpage
+
 ### 3. Identidade — arts. 307 e 308
 
 Compare:
@@ -1134,9 +1395,15 @@ Compare:
 
 Não confunda identidade falsa verbal, documento falsificado e uso de documento verdadeiro pertencente a outra pessoa. Em questão objetiva, o verbo da conduta e o objeto usado costumam decidir a resposta.
 
+
+\newpage
+
 ### 4. Fraude em certame — art. 311-A
 
 Organize o estudo por: tipo de certame protegido, conteúdo sigiloso, conduta de utilizar/divulgar/facilitar divulgação, finalidade prevista no tipo, modalidades equiparadas e causas de aumento. Não substitua os requisitos legais pela expressão genérica “cola em prova”: a tipificação exige confronto com o texto legal.
+
+
+\newpage
 
 ### 5. Crimes funcionais e administração pública — arts. 312–317 e 319–333
 
@@ -1170,9 +1437,15 @@ Estude em blocos, sem reduzir todos os delitos à ideia genérica de “corrupç
 
 **Nota de precisão:** os arts. 322 e outros dispositivos desse intervalo exigem conferência de vigência e redação no texto consolidado. Não memorize resumos antigos de apostilas sem verificar se o dispositivo foi revogado, alterado ou recebeu interpretação relevante.
 
+
+\newpage
+
 ### 6. Arts. 336 e 337
 
 Leia a redação atual dos dois tipos separadamente. Registre objeto, verbo, circunstâncias, dolo e pena. Não confunda a menção expressa aos arts. 336 e 337 com a inclusão automática de todos os artigos próximos ou de todos os crimes de licitação do Código Penal.
+
+
+\newpage
 
 ### 7. Crimes contra a administração da Justiça — arts. 339–347, 357 e 359
 
@@ -1187,6 +1460,9 @@ O eixo é proteger a atividade de investigação, processo e execução da Justi
 
 **Não confunda:** art. 357 e art. 359 com a sequência de crimes contra as finanças públicas dos arts. 359-A e seguintes. O recorte do edital precisa ser respeitado.
 
+
+\newpage
+
 ### 8. Método de domínio por artigo
 
 Para cada artigo do programa:
@@ -1197,6 +1473,9 @@ Para cada artigo do programa:
 5. crie um caso em que o crime ocorre e outro em que falta um requisito;
 6. resolva duas questões novas e justifique por que cada distrator está errado;
 7. reteste em 24 horas e sete dias.
+
+
+\newpage
 
 ### 9. Questões autorais de diagnóstico
 
@@ -1239,12 +1518,18 @@ E) prevaricação e abandono de função.
 3. **B.** A autenticidade formal e a veracidade do conteúdo são eixos distintos.  
 4. **A.** O estudo deve distinguir comunicar falsamente um crime e provocar investigação contra pessoa determinada, sem presumir identidade entre os tipos.
 
+
+\newpage
+
 ### 10. Pendências para homologação humana
 
 - Cotejar todos os artigos, parágrafos, figuras equiparadas, penas e alterações com a versão consolidada em 19/10/2026.
 - Confirmar todos os dispositivos com sufixos dentro dos intervalos, revogações e efeitos de leis recentes.
 - Revisão jurídica independente de cada explicação e questão.
 - Calibrar os itens com provas Vunesp identificadas por ano/cargo.
+
+
+\newpage
 
 ### Quadro artigo a artigo — identificação inicial do tipo
 
@@ -1315,6 +1600,9 @@ CPC arts. 144–155; 188–275; 294–311; 318–538; 994–1026. Lei 9.099/1995
 
 **Ponto de atualização:** o CPC recebeu alterações legislativas em 2026. A edição final deve usar a redação vigente em 19/10/2026, data de publicação do edital, e destacar separadamente mudanças posteriores. O art. 998, dentro do recorte, precisa ser conferido na versão atualizada. Não presumir que uma apostila de 2024/2025 continua integralmente atual.
 
+
+\newpage
+
 ### 2. Impedimento, suspeição e auxiliares — arts. 144–155
 
 - **Impedimento:** hipóteses objetivas listadas pelo código.
@@ -1322,6 +1610,9 @@ CPC arts. 144–155; 188–275; 294–311; 318–538; 994–1026. Lei 9.099/1995
 - **Auxiliares da Justiça:** função, deveres, responsabilidade e regime de impedimento/suspeição conforme cada dispositivo.
 
 Monte uma tabela com hipótese, sujeito alcançado, forma de arguição, prazo/momento, processamento e consequência. Não misture impedimento e suspeição nem presuma que toda relação pessoal gera automaticamente afastamento: compare com os incisos do CPC.
+
+
+\newpage
 
 ### 3. Atos processuais, prazos e comunicações — arts. 188–275
 
@@ -1340,6 +1631,9 @@ Não basta encontrar um defeito formal para concluir que todos os atos seguintes
 #### Distribuição e valor da causa
 O intervalo também alcança distribuição, registro e valor da causa. Confira quando há distribuição por dependência, critérios de fixação do valor e consequências processuais. Não reduza 188–275 a “prazos e citações”: o intervalo é amplo e deve ser lido integralmente.
 
+
+\newpage
+
 ### 4. Tutela provisória — arts. 294–311
 
 #### Tutela de urgência
@@ -1353,6 +1647,9 @@ Não depende do mesmo requisito de perigo da tutela de urgência; depende das hi
 - Urgência e evidência têm fundamentos diferentes.
 - A tutela pode ser modificada ou revogada nos termos legais.
 - A existência de risco não dispensa os demais requisitos da modalidade escolhida.
+
+
+\newpage
 
 ### 5. Procedimento comum e conhecimento — arts. 318–512
 
@@ -1368,6 +1665,9 @@ Diferencie sentença, decisão interlocutória e despacho; mérito e extinção 
 #### Procedimentos especiais e disposições dentro do intervalo
 O intervalo 318–538 é extenso. Não se limite à petição inicial e à contestação: percorra os capítulos até o art. 538, marcando os procedimentos e atos que o próprio código inclui. Use o sumário oficial para montar uma lista de conferência por capítulo.
 
+
+\newpage
+
 ### 6. Cumprimento de sentença — arts. 513–538
 
 Estude o início e o regime do cumprimento, intimação do devedor, cumprimento para pagamento de quantia, impugnação e cumprimento de obrigação de fazer/não fazer/entregar, conforme os artigos efetivamente incluídos. Diferencie:
@@ -1377,6 +1677,9 @@ Estude o início e o regime do cumprimento, intimação do devedor, cumprimento 
 - prazo para pagamento e prazo para impugnar.
 
 Confirme os requisitos, prazos, multas, honorários e efeitos diretamente no texto vigente; não memorize valores ou prazos por analogia.
+
+
+\newpage
 
 ### 7. Recursos — arts. 994–1026
 
@@ -1391,13 +1694,22 @@ Faça uma ficha para cada recurso listado no art. 994 e estude os dispositivos s
 
 **Atenção à atualização:** o art. 998 foi alterado por legislação de 2026, segundo a ficha de atualização do CPC. A redação exata vigente na data do edital precisa ser cotejada com a publicação oficial antes da homologação.
 
+
+\newpage
+
 ### 8. Juizados Especiais Cíveis — Lei 9.099/1995, arts. 3º–19
 
 Estude competência, critérios de simplicidade, oralidade, informalidade, economia processual e celeridade; limites de competência; capacidade para ser parte e comparecer; assistência por advogado quando exigida; pedido, registro, citação e audiência. Não misture os Juizados Cíveis estaduais com os Juizados Especiais da Fazenda Pública.
 
+
+\newpage
+
 ### 9. Juizado Especial da Fazenda Pública — Lei 12.153/2009
 
 Leia a lei integral, identificando competência, valor e natureza das causas, partes, exclusões, medidas de urgência, representação judicial, audiência, sentença, recursos e cumprimento. Faça uma tabela comparativa com a Lei 9.099/1995 e o CPC: aplicação subsidiária não significa que todas as regras sejam idênticas.
+
+
+\newpage
 
 ### 10. Questões autorais
 
@@ -1435,12 +1747,18 @@ E) LBI, art. 34.
 
 **Gabarito:** 1-A; 2-A; 3-B; 4-A.
 
+
+\newpage
+
 ### 11. Pendências humanas
 
 - Revisar todos os dispositivos do intervalo e as remissões internas.
 - Conferir a versão do CPC vigente em 19/10/2026 e as alterações de 2026.
 - Validar prazos, requisitos, efeitos recursais e exceções com revisão jurídica independente.
 - Submeter questões a revisão técnica e calibração Vunesp.
+
+
+\newpage
 
 ### Mapa de cobertura por intervalo
 
@@ -1467,8 +1785,14 @@ E) LBI, art. 34.
 
 O quadro serve para navegação e precisa ser cotejado com o sumário oficial e a redação vigente. Em especial, o CPC foi alterado em 2026; a ficha final deve indicar a versão aplicável em 19/10/2026 e destacar alterações posteriores.
 
+
+\newpage
+
 ### Lei 9.099/1995 — arts. 3º–19
 Inclua expressamente o **art. 12-A**, sobre contagem de prazos em dias úteis, pois ele está dentro do intervalo civil do edital e foi omitido na matriz numérica anterior. Compare os arts. 12-A e 13: contagem de prazo e validade/nulidade de atos são temas diferentes.
+
+
+\newpage
 
 ### Questões adicionais
 
@@ -1499,29 +1823,56 @@ CPP arts. 251–258; 261–267; 274; 351–372; 394–497; 531–538; 541–548;
 
 **Correção da matriz:** os intervalos incluem dispositivos com letras. Foram identificados arts. 394-A, 396-A e 400-A dentro do intervalo 394–497. A conferência deve procurar outros sufixos, parágrafos, revogações e alterações até 19/10/2026.
 
+
+\newpage
+
 ### 1. Juiz, Ministério Público, acusado e auxiliares — CPP 251–274
 Estude poderes de direção e regularidade do processo; impedimento e suspeição; funções do Ministério Público; defesa técnica, nomeação e atuação do defensor; auxiliares da Justiça. Diferencie impedimento (hipótese objetiva prevista em lei) e suspeição (circunstância legal que compromete a imparcialidade). Nulidade exige análise da regra aplicável, do prejuízo quando exigido e do momento de arguição.
+
+
+\newpage
 
 ### 2. Citações e intimações — CPP 351–372
 Citação integra o acusado ao processo; intimação comunica ato ou termo processual. Para cada forma, registre destinatário, requisitos, responsável pelo cumprimento, momento de eficácia, termo inicial do prazo e consequência da ausência/irregularidade. Compare pessoal, mandado, precatória, edital e demais formas do texto vigente. Em questões de prazo, identifique o evento inicial antes de contar dias.
 
+
+\newpage
+
 ### 3. Procedimento comum — CPP 394–405
 Estude as espécies ordinária, sumária e sumaríssima; prioridade legal; rejeição de denúncia/queixa; citação e resposta à acusação; absolvição sumária; audiência, ordem da prova, interrogatório, diligências, alegações finais e sentença. O art. 396-A trata do conteúdo da resposta e da providência quando ela não é apresentada; o art. 400-A estabelece salvaguardas para a integridade da vítima e das testemunhas durante a audiência. Confira redação e parágrafos atuais.
+
+
+\newpage
 
 ### 4. Tribunal do Júri — CPP 406–497
 Organize em duas fases: formação da decisão de admissibilidade e preparação/julgamento em plenário. Distinga pronúncia, impronúncia, absolvição sumária e desclassificação. Estude preparação do julgamento, jurados, sessão, quesitação, votação, sentença e recursos. A pronúncia exige os requisitos legais próprios; não equivale a condenação.
 
+
+\newpage
+
 ### 5. Procedimento sumário — CPP 531–538
 Compare audiência, número de testemunhas, alegações finais e sentença com o procedimento ordinário. Siga remissões expressas do CPP; confirme prazos e quantitativos na versão vigente, sem confiar em apostilas antigas.
+
+
+\newpage
 
 ### 6. Restauração de autos — CPP 541–548
 Estude quem pode provocar a restauração, autoridade competente, obtenção de cópias/certidões, participação das partes, produção de prova, decisão e retomada do processo. Faça um fluxograma com responsáveis e documentos.
 
+
+\newpage
+
 ### 7. Recursos e nulidades — CPP 574–667
 Para cada recurso, anote cabimento, legitimidade, prazo, termo inicial, efeito, juízo de interposição, retratação quando prevista, razões/contrarrazões e órgão julgador. Compare apelação, recurso em sentido estrito, embargos e recursos específicos previstos no código. Não presuma que todos os recursos têm o mesmo prazo ou efeito. O intervalo 574–667 é de recursos; os arts. 563–573, que concentram o regime geral de nulidades, não estão expressamente incluídos nesse recorte. Estude-os apenas quando uma remissão ou orientação oficial tornar isso necessário, sem os marcar como tópico literal do intervalo.
 
+
+\newpage
+
 ### 8. Juizados Especiais Criminais — Lei 9.099/1995, arts. 60–83, 88 e 89
 Estude competência, princípios, infração de menor potencial ofensivo, termo circunstanciado, audiência preliminar, composição civil, representação, transação penal, procedimento sumaríssimo, sentença e recursos. Compare composição civil, transação penal e suspensão condicional do processo: são institutos distintos, com requisitos e efeitos próprios.
+
+
+\newpage
 
 ### Questões autorais
 **1.** Qual dispositivo é central para estudar a resposta à acusação no procedimento comum?  
@@ -1532,8 +1883,14 @@ A) é condenação definitiva. B) é decisão de admissibilidade da acusação p
 A) contar da data do fato. B) identificar recurso, regra específica e marco de intimação. C) aplicar sempre o CPC. D) ignorar o sujeito recorrente. E) presumir prazo único.  
 **Gabarito:** 1-A; 2-B; 3-B.
 
+
+\newpage
+
 ### Pendências de homologação
 Conferir artigo por artigo, inclusive sufixos, prazos, quantidades, efeitos, parágrafos, alterações e revogações; revisão jurídica independente; calibrar questões ao padrão Vunesp.
+
+
+\newpage
 
 ### Mapa operacional dos intervalos cobrados
 
@@ -1560,6 +1917,9 @@ Conferir artigo por artigo, inclusive sufixos, prazos, quantidades, efeitos, par
 
 **Cuidado com artigos revogados ou com redação alterada:** o intervalo 574–667 contém dispositivos históricos que podem estar revogados, além de regras de recursos. A ficha de cada artigo deve indicar se está vigente, revogado ou parcialmente alterado. Não estudar somente os números do intervalo.
 
+
+\newpage
+
 ### Lei 9.099/1995 — checklist específico
 - Arts. 60–62: organização, competência e princípios do Juizado Criminal.
 - Arts. 63–68: competência territorial e atos iniciais.
@@ -1583,6 +1943,9 @@ A) apenas o nome do ato; B) destinatário, forma, requisitos, momento de eficác
 **Gabarito:** 5-B; 6-B; 7-B.
 
 
+
+\newpage
+
 ### Complemento integrado — DIREITO PROCESSUAL PENAL CPP 251 258 261 267 274
 
 **TJSP Escrevente · Edital 02/2026 · Livro v3, unidade CPP 251–258, 261–267 e 274 · 26/10/2026**
@@ -1592,6 +1955,9 @@ A) apenas o nome do ato; B) destinatário, forma, requisitos, momento de eficác
 > **Escopo estrito:** este material desenvolve os arts. 251–258, 261–267 e 274 do CPP, expressamente indicados no Anexo VIII (p. 61). **Não cobre ainda todos os demais dispositivos de Processo Penal.** Consultar a norma consolidada antes de aplicar disposições antigas, especialmente arts. 262 e 264.
 
 **Fonte normativa principal:** [Código de Processo Penal consolidado — Presidência da República](https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm). **Fonte do programa:** Edital TJSP 02/2026, Anexo VIII, p. 61. **Data da conferência direcionada:** 26/10/2026. A aula é síntese autoral e não substitui o texto vigente ou a jurisprudência aplicável.
+
+
+\newpage
 
 ### 1. Mapa de relações
 
@@ -1603,6 +1969,9 @@ A) apenas o nome do ato; B) destinatário, forma, requisitos, momento de eficác
 | Serventuários/funcionários | 274 | extensão das regras de suspeição |
 
 **Pergunta organizadora:** quem atua, quando não pode atuar e qual providência assegura a regularidade do processo?
+
+
+\newpage
 
 ### 2. Aulas fundamentadas
 
@@ -1691,6 +2060,9 @@ As regras sobre suspeição dos juízes **estendem-se**, no que couber, aos serv
 
 *Caso:* servidor responsável por ato processual apresenta vínculo relevante previsto na disciplina de suspeição. Não é correto ignorá-lo apenas porque o servidor não é juiz.
 
+
+\newpage
+
 ### 3. Quadro comparativo: impedimento x suspeição
 
 | Pergunta | Impedimento (arts. 252–253) | Suspeição (arts. 254–256) |
@@ -1699,6 +2071,9 @@ As regras sobre suspeição dos juízes **estendem-se**, no que couber, aos serv
 | Exemplo | juiz foi testemunha no mesmo feito | juiz aconselhou uma das partes |
 | Erro clássico | tratar todos os conflitos como “amizade” | tratar contato superficial como amizade íntima |
 | Conferência | apontar inciso e fato comprovado | apontar inciso e fato comprovado, sem criar a causa |
+
+
+\newpage
 
 ### 4. Simulado autoral — 16 questões situacionais
 
@@ -1750,6 +2125,9 @@ A) art. 252, atuação anterior em função vedada. B) art. 254, amizade íntima
 **Q16.** Sobre art. 262 (“ao acusado menor dar-se-á curador”) e art. 264 (multa em moeda histórica), a postura tecnicamente correta para prova e prática atual é:  
 A) aplicar literalmente qualquer valor em réis como moeda atual. B) concluir que menoridade civil e penal nunca mudaram. C) ignorar a legislação superveniente. D) interpretar o texto histórico à luz da legislação atual e das orientações jurisprudenciais aplicáveis. E) equiparar automaticamente a idade de 17 anos à plena imputabilidade penal.
 
+
+\newpage
+
 ### 5. Gabarito comentado
 
 | Q | Gabarito | Fundamentação e descarte dos distratores |
@@ -1770,6 +2148,9 @@ A) aplicar literalmente qualquer valor em réis como moeda atual. B) concluir qu
 | 14 | B | Art. 267 remete à relação do art. 252. |
 | 15 | A | Art. 252, II, prevê atuação anterior do próprio juiz em funções incompatíveis no mesmo feito. |
 | 16 | D | Os arts. 262 e 264 exigem contextualização histórica/normativa; não se presume vigência operacional da antiga moeda. |
+
+
+\newpage
 
 ### 6. Técnica de fixação
 
@@ -1806,6 +2187,9 @@ A) aplicar literalmente qualquer valor em réis como moeda atual. B) concluir qu
   - Capítulo III, Seções IX a XIX;
   - Capítulo XI, Seções I a VII.
 
+
+\newpage
+
 ### 2. Resolução 850/2021 — teletrabalho
 
 Leia a versão consolidada e extraia:
@@ -1819,6 +2203,9 @@ Leia a versão consolidada e extraia:
 
 Não trate teletrabalho como direito automático nem como sinônimo de jornada reduzida. Use os termos e exceções da resolução vigente.
 
+
+\newpage
+
 ### 3. Resolução 963/2025 — eproc
 
 O eixo é governança e utilização do sistema eproc nas unidades do TJSP. Organize a leitura por:
@@ -1830,6 +2217,9 @@ O eixo é governança e utilização do sistema eproc nas unidades do TJSP. Orga
 - transição de sistemas, quando expressamente prevista.
 
 **Armadilha:** não presumir que uma regra geral de processo eletrônico resolve toda questão de fluxo no eproc. O ato específico e os comunicados de implantação podem conter detalhes operacionais; o edital e o texto vigente delimitam o estudo.
+
+
+\newpage
 
 ### 4. LC 1.111/2010 — plano de cargos e carreiras
 
@@ -1843,6 +2233,9 @@ Leia o texto consolidado e construa uma tabela de:
 
 Evite memorizar a partir de quadros salariais de sites não oficiais: tabelas, anexos e alterações podem mudar. Marque cada regra com artigo/anexo e data da fonte.
 
+
+\newpage
+
 ### 5. Regimento Interno do TJSP
 
 O Regimento regula organização, competência e funcionamento do Tribunal. Para o edital, monte um índice de conferência que inclua:
@@ -1854,6 +2247,9 @@ O Regimento regula organização, competência e funcionamento do Tribunal. Para
 - recursos/incidentais regimentais apenas na extensão do texto indicado.
 
 Não confunda competência constitucional do Judiciário com competência interna de um órgão específico do TJSP. A questão pode trocar órgão, atribuição, quórum ou autoridade competente.
+
+
+\newpage
 
 ### 6. Normas de Serviço da Corregedoria — Tomo I
 
@@ -1868,6 +2264,9 @@ O programa recorta seções específicas, não o Tomo I inteiro. A leitura deve 
 
 **Importante:** a matriz anterior listava cinco grandes blocos de seção, mas não atomizava os itens internos. Essa decomposição por item é pendência crítica antes da homologação.
 
+
+\newpage
+
 ### 7. Como memorizar atos internos
 
 Para cada regra, responda:
@@ -1880,6 +2279,9 @@ Para cada regra, responda:
 7. Qual fonte e versão vigente?
 
 Use flashcards apenas para regras conferidas. Para procedimentos de cartório, fluxogramas são mais confiáveis que listas isoladas.
+
+
+\newpage
 
 ### 8. Questões autorais
 
@@ -1909,12 +2311,18 @@ E) substituir a norma por uma questão comentada.
 
 **Gabarito:** 1-A; 2-B; 3-B.
 
+
+\newpage
+
 ### 9. Pendências humanas
 
 - Baixar e comparar versões oficiais vigentes em 19/10/2026, incluindo alterações e comunicados posteriores.
 - Atomizar as Normas da Corregedoria por item, em vez de manter apenas o rótulo da seção.
 - Conferir dispositivos do Regimento e anexos da LC 1.111/2010.
 - Revisão jurídica/administrativa independente de competências, prazos e rotinas.
+
+
+\newpage
 
 ### Complemento de estrutura normativa — conferência das fontes oficiais em 28/10/2026
 
@@ -1969,6 +2377,9 @@ Este caderno complementar segue a lógica didática da referência de 237 págin
 ### Texto-base
 
 > A implantação de um novo sistema reduziu o tempo de registro de solicitações. O resultado, contudo, não eliminou a necessidade de atendimento humano: usuários com dificuldades de acesso continuaram a precisar de orientação. A equipe passou, então, a combinar o canal digital com um procedimento de apoio presencial. A mudança funcionou melhor quando os responsáveis registraram as dúvidas recorrentes e corrigiram as instruções que provocavam erros.
+
+
+\newpage
 
 ### Questões
 
@@ -2036,6 +2447,9 @@ C) O sistema é mais rápido porque atende sozinho a todos os casos.
 D) O sistema não é rápido nem atende a qualquer caso.  
 E) O sistema é mais rápido; por isso, o atendimento humano é desnecessário.
 
+
+\newpage
+
 ### Gabarito comentado
 
 - **P1 — B.** A conclusão preserva as duas ideias do texto: houve ganho de eficiência, mas a necessidade de apoio humano permaneceu.
@@ -2046,6 +2460,9 @@ E) O sistema é mais rápido; por isso, o atendimento humano é desnecessário.
 - **P6 — D.** O verbo “fazer”, indicando tempo decorrido, é impessoal e fica no singular. “Haver”, com sentido de existir, também fica no singular.
 - **P7 — B.** No sentido de presenciar, “assistir” rege a preposição “a”; “à reunião” resulta da preposição com o artigo. “Informar algo a alguém” admite “à chefia”.
 - **P8 — B.** A reescrita conserva a oposição: rapidez não equivale a solução integral de todos os casos.
+
+
+\newpage
 
 ### Revisão ativa de Português
 
@@ -2166,6 +2583,9 @@ E) 26 cm e 13 cm².
 - **M11 — D.** Um quilômetro tem 1.000 metros: \(2,35\times1.000=2.350\).
 - **M12 — B.** Perímetro \(2(8+5)=26\) cm; área \(8\times5=40\) cm².
 
+
+\newpage
+
 ### Checklist de matemática
 
 - Leia o comando e identifique a grandeza solicitada.
@@ -2253,6 +2673,9 @@ E) Não há padrão possível.
 - **R6 — B.** Joana pertence à equipe A e todos dessa equipe receberam treinamento.
 - **R7 — D.** A primeira premissa estabelece a inclusão do conjunto dos técnicos no conjunto dos servidores. As demais premissas não autorizam conclusão necessária sobre técnicos serem estudantes.
 - **R8 — A.** O padrão alterna duas figuras; a quinta repete a primeira.
+
+
+\newpage
 
 ### Método para questões de relações
 
@@ -2355,6 +2778,9 @@ E) desativar o antivírus.
 - **I9 — B.** Colaboração exige fonte única de trabalho, permissões adequadas e controle de versões.
 - **I10 — C.** A urgência artificial e o domínio parecido são sinais de phishing; não se deve usar o link suspeito.
 
+
+\newpage
+
 ### Prática de laboratório recomendada
 
 Em ambiente de teste, crie uma pasta com subpastas, copie e mova arquivos, crie um atalho e observe o comportamento quando o destino muda. No Word, aplique estilos, insira sumário, numere páginas e teste quebras de seção. No Excel, pratique referências relativas, absolutas e mistas, classificação, filtros, gráficos e obtenção de dados. No Teams e OneDrive, teste compartilhamento com permissões diferentes. Não execute macros desconhecidas nem use dados reais ou confidenciais durante o treino.
@@ -2407,6 +2833,9 @@ C) Um registro com fato, data, fonte, contexto, dados e uma pergunta de revisão
 D) Uma lista de manchetes sem leitura.  
 E) Um comentário sem referência.
 
+
+\newpage
+
 ### Gabarito comentado
 
 - **A1 — C.** Uma afirmação mensurável exige indicador, período e fonte.
@@ -2414,6 +2843,9 @@ E) Um comentário sem referência.
 - **A3 — C.** Indicadores aparentemente iguais podem medir universos ou períodos diferentes.
 - **A4 — B.** Opinião pode ser relevante para entender debate público, mas não deve ser confundida com fato comprovado.
 - **A5 — C.** Uma ficha verificável permite revisão, comparação e atualização.
+
+
+\newpage
 
 ### Rotina semanal até a prova
 
@@ -2522,11 +2954,17 @@ Antes de escrever, responda:
 
 **Roteiro possível:** introdução com delimitação do problema e tese; desenvolvimento 1 sobre eficiência e acesso; desenvolvimento 2 sobre barreiras e medidas de inclusão; conclusão que retoma a tese e sintetiza as medidas. O roteiro é apenas uma possibilidade, não uma redação pronta nem uma garantia de nota.
 
+
+\newpage
+
 ### Proposta de treino 2
 
 **Tema:** A importância da informação confiável para a tomada de decisões na sociedade.
 
 Planeje dois argumentos diferentes. Um pode abordar a circulação de informação sem contexto; outro, a necessidade de verificar fontes e distinguir fatos de opiniões. Evite repetir a mesma ideia com palavras diferentes. Use exemplos gerais apenas quando ajudarem a demonstrar o raciocínio.
+
+
+\newpage
 
 ### Ficha de autocorreção
 
@@ -2733,6 +3171,9 @@ C) ignorar os prazos.
 D) presumir que toda sanção é automática.  
 E) confundir punição criminal e disciplinar.
 
+
+\newpage
+
 ### Gabarito comentado
 
 - **AD1 — B.** O edital delimita expressamente o Estatuto estadual e seus intervalos; use a redação legal aplicável.
@@ -2860,6 +3301,9 @@ C) presumir que crimes com nomes parecidos têm a mesma pena.
 D) ignorar parágrafos e incisos.  
 E) usar apenas a gravidade moral do fato.
 
+
+\newpage
+
 ### Gabarito comentado
 
 - **DP1 — A.** A apropriação de bem sob posse em razão do cargo remete à análise do peculato; confirme todos os elementos do art. 312.
@@ -2874,6 +3318,9 @@ E) usar apenas a gravidade moral do fato.
 - **DP10 — A.** Não se deve confundir oposição à execução de ato legal com descumprimento de ordem; leia os tipos e seus requisitos.
 - **DP11 — B.** O conceito penal de funcionário público é normativo e deve ser conferido no Código Penal.
 - **DP12 — B.** O nome do crime não substitui a análise do tipo legal.
+
+
+\newpage
 
 ### Cartão de revisão penal
 
@@ -2975,6 +3422,9 @@ E) não admitem nenhuma forma de recurso.
 - **PC8 — B.** O título e a obrigação determinam o regime aplicável.
 - **PC9 — B.** Recursos têm pressupostos e prazos próprios; a identificação correta é essencial.
 - **PC10 — B.** A Lei nº 9.099/1995 e a Lei nº 12.153/2009 devem ser estudadas conforme o recorte do edital.
+
+
+\newpage
 
 ### Roteiro para leitura dos artigos
 
@@ -3177,6 +3627,9 @@ C) aplicar sempre a regra mais genérica.
 D) misturar o Regimento com uma resolução sem verificar a relação entre eles.  
 E) presumir que uma rotina antiga continua vigente.
 
+
+\newpage
+
 ### Gabarito comentado
 
 - **TJ1 — B.** A cobertura exige correspondência precisa entre edital e norma, não apenas um rótulo de capítulo.
@@ -3187,6 +3640,9 @@ E) presumir que uma rotina antiga continua vigente.
 - **TJ6 — B.** O objeto da LC deve ser distinguido do Estatuto estadual; leia apenas o recorte pertinente e as remissões necessárias.
 - **TJ7 — B.** Sem fonte e dispositivo, a afirmação não pode ser auditada de modo confiável.
 - **TJ8 — B.** A resposta depende da norma aplicável, não de intuição ou preferência.
+
+
+\newpage
 
 ### Pendências que permanecem obrigatórias
 
@@ -3258,6 +3714,9 @@ O Anexo VIII não manda estudar a Constituição inteira. O recorte é: **Títul
 | Administração Pública | Princípios, acesso a cargos, acumulação, agentes e regras constitucionais | Transformar princípio em autorização para descumprir outro |
 | Poder Judiciário — art. 92 | Órgãos enumerados pela Constituição | Incluir órgão que não esteja no rol ou confundir órgão com unidade administrativa |
 
+
+\newpage
+
 ### Art. 5º: método para as garantias
 
 Não estude o art. 5º como uma sequência indiferenciada de frases. Organize-o por famílias:
@@ -3271,9 +3730,15 @@ Não estude o art. 5º como uma sequência indiferenciada de frases. Organize-o 
 
 Ao ler cada inciso, faça quatro perguntas: quem é o titular? Qual é o comportamento protegido ou proibido? Há uma condição expressa? Qual é a exceção? Se o inciso remete a lei, registre essa remissão.
 
+
+\newpage
+
 ### Direitos sociais e nacionalidade
 
 Os direitos sociais devem ser lidos na literalidade constitucional, sem reduzir a lista àquilo que parece mais frequente em questões. Em nacionalidade, compare as hipóteses de nacionalidade originária com as de aquisição posterior; observe as condições e exceções textuais. Não deduza nacionalidade apenas por local de residência, sobrenome ou situação familiar.
+
+
+\newpage
 
 ### Administração Pública: princípios e regras
 
@@ -3286,6 +3751,9 @@ O art. 37 apresenta os princípios expressos de legalidade, impessoalidade, mora
 - eficiência envolve boa prestação do serviço dentro da legalidade, não simples redução de custo a qualquer preço.
 
 As regras constitucionais sobre cargos e empregos públicos, concurso, acumulação, remuneração, responsabilidade e estabilidade têm condições próprias. Não extrapole uma exceção para situações que o texto não contempla. Ao estudar os arts. 37–41, mantenha uma ficha por artigo e destaque expressões como “na forma da lei”, “ressalvadas as hipóteses” e “desde que”.
+
+
+\newpage
 
 ### Questões de aplicação
 
@@ -3325,11 +3793,17 @@ O edital indica a Lei estadual nº 10.261/1968 nos intervalos **arts. 1º–86, 
 
 Não conclua que todo o Estatuto está no edital. Também não conclua que basta estudar os títulos dos artigos: a banca pode trocar sujeito, condição, prazo ou consequência.
 
+
+\newpage
+
 ### Dever funcional e responsabilidade
 
 Quando uma questão descreve a conduta de um servidor, separe o fato da qualificação jurídica. Primeiro escreva o que aconteceu sem usar o nome do ilícito; depois compare a conduta com o texto legal. Isso evita que palavras emocionalmente fortes, como “grave”, “desonesto” ou “abusivo”, substituam os requisitos normativos.
 
 A mesma conduta pode gerar apuração administrativa e, dependendo dos fatos e dos pressupostos legais, repercussões civis ou penais. Isso não significa que os procedimentos sejam iguais, que as sanções sejam intercambiáveis ou que a culpa em uma esfera seja automaticamente presumida em todas as outras. Identifique o fundamento e a consequência de cada regime.
+
+
+\newpage
 
 ### Processo disciplinar: sequência lógica
 
@@ -3337,11 +3811,17 @@ Ao estudar os dispositivos de procedimento disciplinar, transforme o texto em um
 
 Se dois procedimentos têm nomes parecidos, compare cabimento, autoridade, prazo, formalidade, finalidade e resultado. A diferença pode estar em um detalhe que a alternativa tenta ocultar.
 
+
+\newpage
+
 ### Improbidade administrativa
 
 A Lei nº 8.429/1992 foi substancialmente alterada, especialmente pela Lei nº 14.230/2021. Para o estudo, não use material antigo sem conferência. Organize a leitura pelos tipos legais e pelos requisitos que a lei exige. A improbidade não deve ser tratada como sinônimo automático de qualquer ilegalidade, falha, desorganização ou infração disciplinar. O enquadramento exige análise dos elementos normativos aplicáveis, inclusive do elemento subjetivo quando exigido.
 
 Separe em fichas os atos relacionados a enriquecimento ilícito, prejuízo ao erário e violação de princípios, sempre conferindo a redação vigente e os requisitos de cada categoria. Registre também as consequências legais e as regras de prescrição pertinentes ao texto aplicável. Não memorize sanções ou prazos de resumos sem confirmar o dispositivo.
+
+
+\newpage
 
 ### Questões de aplicação
 
@@ -3381,6 +3861,9 @@ Na leitura de cada artigo, destaque:
 
 **Exemplo de distinção:** alterar fisicamente um documento não é a mesma descrição legal que inserir declaração falsa em documento formalmente autêntico. Em questão concreta, a resposta depende do tipo e dos fatos descritos; não conclua apenas pela palavra “falso”.
 
+
+\newpage
+
 ### Crimes funcionais e contra a Administração
 
 O grupo dos arts. 312–317 e 319–333 inclui tipos com diferenças importantes entre apropriação ou desvio de bem, manipulação de dados ou sistema, exigência de vantagem, solicitação ou recebimento de vantagem, retardamento indevido de ato, violação de dever e condutas de particulares contra a Administração.
@@ -3396,9 +3879,15 @@ Compare especialmente:
 
 A definição penal de funcionário público deve ser lida no Código Penal, inclusive no art. 327 quando pertinente. Não limite automaticamente o conceito ao servidor efetivo estatutário.
 
+
+\newpage
+
 ### Crimes contra a Administração da Justiça
 
 Nos arts. 339–347, 357 e 359, compare a conduta concreta com o verbo do tipo e com o interesse protegido. Denunciação caluniosa, comunicação falsa de crime, autoacusação falsa, falso testemunho, coação no curso do processo, fraude processual e exploração de prestígio não são expressões intercambiáveis. A alternativa pode parecer moralmente reprovável, mas só é correta se corresponder aos elementos do artigo.
+
+
+\newpage
 
 ### Ficha artigo a artigo
 
@@ -3433,23 +3922,38 @@ O recorte do CPC no edital abrange arts. 144–155; 188–275; 294–311; 318–
 | Recursos | Qual recurso, prazo, legitimidade, requisito e efeito se aplicam? |
 | Juizados | Qual lei rege a situação e qual recorte foi incluído no edital? |
 
+
+\newpage
+
 ### Atos, prazos e comunicações
 
 Ao ler um dispositivo sobre prazo, não anote apenas o número de dias. Registre o termo inicial, a forma de contagem prevista, a existência de suspensão ou interrupção, a pessoa responsável e a consequência do descumprimento. Em citação e intimação, identifique a finalidade e o destinatário; não use o nome genérico “comunicação” como se todas as modalidades fossem iguais.
 
 Para a hora certa, monte a sequência exata exigida no CPC: pressupostos, diligências, suspeita de ocultação, comunicação da data de retorno, ato realizado, certidão e comunicação complementar prevista em lei. A ordem e o responsável por cada passo são pontos típicos de confusão.
 
+
+\newpage
+
 ### Tutela provisória
 
 Diferencie tutela de urgência e tutela de evidência. Na tutela de urgência, confira os pressupostos legais de probabilidade do direito e perigo de dano ou risco ao resultado útil do processo, além das condições e limites aplicáveis. Na tutela de evidência, leia as hipóteses expressamente previstas; não exija automaticamente o mesmo requisito de perigo que caracteriza a urgência.
+
+
+\newpage
 
 ### Procedimento comum e cumprimento de sentença
 
 A petição inicial delimita pedido e causa de pedir e deve observar os requisitos do CPC. Em cada questão, pergunte em que fase o processo está: postulatória, saneamento, instrução, julgamento ou cumprimento. Não confunda sentença com cumprimento de sentença, nem título judicial com mera expectativa de direito.
 
+
+\newpage
+
 ### Recursos
 
 Para cada recurso do art. 994 e seguintes, crie uma tabela com cabimento, prazo, legitimidade, órgão competente, requisitos de admissibilidade, efeitos e eventual possibilidade de retratação. Não suponha que todos os recursos tenham o mesmo prazo ou que a interposição suspenda automaticamente os efeitos da decisão.
+
+
+\newpage
 
 ### Questões de aplicação
 
@@ -3479,9 +3983,15 @@ E) ignorar a omissão.
 
 Nos arts. 251–258, 261–267 e 274 do CPP, identifique o sujeito de cada regra: juiz, Ministério Público, acusado, defensor, curador, funcionário ou auxiliar da Justiça. Depois registre se a norma trata de atribuição, impedimento, suspeição, defesa técnica, nomeação de defensor, abandono ou afastamento. A troca do sujeito é uma pegadinha comum: uma providência atribuída à secretaria não deve ser transferida automaticamente ao oficial ou ao juiz.
 
+
+\newpage
+
 ### Citação e intimação
 
 Nos arts. 351–372, construa um mapa das modalidades e dos atos: destinatário, local, forma, certidão, hipótese de edital e consequência. O procedimento penal deve ser conferido no CPP. Não importe automaticamente para o processo penal os prazos ou requisitos do CPC só porque os nomes dos atos são semelhantes.
+
+
+\newpage
 
 ### Procedimentos
 
@@ -3495,13 +4005,22 @@ O edital inclui:
 
 Para cada rito, crie um fluxograma com início, decisões intermediárias, prazos, manifestações, atos de instrução e resultado. Não confunda procedimento comum com procedimento do júri; o segundo tem sequência própria e decisões características. A restauração de autos também não é recurso: é procedimento destinado à reconstrução de autos nas hipóteses legais.
 
+
+\newpage
+
 ### Recursos e nulidades
 
 Em recursos, confira cabimento, legitimidade, prazo, forma, efeitos e órgão competente. Em nulidades, não use a fórmula simplista “qualquer erro anula tudo”. Leia o regime legal, identifique o ato e a consequência prevista, e verifique a exigência de prejuízo quando aplicável. A questão pode misturar a existência de irregularidade com o efeito processual dela; são perguntas diferentes.
 
+
+\newpage
+
 ### Juizado Especial Criminal
 
 Os arts. 60–83, 88 e 89 da Lei nº 9.099/1995 devem ser estudados pelo recorte literal do edital. Registre competência, institutos, momentos processuais, condições e efeitos. Não conclua que toda infração penal é de competência do Juizado Especial Criminal nem que os procedimentos previstos na lei dispensam garantias processuais.
+
+
+\newpage
 
 ### Questões de aplicação
 
@@ -3544,6 +4063,9 @@ A lista deve ser copiada e controlada sem generalizações:
 
 A existência desses nomes no sumário não prova que o conteúdo esteja desenvolvido. Cada trecho deve ser conferido na fonte oficial e ligado a uma seção da apostila.
 
+
+\newpage
+
 ### Cartão de leitura para cada ato
 
 **Identificação:** nome, número, data, órgão emissor e fonte oficial.
@@ -3556,12 +4078,18 @@ A existência desses nomes no sumário não prova que o conteúdo esteja desenvo
 
 **Conferência:** artigo ou item exato; link oficial; data de consulta; dúvida que exige revisão humana.
 
+
+\newpage
+
 ### Como não confundir as fontes
 
 - Uma **resolução** é um ato normativo próprio; não deve ser tratada como se fosse parte do Regimento Interno.
 - O **Regimento Interno** contém organização, competências e procedimentos regimentais; não se presume que todas as rotinas de uma unidade cartorária estejam nele.
 - As **Normas da Corregedoria** detalham matérias e rotinas conforme o recorte indicado no edital; estudar o Tomo inteiro pode consumir tempo fora do escopo e, ao mesmo tempo, deixar de aprofundar a seção efetivamente cobrada.
 - A **LC nº 1.111/2010** trata do plano de cargos e carreiras; não substitui o Estatuto estadual nem deve ser confundida com ele.
+
+
+\newpage
 
 ### Questões de controle
 
@@ -3584,6 +4112,9 @@ E) escolher a versão mais simples.
 **Gabarito:** TJ9 — B. A cobertura deve corresponder ao trecho literal, não apenas ao capítulo geral. TJ10 — B. O próprio edital estabelece a regra de corte e o tratamento da legislação superveniente ou complementar.
 
 
+
+
+\newpage
 
 ### Mapa de artigos das Normas da Corregedoria
 
@@ -3620,6 +4151,9 @@ A tabela abaixo foi construída a partir do índice oficial do Tomo I disponibil
 
 **Como usar a tabela:** marque o artigo inicial e o final no texto oficial; confirme todas as subseções exigidas; depois transforme cada trecho em fichas de regra, sujeito, procedimento, prazo, exceção e consequência. O título da seção ajuda a orientar, mas não substitui o conteúdo normativo.
 
+
+\newpage
+
 ### Alertas de versão e data de corte
 
 - O portal oficial indica que o Tomo I consultado está atualizado até **22/10/2026**. O edital de Escrevente foi publicado antes dessa atualização, em **14/10/2026**. Portanto, é necessário identificar quais mudanças ocorreram entre essas datas e aplicar a regra de corte do edital; não se deve presumir que toda alteração posterior entra ou fica fora automaticamente.
@@ -3640,17 +4174,29 @@ Em situações-problema, destaque os dados e a pergunta antes de calcular. Se o 
 
 Em porcentagem, defina a base de referência. Aumentar 20% e depois reduzir 20% não retorna, em geral, ao valor original, porque a segunda porcentagem incide sobre outra base. Em juros simples, o juro é proporcional ao capital, à taxa e ao tempo, conforme as unidades usadas. Converta a taxa para decimal e alinhe o período da taxa ao período do tempo.
 
+
+\newpage
+
 ### Equações e sistemas
 
 Ao resolver equação, preserve a equivalência das operações nos dois lados. Em equação do segundo grau, identifique os coeficientes, calcule o discriminante e confira as raízes na equação original. Em sistema de equações, substituição e adição são métodos válidos; escolha o que reduz o risco de erro. Se o resultado não satisfizer as duas equações, a solução está incorreta.
+
+
+\newpage
 
 ### Tabelas, gráficos e medidas
 
 Leia título, legenda, eixos, unidades e intervalo temporal. Uma barra maior pode representar quantidade acumulada, taxa ou valor percentual; não compare grandezas diferentes sem converter a medida. Em sistemas usuais, faça a conversão antes de operar. Perímetro mede contorno; área mede superfície; volume mede espaço ocupado. O teorema de Pitágoras se aplica a triângulo retângulo, não a qualquer triângulo.
 
+
+\newpage
+
 ### Lógica
 
 Em proposições, registre o valor de verdade e a estrutura. A condicional “se p, então q” só é falsa quando p é verdadeira e q é falsa. A negação de “todos” é “existe pelo menos um que não”; a negação de “nenhum” é “existe pelo menos um”. Em problemas de relações, separe fatos fornecidos de possibilidades não confirmadas.
+
+
+\newpage
 
 ### Rotina de conferência
 
@@ -3670,15 +4216,24 @@ Pratique estilos de título, sumário automático, cabeçalho, rodapé, numeraç
 
 Quando uma tabela ultrapassa a página, verifique a repetição de cabeçalho e o comportamento das linhas. Para impressão, confira orientação, margens, escala, área de impressão e pré-visualização. Não alinhe texto longo com espaços repetidos quando tabulações, tabelas ou estilos resolvem o problema de modo mais estável.
 
+
+\newpage
+
 ### Excel
 
 Diferencie célula, intervalo, planilha e pasta de trabalho. Em fórmulas, confira operadores, parênteses, referências relativas e absolutas, intervalos e tipos de dados. Em classificação, mantenha as linhas completas; ordenar apenas uma coluna pode associar um nome ao registro errado. Em gráficos, selecione a série e os rótulos corretos e confira se a escala não induz a interpretação errada.
 
 Macros e arquivos com conteúdo ativo exigem cautela. A existência de uma extensão conhecida não torna o arquivo confiável. Antes de habilitar conteúdo, confirme a origem e a necessidade, seguindo as políticas de segurança aplicáveis.
 
+
+\newpage
+
 ### Teams, OneDrive, e-mail e Internet
 
 No Teams, diferencie chat, canal, reunião, chamada, compartilhamento e permissões. No OneDrive, distinguir sincronização, armazenamento e compartilhamento ajuda a evitar cópias desnecessárias e acesso indevido. Em e-mail, revise destinatários, assunto, anexos e informações sensíveis antes de enviar. Na Internet, confira domínio, URL e origem de arquivos; um cadeado HTTPS não garante que o site seja legítimo.
+
+
+\newpage
 
 ### Checklist de laboratório
 
@@ -3701,15 +4256,24 @@ A classificação depende do emprego. Um termo pode assumir funções diferentes
 
 Em questão da VUNESP, a pergunta pode cobrar o efeito de sentido, não apenas o rótulo gramatical. Um advérbio pode restringir a afirmação; um pronome pode retomar uma ideia inteira; uma conjunção pode mudar a relação entre duas proposições.
 
+
+\newpage
+
 ### Concordância e regência
 
 Para concordância verbal, localize o núcleo do sujeito e confira a estrutura da oração. O termo mais próximo nem sempre é o sujeito. Verbos impessoais, como “haver” no sentido de existir e “fazer” indicando tempo decorrido, seguem regras próprias. Na concordância nominal, observe o núcleo a que o adjetivo ou particípio se refere e a estrutura da expressão.
 
 Na regência, identifique o verbo ou nome e o complemento exigido. A crase depende do encontro da preposição “a” com artigo ou demonstrativo compatível; não é determinada apenas pela presença de uma palavra feminina. Teste a regência e a possibilidade de artigo antes de decidir.
 
+
+\newpage
+
 ### Colocação pronominal e pontuação
 
 A colocação pronominal deve ser estudada pelas regras e pelos fatores de atração, sem transformar preferências de linguagem informal em regra da norma-padrão. Na pontuação, identifique a estrutura sintática: vírgula pode isolar aposto, vocativo, oração intercalada ou adjunto deslocado, mas não deve separar sujeito e predicado sem justificativa. A pontuação também pode alterar o sentido de uma oração explicativa ou restritiva.
+
+
+\newpage
 
 ### Técnica de reescrita
 
