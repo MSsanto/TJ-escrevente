@@ -75,7 +75,7 @@ jobs:
           reader = PdfReader(str(path))
           print(f"PDF pages: {len(reader.pages)}")
           print(f"PDF bytes: {path.stat().st_size}")
-          assert len(reader.pages) >= 200, "Consolidated PDF unexpectedly short; expected workbook-style pagination"
+          assert len(reader.pages) >= 230, "Consolidated PDF unexpectedly short; expected pagination comparable to the 237-page reference"
           PY
 
       - name: Commit generated PDF
