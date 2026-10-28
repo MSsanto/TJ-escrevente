@@ -899,7 +899,7 @@ Para cada fato, registre: data de ocorrência; data da publicação; fonte origi
 ## Estatuto da Pessoa com Deficiência (LBI) {#estatuto-da-pessoa-com-deficiencia-lbi}
 
 **Base:** Edital nº 02/2026, Anexo VIII, p. 62.  
-**Recorte:** Lei nº 13.146/2015, arts. 1º–13 e 34–38.  
+**Recorte:** Lei nº 13.146/2015, arts. 1º–13, 34–38 e 79–87.  
 **Fonte oficial:** [Lei Brasileira de Inclusão — Planalto](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm).
 
 > O texto abaixo é uma síntese de estudo. A leitura dos artigos e parágrafos vigentes é obrigatória; conferir alterações em vigor na data do edital.
@@ -1002,12 +1002,72 @@ E) apenas direito penal.
 
 **Gabarito:** 1-B; 2-B; 3-A; 4-B.
 
+```{=latex}
+\newpage
+```
+
+### 5. Arts. 79–87 — acesso à Justiça e reconhecimento igual perante a lei
+
+**Arts. 79–81 — acesso à Justiça.** O art. 79 assegura acesso à Justiça em igualdade de oportunidades e prevê adaptações e recursos de tecnologia assistiva quando requeridos. Também prevê capacitação dos profissionais que atuam no Judiciário, Ministério Público, Defensoria Pública, segurança pública e sistema penitenciário; acessibilidade para pessoas com deficiência submetidas a medidas restritivas de liberdade; e atuação do Ministério Público e da Defensoria na garantia dos direitos da lei. O art. 80 determina a oferta de recursos de tecnologia assistiva disponíveis para a pessoa com deficiência que participe do processo como parte, testemunha, participante, advogado, defensor público, magistrado ou membro do Ministério Público. Garante ainda acesso ao conteúdo dos atos processuais de seu interesse. O art. 81 garante os direitos da pessoa com deficiência na aplicação de sanções penais.
+
+**Art. 82.** O dispositivo está vetado. Não invente uma regra para preencher o número.
+
+**Art. 83 — serviços notariais e de registro.** Não podem negar ou criar obstáculos ou condições diferenciadas em razão da deficiência. Devem reconhecer a capacidade legal plena do solicitante e garantir acessibilidade; o descumprimento é qualificado como discriminação.
+
+**Arts. 84–87 — capacidade legal e curatela.**
+- O art. 84 assegura exercício da capacidade legal em igualdade de condições. Quando necessária, pode haver curatela; a lei também faculta a tomada de decisão apoiada. A curatela é extraordinária, proporcional às necessidades e circunstâncias, pelo menor tempo possível; o curador presta contas anualmente ao juiz.
+- O art. 85 limita a curatela a atos patrimoniais e negociais. Ela não alcança o direito ao próprio corpo, sexualidade, matrimônio, privacidade, educação, saúde, trabalho e voto. A sentença deve motivar a medida; nas hipóteses legais de institucionalização, deve-se considerar preferência por vínculo familiar, afetivo ou comunitário.
+- O art. 86 proíbe exigir situação de curatela para emitir documentos oficiais.
+- O art. 87 permite nomeação de curador provisório em caso de relevância e urgência, para proteger interesses da pessoa com deficiência em situação de curatela, ouvido o Ministério Público, de ofício ou a requerimento, aplicando-se o CPC no que couber.
+
+**5.** A pessoa com deficiência participa como testemunha em processo judicial e precisa de tecnologia assistiva. A regra mais adequada é:
+
+A) negar recursos porque ela não é parte.  
+B) oferecer os recursos disponíveis e garantir acesso ao conteúdo dos atos de seu interesse.  
+C) exigir curatela antes de permitir a participação.  
+D) substituir automaticamente o depoimento por declaração de terceiro.  
+E) oferecer recursos apenas em processos cíveis.
+
+**6.** Um cartório extrajudicial cria uma exigência adicional para atender pessoa com deficiência apenas por sua condição. Segundo o art. 83:
+
+A) a exigência é obrigatória.  
+B) o cartório pode negar o serviço por conveniência.  
+C) a prática contraria a regra de não discriminação e acessibilidade.  
+D) a capacidade legal deve ser presumida ausente.  
+E) o artigo só se aplica a hospitais.
+
+**7.** A curatela, conforme o art. 85, alcança:
+
+A) todos os direitos pessoais, sem exceção.  
+B) somente atos relacionados a direitos de natureza patrimonial e negocial.  
+C) automaticamente o direito ao voto e à saúde.  
+D) qualquer decisão cotidiana, independentemente da sentença.  
+E) apenas a emissão de documentos.
+
+**8.** Para emissão de documento oficial, a pessoa com deficiência precisa comprovar que está sob curatela?
+
+A) Sim, sempre.  
+B) Sim, quando o documento for eletrônico.  
+C) Não; o art. 86 veda essa exigência.  
+D) Sim, se houver deficiência intelectual.  
+E) Depende da autorização de um cartório.
+
+**9.** A nomeação de curador provisório prevista no art. 87 exige:
+
+A) qualquer situação, sem urgência.  
+B) relevância e urgência, proteção dos interesses e oitiva do Ministério Público.  
+C) decisão exclusiva do cartório.  
+D) renúncia aos direitos pessoais.  
+E) que a pessoa seja parte em ação penal.
+
+**Gabarito comentado:** 5 — B, arts. 79–80; 6 — C, art. 83; 7 — B, art. 85; 8 — C, art. 86; 9 — B, art. 87.
+
 
 ```{=latex}
 \newpage
 ```
 
-### 7. Pendências humanas
+### 6. Pendências humanas
 
 - Conferir artigo e parágrafo por parágrafo, inclusive alterações recentes.
 - Revisar os conceitos de avaliação biopsicossocial, consentimento e trabalho inclusivo com fonte oficial.
@@ -1018,14 +1078,14 @@ E) apenas direito penal.
 \newpage
 ```
 
-### Complemento — art. 2-A e deficiência não aparente
+### 7. Complemento — art. 2-A e deficiência não aparente
 
 O art. 2-A, incluído na LBI pela Lei 14.624/2023, trata do uso facultativo de cordão de girassóis como símbolo para identificação de pessoas com deficiências ocultas/não aparentes. O uso do símbolo não substitui, quando solicitada nos termos legais, a apresentação de documento comprobatório da deficiência. Não se pode presumir a deficiência de alguém apenas pela ausência ou presença do cordão.
 
 Como o art. 2-A está dentro do intervalo 1º–13º do edital, ele precisa constar da matriz e do estudo, mesmo não sendo um número inteiro.
 
 #### Questão adicional
-**5.** O uso do cordão de girassóis previsto no art. 2-A da LBI:  
+**10.** O uso do cordão de girassóis previsto no art. 2-A da LBI:  
 A) é obrigatório para toda pessoa com deficiência; B) é facultativo e não substitui automaticamente a comprovação quando exigida nos termos legais; C) elimina todos os critérios de atendimento prioritário; D) altera a capacidade civil; E) vale apenas para deficiência física visível.  
 **Gabarito:** B.
 
@@ -3251,7 +3311,7 @@ E) apenas a ambientes de trabalho.
 - **L7 — B.** O símbolo pode ajudar a identificar uma deficiência não aparente, mas não revoga exigências específicas nem autoriza exposição de dados.
 - **L8 — C.** A acessibilidade é ampla e abrange espaços, transportes, informação, comunicação, sistemas e serviços.
 
-**Leitura obrigatória do edital:** Lei nº 13.146/2015, arts. 1º–13 e 34–38. Este bloco serve como orientação didática; a redação e as exceções de cada artigo devem ser conferidas no texto legal vigente na data de corte do edital.
+**Leitura obrigatória do edital:** Lei nº 13.146/2015, arts. 1º–13, 34–38 e 79–87. Este bloco serve como orientação didática; a redação e as exceções de cada artigo devem ser conferidas no texto legal vigente na data de corte do edital.
 
 ---
 
@@ -4698,7 +4758,7 @@ Uma frase pode ser gramaticalmente correta e, ainda assim, alterar o sentido do 
 
 A Lei Brasileira de Inclusão exige distinguir a condição individual da interação com barreiras. Uma barreira pode estar no ambiente físico, no transporte, na comunicação, na informação, na tecnologia, na atitude ou na organização de um serviço. Não atribua toda dificuldade exclusivamente à pessoa quando o próprio ambiente impede ou restringe participação.
 
-Acessibilidade, desenho universal, tecnologia assistiva e adaptação razoável são conceitos relacionados, mas não idênticos. Ao estudar os arts. 1º–13 e 34–38, registre a definição legal e crie um exemplo que não amplie o conceito para além do texto. Em questão de atendimento, pergunte qual barreira existe, qual medida pode removê-la e quais condições a lei estabelece.
+Acessibilidade, desenho universal, tecnologia assistiva e adaptação razoável são conceitos relacionados, mas não idênticos. Ao estudar os arts. 1º–13, 34–38 e 79–87, registre a definição legal e crie um exemplo que não amplie o conceito para além do texto. Em questão de atendimento, pergunte qual barreira existe, qual medida pode removê-la e quais condições a lei estabelece.
 
 No trabalho, o foco é igualdade de oportunidades, acessibilidade e inclusão. Não presuma que uma deficiência autorize a recusa automática de contratação ou determine incapacidade para qualquer atividade. A análise depende das atribuições, das condições e das regras legais pertinentes.
 
@@ -4927,7 +4987,7 @@ __________________________________________________________________
 
 **Período sugerido:** 07/12–13/12/2026
 
-**Foco:** Direito Penal: arts. 307, 308 e 311-A. LBI: arts. 4º–13 e 34–38.
+**Foco:** Direito Penal: arts. 307, 308 e 311-A. LBI: arts. 4º–13, 34–38 e 79–87.
 
 **Sessões de estudo:**
 
@@ -5237,7 +5297,7 @@ __________________________________________________________________
 
 **Período sugerido:** 15/02–21/02/2027
 
-**Foco:** Processo Penal: Lei nº 9.099/1995, arts. 60–83, 88 e 89. LBI: revisão dos arts. 1º–13 e 34–38.
+**Foco:** Processo Penal: Lei nº 9.099/1995, arts. 60–83, 88 e 89. LBI: revisão dos arts. 1º–13, 34–38 e 79–87.
 
 **Sessões de estudo:**
 
