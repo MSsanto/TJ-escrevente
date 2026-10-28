@@ -117,3 +117,35 @@ Interpretação; coesão e conectivos; sintaxe; concordância; regência e crase
 
 ## Fontes de trabalho
 Edital vigente e Anexo de Conteúdo Programático; gramática normativa de referência; provas oficiais anteriores da Vunesp com ano, cargo e gabarito identificados.
+
+
+## Complemento de cobertura — classes de palavras e sentido
+Este complemento torna explícitos tópicos que não devem ficar implícitos na preparação.
+
+### Classes de palavras
+- **Substantivo:** nomeia seres, ações, estados ou conceitos; pode funcionar como núcleo de sintagma nominal.
+- **Adjetivo:** caracteriza ou classifica um substantivo; pode restringir ou avaliar.
+- **Artigo:** determina ou indetermina o substantivo.
+- **Numeral:** indica quantidade, ordem, multiplicação ou fração.
+- **Pronome:** retoma, acompanha ou substitui nomes e organiza referências no texto.
+- **Verbo:** exprime ação, estado, mudança ou fenômeno; flexiona em pessoa, número, tempo, modo e voz.
+- **Advérbio:** modifica verbo, adjetivo, outro advérbio ou a oração, indicando circunstância ou avaliação.
+- **Preposição:** estabelece relação entre termos.
+- **Conjunção:** conecta palavras ou orações e pode marcar relações como causa, oposição, condição e conclusão.
+
+A classe depende do emprego contextual: uma palavra pode mudar de classe conforme a frase. Não basta memorizar uma lista; observe a função exercida no trecho.
+
+### Significação contextual, sinonímia, antonímia e sentido figurado
+Sinônimo é palavra de sentido semelhante no contexto, não necessariamente em todos os usos. Antônimo expressa oposição contextual. Para resolver questões, substitua a palavra na frase e confira se preserva sentido, intensidade, registro e gramática.
+
+Sentido próprio é o uso mais literal; sentido figurado transfere ou amplia o significado por metáfora, ironia, metonímia ou outro recurso. A interpretação deve ser sustentada pelo contexto. Em “o prazo voou”, não se afirma deslocamento físico: a expressão indica passagem rápida do tempo.
+
+### Textos verbais, não verbais e mistos
+Texto verbal constrói sentido principalmente por palavras; não verbal usa elementos como imagem, símbolo, gráfico ou composição visual; texto misto combina linguagens. Em charge, infográfico, anúncio e cartaz, examine título, legenda, escala, enquadramento, contraste e relação entre imagem e texto. Não interprete uma imagem isolada do contexto apresentado na questão.
+
+### Mini-exercícios
+**6.** Em “A equipe trabalhou rapidamente”, “rapidamente” é: (A) substantivo (B) adjetivo (C) advérbio (D) pronome (E) conjunção.  
+**7.** Em “A notícia correu pela cidade”, “correu” pode assumir sentido figurado de: (A) deslocou-se a pé (B) espalhou-se rapidamente (C) foi apagada (D) ficou parada (E) foi impressa.  
+**8.** Uma questão apresenta gráfico e legenda. A leitura adequada exige: (A) considerar apenas o título (B) ignorar a escala (C) relacionar título, dados, unidade, escala e legenda (D) supor a intenção do autor sem evidência (E) interpretar a imagem sem o texto.
+
+**Gabarito:** 6. **C** — modifica o verbo “trabalhou”. 7. **B** — sentido figurado de propagação. 8. **C** — todos esses elementos participam da leitura.
