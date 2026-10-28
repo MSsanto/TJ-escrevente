@@ -32,3 +32,12 @@ Fonte e data, texto consolidado do dispositivo, aplicação e exceções, dois i
 ## Situação das publicações
 
 Arquivos ZIP são versão imutável por SHA-256; fontes Markdown e scripts devem ter commits. Alterações posteriores exigem nova versão e nota de revisão.
+
+## Atualização de auditoria — 28/10/2026
+
+- Criados livros-texto de Direito Penal, Processo Penal, Processo Civil, Constitucional, Administrativo, Legislação Interna e LBI.
+- Ampliados Português, Matemática/Raciocínio Lógico, Informática e Atualidades; criada rubrica específica de redação.
+- Criada matriz de cobertura do Anexo VIII com 993 linhas de mapeamento.
+- Identificados dispositivos com sufixos omitidos na atomização numérica anterior: CP 313-A/313-B e CPP 394-A/396-A/400-A. A varredura integral ainda está pendente.
+- **Não marcar como concluído:** cobertura substantiva artigo a artigo, revisão jurídica independente, atomização das Normas da Corregedoria, validação prática do Microsoft 365 e correção humana de redações.
+- A nova edição de livros ainda não foi confirmada como enviada ao Google Drive. A integração Google Drive está desabilitada por política do ambiente atual; não declarar upload sem verificação.
