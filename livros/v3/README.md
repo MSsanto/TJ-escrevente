@@ -42,3 +42,16 @@ Estes materiais são versões iniciais de estudo, não livros certificados como 
 - [Workflow de geração do PDF](../../.github/workflows/build-apostilas-pdf.yml)
 
 A compilação reúne 12 matérias/cadernos em duas partes, com capítulos, exercícios e gabaritos. O PDF foi gerado e commitado no repositório em 28/10/2026. Isso é uma compilação editorial, não homologação jurídica nem comprovação de cobertura integral do edital.
+
+
+## Volume consolidado — revisão editorial de 28/10/2026
+
+- **PDF:** [Todas as Apostilas — PDF consolidado](TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.pdf)
+- **Fonte editável:** [TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.md](TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.md)
+- **Auditoria:** [Relatório de cobertura e pendências](../../docs/RELATORIO_AUDITORIA_COBERTURA_2026-10-28.md)
+
+A versão atual foi expandida para aproximadamente **41,5 mil palavras** e o PDF recompilado tem **271 páginas**. Inclui sumário automático, capítulos por disciplina, caderno complementar de exercícios, aulas de aprofundamento, plano-base de estudo em 20 semanas e mini-simulado de 30 questões com gabarito comentado.
+
+A referência editorial usada tem 237 páginas, mas é para Oficial de Justiça e Edital nº 01/2026. Ela foi usada apenas como modelo de organização didática, não como fonte para o conteúdo de Escrevente.
+
+**Estado:** versão de trabalho ampliada, ainda não homologada. Permanecem a conferência artigo a artigo do Anexo VIII, a análise da data de corte de legislação interna e a revisão jurídica independente. A atualização de Atualidades e a correção humana de redações também continuam necessárias.
