@@ -5,7 +5,7 @@
 
 ## Resultado executivo
 
-A biblioteca foi ampliada e a cobertura programática foi mapeada para os livros, mas **não está homologada nem pode ser anunciada como 100% coberta em profundidade**. A matriz anterior possuía 937 linhas; 926 estavam explicitamente marcadas como não homologadas. A nova matriz reúne 1062 linhas: as 937 referências anteriores, 30 referências a dispositivos com sufixos identificadas nas varreduras iniciais e 51 tópicos não jurídicos/redação.
+A biblioteca foi ampliada e a cobertura programática foi mapeada para os livros, mas **não está homologada nem pode ser anunciada como 100% coberta em profundidade**. A matriz anterior possuía 937 linhas; 926 estavam explicitamente marcadas como não homologadas. A nova matriz reúne 1062 linhas: 937 linhas do índice anterior (algumas representam diplomas/seções inteiros, não artigos atomizados), 30 referências a dispositivos com sufixos identificadas nas varreduras iniciais, 56 tópicos não jurídicos/redação e 39 linhas adicionais de detalhamento das seções internas do TJSP e dos títulos do Regimento.
 
 Nova matriz: [MATRIZ_COBERTURA_ANEXO_VIII_2026-10-28.csv](MATRIZ_COBERTURA_ANEXO_VIII_2026-10-28.csv).
 
