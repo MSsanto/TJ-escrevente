@@ -28,7 +28,7 @@ jobs:
 
       - name: Render consolidated volume
         run: |
-          pandoc "livros/v3/TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.md" \
+          pandoc --from=markdown-raw_tex "livros/v3/TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.md" \
             --output="livros/v3/TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.pdf" \
             --pdf-engine=xelatex \
             --toc \
