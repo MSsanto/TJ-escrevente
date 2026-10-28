@@ -36,8 +36,10 @@ jobs:
             --standalone \
             -V geometry:margin=2cm \
             -V fontsize=10pt
-          echo "LaTeX newpage commands: $(grep -F -c '\newpage' build-debug.tex || true)"
+          count=$(grep -F -c '\newpage' build-debug.tex || true)
+          echo "LaTeX newpage commands: $count"
           echo "LaTeX subsubsections: $(grep -F -c '\subsubsection' build-debug.tex || true)"
+          test "$count" -ge 180
           rm -f build-debug.tex
 
       - name: Render consolidated volume
@@ -69,7 +71,7 @@ jobs:
           reader = PdfReader(str(path))
           print(f"PDF pages: {len(reader.pages)}")
           print(f"PDF bytes: {path.stat().st_size}")
-          assert len(reader.pages) >= 60, "Consolidated PDF unexpectedly short"
+          assert len(reader.pages) >= 200, "Consolidated PDF unexpectedly short; expected workbook-style pagination"
           PY
 
       - name: Commit generated PDF
