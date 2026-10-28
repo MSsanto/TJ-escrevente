@@ -116,3 +116,44 @@ Avalie se a conclusão decorre das premissas. “Todos os A são B; x é A; logo
 **12.** “Todos os A são B. Joana é B. Logo, Joana é A.” O argumento é: (A) necessariamente válido (B) inválido, pois B pode incluir quem não é A (C) tautologia (D) contradição em qualquer caso (E) equivalente a uma identidade.
 
 **Gabarito comentado:** 9. **D** — 36 é o menor múltiplo comum. 10. **C** — 1.000×0,02×3=60. 11. **B** — (x−2)(x−3)=0. 12. **B** — a premissa não afirma que todo B seja A.
+
+## Complemento obrigatório — cobertura integral dos tópicos de Matemática e Raciocínio Lógico
+
+**Programa literal resumido:** operações com números reais; MMC/MDC; razão/proporção; porcentagem; regra de três simples e composta; média simples/ponderada; juros simples; equações de 1º/2º grau; sistemas de 1º grau; tabelas/gráficos; medidas usuais; geometria (forma, perímetro, área, volume, ângulo, Pitágoras); situações-problema. Raciocínio Lógico: relações arbitrárias entre pessoas/lugares/coisas/eventos, deduções e avaliação de condições, sequências numéricas e figurais, estruturas lógicas, argumentação e diagramas.
+
+### Sistemas de equações do 1º grau
+Para duas incógnitas, resolva por substituição ou eliminação. Exemplo: x+y=11 e x−y=3. Somando, 2x=14, então x=7 e y=4. Confira as duas equações originais. Classifique sistemas como possível determinado, possível indeterminado ou impossível quando o exercício exigir.
+
+### Tabelas, gráficos e relações entre grandezas
+Leia título, legenda, unidade, período, fonte e escala dos eixos antes de calcular. Em gráfico de linhas, observe variação ao longo do tempo; em barras, compare categorias; em setores, leia a proporção do total. Diferencie variação absoluta de variação percentual. Se um valor passa de 80 para 100, o aumento é 20 unidades e 25%, não 20%.
+
+### Sistemas de medidas
+Revise conversões de comprimento, área, volume/capacidade, massa e tempo. Área muda por fator quadrático: 1 m² = 10.000 cm²; volume muda por fator cúbico: 1 m³ = 1.000 L. Não aplique conversão linear a unidades quadradas ou cúbicas.
+
+### Geometria prevista
+- Perímetro: soma dos lados.
+- Retângulo: área b×h; quadrado: lado².
+- Triângulo: área b×h/2.
+- Paralelepípedo retângulo: volume comprimento×largura×altura.
+- Cubo: volume lado³.
+- Ângulos: reto 90°, raso 180°, volta completa 360°.
+- Pitágoras, em triângulo retângulo: hipotenusa² = cateto₁² + cateto₂².
+Reconheça formas e unidades; não confunda perímetro, área e volume.
+
+### Sequências numéricas e figurais
+Teste diferenças sucessivas, razões, alternância, repetição de blocos, posição par/ímpar, rotação, espelhamento, quantidade de elementos e combinação de duas regras. Em figuras, compare uma característica por vez: orientação, número de lados, preenchimento, posição e quantidade. Não assuma uma regra só porque explica os dois primeiros termos; confira a sequência inteira.
+
+### Relações e avaliação de condições
+Monte tabela ou diagrama para pessoas, lugares, objetos e eventos. Traduza cada pista para uma restrição; elimine casos incompatíveis. Diferencie condição necessária de suficiente. Se “se P, então Q”, P é suficiente para Q e Q é necessária para P; não se conclui automaticamente “se Q, então P”.
+
+### Juros simples
+J = C×i×t; M=C+J. Taxa e tempo devem usar unidades compatíveis. O programa de Matemática do edital menciona juros simples. Juros compostos, descontos complexos e amortização podem ser estudados como enriquecimento, mas não devem tomar o tempo de treino dos tópicos expressamente listados.
+
+### Questões adicionais
+**1.** Um retângulo mede 8 cm por 5 cm. Sua área e seu perímetro são: (A) 13 cm² e 40 cm; (B) 40 cm² e 26 cm; (C) 26 cm² e 40 cm; (D) 40 cm³ e 26 cm; (E) 13 cm² e 26 cm.
+**2.** Se x+y=11 e x−y=3, então: (A) x=4,y=7; (B) x=7,y=4; (C) x=8,y=3; (D) x=5,y=6; (E) x=6,y=5.
+**3.** Uma figura gira 90° no sentido horário a cada etapa. Após quatro giros, sua orientação será: (A) 90°; (B) 180°; (C) 270°; (D) a orientação inicial; (E) impossível determinar, mesmo conhecendo a regra.
+**Gabarito:** 1-B; 2-B; 3-D.
+
+### Pendências de revisão
+Fazer bateria separada para cada um dos 13 tópicos de Matemática e cada tipo de raciocínio lógico; conferir cada solução por cálculo independente e submeter amostra a revisão humana.
