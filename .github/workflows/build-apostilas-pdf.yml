@@ -42,11 +42,16 @@ jobs:
 
       - name: Report PDF metadata
         run: |
-          docker run --rm \
-            -v "$PWD:/data" \
-            -w /data \
-            pandoc/latex:3.7 \
-            sh -c 'pdfinfo livros/v3/TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.pdf | grep -E "Pages:|Page size:|File size:"'
+          python -m pip install --quiet pypdf
+          python - <<'PY'
+          from pathlib import Path
+          from pypdf import PdfReader
+          path = Path("livros/v3/TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.pdf")
+          reader = PdfReader(str(path))
+          print(f"PDF pages: {len(reader.pages)}")
+          print(f"PDF bytes: {path.stat().st_size}")
+          assert len(reader.pages) >= 60, "Consolidated PDF unexpectedly short"
+          PY
 
       - name: Commit generated PDF
         run: |
