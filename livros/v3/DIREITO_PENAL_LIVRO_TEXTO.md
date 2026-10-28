@@ -153,3 +153,54 @@ E) prevaricação e abandono de função.
 - Confirmar todos os dispositivos com sufixos dentro dos intervalos, revogações e efeitos de leis recentes.
 - Revisão jurídica independente de cada explicação e questão.
 - Calibrar os itens com provas Vunesp identificadas por ano/cargo.
+
+## Quadro artigo a artigo — identificação inicial do tipo
+
+Use o quadro como índice de leitura, não como substituto do texto consolidado. Confirme vigência, parágrafos, penas e causas de aumento em cada dispositivo.
+
+| Artigo(s) | Eixo de estudo |
+|---|---|
+| 293–296 | Falsificação de papéis/sinais públicos e petrechos; falsificação de selo/sinal público; conferir equiparações e majorantes. |
+| 297–298 | Falsificação de documento público e particular. |
+| 299 | Falsidade ideológica: declaração falsa/omissão juridicamente relevante em documento, com os requisitos do tipo. |
+| 300–303 | Falsidades específicas ligadas a reconhecimento de firma/letra, certidões/atestados e demais objetos indicados na redação vigente; verificar dispositivo por dispositivo e revogações. |
+| 304 | Uso de documento falso. |
+| 305 | Supressão de documento verdadeiro. |
+| 307–308 | Falsa identidade e uso de documento de identidade alheio. |
+| 311-A | Fraude em certames de interesse público. |
+| 312 | Peculato: apropriação/desvio e modalidade culposa conforme a redação vigente. |
+| 313 | Peculato mediante erro de outrem. |
+| 313-A e 313-B | Inserção de dados falsos e modificação/alteração não autorizada de sistema; artigos com letras dentro do intervalo cobrado. |
+| 314–315 | Extravio/sonegação/inutilização de livro ou documento e emprego irregular de verbas/rendas públicas. |
+| 316–317 | Concussão e corrupção passiva. |
+| 319–321 | Prevaricação, condescendência criminosa e advocacia administrativa. |
+| 322–326 | Verificar tipo e vigência de cada artigo sobre violência/abandono/exercício funcional/sigilo e concorrência; não memorizar artigos revogados como se vigentes. |
+| 327 | Conceito penal de funcionário público e equiparações/majorantes. |
+| 328–331 | Usurpação de função pública, resistência, desobediência e desacato; conferir redação vigente e jurisprudência relevante. |
+| 332–333 | Tráfico de influência e corrupção ativa. |
+| 336 | Inutilização de edital ou sinal, nos termos do tipo. |
+| 337 | Subtração/inutilização de livro oficial, processo ou documento sob custódia; não confundir com art. 337-A, fora do recorte literal. |
+| 339–341 | Denunciação caluniosa, comunicação falsa de crime/contravenção e autoacusação falsa. |
+| 342–343 | Falso testemunho/falsa perícia e suborno relacionado. |
+| 344 | Coação no curso do processo. |
+| 345–346 | Exercício arbitrário das próprias razões e conduta relativa a coisa própria sob poder/guarda de terceiro conforme o tipo. |
+| 347 | Fraude processual. |
+| 357 | Exploração de prestígio. |
+| 359 | Exercer função, atividade, direito, autoridade ou múnus do qual o agente foi suspenso ou privado por decisão judicial; conferir todos os requisitos e a pena vigente. |
+
+### Miniquestões de distinção
+
+**5.** O particular inutiliza edital afixado por ordem de funcionário público. Qual artigo do recorte deve ser conferido primeiro?  
+A) 336. B) 337-A. C) 313-B. D) 357. E) 359.
+
+**6.** A pessoa exerce atividade da qual foi privada por decisão judicial. A análise inicial se concentra em:  
+A) art. 359. B) art. 305. C) art. 311-A. D) art. 298. E) art. 317.
+
+**7.** O servidor usa indevidamente verba pública em finalidade diferente da prevista. Qual distinção deve ser examinada?  
+A) emprego irregular de verbas/rendas públicas e peculato, conforme a conduta concreta.  
+B) apenas falsa identidade.  
+C) somente uso de documento falso.  
+D) somente fraude em certame.  
+E) nenhuma regra penal pode ser pertinente.
+
+**Gabarito:** 5-A; 6-A; 7-A. Nos três casos, a classificação final depende de todos os requisitos da redação vigente.
