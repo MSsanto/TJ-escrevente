@@ -3583,6 +3583,53 @@ E) escolher a versão mais simples.
 
 **Gabarito:** TJ9 — B. A cobertura deve corresponder ao trecho literal, não apenas ao capítulo geral. TJ10 — B. O próprio edital estabelece a regra de corte e o tratamento da legislação superveniente ou complementar.
 
+
+
+### Mapa de artigos das Normas da Corregedoria
+
+A tabela abaixo foi construída a partir do índice oficial do Tomo I disponibilizado pelo TJSP. Ela serve para localizar o recorte, não substitui a leitura dos artigos. **Fonte oficial:** [Normas Judiciais da Corregedoria — texto atualizado até 22/10/2026](https://portal.tjsp.jus.br/Corregedoria/Comunicados/NormasJudiciais).
+
+| Trecho do edital | Intervalo no índice oficial | Assunto indicado no índice |
+|---|---:|---|
+| Cap. II, Seção I e subseções I–II | arts. 5º–19 | Atribuições da função correcional; correições; apurações preliminares, sindicâncias e processos administrativos |
+| Cap. II, Seção II | arts. 20–25 | Livros e classificadores obrigatórios |
+| Cap. III, Seção I | arts. 26–27 | Disposições iniciais |
+| Cap. III, Seção II | arts. 28–29 | Atribuições |
+| Cap. III, Seção V | arts. 46–62 | Sistema informatizado oficial; segurança; cadastramento, movimentação e controle eletrônico de processos e incidentes |
+| Cap. III, Seção VI | arts. 63–79 | Livros e classificadores obrigatórios |
+| Cap. III, Seção VII | arts. 80–86 | Escrituração |
+| Cap. III, Seção VIII, subseções I–III | arts. 87–99; a seção vai até 102 | Autuação e volumes; recepção e juntada de petições; atos e termos; movimentação dos autos |
+| Cap. III, Seção IX | art. 103 | Papéis em andamento ou findos |
+| Cap. III, Seção X | art. 104 | Certidões |
+| Cap. III, Seção XI | arts. 105–110 | Mandados |
+| Cap. III, Seção XII | art. 111 | Ofícios |
+| Cap. III, Seção XIII | arts. 112–121 e dispositivos correlatos | Comunicações oficiais, transmissão de informações processuais e atos por meio eletrônico |
+| Cap. III, Seção XIV | arts. 122–131 | Cartas precatórias, rogatórias e arbitrais |
+| Cap. III, Seção XV | arts. 132–142 | Intimações |
+| Cap. III, Seção XVI | arts. 143–156-A | Audiências em geral |
+| Cap. III, Seção XVII | arts. 157–169 | Consulta e carga dos autos |
+| Cap. III, Seção XVIII | arts. 170–175 | Desentranhamento de peças e documentos |
+| Cap. III, Seção XIX | arts. 176–189-G | Arquivamento, rearquivamento, desarquivamento e pesquisa histórica de acervo arquivado |
+| Cap. XI, Seção I | arts. 1.189–1.195 | Sistema de processamento eletrônico |
+| Cap. XI, Seção II | arts. 1.196–1.208 | Peticionamento eletrônico; indisponibilidade do sistema; exceções |
+| Cap. XI, Seção III | arts. 1.209–1.219 | Distribuição |
+| Cap. XI, Seção IV | arts. 1.220–1.223 | Protocolo de petições intermediárias |
+| Cap. XI, Seção V | arts. 1.224–1.227 | Consulta às movimentações processuais e decisões |
+| Cap. XI, Seção VI | arts. 1.228–1.289 | Tramitação de processos eletrônicos e providências do ofício de justiça |
+| Cap. XI, Seção VII | arts. 1.290–1.301 | Precatórios e requisições de pequeno valor |
+
+**Como usar a tabela:** marque o artigo inicial e o final no texto oficial; confirme todas as subseções exigidas; depois transforme cada trecho em fichas de regra, sujeito, procedimento, prazo, exceção e consequência. O título da seção ajuda a orientar, mas não substitui o conteúdo normativo.
+
+### Alertas de versão e data de corte
+
+- O portal oficial indica que o Tomo I consultado está atualizado até **22/10/2026**. O edital de Escrevente foi publicado antes dessa atualização, em **14/10/2026**. Portanto, é necessário identificar quais mudanças ocorreram entre essas datas e aplicar a regra de corte do edital; não se deve presumir que toda alteração posterior entra ou fica fora automaticamente.
+- A versão compilada do [Regimento Interno do TJSP](https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/RegimentoInternoTJSP.pdf) encontrada na Biblioteca está identificada como compilada em **30/04/2026**. O [Assento Regimental nº 597/2026, publicado no DJE de 22/10/2026](https://www.tjsp.jus.br/atc/dejesp/consultaSimples.do?cdCaderno=10&cdVolume=4545&nuDiario=4545&nuSeqpagina=1), altera os arts. 31, 32, 42, 46, § 4º, 190, 191, 192 e 200, e revoga o art. 285. Esses dispositivos precisam ser comparados com a regra temporal do edital antes de homologar o capítulo.
+- A ficha oficial da [Resolução TJSP nº 850/2021](https://esaj.tjsp.jus.br/gcn-frontend-vue/legislacao/find/196070) informa compilação atualizada em 25/04/2022 e há alteração identificada pela Resolução nº 864/2022. A atualização do resumo exige confirmar se existem atos posteriores pertinentes, sem ampliar automaticamente o conteúdo cobrado.
+- A ficha oficial da [Resolução TJSP nº 963/2025](https://esaj.tjsp.jus.br/gcn-frontend-vue/legislacao/find/229313) remete ao [Provimento CSM nº 2.834/2026](https://esaj.tjsp.jus.br/gcn-frontend-vue/legislacao/find/243065), publicado em 11/06/2026, que disciplina o Comitê Gestor do eproc e a gestão de demandas. Como o edital lista expressamente a Resolução nº 963/2025, o papel do provimento deve ser registrado como referência correlata e conferido com o escopo literal do edital, não incorporado silenciosamente como novo tópico.
+
+**Ponto de validação humana:** decidir, à luz da cláusula de legislação do edital, o tratamento das alterações publicadas depois de 14/10/2026; confirmar a versão do Regimento e das Normas aplicável; revisar a correspondência entre cada seção da apostila e o texto oficial. Até essa conferência, a legislação interna permanece em desenvolvimento.
+
+
 ---
 
 ## Matemática e Raciocínio Lógico — rotina de solução
