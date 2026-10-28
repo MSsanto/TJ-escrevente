@@ -95,3 +95,10 @@ A consulta às fontes oficiais revelou um ponto que exige controle explícito de
 - A ficha oficial da [Resolução TJSP nº 850/2021](https://esaj.tjsp.jus.br/gcn-frontend-vue/legislacao/find/196070) está identificada como compilada em 25/04/2022 e aponta alteração pela Resolução nº 864/2022. Confirmar eventuais atos posteriores pertinentes antes de homologar.
 - A ficha oficial da [Resolução TJSP nº 963/2025](https://esaj.tjsp.jus.br/gcn-frontend-vue/legislacao/find/229313) remete ao [Provimento CSM nº 2.834/2026](https://esaj.tjsp.jus.br/gcn-frontend-vue/legislacao/find/243065), de 11/06/2026. A relação entre o ato listado no edital e o provimento correlato deve ser documentada, sem ampliar silenciosamente o escopo.
 
+
+
+### Correção de cobertura LBI — 28/10/2026
+
+A conferência do Anexo VIII identificou que o recorte da Lei nº 13.146/2015 inclui **arts. 1º–13, 34–38 e 79–87**. A versão anterior do caderno não desenvolvia os arts. 79–87. O caderno autônomo e o volume consolidado foram atualizados com acesso à Justiça, tecnologia assistiva, serviços notariais e de registro, capacidade legal e curatela. A matriz passou a conter uma linha para cada artigo 79–87, incluindo a indicação de que o art. 82 está vetado.
+
+**Estado dessa correção:** conteúdo associado e questões acrescentadas; ainda exige revisão jurídica independente e comparação artigo a artigo com o texto oficial aplicável.
