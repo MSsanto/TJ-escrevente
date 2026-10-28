@@ -27,7 +27,7 @@ jobs:
             -v "$PWD:/data" \
             -w /data \
             pandoc/latex:3.7 \
-            --from=markdown-raw_tex \
+            --from=markdown-raw_tex+raw_attribute \
             --to=latex \
             "livros/v3/TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.md" \
             --output="build-debug.tex" \
@@ -46,7 +46,7 @@ jobs:
             -v "$PWD:/data" \
             -w /data \
             pandoc/latex:3.7 \
-            --from=markdown-raw_tex \
+            --from=markdown-raw_tex+raw_attribute \
             --pdf-engine=xelatex \
             "livros/v3/TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.md" \
             --output="livros/v3/TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.pdf" \
