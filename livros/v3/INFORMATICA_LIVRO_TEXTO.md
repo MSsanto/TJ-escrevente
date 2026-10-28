@@ -76,3 +76,38 @@ Regra prática: mantenha cópias em locais independentes, limite acesso e teste 
 **8.** Um link de arquivo deve ser compartilhado preferencialmente com: (A) acesso público por padrão (B) todas as pessoas da internet (C) as pessoas necessárias, com permissão mínima suficiente (D) edição para todos (E) credenciais enviadas no mesmo e-mail.
 
 **Gabarito comentado:** 6. **A** — transições conectam slides. 7. **C** — a navegação privada não garante anonimato externo. 8. **C** — aplique o princípio do menor privilégio.
+
+## Complemento obrigatório — lista operacional do Anexo VIII
+
+O edital especifica Windows 10 ou superior; pastas, diretórios, arquivos, atalhos, área de trabalho e transferência, manipulação de arquivos, menus e aplicativos; integração com Microsoft 365; Word; Excel, incluindo fórmulas, funções e macros; correio eletrônico; internet e URL; Teams; OneDrive.
+
+### Windows
+Pratique criar, renomear, copiar, mover, excluir e restaurar arquivos; distinguir arquivo, pasta, diretório e atalho; usar área de transferência, menus, pesquisa e aplicativos; reconhecer extensão, caminho e lixeira. Atalho não é cópia do arquivo original. A área de transferência mantém temporariamente conteúdo copiado/cortado.
+
+### Word — documentos e impressão
+Cobrir estrutura do documento; edição e formatação; cabeçalhos; parágrafos; fontes; colunas; marcadores e numeração; tabelas; impressão; quebras e numeração de páginas; legendas; índices; inserção de objetos; campos predefinidos e caixas de texto. Diferencie quebra de página de parágrafo vazio, cabeçalho de corpo do texto, legenda de título manual e sumário automático de lista digitada. Revise visualização de impressão e opções de intervalo/páginas.
+
+### Excel — fórmulas, funções e macros
+- Células, linhas, colunas, planilhas, pasta de trabalho e gráficos.
+- Fórmulas começam com sinal de igual; revise operadores e referências relativas, absolutas e mistas.
+- Funções comuns para treino: SOMA, MÉDIA, MÍNIMO, MÁXIMO, SE e CONT.SE, conferindo nomes e disponibilidade na versão/idioma instalado.
+- Ordenação e classificação de dados; filtros não alteram necessariamente a ordem subjacente.
+- Gráficos: seleção da fonte, séries, categorias, legenda e eixo.
+- Dados externos: origem, atualização, permissões e consistência.
+- Impressão: área de impressão, orientação, escala, quebras de página, títulos repetidos quando aplicável.
+- Macros: sequência automatizada de ações/código; risco de execução de conteúdo não confiável. Não habilite macro desconhecida só porque o arquivo foi recebido por e-mail.
+
+### Correio eletrônico e Internet
+Pratique criar, responder, encaminhar, anexar e enviar mensagens. Diferencie Para, Cc e Cco; assunto; anexo; link; URL; site; navegador; mecanismo de busca. Confirme destinatário e arquivo antes de enviar. A URL identifica o endereço do recurso; links podem apontar para outros recursos ou domínios. Saiba pesquisar e imprimir páginas.
+
+### Teams e OneDrive
+No Teams: chats, chamadas de áudio/vídeo, criação de grupos, colaboração com Word/Excel/PowerPoint/SharePoint/OneNote, agendamento e gravação de reuniões. Verifique permissões e a política do organizador para gravação. No OneDrive: armazenamento, sincronização e compartilhamento; diferencie link de acesso de cópia local, permissões de leitura/edição e compartilhamento público/restrito.
+
+### Exercícios adicionais
+**1.** No Excel, uma fórmula que precisa manter fixa a coluna A ao copiar para outra coluna pode usar: (A) A1; (B) $A1; (C) A$1; (D) #A1; (E) =A.
+**2.** Uma macro recebida em arquivo inesperado deve ser: (A) habilitada automaticamente; (B) executada para ver o conteúdo; (C) tratada como potencial risco e verificada antes de habilitar; (D) encaminhada a todos; (E) salva como imagem.
+**3.** No Word, para que o texto comece em uma nova página sem inserir linhas vazias repetidas, use preferencialmente: (A) quebra de página; (B) muitos espaços; (C) vários parágrafos vazios; (D) coluna vazia; (E) comentário.
+**Gabarito:** 1-B; 2-C; 3-A.
+
+### Pendências
+Confirmar a versão/idioma do Microsoft 365 usado como referência, criar exercícios práticos com capturas/arquivos de treino e validar todos os gabaritos em instalação real.
