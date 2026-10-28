@@ -5,7 +5,7 @@
 
 ## Resultado executivo
 
-A biblioteca foi ampliada e a cobertura programática foi mapeada para os livros, mas **não está homologada nem pode ser anunciada como 100% coberta em profundidade**. A matriz anterior possuía 937 linhas; 926 estavam explicitamente marcadas como não homologadas. A nova matriz reúne 993 linhas: as 937 referências anteriores, cinco dispositivos com sufixos identificados na revisão inicial e 51 tópicos não jurídicos/redação.
+A biblioteca foi ampliada e a cobertura programática foi mapeada para os livros, mas **não está homologada nem pode ser anunciada como 100% coberta em profundidade**. A matriz anterior possuía 937 linhas; 926 estavam explicitamente marcadas como não homologadas. A nova matriz reúne 998 linhas: as 937 referências anteriores, cinco dispositivos com sufixos identificados na revisão inicial e 51 tópicos não jurídicos/redação.
 
 Nova matriz: [MATRIZ_COBERTURA_ANEXO_VIII_2026-10-28.csv](MATRIZ_COBERTURA_ANEXO_VIII_2026-10-28.csv).
 
