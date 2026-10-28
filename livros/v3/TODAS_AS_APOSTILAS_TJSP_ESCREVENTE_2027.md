@@ -3718,6 +3718,592 @@ Em política e instituições, identifique o órgão, a competência, a decisão
 Uma ficha de atualidades só deve ser considerada revisada quando o candidato consegue explicar o acontecimento sem ler a manchete e responder: o que ocorreu, quando, segundo qual fonte, por que importa e o que ainda não se sabe. A seleção precisa ser atualizada até perto da prova; o material não pode prometer cobertura de acontecimentos futuros.
 
 
+
+---
+
+# Plano de estudo em 20 semanas
+
+Este plano replica a organização semanal da referência enviada, mas usa o conteúdo do **Edital nº 02/2026 — Escrevente**. As datas são um calendário-base de 20 semanas, não uma confirmação da data oficial da prova. Ajuste a última semana ao cronograma publicado pela VUNESP. A distribuição é flexível: se uma sessão for perdida, transfira a atividade, sem eliminar a revisão dos erros.
+
+## Semana 1 — leitura de base
+
+**Período sugerido:** 26/10–01/11/2026
+
+**Foco:** Português: compreensão, informação literal, inferência e ponto de vista. Constituição: leitura orientada do recorte do art. 5º. LBI: arts. 1º–3º.
+
+**Sessões de estudo:**
+
+- **Sessão A — leitura orientada:** Leia os capítulos correspondentes, marque evidências textuais e faça um mapa de direitos e conceitos. Resolva questões sem consultar o gabarito.
+- **Sessão B — recuperação ativa:** feche a apostila e explique os conceitos em voz alta ou por escrito, sem consulta.
+- **Sessão C — questões:** resolva questões do tópico e justifique cada alternativa errada.
+- **Sessão D — revisão:** retome erros de D+1 e D+7; confira os artigos e fórmulas que falharam.
+
+**Entrega da semana:** Explicar a diferença entre informação explícita e inferência; definir pessoa com deficiência, barreira e acessibilidade.
+
+**Erros que preciso revisar:**
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+**Pergunta que ainda não consigo responder sem consulta:**
+
+__________________________________________________________________
+
+**Revisão programada:** D+1 ________  D+7 ________  D+21 ________
+
+\newpage
+
+## Semana 2 — coesão, números e lógica
+
+**Período sugerido:** 02/11–08/11/2026
+
+**Foco:** Português: coesão, referenciação e conectivos. Matemática: operações com reais, divisibilidade, MMC e MDC. Raciocínio Lógico: sequências.
+
+**Sessões de estudo:**
+
+- **Sessão A — leitura orientada:** Monte uma tabela de conectivos; resolva problemas de MMC/MDC e identifique a regra de cada sequência antes de calcular o próximo termo.
+- **Sessão B — recuperação ativa:** feche a apostila e explique os conceitos em voz alta ou por escrito, sem consulta.
+- **Sessão C — questões:** resolva questões do tópico e justifique cada alternativa errada.
+- **Sessão D — revisão:** retome erros de D+1 e D+7; confira os artigos e fórmulas que falharam.
+
+**Entrega da semana:** Resolver um problema numérico e justificar por que a regra da sequência é válida.
+
+**Erros que preciso revisar:**
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+**Pergunta que ainda não consigo responder sem consulta:**
+
+__________________________________________________________________
+
+**Revisão programada:** D+1 ________  D+7 ________  D+21 ________
+
+\newpage
+
+## Semana 3 — proporção e ferramentas digitais
+
+**Período sugerido:** 09/11–15/11/2026
+
+**Foco:** Matemática: razão, proporção, porcentagem e regra de três. Informática: Windows e estrutura de documentos no Word.
+
+**Sessões de estudo:**
+
+- **Sessão A — leitura orientada:** Pratique porcentagem com desconto e aumento; no computador, organize pastas, use atalhos, estilos, cabeçalhos e impressão em ambiente de teste.
+- **Sessão B — recuperação ativa:** feche a apostila e explique os conceitos em voz alta ou por escrito, sem consulta.
+- **Sessão C — questões:** resolva questões do tópico e justifique cada alternativa errada.
+- **Sessão D — revisão:** retome erros de D+1 e D+7; confira os artigos e fórmulas que falharam.
+
+**Entrega da semana:** Resolver cinco problemas de proporção e produzir um documento com títulos estruturados.
+
+**Erros que preciso revisar:**
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+**Pergunta que ainda não consigo responder sem consulta:**
+
+__________________________________________________________________
+
+**Revisão programada:** D+1 ________  D+7 ________  D+21 ________
+
+\newpage
+
+## Semana 4 — gramática e direitos sociais
+
+**Período sugerido:** 16/11–22/11/2026
+
+**Foco:** Português: classes de palavras e sintaxe. Constituição: direitos sociais e nacionalidade, conforme o recorte do edital.
+
+**Sessões de estudo:**
+
+- **Sessão A — leitura orientada:** Identifique função e sentido das palavras em frases reais; leia os artigos constitucionais indicados e compare as categorias sem misturar os capítulos.
+- **Sessão B — recuperação ativa:** feche a apostila e explique os conceitos em voz alta ou por escrito, sem consulta.
+- **Sessão C — questões:** resolva questões do tópico e justifique cada alternativa errada.
+- **Sessão D — revisão:** retome erros de D+1 e D+7; confira os artigos e fórmulas que falharam.
+
+**Entrega da semana:** Explicar a diferença entre direito social e nacionalidade e justificar a classe de uma palavra pelo contexto.
+
+**Erros que preciso revisar:**
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+**Pergunta que ainda não consigo responder sem consulta:**
+
+__________________________________________________________________
+
+**Revisão programada:** D+1 ________  D+7 ________  D+21 ________
+
+\newpage
+
+## Semana 5 — cálculo e Excel
+
+**Período sugerido:** 23/11–29/11/2026
+
+**Foco:** Matemática: médias, juros simples, equações, sistemas, tabelas, gráficos e medidas. Informática: fórmulas, funções, classificação e gráficos no Excel.
+
+**Sessões de estudo:**
+
+- **Sessão A — leitura orientada:** Resolva problemas mostrando as etapas; crie uma planilha fictícia, teste referências relativas e absolutas, classifique registros e gere um gráfico.
+- **Sessão B — recuperação ativa:** feche a apostila e explique os conceitos em voz alta ou por escrito, sem consulta.
+- **Sessão C — questões:** resolva questões do tópico e justifique cada alternativa errada.
+- **Sessão D — revisão:** retome erros de D+1 e D+7; confira os artigos e fórmulas que falharam.
+
+**Entrega da semana:** Conferir uma equação substituindo a solução e explicar a diferença entre média simples e ponderada.
+
+**Erros que preciso revisar:**
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+**Pergunta que ainda não consigo responder sem consulta:**
+
+__________________________________________________________________
+
+**Revisão programada:** D+1 ________  D+7 ________  D+21 ________
+
+\newpage
+
+## Semana 6 — falsidades e norma-padrão
+
+**Período sugerido:** 30/11–06/12/2026
+
+**Foco:** Direito Penal: CP, arts. 293–305. Português: concordância verbal e nominal, regência e crase.
+
+**Sessões de estudo:**
+
+- **Sessão A — leitura orientada:** Faça uma ficha para cada grupo de falsidade: objeto, verbo, sujeito e distinção próxima. Em Português, identifique sujeito e regência antes de decidir a forma correta.
+- **Sessão B — recuperação ativa:** feche a apostila e explique os conceitos em voz alta ou por escrito, sem consulta.
+- **Sessão C — questões:** resolva questões do tópico e justifique cada alternativa errada.
+- **Sessão D — revisão:** retome erros de D+1 e D+7; confira os artigos e fórmulas que falharam.
+
+**Entrega da semana:** Distinguir falsidade material, falsidade ideológica e uso de documento falso conforme os artigos aplicáveis.
+
+**Erros que preciso revisar:**
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+**Pergunta que ainda não consigo responder sem consulta:**
+
+__________________________________________________________________
+
+**Revisão programada:** D+1 ________  D+7 ________  D+21 ________
+
+\newpage
+
+## Semana 7 — identidade, certame e LBI
+
+**Período sugerido:** 07/12–13/12/2026
+
+**Foco:** Direito Penal: arts. 307, 308 e 311-A. LBI: arts. 4º–13 e 34–38.
+
+**Sessões de estudo:**
+
+- **Sessão A — leitura orientada:** Leia os artigos completos, compare os tipos penais e crie exemplos de barreira, adaptação razoável, acessibilidade e inclusão no trabalho.
+- **Sessão B — recuperação ativa:** feche a apostila e explique os conceitos em voz alta ou por escrito, sem consulta.
+- **Sessão C — questões:** resolva questões do tópico e justifique cada alternativa errada.
+- **Sessão D — revisão:** retome erros de D+1 e D+7; confira os artigos e fórmulas que falharam.
+
+**Entrega da semana:** Explicar por que deficiência não implica incapacidade civil automática e apontar a diferença entre os tipos estudados.
+
+**Erros que preciso revisar:**
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+**Pergunta que ainda não consigo responder sem consulta:**
+
+__________________________________________________________________
+
+**Revisão programada:** D+1 ________  D+7 ________  D+21 ________
+
+\newpage
+
+## Semana 8 — crimes funcionais e Estatuto
+
+**Período sugerido:** 14/12–20/12/2026
+
+**Foco:** Direito Penal: arts. 312–317. Direito Administrativo: Estatuto estadual, arts. 1º–86.
+
+**Sessões de estudo:**
+
+- **Sessão A — leitura orientada:** Estude os tipos penais por verbo nuclear e requisito. No Estatuto, faça mapa das seções incluídas e registre deveres, direitos e formas de provimento conforme o texto oficial.
+- **Sessão B — recuperação ativa:** feche a apostila e explique os conceitos em voz alta ou por escrito, sem consulta.
+- **Sessão C — questões:** resolva questões do tópico e justifique cada alternativa errada.
+- **Sessão D — revisão:** retome erros de D+1 e D+7; confira os artigos e fórmulas que falharam.
+
+**Entrega da semana:** Distinguir peculato, concussão e corrupção passiva com base nos elementos legais.
+
+**Erros que preciso revisar:**
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+**Pergunta que ainda não consigo responder sem consulta:**
+
+__________________________________________________________________
+
+**Revisão programada:** D+1 ________  D+7 ________  D+21 ________
+
+\newpage
+
+## Semana 9 — Administração e processo civil
+
+**Período sugerido:** 21/12–27/12/2026
+
+**Foco:** Direito Penal: arts. 319–333, 336 e 337. Processo Civil: CPC, arts. 144–155.
+
+**Sessões de estudo:**
+
+- **Sessão A — leitura orientada:** Compare crimes funcionais e delitos de particulares contra a Administração. No CPC, monte tabela de impedimento, suspeição e auxiliares da Justiça.
+- **Sessão B — recuperação ativa:** feche a apostila e explique os conceitos em voz alta ou por escrito, sem consulta.
+- **Sessão C — questões:** resolva questões do tópico e justifique cada alternativa errada.
+- **Sessão D — revisão:** retome erros de D+1 e D+7; confira os artigos e fórmulas que falharam.
+
+**Entrega da semana:** Resolver casos identificando sujeito, conduta, fundamento legal e consequência.
+
+**Erros que preciso revisar:**
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+**Pergunta que ainda não consigo responder sem consulta:**
+
+__________________________________________________________________
+
+**Revisão programada:** D+1 ________  D+7 ________  D+21 ________
+
+\newpage
+
+## Semana 10 — CPP e informática colaborativa
+
+**Período sugerido:** 28/12/2026–03/01/2027
+
+**Foco:** Processo Penal: CPP, arts. 251–274. Informática: e-mail, Internet, Teams, OneDrive e segurança.
+
+**Sessões de estudo:**
+
+- **Sessão A — leitura orientada:** Identifique o sujeito de cada regra do CPP. Pratique anexos, permissões, reuniões e compartilhamento de arquivo sem usar dados reais ou confidenciais.
+- **Sessão B — recuperação ativa:** feche a apostila e explique os conceitos em voz alta ou por escrito, sem consulta.
+- **Sessão C — questões:** resolva questões do tópico e justifique cada alternativa errada.
+- **Sessão D — revisão:** retome erros de D+1 e D+7; confira os artigos e fórmulas que falharam.
+
+**Entrega da semana:** Distinguir atribuições do juiz, Ministério Público, acusado e defensor; reconhecer sinais de phishing.
+
+**Erros que preciso revisar:**
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+**Pergunta que ainda não consigo responder sem consulta:**
+
+__________________________________________________________________
+
+**Revisão programada:** D+1 ________  D+7 ________  D+21 ________
+
+\newpage
+
+## Semana 11 — atos processuais e redação
+
+**Período sugerido:** 04/01–10/01/2027
+
+**Foco:** Processo Civil: CPC, arts. 188–275. Redação: planejamento, tese, desenvolvimento, coesão e revisão.
+
+**Sessões de estudo:**
+
+- **Sessão A — leitura orientada:** Construa linha do tempo para citação e intimação; escreva um texto de treino e aplique a rubrica oficial de autoavaliação.
+- **Sessão B — recuperação ativa:** feche a apostila e explique os conceitos em voz alta ou por escrito, sem consulta.
+- **Sessão C — questões:** resolva questões do tópico e justifique cada alternativa errada.
+- **Sessão D — revisão:** retome erros de D+1 e D+7; confira os artigos e fórmulas que falharam.
+
+**Entrega da semana:** Explicar a diferença entre citação e intimação e entregar uma redação revisada.
+
+**Erros que preciso revisar:**
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+**Pergunta que ainda não consigo responder sem consulta:**
+
+__________________________________________________________________
+
+**Revisão programada:** D+1 ________  D+7 ________  D+21 ________
+
+\newpage
+
+## Semana 12 — tutelas e procedimento comum
+
+**Período sugerido:** 11/01–17/01/2027
+
+**Foco:** Processo Civil: CPC, arts. 294–311 e início do intervalo 318–538.
+
+**Sessões de estudo:**
+
+- **Sessão A — leitura orientada:** Compare tutela de urgência e de evidência. Faça um fluxograma do procedimento comum e registre as etapas com o artigo de referência.
+- **Sessão B — recuperação ativa:** feche a apostila e explique os conceitos em voz alta ou por escrito, sem consulta.
+- **Sessão C — questões:** resolva questões do tópico e justifique cada alternativa errada.
+- **Sessão D — revisão:** retome erros de D+1 e D+7; confira os artigos e fórmulas que falharam.
+
+**Entrega da semana:** Identificar os pressupostos da tutela de urgência e localizar a fase processual descrita no enunciado.
+
+**Erros que preciso revisar:**
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+**Pergunta que ainda não consigo responder sem consulta:**
+
+__________________________________________________________________
+
+**Revisão programada:** D+1 ________  D+7 ________  D+21 ________
+
+\newpage
+
+## Semana 13 — procedimento penal e júri
+
+**Período sugerido:** 18/01–24/01/2027
+
+**Foco:** Processo Penal: CPP, arts. 394–497.
+
+**Sessões de estudo:**
+
+- **Sessão A — leitura orientada:** Leia a sequência dos procedimentos, separe o procedimento comum do rito do Tribunal do Júri e faça um quadro de decisões e fases.
+- **Sessão B — recuperação ativa:** feche a apostila e explique os conceitos em voz alta ou por escrito, sem consulta.
+- **Sessão C — questões:** resolva questões do tópico e justifique cada alternativa errada.
+- **Sessão D — revisão:** retome erros de D+1 e D+7; confira os artigos e fórmulas que falharam.
+
+**Entrega da semana:** Descrever o fluxo do procedimento do júri sem confundi-lo com o rito comum.
+
+**Erros que preciso revisar:**
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+**Pergunta que ainda não consigo responder sem consulta:**
+
+__________________________________________________________________
+
+**Revisão programada:** D+1 ________  D+7 ________  D+21 ________
+
+\newpage
+
+## Semana 14 — justiça penal e responsabilidade funcional
+
+**Período sugerido:** 25/01–31/01/2027
+
+**Foco:** Direito Penal: arts. 339–347, 357 e 359. Direito Administrativo: Estatuto, arts. 171–175 e 239–323.
+
+**Sessões de estudo:**
+
+- **Sessão A — leitura orientada:** Compare os crimes contra a Administração da Justiça. No Estatuto, monte linha do tempo para responsabilidades, penalidades, prazos e procedimento, sempre conferindo o artigo.
+- **Sessão B — recuperação ativa:** feche a apostila e explique os conceitos em voz alta ou por escrito, sem consulta.
+- **Sessão C — questões:** resolva questões do tópico e justifique cada alternativa errada.
+- **Sessão D — revisão:** retome erros de D+1 e D+7; confira os artigos e fórmulas que falharam.
+
+**Entrega da semana:** Distinguir denunciação caluniosa, comunicação falsa de crime e falso testemunho; localizar a regra disciplinar aplicável.
+
+**Erros que preciso revisar:**
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+**Pergunta que ainda não consigo responder sem consulta:**
+
+__________________________________________________________________
+
+**Revisão programada:** D+1 ________  D+7 ________  D+21 ________
+
+\newpage
+
+## Semana 15 — CPC, medidas e geometria
+
+**Período sugerido:** 01/02–07/02/2027
+
+**Foco:** Processo Civil: CPC, arts. 318–538 e 994–1026. Matemática: sistemas de medidas, perímetro, área, volume e Pitágoras.
+
+**Sessões de estudo:**
+
+- **Sessão A — leitura orientada:** Organize o procedimento comum, cumprimento de sentença e recursos. Resolva problemas de geometria identificando unidade e fórmula antes de calcular.
+- **Sessão B — recuperação ativa:** feche a apostila e explique os conceitos em voz alta ou por escrito, sem consulta.
+- **Sessão C — questões:** resolva questões do tópico e justifique cada alternativa errada.
+- **Sessão D — revisão:** retome erros de D+1 e D+7; confira os artigos e fórmulas que falharam.
+
+**Entrega da semana:** Diferenciar recurso de cumprimento de sentença e conferir a solução de um problema geométrico.
+
+**Erros que preciso revisar:**
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+**Pergunta que ainda não consigo responder sem consulta:**
+
+__________________________________________________________________
+
+**Revisão programada:** D+1 ________  D+7 ________  D+21 ________
+
+\newpage
+
+## Semana 16 — Juizados e recursos penais
+
+**Período sugerido:** 08/02–14/02/2027
+
+**Foco:** Processo Civil: Lei nº 9.099/1995, arts. 3º–19, e Lei nº 12.153/2009. Processo Penal: CPP, arts. 574–667.
+
+**Sessões de estudo:**
+
+- **Sessão A — leitura orientada:** Compare os regimes dos Juizados e revise recursos e nulidades penais. Não transporte prazos entre diplomas sem fundamento legal.
+- **Sessão B — recuperação ativa:** feche a apostila e explique os conceitos em voz alta ou por escrito, sem consulta.
+- **Sessão C — questões:** resolva questões do tópico e justifique cada alternativa errada.
+- **Sessão D — revisão:** retome erros de D+1 e D+7; confira os artigos e fórmulas que falharam.
+
+**Entrega da semana:** Explicar a diferença entre recurso, nulidade e procedimento especial.
+
+**Erros que preciso revisar:**
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+**Pergunta que ainda não consigo responder sem consulta:**
+
+__________________________________________________________________
+
+**Revisão programada:** D+1 ________  D+7 ________  D+21 ________
+
+\newpage
+
+## Semana 17 — Juizado Criminal e revisão de inclusão
+
+**Período sugerido:** 15/02–21/02/2027
+
+**Foco:** Processo Penal: Lei nº 9.099/1995, arts. 60–83, 88 e 89. LBI: revisão dos arts. 1º–13 e 34–38.
+
+**Sessões de estudo:**
+
+- **Sessão A — leitura orientada:** Faça mapa de competência, institutos e etapas do Juizado Criminal. Resolva questões da LBI com foco em barreiras, acessibilidade, capacidade e trabalho.
+- **Sessão B — recuperação ativa:** feche a apostila e explique os conceitos em voz alta ou por escrito, sem consulta.
+- **Sessão C — questões:** resolva questões do tópico e justifique cada alternativa errada.
+- **Sessão D — revisão:** retome erros de D+1 e D+7; confira os artigos e fórmulas que falharam.
+
+**Entrega da semana:** Identificar o recorte legal correto em um caso e justificar a resposta com o dispositivo.
+
+**Erros que preciso revisar:**
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+**Pergunta que ainda não consigo responder sem consulta:**
+
+__________________________________________________________________
+
+**Revisão programada:** D+1 ________  D+7 ________  D+21 ________
+
+\newpage
+
+## Semana 18 — atos internos e carreira
+
+**Período sugerido:** 22/02–28/02/2027
+
+**Foco:** Legislação Interna: Resoluções nº 850/2021 e nº 963/2025; LC nº 1.111/2010.
+
+**Sessões de estudo:**
+
+- **Sessão A — leitura orientada:** Leia as versões oficiais aplicáveis, registre data de corte, objeto, abrangência, sujeitos, procedimento e exceções. Não marque seção como concluída sem referência exata.
+- **Sessão B — recuperação ativa:** feche a apostila e explique os conceitos em voz alta ou por escrito, sem consulta.
+- **Sessão C — questões:** resolva questões do tópico e justifique cada alternativa errada.
+- **Sessão D — revisão:** retome erros de D+1 e D+7; confira os artigos e fórmulas que falharam.
+
+**Entrega da semana:** Produzir uma ficha rastreável para cada ato e registrar as dúvidas normativas remanescentes.
+
+**Erros que preciso revisar:**
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+**Pergunta que ainda não consigo responder sem consulta:**
+
+__________________________________________________________________
+
+**Revisão programada:** D+1 ________  D+7 ________  D+21 ________
+
+\newpage
+
+## Semana 19 — Regimento, Corregedoria e atualidades
+
+**Período sugerido:** 01/03–07/03/2027
+
+**Foco:** Legislação Interna: Regimento Interno e seções/subseções das Normas da Corregedoria previstas no edital. Atualidades: fatos desde o 1º semestre de 2026.
+
+**Sessões de estudo:**
+
+- **Sessão A — leitura orientada:** Confira o mapa literal do Anexo VIII; transforme cada seção interna em ficha. Atualize notícias com fonte, data do fato, data da publicação e contexto.
+- **Sessão B — recuperação ativa:** feche a apostila e explique os conceitos em voz alta ou por escrito, sem consulta.
+- **Sessão C — questões:** resolva questões do tópico e justifique cada alternativa errada.
+- **Sessão D — revisão:** retome erros de D+1 e D+7; confira os artigos e fórmulas que falharam.
+
+**Entrega da semana:** Listar as seções efetivamente conferidas e explicar três acontecimentos atuais sem depender da manchete.
+
+**Erros que preciso revisar:**
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+**Pergunta que ainda não consigo responder sem consulta:**
+
+__________________________________________________________________
+
+**Revisão programada:** D+1 ________  D+7 ________  D+21 ________
+
+\newpage
+
+## Semana 20 — fechamento e simulado
+
+**Período sugerido:** 08/03–14/03/2027 — ajustar à data oficial da prova
+
+**Foco:** Revisão integrada de todas as disciplinas, questões mistas, redação e pontos fracos.
+
+**Sessões de estudo:**
+
+- **Sessão A — leitura orientada:** Faça simulado no formato e no tempo previstos no edital oficial de Escrevente. Corrija com o gabarito, revise os erros recorrentes e confira instruções, documentos e local da prova.
+- **Sessão B — recuperação ativa:** feche a apostila e explique os conceitos em voz alta ou por escrito, sem consulta.
+- **Sessão C — questões:** resolva questões do tópico e justifique cada alternativa errada.
+- **Sessão D — revisão:** retome erros de D+1 e D+7; confira os artigos e fórmulas que falharam.
+
+**Entrega da semana:** Na última semana, priorize recuperação ativa e descanso. Não introduza grande volume de conteúdo novo sem necessidade.
+
+**Erros que preciso revisar:**
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+**Pergunta que ainda não consigo responder sem consulta:**
+
+__________________________________________________________________
+
+**Revisão programada:** D+1 ________  D+7 ________  D+21 ________
+
+
 # Anexo — controle editorial e validação humana
 
 Esta compilação foi montada a partir dos arquivos da biblioteca versionada. Antes de considerar o curso pronto para uso como fonte única, é necessário:
