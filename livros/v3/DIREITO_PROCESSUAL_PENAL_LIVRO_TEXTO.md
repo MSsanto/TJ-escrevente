@@ -44,3 +44,50 @@ A) contar da data do fato. B) identificar recurso, regra específica e marco de 
 
 ## Pendências de homologação
 Conferir artigo por artigo, inclusive sufixos, prazos, quantidades, efeitos, parágrafos, alterações e revogações; revisão jurídica independente; calibrar questões ao padrão Vunesp.
+
+## Mapa operacional dos intervalos cobrados
+
+| Intervalo | O que conferir no texto legal |
+|---|---|
+| 251–256 | Poderes e deveres do juiz; impedimento/suspeição; efeitos e procedimento aplicável. |
+| 257–258 | Funções e impedimentos do Ministério Público. |
+| 261–267 | Defesa técnica obrigatória, nomeação e atuação do defensor, abandono/substituição e demais garantias previstas no recorte. |
+| 274 | Regra aplicável a funcionários/auxiliares da Justiça e remissão legal sobre suspeição. |
+| 351–372 | Citação e intimação: destinatário, forma, mandado, cumprimento, citação por edital, acusado ausente, atos no exterior e comunicação dos atos, conforme cada artigo vigente. |
+| 394–405 | Procedimento comum: classificação, prioridade, rejeição, resposta, absolvição sumária, audiência, prova, alegações finais e sentença. Inclui arts. 394-A, 396-A e 400-A. |
+| 406–412 | Início da primeira fase do Júri, resposta, instrução e encerramento. |
+| 413–419 | Pronúncia, impronúncia, absolvição sumária e desclassificação; requisitos e efeitos de cada decisão. |
+| 420–431 | Intimações, preparação do julgamento, desaforamento e providências anteriores ao plenário, conforme o texto consolidado. |
+| 432–452 | Alistamento/convocação, jurados, composição do Conselho de Sentença e impedimentos. |
+| 453–472 | Instalação e sequência dos trabalhos em plenário, chamadas, compromissos e produção da prova. |
+| 473–497 | Instrução e debates, limites legais das manifestações, quesitação, votação, sentença, atribuições do juiz presidente e disposições finais do Júri. |
+| 531–538 | Procedimento sumário: audiência, testemunhas, alegações finais, sentença e remissões ao procedimento comum. |
+| 541–548 | Restauração de autos: iniciativa, cópias/certidões, instrução, decisão e retomada do processo. |
+| 574–580 | Regras gerais dos recursos, legitimidade, interesse, voluntariedade e efeitos previstos. |
+| 581–592 | Recurso em sentido estrito: hipóteses de cabimento, processamento e prazos. |
+| 593–603 | Apelação criminal: cabimento, interposição, razões e contrarrazões. |
+| 604–667 | Demais disposições de processamento recursal, embargos e instrumentos previstos no intervalo; conferir o sumário atualizado artigo por artigo. |
+
+**Cuidado com artigos revogados ou com redação alterada:** o intervalo 574–667 contém dispositivos históricos que podem estar revogados, além de regras de recursos. A ficha de cada artigo deve indicar se está vigente, revogado ou parcialmente alterado. Não estudar somente os números do intervalo.
+
+## Lei 9.099/1995 — checklist específico
+- Arts. 60–62: organização, competência e princípios do Juizado Criminal.
+- Arts. 63–68: competência territorial e atos iniciais.
+- Arts. 69–76: termo circunstanciado, audiência preliminar, composição civil e transação penal.
+- Arts. 77–83: procedimento sumaríssimo, sentença e recurso.
+- Art. 88: representação nas hipóteses previstas em lei.
+- Art. 89: suspensão condicional do processo e seus requisitos/condições.
+- A Lei 9.099 também contém o art. 12-A sobre contagem de prazos em dias úteis, mas esse artigo está no recorte cível (arts. 3º–19), não no recorte criminal (arts. 60–83, 88 e 89).
+
+### Questões adicionais
+
+**5.** O juiz decide pronunciar o acusado porque entende presentes os requisitos legais para encaminhar a acusação ao Júri. A pronúncia:  
+A) é sentença condenatória definitiva; B) é decisão de admissibilidade para julgamento pelo Júri; C) equivale à impronúncia; D) é recurso; E) é forma de citação.
+
+**6.** Qual dispositivo inserido por letra trata do conteúdo da resposta à acusação no procedimento comum?  
+A) 394-A; B) 396-A; C) 400-A; D) 274; E) 574.
+
+**7.** Para decidir se um ato de comunicação foi regular, o candidato deve conferir:  
+A) apenas o nome do ato; B) destinatário, forma, requisitos, momento de eficácia e regra de prazo; C) somente a sentença; D) sempre o CPC; E) apenas o número de folhas.
+
+**Gabarito:** 5-B; 6-B; 7-B.
