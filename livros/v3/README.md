@@ -37,7 +37,8 @@ Estes materiais são versões iniciais de estudo, não livros certificados como 
 
 ## Volume único
 
-- [**Todas as Apostilas — compilação por matérias e capítulos (Markdown editável)**](TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.md)
+- [**Todas as Apostilas — PDF consolidado**](TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.pdf)
+- [**Todas as Apostilas — versão editável (Markdown)**](TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.md)
 - [Workflow de geração do PDF](../../.github/workflows/build-apostilas-pdf.yml)
 
-A compilação reúne os 12 cadernos/livros atuais. O PDF será considerado disponível somente depois que a geração automatizada for concluída e o arquivo binário estiver presente no repositório. A compilação não equivale à homologação jurídica ou à comprovação de cobertura integral do edital.
+A compilação reúne 12 matérias/cadernos em duas partes, com capítulos, exercícios e gabaritos. O PDF foi gerado e commitado no repositório em 28/10/2026. Isso é uma compilação editorial, não homologação jurídica nem comprovação de cobertura integral do edital.
