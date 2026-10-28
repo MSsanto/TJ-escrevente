@@ -28,7 +28,7 @@ Compare audiência, número de testemunhas, alegações finais e sentença com o
 Estude quem pode provocar a restauração, autoridade competente, obtenção de cópias/certidões, participação das partes, produção de prova, decisão e retomada do processo. Faça um fluxograma com responsáveis e documentos.
 
 ## 7. Recursos e nulidades — CPP 574–667
-Para cada recurso, anote cabimento, legitimidade, prazo, termo inicial, efeito, juízo de interposição, retratação quando prevista, razões/contrarrazões e órgão julgador. Compare apelação, recurso em sentido estrito, embargos e recursos específicos previstos no código. Não presuma que todos os recursos têm o mesmo prazo ou efeito. Leia também o regime de nulidades no trecho alcançado pelo edital.
+Para cada recurso, anote cabimento, legitimidade, prazo, termo inicial, efeito, juízo de interposição, retratação quando prevista, razões/contrarrazões e órgão julgador. Compare apelação, recurso em sentido estrito, embargos e recursos específicos previstos no código. Não presuma que todos os recursos têm o mesmo prazo ou efeito. O intervalo 574–667 é de recursos; os arts. 563–573, que concentram o regime geral de nulidades, não estão expressamente incluídos nesse recorte. Estude-os apenas quando uma remissão ou orientação oficial tornar isso necessário, sem os marcar como tópico literal do intervalo.
 
 ## 8. Juizados Especiais Criminais — Lei 9.099/1995, arts. 60–83, 88 e 89
 Estude competência, princípios, infração de menor potencial ofensivo, termo circunstanciado, audiência preliminar, composição civil, representação, transação penal, procedimento sumaríssimo, sentença e recursos. Compare composição civil, transação penal e suspensão condicional do processo: são institutos distintos, com requisitos e efeitos próprios.
