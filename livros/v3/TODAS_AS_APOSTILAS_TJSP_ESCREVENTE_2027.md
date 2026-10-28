@@ -2162,7 +2162,7 @@ E) 26 cm e 13 cm².
 - **M4 — A.** Quinze por cento de 240 é \(0,15\times240=36\). Preço final: \(240-36=204\).
 - **M5 — D.** A produção varia diretamente com pessoas e horas. \(120\times(6/4)\times(4/3)=240\).
 - **M6 — C.** Soma \(6+7+8+9=30\); divide-se por quatro: \(30/4=7,5\).
-- **M7 — B.** Média ponderada: \((7\times2+9\times3)/(2+3)=(14+27)/5=8,2\). **Correção:** o resultado correto é **D — 8,2**. Confira sempre a soma dos pesos no denominador.
+- **M7 — D.** Média ponderada: \((7\times2+9\times3)/(2+3)=(14+27)/5=8,2\). Confira sempre a soma dos pesos no denominador.
 - **M8 — C.** Juros simples: \(J=C\times i\times t=1500\times0,02\times4=120\).
 - **M9 — B.** Fatorando: \((x-2)(x-3)=0\), logo \(x=2\) ou \(x=3\).
 - **M10 — B.** Somando as equações: \(2x=22\), então \(x=11\); substituindo, \(y=6\).
