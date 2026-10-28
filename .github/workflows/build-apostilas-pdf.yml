@@ -9,6 +9,10 @@ on:
       - ".github/workflows/build-apostilas-pdf.yml"
   workflow_dispatch:
 
+concurrency:
+  group: build-consolidated-apostilas-pdf
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
