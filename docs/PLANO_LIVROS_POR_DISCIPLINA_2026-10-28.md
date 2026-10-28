@@ -34,3 +34,10 @@ O relatório de QA existente informa que a validação foi estrutural e que não
 - Continuar legislação e revisão normativa; estes livros não substituem esse trabalho.
 
 Repositório: https://github.com/MSsanto/TJ-escrevente
+
+
+## Atualização de cobertura LBI — 28/10/2026
+
+A conferência do Anexo VIII identificou que o recorte da Lei nº 13.146/2015 inclui **arts. 1º–13, 34–38 e 79–87**. O caderno LBI e o volume consolidado foram atualizados para incluir os arts. 79–87 (acesso à Justiça, tecnologia assistiva, serviços notariais e de registro, capacidade legal e curatela). A matriz de cobertura passou a conter uma linha específica para cada artigo 79–87, incluindo a indicação de que o art. 82 está vetado.
+
+**Status:** conteúdo associado e questões adicionadas; permanece pendente a revisão jurídica independente e a conferência artigo por artigo contra a versão oficial aplicável à data de corte do edital.
