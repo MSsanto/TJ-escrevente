@@ -15,6 +15,11 @@ Este volume reúne os livros-texto e cadernos existentes na biblioteca do projet
 
 **Limite importante:** reunir arquivos não significa que todo o edital esteja coberto ou que cada dispositivo legal tenha sido conferido integralmente. A matriz de cobertura e o relatório de auditoria permanecem como instrumentos de controle. Redação, Atualidades e legislação sujeita a alterações exigem revisão contínua; a validação jurídica independente e a correção humana de redações continuam pendentes.
 
+
+**Referência editorial adotada nesta revisão:** o arquivo *TJSP_2027_Todas_As_Apostilas.pdf* (237 páginas) foi usado como modelo de organização didática: objetivos, explicação, exemplos, armadilhas, exercícios, gabarito comentado e revisão ativa. Seu conteúdo jurídico é de Oficial de Justiça e do Edital nº 01/2026; por isso, não foi transplantado para este material de Escrevente.
+
+**Critério de paginação:** cada disciplina principal passa a iniciar em nova página. O número de páginas, por si só, não comprova cobertura; a qualidade será medida pelo cruzamento tópico a tópico com o Anexo VIII e pela existência de explicações e exercícios suficientes.
+
 ## Sumário
 
 
@@ -41,6 +46,8 @@ Este volume reúne os livros-texto e cadernos existentes na biblioteca do projet
 
 # PARTE I — CONHECIMENTOS GERAIS
 
+
+\\newpage
 
 ## Língua Portuguesa
 
@@ -240,6 +247,8 @@ Estude próclise, ênclise e mesóclise, considerando fatores de atração, iní
 
 ---
 
+\\newpage
+
 ## Matemática e Raciocínio Lógico
 
 **TJSP Escrevente · versão 1.0 · 28/10/2026**
@@ -404,6 +413,8 @@ Fazer bateria separada para cada um dos 13 tópicos de Matemática e cada tipo d
 
 ---
 
+\\newpage
+
 ## Informática
 
 **TJSP Escrevente · versão 1.0 · 28/10/2026**
@@ -522,6 +533,8 @@ Confirmar a versão/idioma do Microsoft 365 usado como referência, criar exerc�
 
 ---
 
+\\newpage
+
 ## Atualidades
 
 **TJSP Escrevente · versão 1.0 · 28/10/2026**
@@ -624,6 +637,8 @@ Para cada fato, registre: data de ocorrência; data da publicação; fonte origi
 
 ---
 
+\\newpage
+
 ## Estatuto da Pessoa com Deficiência (LBI)
 
 **Base:** Edital nº 02/2026, Anexo VIII, p. 62.  
@@ -725,6 +740,8 @@ A) é obrigatório para toda pessoa com deficiência; B) é facultativo e não s
 
 ---
 
+\\newpage
+
 ## Redação
 
 **TJSP Escrevente · versão 1.0 · 28/10/2026**
@@ -820,8 +837,12 @@ Correção automatizada ajuda a detectar problemas de linguagem, mas não substi
 
 ---
 
+\\newpage
+
 # PARTE II — CONHECIMENTOS JURÍDICOS
 
+
+\\newpage
 
 ## Direito Constitucional
 
@@ -913,6 +934,8 @@ E) art. 6º exclusivamente.
 
 
 ---
+
+\\newpage
 
 ## Direito Administrativo
 
@@ -1067,6 +1090,8 @@ A descrição acima foi confrontada com a página compilada da ALESP, mas não �
 
 
 ---
+
+\\newpage
 
 ## Direito Penal
 
@@ -1278,6 +1303,8 @@ E) nenhuma regra penal pode ser pertinente.
 
 ---
 
+\\newpage
+
 ## Direito Processual Civil
 
 **Base:** Edital nº 02/2026, Anexo VIII, p. 62.  
@@ -1461,6 +1488,8 @@ A) Lei 9.099/1995, art. 12-A; B) CPP, art. 400-A; C) CP, art. 313-B; D) LBI, art
 
 
 ---
+
+\\newpage
 
 ## Direito Processual Penal
 
@@ -1758,6 +1787,8 @@ A) aplicar literalmente qualquer valor em réis como moeda atual. B) concluir qu
 
 ---
 
+\\newpage
+
 ## Legislação Interna do TJSP
 
 **Base:** Edital nº 02/2026, Anexo VIII, p. 62.  
@@ -1925,6 +1956,1272 @@ As páginas do sistema de legislação do TJSP dependem de JavaScript e não per
 
 
 ---
+
+\\newpage
+
+
+
+---
+
+# Caderno complementar de prática orientada
+
+Este caderno complementar segue a lógica didática da referência de 237 páginas: situação-problema, identificação do conceito, resolução e comentário do gabarito. As questões são autorais e não são apresentadas como questões oficiais da VUNESP. Em legislação, a resposta deve sempre ser conferida na redação normativa aplicável ao edital.
+
+## Língua Portuguesa — leitura, gramática e reescrita
+
+### Texto-base
+
+> A implantação de um novo sistema reduziu o tempo de registro de solicitações. O resultado, contudo, não eliminou a necessidade de atendimento humano: usuários com dificuldades de acesso continuaram a precisar de orientação. A equipe passou, então, a combinar o canal digital com um procedimento de apoio presencial. A mudança funcionou melhor quando os responsáveis registraram as dúvidas recorrentes e corrigiram as instruções que provocavam erros.
+
+### Questões
+
+**P1.** A ideia central do texto é que:
+
+A) o atendimento humano deve ser extinto após a digitalização.  
+B) a digitalização pode melhorar o serviço, mas precisa considerar as necessidades dos usuários.  
+C) o sistema novo aumentou o tempo de registro.  
+D) as dúvidas devem ser resolvidas sem registro.  
+E) o apoio presencial impede a modernização.
+
+**P2.** O conectivo “contudo” estabelece relação de:
+
+A) causa.  
+B) finalidade.  
+C) oposição ou ressalva.  
+D) conclusão necessária.  
+E) comparação de igualdade.
+
+**P3.** Em “A equipe passou, então, a combinar o canal digital”, “então” indica principalmente:
+
+A) uma sequência decorrente do cenário descrito.  
+B) uma hipótese impossível.  
+C) uma concessão.  
+D) uma comparação.  
+E) uma negação.
+
+**P4.** A expressão “que provocavam erros” retoma:
+
+A) os responsáveis.  
+B) as dúvidas recorrentes.  
+C) as instruções.  
+D) as solicitações.  
+E) os usuários.
+
+**P5.** Assinale a alternativa em que a palavra destacada é um advérbio: “A equipe corrigiu **rapidamente** as instruções.”
+
+A) equipe.  
+B) corrigiu.  
+C) rapidamente.  
+D) instruções.  
+E) as.
+
+**P6.** Assinale a frase com concordância adequada:
+
+A) Fazem dois meses que o setor mudou.  
+B) Houveram dúvidas durante a implantação.  
+C) Existe orientações novas no portal.  
+D) Faz dois meses que o setor mudou.  
+E) Segue anexas o relatório e a planilha.
+
+**P7.** Complete adequadamente: “O servidor assistiu ___ reunião e, depois, informou o resultado ___ chefia.”
+
+A) a / a.  
+B) à / à.  
+C) à / a.  
+D) a / à.  
+E) há / à.
+
+**P8.** Qual reescrita preserva melhor o sentido de “O sistema é mais rápido, mas não atende sozinho a todos os casos”?
+
+A) O sistema é mais rápido, portanto atende sozinho a todos os casos.  
+B) Embora o sistema seja mais rápido, ele não resolve sozinho todas as situações.  
+C) O sistema é mais rápido porque atende sozinho a todos os casos.  
+D) O sistema não é rápido nem atende a qualquer caso.  
+E) O sistema é mais rápido; por isso, o atendimento humano é desnecessário.
+
+### Gabarito comentado
+
+- **P1 — B.** A conclusão preserva as duas ideias do texto: houve ganho de eficiência, mas a necessidade de apoio humano permaneceu.
+- **P2 — C.** “Contudo” introduz ressalva ou contraste em relação à afirmação anterior.
+- **P3 — A.** O termo organiza a sequência e apresenta a decisão tomada em resposta ao cenário descrito.
+- **P4 — C.** A oração adjetiva caracteriza “as instruções”: eram instruções que provocavam erros.
+- **P5 — C.** “Rapidamente” modifica o verbo e indica modo; é advérbio.
+- **P6 — D.** O verbo “fazer”, indicando tempo decorrido, é impessoal e fica no singular. “Haver”, com sentido de existir, também fica no singular.
+- **P7 — B.** No sentido de presenciar, “assistir” rege a preposição “a”; “à reunião” resulta da preposição com o artigo. “Informar algo a alguém” admite “à chefia”.
+- **P8 — B.** A reescrita conserva a oposição: rapidez não equivale a solução integral de todos os casos.
+
+### Revisão ativa de Português
+
+Antes de marcar uma alternativa, registre: (1) qual trecho do texto a sustenta; (2) qual palavra estabelece a relação lógica; (3) se a alternativa acrescenta uma conclusão que o texto não autoriza. Em gramática, identifique primeiro a função sintática e a regência; só depois decida sobre concordância, pronome ou crase.
+
+---
+
+## Matemática — resolução passo a passo
+
+**M1. Operações com números reais.** Calcule: \(18 - 3 \times (4 + 2)\).
+
+A) 0.  
+B) 6.  
+C) 12.  
+D) 36.  
+E) 90.
+
+**M2. MDC e MMC.** Dois procedimentos de manutenção se repetem a cada 12 e 18 dias. Se ocorreram hoje, depois de quantos dias voltarão a coincidir?
+
+A) 6.  
+B) 18.  
+C) 24.  
+D) 36.  
+E) 216.
+
+**M3. Razão e proporção.** Uma equipe conclui 45 registros em 3 horas, mantendo ritmo constante. Quantos registros concluirá em 5 horas?
+
+A) 60.  
+B) 65.  
+C) 70.  
+D) 75.  
+E) 90.
+
+**M4. Porcentagem.** Um material custa R$ 240,00 e recebe desconto de 15%. Qual é o preço final?
+
+A) R$ 204,00.  
+B) R$ 210,00.  
+C) R$ 216,00.  
+D) R$ 225,00.  
+E) R$ 236,40.
+
+**M5. Regra de três composta.** Quatro pessoas, trabalhando no mesmo ritmo, conferem 120 fichas em 3 horas. Quantas fichas 6 pessoas conferem em 4 horas?
+
+A) 180.  
+B) 200.  
+C) 220.  
+D) 240.  
+E) 360.
+
+**M6. Média aritmética simples.** As notas são 6, 7, 8 e 9. A média é:
+
+A) 7.  
+B) 7,25.  
+C) 7,5.  
+D) 8.  
+E) 8,5.
+
+**M7. Média ponderada.** Uma avaliação tem nota 7 com peso 2 e nota 9 com peso 3. A média ponderada é:
+
+A) 7,4.  
+B) 7,8.  
+C) 8,0.  
+D) 8,2.  
+E) 8,5.
+
+**M8. Juros simples.** Um capital de R$ 1.500,00 rende juros simples de 2% ao mês durante 4 meses. Qual é o juro?
+
+A) R$ 60,00.  
+B) R$ 90,00.  
+C) R$ 120,00.  
+D) R$ 180,00.  
+E) R$ 1.620,00.
+
+**M9. Equação do segundo grau.** As raízes de \(x^2 - 5x + 6 = 0\) são:
+
+A) 1 e 6.  
+B) 2 e 3.  
+C) -2 e -3.  
+D) 0 e 5.  
+E) -1 e -6.
+
+**M10. Sistema do primeiro grau.** Se \(x+y=17\) e \(x-y=5\), então:
+
+A) \(x=6,\ y=11\).  
+B) \(x=11,\ y=6\).  
+C) \(x=12,\ y=5\).  
+D) \(x=17,\ y=5\).  
+E) \(x=8,\ y=9\).
+
+**M11. Sistemas de medidas.** Quantos metros correspondem a 2,35 km?
+
+A) 23,5 m.  
+B) 235 m.  
+C) 2.035 m.  
+D) 2.350 m.  
+E) 23.500 m.
+
+**M12. Geometria.** Um retângulo tem 8 cm de comprimento e 5 cm de largura. Seu perímetro e sua área são, respectivamente:
+
+A) 13 cm e 40 cm².  
+B) 26 cm e 40 cm².  
+C) 40 cm e 26 cm².  
+D) 80 cm e 13 cm².  
+E) 26 cm e 13 cm².
+
+### Gabarito comentado e procedimento
+
+- **M1 — A.** Primeiro os parênteses: \(4+2=6\). Depois a multiplicação: \(3\times6=18\). Por fim, \(18-18=0\).
+- **M2 — D.** A coincidência volta no MMC de 12 e 18. Como \(12=2^2\times3\) e \(18=2\times3^2\), o MMC é \(2^2\times3^2=36\).
+- **M3 — D.** A taxa é \(45/3=15\) registros por hora. Em cinco horas: \(15\times5=75\).
+- **M4 — A.** Quinze por cento de 240 é \(0,15\times240=36\). Preço final: \(240-36=204\).
+- **M5 — D.** A produção varia diretamente com pessoas e horas. \(120\times(6/4)\times(4/3)=240\).
+- **M6 — C.** Soma \(6+7+8+9=30\); divide-se por quatro: \(30/4=7,5\).
+- **M7 — B.** Média ponderada: \((7\times2+9\times3)/(2+3)=(14+27)/5=8,2\). **Correção:** o resultado correto é **D — 8,2**. Confira sempre a soma dos pesos no denominador.
+- **M8 — C.** Juros simples: \(J=C\times i\times t=1500\times0,02\times4=120\).
+- **M9 — B.** Fatorando: \((x-2)(x-3)=0\), logo \(x=2\) ou \(x=3\).
+- **M10 — B.** Somando as equações: \(2x=22\), então \(x=11\); substituindo, \(y=6\).
+- **M11 — D.** Um quilômetro tem 1.000 metros: \(2,35\times1.000=2.350\).
+- **M12 — B.** Perímetro \(2(8+5)=26\) cm; área \(8\times5=40\) cm².
+
+### Checklist de matemática
+
+- Leia o comando e identifique a grandeza solicitada.
+- Converta porcentagens para decimal ou fração antes de calcular.
+- Em média ponderada, multiplique cada nota pelo peso e divida pela soma dos pesos.
+- Em regra de três composta, indique se cada grandeza varia direta ou inversamente.
+- Em geometria, não confunda perímetro (unidade linear) com área (unidade quadrada).
+- Faça uma estimativa: um resultado incompatível com a ordem de grandeza geralmente indica erro de cálculo.
+
+---
+
+## Raciocínio Lógico — relações, sequências e argumentos
+
+**R1. Sequência numérica.** Qual é o próximo termo: 3, 7, 11, 15, ...?
+
+A) 17. B) 18. C) 19. D) 20. E) 22.
+
+**R2. Sequência numérica.** Qual é o próximo termo: 2, 6, 18, 54, ...?
+
+A) 108. B) 126. C) 144. D) 162. E) 216.
+
+**R3. Relações arbitrárias.** Ana chegou antes de Bruno; Bruno chegou antes de Caio. Quem chegou primeiro?
+
+A) Ana. B) Bruno. C) Caio. D) Não é possível saber. E) Todos chegaram juntos.
+
+**R4. Condicional.** A regra diz: “Se o sistema cair, será aberto um incidente”. O sistema caiu. O que se conclui?
+
+A) Nenhum incidente será aberto.  
+B) Será aberto um incidente.  
+C) O sistema nunca cairá novamente.  
+D) O incidente já foi encerrado.  
+E) A regra é necessariamente falsa.
+
+**R5. Negação.** A negação lógica de “Todos os relatórios foram revisados” é:
+
+A) Nenhum relatório foi revisado.  
+B) Todos os relatórios não foram revisados.  
+C) Pelo menos um relatório não foi revisado.  
+D) Alguns relatórios foram revisados.  
+E) Os relatórios foram revisados parcialmente e integralmente.
+
+**R6. Argumentação.** Considere: “Todos os servidores da equipe A receberam treinamento. Joana pertence à equipe A.” Qual conclusão decorre das premissas?
+
+A) Joana não recebeu treinamento.  
+B) Joana recebeu treinamento.  
+C) Joana é a única treinada.  
+D) Todos os servidores do tribunal pertencem à equipe A.  
+E) Não existe equipe B.
+
+**R7. Diagrama lógico.** Todo técnico é servidor. Alguns servidores são estudantes. É necessariamente verdade que:
+
+A) todo técnico é estudante.  
+B) nenhum técnico é estudante.  
+C) todo estudante é técnico.  
+D) todo técnico pertence ao conjunto dos servidores.  
+E) nenhum servidor é técnico.
+
+**R8. Sequência figural.** Uma sequência alterna círculo, quadrado, círculo, quadrado. Qual é a quinta figura?
+
+A) Círculo. B) Quadrado. C) Triângulo. D) Retângulo. E) Não há padrão possível.
+
+### Gabarito comentado
+
+- **R1 — C.** A sequência aumenta de quatro em quatro.
+- **R2 — D.** Cada termo é o anterior multiplicado por três.
+- **R3 — A.** A relação é transitiva: Ana antes de Bruno e Bruno antes de Caio implicam Ana antes de Caio.
+- **R4 — B.** A condição foi satisfeita; aplica-se a consequência expressamente indicada.
+- **R5 — C.** Basta um relatório sem revisão para tornar falsa a afirmação universal.
+- **R6 — B.** Joana pertence à equipe A e todos dessa equipe receberam treinamento.
+- **R7 — D.** A primeira premissa estabelece a inclusão do conjunto dos técnicos no conjunto dos servidores. As demais premissas não autorizam conclusão necessária sobre técnicos serem estudantes.
+- **R8 — A.** O padrão alterna duas figuras; a quinta repete a primeira.
+
+### Método para questões de relações
+
+Monte uma tabela quando houver várias pessoas, locais, horários ou objetos. Escreva apenas as relações fornecidas, marque o que é certo e separe o que é apenas possível. Em sequências, teste diferenças, razões, alternância e repetição antes de escolher uma regra. Em argumentos, a conclusão precisa decorrer das premissas; plausibilidade cotidiana não substitui implicação lógica.
+
+---
+
+## Informática — situações de uso e segurança
+
+**I1.** No Windows, um atalho para um arquivo:
+
+A) é sempre uma cópia integral do arquivo.  
+B) aponta para um recurso e pode deixar de funcionar se o destino for movido ou excluído.  
+C) impede que o arquivo original seja alterado.  
+D) substitui a necessidade de salvar o arquivo.  
+E) só pode existir na área de trabalho.
+
+**I2.** No Word, deseja-se que o título de um documento apareça automaticamente no sumário. O recurso mais adequado é:
+
+A) aplicar um estilo de título e gerar o sumário a partir dos estilos.  
+B) inserir espaços até alinhar os números.  
+C) escrever o sumário manualmente e nunca atualizá-lo.  
+D) transformar o título em imagem.  
+E) usar apenas letras maiúsculas.
+
+**I3.** Em um documento longo, a numeração precisa começar em uma seção específica. Qual recurso pode ser necessário?
+
+A) Cor da fonte.  
+B) Quebra de seção e configuração de numeração.  
+C) Zoom da tela.  
+D) corretor ortográfico.  
+E) recuo de primeira linha apenas.
+
+**I4.** No Excel, a fórmula correta para somar de A1 até A10, em uma instalação que utiliza nomes de funções em português, é:
+
+A) =SOMA(A1:A10)  
+B) =ADICIONAR(A1-A10)  
+C) =TOTAL(A1;A10)  
+D) =SOMAR(A1,A10)  
+E) =A1:A10
+
+**I5.** Ao copiar uma fórmula que contém a referência $B$2, essa referência:
+
+A) muda sempre de coluna e linha.  
+B) mantém coluna e linha fixas.  
+C) mantém apenas a coluna fixa.  
+D) mantém apenas a linha fixa.  
+E) transforma-se em texto.
+
+**I6.** Para ordenar uma tabela de nomes por sobrenome sem separar os dados de cada pessoa, deve-se:
+
+A) selecionar apenas a coluna de sobrenomes e ordenar sem expandir a seleção.  
+B) excluir as demais colunas.  
+C) selecionar a tabela inteira ou usar o recurso de classificação reconhecendo os cabeçalhos.  
+D) converter cada linha em imagem.  
+E) ordenar manualmente uma célula por vez.
+
+**I7.** Uma macro recebida por e-mail de remetente desconhecido deve ser:
+
+A) executada imediatamente para verificar o conteúdo.  
+B) enviada a todos os colegas.  
+C) tratada como potencial risco; a origem e a necessidade devem ser verificadas antes de habilitar conteúdo.  
+D) habilitada sempre que o arquivo tiver extensão conhecida.  
+E) aberta com privilégios administrativos por padrão.
+
+**I8.** No correio eletrônico, um anexo pode ser enviado:
+
+A) apenas se o destinatário estiver na mesma rede local.  
+B) junto à mensagem, respeitados os limites e as políticas do serviço.  
+C) somente se o arquivo for impresso antes.  
+D) sem que a mensagem seja enviada.  
+E) exclusivamente por cópia oculta.
+
+**I9.** Em uma reunião no Teams, a equipe precisa compartilhar um documento colaborativo. Uma prática adequada é:
+
+A) criar múltiplas cópias sem indicar qual é a versão vigente.  
+B) compartilhar o arquivo no espaço de equipe apropriado, controlando permissões e versão.  
+C) publicar a senha do usuário no chat.  
+D) usar a conta de outra pessoa.  
+E) enviar dados sensíveis a todos os participantes sem verificar a necessidade.
+
+**I10.** Um link de redefinição de senha chega com urgência incomum e domínio semelhante, mas não idêntico, ao oficial. A ação mais segura é:
+
+A) clicar porque a mensagem é urgente.  
+B) responder informando a senha atual.  
+C) acessar o serviço pelo endereço oficial digitado ou por favorito confiável e reportar a mensagem suspeita.  
+D) encaminhar a mensagem a toda a lista de contatos.  
+E) desativar o antivírus.
+
+### Gabarito comentado
+
+- **I1 — B.** Atalho é uma referência ao destino, não necessariamente uma cópia do conteúdo.
+- **I2 — A.** Estilos estruturados permitem gerar e atualizar sumário automático.
+- **I3 — B.** Quebras de seção permitem configurações diferentes entre partes do documento.
+- **I4 — A.** A função e o operador de intervalo são adequados para somar as células indicadas; nomes e separadores podem variar conforme idioma e configuração.
+- **I5 — B.** Os cifrões fixam coluna e linha, formando referência absoluta.
+- **I6 — C.** A classificação deve manter cada registro completo; ordenar apenas uma coluna pode misturar dados de pessoas diferentes.
+- **I7 — C.** Macros podem executar código. A origem, a finalidade e as políticas de segurança precisam ser verificadas.
+- **I8 — B.** Anexos seguem as capacidades e restrições do serviço e da organização.
+- **I9 — B.** Colaboração exige fonte única de trabalho, permissões adequadas e controle de versões.
+- **I10 — C.** A urgência artificial e o domínio parecido são sinais de phishing; não se deve usar o link suspeito.
+
+### Prática de laboratório recomendada
+
+Em ambiente de teste, crie uma pasta com subpastas, copie e mova arquivos, crie um atalho e observe o comportamento quando o destino muda. No Word, aplique estilos, insira sumário, numere páginas e teste quebras de seção. No Excel, pratique referências relativas, absolutas e mistas, classificação, filtros, gráficos e obtenção de dados. No Teams e OneDrive, teste compartilhamento com permissões diferentes. Não execute macros desconhecidas nem use dados reais ou confidenciais durante o treino.
+
+---
+
+## Atualidades — leitura crítica e atualização verificável
+
+O edital delimita fatos políticos, econômicos, sociais e culturais nacionais e internacionais ocorridos a partir do primeiro semestre de 2026 e divulgados na mídia local e/ou nacional. Uma apostila estática não substitui a atualização até a prova. Para cada notícia, registre: data do acontecimento; data da publicação; fonte original; fato verificável; atores envolvidos; consequência; números e unidade de medida; o que ainda é incerto; possível relação com política pública ou instituição.
+
+### Exercícios de análise de notícia
+
+**A1.** Uma publicação afirma que “o desemprego disparou”, mas não informa período, taxa, fonte ou metodologia. Qual é a primeira providência?
+
+A) Repetir a frase no resumo.  
+B) Tratar a afirmação como comprovada.  
+C) Localizar a fonte primária, o indicador, o período e a série comparável.  
+D) Descartar toda informação econômica.  
+E) substituir a taxa por uma estimativa pessoal.
+
+**A2.** Uma notícia foi publicada em setembro de 2026, mas relata um fato ocorrido em 2024. Ela entra automaticamente no recorte temporal do edital?
+
+A) Sim, porque basta a data de publicação.  
+B) Não necessariamente; é preciso verificar se o fato se enquadra no recorte do edital.  
+C) Sim, porque qualquer fato internacional é aceito.  
+D) Não, porque notícias antigas nunca podem ser citadas.  
+E) Apenas se for notícia esportiva.
+
+**A3.** Duas fontes divulgam números diferentes sobre o mesmo fenômeno. O procedimento mais confiável é:
+
+A) escolher o número mais alto.  
+B) calcular a média sem investigar.  
+C) comparar período, definição, universo, método e fonte dos dados.  
+D) usar o número que apareceu primeiro nas redes sociais.  
+E) assumir que ambas são falsas.
+
+**A4.** Um artigo de opinião interpreta uma decisão política. Para distinguir fato de opinião, deve-se:
+
+A) considerar toda frase como fato.  
+B) separar eventos verificáveis, avaliações do autor e previsões.  
+C) descartar a data.  
+D) copiar apenas o título.  
+E) ignorar o contexto.
+
+**A5.** Qual ficha é mais útil para revisão?
+
+A) “Economia: assunto importante.”  
+B) Uma captura de tela sem data.  
+C) Um registro com fato, data, fonte, contexto, dados e uma pergunta de revisão.  
+D) Uma lista de manchetes sem leitura.  
+E) Um comentário sem referência.
+
+### Gabarito comentado
+
+- **A1 — C.** Uma afirmação mensurável exige indicador, período e fonte.
+- **A2 — B.** A data de publicação e a data do fato não são a mesma coisa; o enquadramento deve seguir o edital.
+- **A3 — C.** Indicadores aparentemente iguais podem medir universos ou períodos diferentes.
+- **A4 — B.** Opinião pode ser relevante para entender debate público, mas não deve ser confundida com fato comprovado.
+- **A5 — C.** Uma ficha verificável permite revisão, comparação e atualização.
+
+### Rotina semanal até a prova
+
+1. Selecione notícias de fontes confiáveis e de diferentes áreas.
+2. Procure documentos primários quando houver dados oficiais, decisão judicial, lei, relatório ou comunicado.
+3. Registre o acontecimento sem reproduzir a linguagem emocional da manchete.
+4. Compare com o contexto anterior e verifique o que mudou.
+5. Crie uma pergunta de recuperação ativa e reveja a ficha em uma semana.
+6. Atualize a data de corte e remova informações superadas ou corrigidas.
+
+---
+
+## Lei Brasileira de Inclusão — conceitos e aplicação
+
+**L1.** A Lei nº 13.146/2015 tem como eixo:
+
+A) substituir a autonomia da pessoa com deficiência por decisão familiar automática.  
+B) assegurar e promover, em condições de igualdade, o exercício de direitos e liberdades fundamentais.  
+C) limitar a participação social ao atendimento especializado.  
+D) tratar a deficiência apenas como diagnóstico médico.  
+E) excluir barreiras arquitetônicas do conceito de acessibilidade.
+
+**L2.** Para a LBI, a avaliação da deficiência, quando necessária, deve considerar:
+
+A) apenas o diagnóstico isolado.  
+B) somente a opinião de um familiar.  
+C) impedimentos e fatores socioambientais, psicológicos e pessoais, conforme a avaliação biopsicossocial prevista em lei.  
+D) exclusivamente a idade.  
+E) apenas a capacidade laboral.
+
+**L3.** Uma pessoa com deficiência solicita formato acessível para compreender um procedimento. A resposta mais compatível com a lógica da LBI é:
+
+A) negar sem analisar a necessidade.  
+B) exigir que outra pessoa responda por ela em qualquer situação.  
+C) avaliar e providenciar as medidas de acessibilidade e adaptação razoável cabíveis.  
+D) aceitar somente se a pessoa trouxer acompanhante.  
+E) dispensar toda comunicação escrita.
+
+**L4.** A deficiência, por si só, significa incapacidade civil absoluta?
+
+A) Sim, em todos os casos.  
+B) Não; a deficiência não elimina automaticamente a capacidade legal da pessoa.  
+C) Sim, sempre que houver necessidade de apoio.  
+D) Apenas para contratos.  
+E) Apenas para pessoas com deficiência física.
+
+**L5.** O atendimento prioritário previsto na LBI:
+
+A) não alcança serviços públicos.  
+B) depende sempre de autorização judicial.  
+C) deve ser observado nos termos e nas hipóteses estabelecidos pela lei.  
+D) significa que toda pessoa com deficiência será atendida sem qualquer fila em toda circunstância, independentemente das regras aplicáveis.  
+E) substitui os demais direitos fundamentais.
+
+**L6.** No trabalho, a inclusão da pessoa com deficiência deve ser compreendida como:
+
+A) favor discricionário do empregador.  
+B) política compatível com igualdade de oportunidades, acessibilidade e vedação à discriminação, conforme a lei.  
+C) obrigação exclusiva da família.  
+D) medida aplicável apenas ao setor público.  
+E) proibição de avaliação profissional.
+
+**L7.** Um cordão ou símbolo de identificação de deficiência não aparente:
+
+A) substitui automaticamente todos os documentos e requisitos legais.  
+B) deve ser tratado como recurso de identificação, sem presumir que elimine toda necessidade de comprovação prevista em normas específicas.  
+C) prova por si só qualquer direito em qualquer contexto.  
+D) autoriza a divulgação pública de dados médicos.  
+E) retira da pessoa o direito à privacidade.
+
+**L8.** A acessibilidade diz respeito:
+
+A) apenas a rampas.  
+B) somente a edifícios novos.  
+C) à possibilidade de utilização, com segurança e autonomia, de espaços, serviços, informação, comunicação, tecnologia e outros meios, nos termos legais.  
+D) exclusivamente a elevadores.  
+E) apenas a ambientes de trabalho.
+
+### Gabarito comentado
+
+- **L1 — B.** O objetivo legal é assegurar e promover direitos e liberdades em igualdade de condições.
+- **L2 — C.** A avaliação biopsicossocial considera múltiplos fatores, quando necessária; não se resume a diagnóstico isolado.
+- **L3 — C.** A acessibilidade e as adaptações razoáveis devem ser analisadas conforme as necessidades e as regras aplicáveis.
+- **L4 — B.** A deficiência não implica, automaticamente, incapacidade civil absoluta.
+- **L5 — C.** A prioridade deve ser aplicada conforme as hipóteses e condições legais; evite absolutos não previstos.
+- **L6 — B.** A inclusão laboral envolve igualdade, acessibilidade e vedação de discriminação.
+- **L7 — B.** O símbolo pode ajudar a identificar uma deficiência não aparente, mas não revoga exigências específicas nem autoriza exposição de dados.
+- **L8 — C.** A acessibilidade é ampla e abrange espaços, transportes, informação, comunicação, sistemas e serviços.
+
+**Leitura obrigatória do edital:** Lei nº 13.146/2015, arts. 1º–13 e 34–38. Este bloco serve como orientação didática; a redação e as exceções de cada artigo devem ser conferidas no texto legal vigente na data de corte do edital.
+
+---
+
+## Redação — planejamento, desenvolvimento e revisão
+
+### Proposta de treino 1
+
+**Tema:** Os desafios para conciliar transformação digital e acesso igualitário aos serviços públicos.
+
+Antes de escrever, responda:
+1. Qual problema específico será discutido?
+2. Quem é afetado e de que maneira?
+3. Quais são duas causas ou dimensões do problema?
+4. Que medida concreta pode reduzir a dificuldade?
+5. Como a conclusão responde à tese apresentada na introdução?
+
+**Roteiro possível:** introdução com delimitação do problema e tese; desenvolvimento 1 sobre eficiência e acesso; desenvolvimento 2 sobre barreiras e medidas de inclusão; conclusão que retoma a tese e sintetiza as medidas. O roteiro é apenas uma possibilidade, não uma redação pronta nem uma garantia de nota.
+
+### Proposta de treino 2
+
+**Tema:** A importância da informação confiável para a tomada de decisões na sociedade.
+
+Planeje dois argumentos diferentes. Um pode abordar a circulação de informação sem contexto; outro, a necessidade de verificar fontes e distinguir fatos de opiniões. Evite repetir a mesma ideia com palavras diferentes. Use exemplos gerais apenas quando ajudarem a demonstrar o raciocínio.
+
+### Ficha de autocorreção
+
+- **Tema:** respondi exatamente ao recorte proposto?
+- **Tese:** consigo resumir minha posição em uma frase?
+- **Progressão:** cada parágrafo acrescenta uma ideia nova?
+- **Coesão:** os conectivos expressam a relação correta?
+- **Precisão:** há afirmações absolutas sem sustentação?
+- **Norma-padrão:** revisei concordância, regência, crase, pontuação e colocação pronominal?
+- **Conclusão:** ela decorre do desenvolvimento ou introduz um assunto novo?
+- **Critérios do edital:** conferi a rubrica e os motivos expressos de nota zero?
+
+A correção de conteúdo, argumentação e atendimento ao tema requer avaliação humana. A autoavaliação é útil para detectar falhas evidentes, mas não substitui uma correção independente.
+
+---
+
+## Direito Constitucional — associação entre dispositivo e função
+
+O recorte constitucional do Anexo VIII deve ser seguido literalmente: Título II, Capítulos I, II e III; Título III, Capítulo VII, Seções I e II; e art. 92. Não amplie o programa por analogia, nem deixe de ler dispositivos expressamente incluídos.
+
+**C1.** A dignidade da pessoa humana é:
+
+A) objetivo fundamental do art. 3º.  
+B) fundamento da República, previsto no art. 1º.  
+C) princípio internacional do art. 4º.  
+D) competência privativa do Poder Judiciário.  
+E) direito reservado aos brasileiros natos.
+
+**C2.** A garantia de que ninguém será obrigado a fazer ou deixar de fazer algo senão em virtude de lei relaciona-se diretamente ao princípio da:
+
+A) legalidade.  
+B) publicidade exclusivamente.  
+C) eficiência exclusivamente.  
+D) hierarquia entre Poderes.  
+E) conveniência administrativa sem limite.
+
+**C3.** O direito de reunião, conforme a Constituição, deve ser estudado em conjunto com suas condições expressas. A alternativa correta é:
+
+A) toda reunião pacífica depende de autorização administrativa prévia.  
+B) a Constituição proíbe reuniões em locais abertos ao público.  
+C) a reunião pacífica e sem armas em local aberto ao público independe de autorização, observados os requisitos constitucionais.  
+D) reuniões só podem ser convocadas por agentes públicos.  
+E) o direito de reunião elimina a proteção de outros direitos.
+
+**C4.** Educação, saúde, alimentação, trabalho e moradia são exemplos de:
+
+A) direitos sociais.  
+B) direitos de nacionalidade.  
+C) competências dos tribunais.  
+D) princípios de relações internacionais.  
+E) sanções disciplinares.
+
+**C5.** O capítulo constitucional sobre nacionalidade exige distinguir:
+
+A) brasileiros natos e naturalizados, conforme os critérios constitucionais.  
+B) servidores efetivos e comissionados.  
+C) autores e réus.  
+D) leis ordinárias e decretos.  
+E) juízes e auxiliares.
+
+**C6.** O art. 37 apresenta princípios expressos da Administração Pública. A alternativa que contém apenas princípios expressos é:
+
+A) legalidade, impessoalidade, moralidade, publicidade e eficiência.  
+B) oportunidade, sigilo, hierarquia, autonomia e pessoalidade.  
+C) rapidez, lucro, preferência e informalidade.  
+D) moralidade, favoritismo e conveniência.  
+E) eficiência, segredo absoluto e pessoalidade.
+
+**C7.** A regra constitucional de concurso público relaciona-se, em especial, à:
+
+A) livre escolha pessoal de todo ocupante de cargo efetivo.  
+B) impessoalidade e critérios constitucionais de acesso aos cargos e empregos públicos.  
+C) dispensa universal de requisitos.  
+D) impossibilidade de qualquer cargo em comissão.  
+E) contratação sem publicidade.
+
+**C8.** O art. 92 da Constituição integra o estudo da:
+
+A) organização do Poder Judiciário.  
+B) nacionalidade.  
+C) política agrícola.  
+D) ordem econômica apenas.  
+E) defesa nacional exclusivamente.
+
+**C9.** Uma autoridade invoca eficiência para ignorar exigência legal expressa. A conclusão mais adequada é:
+
+A) a eficiência sempre prevalece sobre a lei.  
+B) a eficiência deve ser interpretada dentro da ordem jurídica, não como autorização geral para descumprir a lei.  
+C) a legalidade só vale para particulares.  
+D) o princípio da publicidade desaparece.  
+E) qualquer ato eficiente é válido.
+
+**C10.** Para estudar um dispositivo constitucional, a técnica mais segura é:
+
+A) memorizar apenas palavras soltas.  
+B) identificar o título, o capítulo, a seção, o artigo, o sujeito da norma, a regra e as exceções expressas.  
+C) substituir a Constituição por resumos sem conferir o texto.  
+D) presumir que artigos próximos têm a mesma função.  
+E) estudar somente questões antigas.
+
+### Gabarito comentado
+
+- **C1 — B.** Dignidade da pessoa humana integra os fundamentos do art. 1º.
+- **C2 — A.** A fórmula é expressão clássica da legalidade, no art. 5º, II.
+- **C3 — C.** A resposta inclui a regra e ressalva a observância dos requisitos constitucionais.
+- **C4 — A.** São direitos sociais no art. 6º, sem prejuízo das disposições constitucionais pertinentes.
+- **C5 — A.** A Constituição estabelece critérios próprios para nacionalidade originária e adquirida.
+- **C6 — A.** O art. 37 menciona legalidade, impessoalidade, moralidade, publicidade e eficiência.
+- **C7 — B.** Concurso e publicidade dos critérios são instrumentos de acesso impessoal, respeitadas as exceções constitucionais.
+- **C8 — A.** O art. 92 enumera órgãos do Poder Judiciário.
+- **C9 — B.** Princípios constitucionais devem ser harmonizados; eficiência não elimina legalidade.
+- **C10 — B.** A leitura sistemática reduz confusões entre listas e dispositivos.
+
+---
+
+## Direito Administrativo — deveres, responsabilidades e improbidade
+
+### Distinções para memorizar
+
+- **Dever funcional:** conduta exigida do agente no exercício do cargo.
+- **Proibição funcional:** conduta vedada pela norma.
+- **Responsabilidade administrativa:** consequência apurada na esfera disciplinar, conforme a lei.
+- **Responsabilidade civil:** obrigação de reparar dano quando presentes os requisitos legais.
+- **Responsabilidade penal:** consequência de infração penal, com os pressupostos próprios.
+- **Improbidade administrativa:** regime legal específico; não deve ser confundido com qualquer erro, irregularidade formal ou ilícito disciplinar.
+
+**AD1.** Para responder sobre dever ou proibição de servidor estadual, a fonte principal do recorte do edital é:
+
+A) uma postagem em rede social.  
+B) a Lei estadual nº 10.261/1968, no intervalo indicado, sem prejuízo de normas pertinentes.  
+C) apenas o Código Civil.  
+D) somente o regulamento interno de um setor privado.  
+E) um resumo sem referência legal.
+
+**AD2.** A responsabilidade administrativa, civil e penal:
+
+A) é sempre idêntica e apurada no mesmo procedimento.  
+B) corresponde a esferas distintas, com pressupostos e consequências próprios, embora um fato possa repercutir em mais de uma delas conforme a lei.  
+C) impede qualquer apuração paralela.  
+D) significa que toda falha administrativa é crime.  
+E) exclui o direito de defesa.
+
+**AD3.** Um servidor recebe ordem manifestamente ilegal. A conduta não deve ser decidida apenas com base em:
+
+A) legalidade e deveres funcionais.  
+B) texto da norma aplicável.  
+C) apuração dos fatos.  
+D) conveniência pessoal de evitar conflito.  
+E) deveres e responsabilidades previstos em lei.
+
+**AD4.** O direito de petição no regime estatutário deve ser estudado considerando:
+
+A) os artigos pertinentes do Estatuto e seus prazos e condições.  
+B) apenas a opinião de colegas.  
+C) a presunção de que nenhum prazo existe.  
+D) a dispensa universal de formalidades.  
+E) somente normas de processo penal.
+
+**AD5.** A Lei de Improbidade Administrativa:
+
+A) pode ser aplicada sem observar seus elementos legais.  
+B) deve ser estudada pela redação vigente e pelas alterações legais aplicáveis ao edital.  
+C) transforma toda irregularidade em improbidade automaticamente.  
+D) dispensa análise de dolo quando a lei o exige.  
+E) substitui integralmente o Estatuto estadual.
+
+**AD6.** A prescrição de uma pretensão disciplinar deve ser resolvida:
+
+A) por impressão pessoal sobre o tempo decorrido.  
+B) consultando o dispositivo aplicável, o termo inicial, eventuais causas de interrupção ou suspensão e a versão normativa pertinente.  
+C) sempre pelo prazo civil geral.  
+D) sempre pelo prazo penal máximo.  
+E) sem registrar datas.
+
+**AD7.** Uma penalidade é proposta sem identificação dos fatos e sem oportunidade de defesa. O principal problema é:
+
+A) excesso de documentação.  
+B) desconsideração do procedimento legal e das garantias aplicáveis.  
+C) falta de rapidez, apenas.  
+D) inexistência de qualquer dever de motivação.  
+E) excesso de publicidade.
+
+**AD8.** Para estudar os arts. 239–323 do Estatuto, é melhor:
+
+A) tratá-los como um único artigo.  
+B) dividir o intervalo por direito de petição, responsabilidades, penalidades, prescrição e procedimento disciplinar, conferindo cada subdivisão legal.  
+C) ler apenas os títulos dos capítulos.  
+D) memorizar o número 323 sem ler o conteúdo.  
+E) substituir o texto legal por questões de outro concurso.
+
+**AD9.** Uma irregularidade formal sem análise dos elementos legais:
+
+A) prova, por si só, a prática de improbidade.  
+B) deve ser descrita com precisão e enquadrada na norma aplicável antes de qualquer conclusão jurídica.  
+C) elimina o contraditório.  
+D) torna desnecessária a apuração.  
+E) sempre gera perda da função pública.
+
+**AD10.** O método adequado para uma questão disciplinar é:
+
+A) escolher a resposta moralmente mais severa.  
+B) identificar o sujeito, o dever ou a proibição, a conduta, o elemento exigido, o procedimento e a consequência prevista.  
+C) ignorar os prazos.  
+D) presumir que toda sanção é automática.  
+E) confundir punição criminal e disciplinar.
+
+### Gabarito comentado
+
+- **AD1 — B.** O edital delimita expressamente o Estatuto estadual e seus intervalos; use a redação legal aplicável.
+- **AD2 — B.** As esferas são distintas e podem coexistir, mas cada uma exige seus próprios pressupostos.
+- **AD3 — D.** Conveniência pessoal não substitui o dever de observar a legalidade e as regras funcionais.
+- **AD4 — A.** Prazos e requisitos precisam ser extraídos dos dispositivos pertinentes.
+- **AD5 — B.** A Lei nº 8.429/1992 foi alterada; a versão aplicável deve ser conferida, sem generalizações.
+- **AD6 — B.** Prescrição exige datas e análise das regras específicas.
+- **AD7 — B.** O procedimento e as garantias não podem ser presumidos dispensáveis.
+- **AD8 — B.** A divisão por assunto evita misturar institutos e prazos.
+- **AD9 — B.** A qualificação jurídica depende dos elementos legais; irregularidade e improbidade não são sinônimos automáticos.
+- **AD10 — B.** A resposta deve seguir o caminho da norma até a consequência, não a intuição punitiva.
+
+**Ponto de validação humana:** conferir a redação consolidada da Lei nº 10.261/1968 e da Lei nº 8.429/1992, inclusive alterações, prazos, prescrição e dispositivos com letras, antes de homologar as respostas.
+
+---
+
+## Direito Penal — identificação do tipo e distinção entre crimes
+
+### Quadro de reconhecimento
+
+| Grupo do edital | Pergunta de identificação |
+|---|---|
+| Arts. 293–305 | Há falsificação, alteração, uso, supressão ou destruição de documento ou sinal abrangido pelo tipo? |
+| Arts. 307–308 | Há atribuição ou uso de identidade alheia nas condições legais? |
+| Art. 311-A | A fraude se relaciona a certame, avaliação ou procedimento abrangido pelo dispositivo? |
+| Arts. 312–317 | O fato envolve apropriação/desvio de bem público, alteração de dados, modificação de sistema, concussão ou corrupção passiva? |
+| Arts. 319–333 | Há violação de dever funcional, omissão, atuação indevida ou crime de particular contra a Administração? |
+| Arts. 336–337 | O fato se enquadra nos delitos específicos previstos nesses artigos? |
+| Arts. 339–347, 357 e 359 | A conduta atinge a administração da Justiça ou outro tipo expressamente incluído? |
+
+**DP1.** Um agente público, tendo posse do bem em razão do cargo, apropria-se dele em proveito próprio. O tipo a examinar prioritariamente é:
+
+A) peculato, art. 312.  
+B) desacato, art. 331.  
+C) fraude processual, art. 347.  
+D) falsa identidade, art. 307.  
+E) exploração de prestígio, art. 357.
+
+**DP2.** Um funcionário exige vantagem indevida em razão da função. O tipo que deve ser comparado com os fatos é:
+
+A) corrupção ativa.  
+B) concussão.  
+C) resistência.  
+D) denunciação caluniosa.  
+E) comunicação falsa de crime.
+
+**DP3.** Um particular oferece vantagem indevida a funcionário público para determinar a prática, omissão ou retardamento de ato funcional. O tipo em foco é:
+
+A) corrupção passiva.  
+B) corrupção ativa.  
+C) peculato culposo.  
+D) falso testemunho.  
+E) abandono de função.
+
+**DP4.** Inserir ou facilitar a inserção de dados falsos em sistema informatizado da Administração, nas condições legais, remete ao:
+
+A) art. 313-A do Código Penal.  
+B) art. 307.  
+C) art. 339.  
+D) art. 347.  
+E) art. 359, sem necessidade de conferir o tipo.
+
+**DP5.** Alterar ou modificar sistema de informações ou programa de informática sem autorização ou solicitação da autoridade competente, nas condições do tipo, remete ao:
+
+A) art. 313-B.  
+B) art. 308.  
+C) art. 316.  
+D) art. 340.  
+E) art. 342.
+
+**DP6.** Uma pessoa atribui a si falsa identidade para obter vantagem ou causar dano, nos termos do artigo. O dispositivo a conferir é:
+
+A) art. 307.  
+B) art. 294.  
+C) art. 325.  
+D) art. 336.  
+E) art. 344.
+
+**DP7.** A apresentação de documento falsificado pode exigir análise de:
+
+A) apenas o nome do documento.  
+B) falsidade, espécie documental, autoria, finalidade e eventual uso, à luz dos tipos aplicáveis.  
+C) somente a cor do papel.  
+D) exclusivamente a existência de prejuízo patrimonial.  
+E) apenas a intenção declarada pelo agente.
+
+**DP8.** Denunciação caluniosa e comunicação falsa de crime são:
+
+A) sinônimos perfeitos.  
+B) tipos distintos, que devem ser diferenciados pelos elementos descritos em cada artigo.  
+C) ambos crimes contra o patrimônio.  
+D) delitos sem relação com a administração da Justiça.  
+E) condutas sempre atípicas.
+
+**DP9.** O agente público retarda ou deixa de praticar indevidamente ato de ofício para satisfazer interesse ou sentimento pessoal, nos termos do tipo. O crime a examinar é:
+
+A) prevaricação, art. 319.  
+B) corrupção ativa, art. 333.  
+C) falsa identidade, art. 307.  
+D) resistência, art. 329.  
+E) uso de documento falso, art. 304.
+
+**DP10.** Resistência e desobediência devem ser distinguidas porque:
+
+A) os tipos descrevem condutas diferentes e possuem elementos próprios.  
+B) ambos exigem necessariamente documento falso.  
+C) são nomes intercambiáveis para qualquer conflito com servidor.  
+D) nenhum exige leitura do texto legal.  
+E) só podem ser praticados por funcionário público.
+
+**DP11.** Em questão sobre crime funcional, a expressão “funcionário público” deve ser interpretada:
+
+A) apenas pelo uso cotidiano da expressão.  
+B) conforme o conceito penal aplicável, inclusive a definição legal pertinente.  
+C) como sinônimo obrigatório de servidor efetivo estatutário, sem exceções.  
+D) como qualquer pessoa que trabalhe em empresa privada, em todos os casos.  
+E) sem consultar o art. 327 quando pertinente.
+
+**DP12.** A estratégia mais segura para resolver questão de Direito Penal é:
+
+A) escolher pelo nome popular do crime.  
+B) identificar verbo nuclear, sujeito ativo, objeto, elemento subjetivo, finalidade e circunstâncias exigidas pelo tipo.  
+C) presumir que crimes com nomes parecidos têm a mesma pena.  
+D) ignorar parágrafos e incisos.  
+E) usar apenas a gravidade moral do fato.
+
+### Gabarito comentado
+
+- **DP1 — A.** A apropriação de bem sob posse em razão do cargo remete à análise do peculato; confirme todos os elementos do art. 312.
+- **DP2 — B.** Exigir vantagem indevida é elemento característico da concussão, art. 316.
+- **DP3 — B.** Oferecer ou prometer vantagem indevida ao funcionário, nas condições legais, remete à corrupção ativa.
+- **DP4 — A.** O art. 313-A trata da inserção ou facilitação de dados falsos em sistema informatizado da Administração, conforme os elementos legais.
+- **DP5 — A.** O art. 313-B trata de modificação ou alteração não autorizada de sistema ou programa, conforme a redação vigente.
+- **DP6 — A.** O art. 307 trata de falsa identidade; a aplicação depende dos elementos do tipo.
+- **DP7 — B.** A espécie de documento e o comportamento concreto importam para distinguir falsidade material, ideológica, uso e outros tipos.
+- **DP8 — B.** Os artigos têm redações e elementos próprios; a diferenciação depende da leitura literal.
+- **DP9 — A.** O art. 319 trata da prevaricação, com elementos específicos ligados ao ato de ofício e ao interesse ou sentimento pessoal.
+- **DP10 — A.** Não se deve confundir oposição à execução de ato legal com descumprimento de ordem; leia os tipos e seus requisitos.
+- **DP11 — B.** O conceito penal de funcionário público é normativo e deve ser conferido no Código Penal.
+- **DP12 — B.** O nome do crime não substitui a análise do tipo legal.
+
+### Cartão de revisão penal
+
+Para cada artigo do programa, complete: verbo do tipo; sujeito ativo; objeto material; elemento subjetivo; finalidade especial, se houver; consumação; tentativa, quando cabível; qualificadoras ou causas de aumento; tipo próximo que costuma confundir. Não memorize penas ou exceções a partir deste quadro sem conferir a redação oficial.
+
+---
+
+## Direito Processual Civil — procedimento e atos processuais
+
+**PC1.** Impedimento e suspeição do juiz:
+
+A) são institutos idênticos em todos os efeitos.  
+B) são hipóteses distintas previstas no CPC e exigem identificação do fundamento legal específico.  
+C) aplicam-se apenas às testemunhas.  
+D) dispensam análise do caso concreto.  
+E) são regulados exclusivamente pelo Código Penal.
+
+**PC2.** Os atos processuais, como regra, devem observar:
+
+A) qualquer forma escolhida unilateralmente pela parte, mesmo quando a lei exige outra.  
+B) a forma legal, sem perder de vista a instrumentalidade e as consequências previstas no CPC.  
+C) apenas a forma oral.  
+D) somente a forma escrita em papel.  
+E) a dispensa universal de registro.
+
+**PC3.** A tutela provisória pode ser dividida, no CPC, em:
+
+A) tutela de urgência e tutela de evidência.  
+B) sentença e recurso.  
+C) citação e intimação.  
+D) competência e jurisdição.  
+E) execução e coisa julgada.
+
+**PC4.** Para reconhecer a citação com hora certa, o estudante deve verificar:
+
+A) apenas a vontade do autor.  
+B) os pressupostos legais, as diligências exigidas, a suspeita de ocultação, as comunicações e a certidão.  
+C) exclusivamente o prazo de defesa.  
+D) somente se o citando assinou.  
+E) se houve publicação em jornal, em todos os casos.
+
+**PC5.** Citação e intimação diferem porque:
+
+A) ambas sempre convocam o réu pela primeira vez.  
+B) a citação chama o réu, o executado ou o interessado para integrar a relação processual; a intimação dá ciência de atos e termos do processo.  
+C) a intimação nunca é eletrônica.  
+D) a citação só existe no processo penal.  
+E) são expressões sem distinção legal.
+
+**PC6.** A decisão sobre tutela de urgência exige atenção, entre outros pontos, a:
+
+A) probabilidade do direito e perigo de dano ou risco ao resultado útil do processo, conforme o CPC.  
+B) certeza absoluta de vitória final.  
+C) concordância obrigatória de todos os réus.  
+D) existência de sentença transitada em julgado.  
+E) dispensa de fundamentação.
+
+**PC7.** No procedimento comum, a petição inicial:
+
+A) é irrelevante para delimitar pedido e causa de pedir.  
+B) deve observar os requisitos legais e pode ser objeto de emenda ou de outras providências previstas no CPC.  
+C) dispensa a identificação das partes.  
+D) impede qualquer contraditório.  
+E) equivale automaticamente à sentença.
+
+**PC8.** O cumprimento de sentença:
+
+A) é sempre idêntico ao processo de conhecimento.  
+B) segue disciplina própria do CPC, cuja aplicação depende do título e da obrigação reconhecida.  
+C) não admite defesa em hipótese alguma.  
+D) ocorre antes de existir título.  
+E) é regulado somente pela Lei de Improbidade.
+
+**PC9.** Para estudar recursos, é necessário distinguir:
+
+A) recurso, ação autônoma e simples petição como se fossem a mesma coisa.  
+B) espécie recursal, cabimento, prazo, legitimidade, efeitos e requisitos de admissibilidade.  
+C) apenas o nome do tribunal.  
+D) somente o valor da causa.  
+E) todos os prazos como iguais.
+
+**PC10.** Os Juizados Especiais Cíveis e o Juizado Especial da Fazenda Pública:
+
+A) têm disciplina legal idêntica em todos os pontos.  
+B) devem ser estudados a partir de suas leis próprias e dos dispositivos expressamente indicados no edital.  
+C) não possuem regras de competência.  
+D) substituem o CPC integralmente em qualquer processo.  
+E) não admitem nenhuma forma de recurso.
+
+### Gabarito comentado
+
+- **PC1 — B.** Impedimento e suspeição têm fundamentos normativos diferentes.
+- **PC2 — B.** Forma, finalidade do ato e consequências processuais devem ser lidas em conjunto.
+- **PC3 — A.** Essa é a divisão expressa no CPC.
+- **PC4 — B.** A hora certa não decorre de uma única visita ou da simples vontade da parte; exige os pressupostos legais.
+- **PC5 — B.** A finalidade de cada comunicação é distinta.
+- **PC6 — A.** Esses são elementos centrais da tutela de urgência; o artigo e as condições aplicáveis devem ser conferidos.
+- **PC7 — B.** Requisitos da inicial e providências judiciais são disciplinados pelo CPC.
+- **PC8 — B.** O título e a obrigação determinam o regime aplicável.
+- **PC9 — B.** Recursos têm pressupostos e prazos próprios; a identificação correta é essencial.
+- **PC10 — B.** A Lei nº 9.099/1995 e a Lei nº 12.153/2009 devem ser estudadas conforme o recorte do edital.
+
+### Roteiro para leitura dos artigos
+
+Para cada artigo do intervalo do CPC, registre: assunto; sujeito da regra; prazo; termo inicial; forma do ato; exceção; consequência do descumprimento; dispositivo relacionado. Ao resolver questão, identifique se o enunciado cobra regra geral, exceção ou consequência processual.
+
+---
+
+## Direito Processual Penal — atores, comunicações, procedimentos e recursos
+
+**PP1.** A atuação do juiz no processo penal deve ser estudada:
+
+A) sem consultar o CPP.  
+B) conforme as atribuições, impedimentos e limites previstos no CPP e na Constituição.  
+C) como idêntica à atuação do Ministério Público.  
+D) como atividade sem dever de imparcialidade.  
+E) apenas a partir de regras do processo civil.
+
+**PP2.** O Ministério Público no processo penal exerce funções:
+
+A) definidas em lei, distintas das funções do juiz e da defesa.  
+B) idênticas às da defesa técnica.  
+C) exclusivamente administrativas em todos os casos.  
+D) sem qualquer regra de impedimento.  
+E) determinadas pela vontade unilateral do acusado.
+
+**PP3.** A defesa técnica no processo penal:
+
+A) é sempre dispensável quando o acusado afirma conhecer a lei.  
+B) é garantia essencial e deve observar as regras do CPP.  
+C) só existe no Tribunal do Júri.  
+D) pode ser substituída por um servidor sem habilitação em qualquer caso.  
+E) elimina o direito de autodefesa.
+
+**PP4.** As citações e intimações do CPP devem ser resolvidas:
+
+A) aplicando automaticamente o CPC sem conferir a regra penal.  
+B) pelo intervalo legal indicado no edital e pelas condições próprias do CPP.  
+C) somente por mensagem informal.  
+D) sem considerar o destinatário.  
+E) sem certidão.
+
+**PP5.** O procedimento comum no CPP exige identificar:
+
+A) apenas o nome do crime.  
+B) o rito aplicável, as fases, os prazos e as oportunidades de manifestação previstas em lei.  
+C) somente a pena máxima.  
+D) apenas a competência territorial.  
+E) exclusivamente o recurso final.
+
+**PP6.** O Tribunal do Júri tem procedimento próprio. Para resolver uma questão, deve-se:
+
+A) tratá-lo como procedimento sumário.  
+B) conferir a sequência de fases e os dispositivos expressamente abrangidos pelo edital.  
+C) ignorar as decisões de pronúncia e impronúncia.  
+D) presumir que todo crime é de competência do júri.  
+E) substituir o CPP pela Lei nº 9.099/1995.
+
+**PP7.** A restauração de autos é relevante quando:
+
+A) os autos desapareceram ou foram perdidos nas condições legais, exigindo procedimento próprio de reconstrução.  
+B) a parte deseja alterar livremente o conteúdo de uma sentença.  
+C) um recurso é interposto fora do prazo.  
+D) o juiz pretende dispensar o registro processual.  
+E) a defesa renuncia automaticamente a todos os direitos.
+
+**PP8.** Ao estudar recursos e nulidades no CPP, é necessário diferenciar:
+
+A) pressupostos recursais, prazos, legitimidade, efeitos e regras de nulidade.  
+B) todos os recursos como idênticos.  
+C) nulidade e absolvição como sinônimos.  
+D) prazos penais e civis como sempre iguais.  
+E) recurso e revisão como nomes intercambiáveis.
+
+**PP9.** O Juizado Especial Criminal tem disciplina própria. A aplicação da Lei nº 9.099/1995 exige:
+
+A) ignorar os artigos do edital.  
+B) identificar competência, procedimento e institutos previstos nos arts. 60–83, 88 e 89, conforme o caso.  
+C) presumir que toda infração penal se enquadra no juizado.  
+D) aplicar apenas regras de processo civil.  
+E) afastar qualquer direito de defesa.
+
+**PP10.** Em questão sobre nulidade, a resposta correta depende:
+
+A) da gravidade subjetiva percebida pelo candidato.  
+B) da regra legal aplicável, do ato praticado, do prejuízo quando exigido e das consequências previstas no CPP.  
+C) apenas do tamanho do processo.  
+D) da preferência do servidor.  
+E) de uma regra universal segundo a qual todo erro anula o processo.
+
+**PP11.** O edital inclui os arts. 541–548 do CPP. Ao estudar restauração de autos, a técnica mais útil é:
+
+A) decorar apenas o número dos artigos.  
+B) mapear hipótese de cabimento, iniciativa, documentos e atos necessários, decisão e efeitos.  
+C) substituir o procedimento por uma petição genérica.  
+D) tratar restauração como recurso.  
+E) omitir o procedimento do plano de estudo.
+
+**PP12.** A melhor forma de diferenciar institutos processuais parecidos é:
+
+A) comparar finalidade, sujeito competente, pressupostos, momento, prazo e efeito.  
+B) memorizar apenas o título do capítulo.  
+C) usar a regra mais rigorosa em todos os casos.  
+D) presumir que a palavra mais longa indica a resposta.  
+E) não consultar o texto legal.
+
+### Gabarito comentado
+
+- **PP1 — B.** A função judicial é delimitada pelo ordenamento; imparcialidade e competência são essenciais.
+- **PP2 — A.** O Ministério Público tem atribuições próprias e não se confunde com juiz ou defensor.
+- **PP3 — B.** A defesa técnica é garantia processual e deve seguir a disciplina legal.
+- **PP4 — B.** O edital prevê intervalos específicos do CPP; não se deve substituir automaticamente a norma penal por regra civil.
+- **PP5 — B.** O rito define sequência e oportunidades processuais.
+- **PP6 — B.** O procedimento do júri é específico e deve ser estudado dentro dos artigos cobrados.
+- **PP7 — A.** Restauração de autos tem hipóteses e procedimento próprios.
+- **PP8 — A.** Recursos e nulidades têm requisitos e efeitos distintos.
+- **PP9 — B.** O estudo deve seguir os artigos indicados e as condições legais do juizado.
+- **PP10 — B.** Nem todo erro gera a mesma consequência; aplique a regra do CPP.
+- **PP11 — B.** O mapa do procedimento ajuda a reconstituir a sequência legal.
+- **PP12 — A.** Comparação por critérios evita confusão de nomes.
+
+**Ponto de validação humana:** conferir a redação atualizada do CPP e da Lei nº 9.099/1995, especialmente artigos com sufixos, alterações legislativas, prazos e regras de nulidade.
+
+---
+
+## Legislação Interna do TJSP — leitura por fonte, seção e procedimento
+
+Esta disciplina exige precisão maior que um resumo temático. O edital delimita atos e trechos específicos; por isso, não se deve marcar como concluído um capítulo inteiro quando o programa indica apenas determinadas seções, subseções ou artigos.
+
+### Matriz de leitura
+
+| Fonte | Como estudar | O que registrar |
+|---|---|---|
+| Resolução TJSP nº 850/2021 | Ler o texto oficial e alterações aplicáveis ao teletrabalho | Abrangência, autorização, responsabilidades, controles, hipóteses, deveres e consequências |
+| Resolução TJSP nº 963/2025 | Ler o ato oficial e regras de governança/uso do eproc | Papéis, responsabilidades, uso do sistema, controle, segurança e atos abrangidos |
+| LC nº 1.111/2010 | Ler a versão oficial consolidada e anexos pertinentes | Estrutura de cargos e carreiras, requisitos, desenvolvimento e disposições aplicáveis |
+| Regimento Interno do TJSP | Usar o sumário oficial e construir índice por artigo/título | Órgão, competência, procedimento, quórum, atribuição, prazo e exceção |
+| Normas da Corregedoria, Tomo I | Seguir exatamente capítulo, seção e subseção indicados no edital | Rotina, responsável, sequência, sistema/livro, prazo e exceção |
+
+**TJ1.** O edital indica seções específicas das Normas da Corregedoria. A atitude correta é:
+
+A) estudar apenas o título geral e presumir cobertura.  
+B) mapear cada seção e subseção indicada, item por item, e vincular o texto oficial à apostila.  
+C) considerar todo o Tomo I incluído automaticamente.  
+D) substituir as Normas por resumos de outros cargos.  
+E) ignorar a data de atualização.
+
+**TJ2.** Uma versão anotada apresenta texto antigo tachado e redação nova. Para responder sobre a regra vigente, é necessário:
+
+A) copiar o texto tachado.  
+B) conferir a vigência e a data de corte aplicável ao edital, distinguindo redação anterior de redação vigente.  
+C) usar sempre a redação mais longa.  
+D) presumir que toda alteração se aplica retroativamente.  
+E) ignorar os atos modificadores.
+
+**TJ3.** Resolução nº 850/2021 e Resolução nº 963/2025:
+
+A) são o mesmo ato com numeração diferente.  
+B) devem ser estudadas como atos distintos, conforme o objeto e a redação de cada uma.  
+C) podem ser substituídas por uma política interna de empresa privada.  
+D) não exigem consulta oficial.  
+E) aplicam-se necessariamente a todas as situações de forma idêntica.
+
+**TJ4.** Ao estudar o Regimento Interno, uma tabela artigo a artigo deve conter:
+
+A) apenas o número da página.  
+B) órgão ou autoridade, competência, hipótese de aplicação, procedimento, prazo/quórum quando houver e fonte oficial.  
+C) somente palavras-chave sem contexto.  
+D) opiniões de candidatos.  
+E) artigos escolhidos sem relação com o edital.
+
+**TJ5.** Uma rotina cartorária prevista em norma interna deve ser resumida indicando:
+
+A) somente o nome da rotina.  
+B) responsável, sequência de atos, sistema utilizado, prazo, exceção e registro exigido.  
+C) apenas a sanção final.  
+D) apenas o nome do sistema.  
+E) nenhuma referência à fonte.
+
+**TJ6.** A LC nº 1.111/2010 deve ser estudada:
+
+A) como se fosse o Estatuto geral dos funcionários, sem distinção.  
+B) como norma do plano de cargos e carreiras do TJSP, respeitando o conteúdo efetivamente previsto no edital.  
+C) apenas por comentários não oficiais.  
+D) como ato de processo penal.  
+E) sem leitura dos anexos pertinentes.
+
+**TJ7.** Se a apostila menciona uma regra, mas não identifica artigo, seção ou versão do ato, a cobertura está:
+
+A) automaticamente homologada.  
+B) insuficientemente rastreável; é necessário localizar o fundamento oficial.  
+C) completa por definição.  
+D) dispensada de revisão.  
+E) validada porque está em PDF.
+
+**TJ8.** Qual critério é mais seguro para resolver uma questão de legislação interna?
+
+A) escolher a regra que parece mais moderna.  
+B) identificar o ato, a seção, a redação vigente na data aplicável, o sujeito responsável e a consequência expressa.  
+C) aplicar sempre a regra mais genérica.  
+D) misturar o Regimento com uma resolução sem verificar a relação entre eles.  
+E) presumir que uma rotina antiga continua vigente.
+
+### Gabarito comentado
+
+- **TJ1 — B.** A cobertura exige correspondência precisa entre edital e norma, não apenas um rótulo de capítulo.
+- **TJ2 — B.** A versão histórica e a versão vigente precisam ser distinguidas.
+- **TJ3 — B.** São atos distintos, com objetos e dispositivos próprios.
+- **TJ4 — B.** A rastreabilidade por artigo permite verificar cobertura e corrigir divergências.
+- **TJ5 — B.** Uma ficha operacional deve explicar quem faz o quê, em qual sequência e sob qual prazo.
+- **TJ6 — B.** O objeto da LC deve ser distinguido do Estatuto estadual; leia apenas o recorte pertinente e as remissões necessárias.
+- **TJ7 — B.** Sem fonte e dispositivo, a afirmação não pode ser auditada de modo confiável.
+- **TJ8 — B.** A resposta depende da norma aplicável, não de intuição ou preferência.
+
+### Pendências que permanecem obrigatórias
+
+1. Atomizar todas as seções/subseções das Normas da Corregedoria indicadas no edital.
+2. Conferir o Regimento Interno por dispositivo, incluindo anexos e regras de competência/procedimento.
+3. Conferir a versão consolidada da LC nº 1.111/2010.
+4. Baixar e revisar as versões oficiais das Resoluções nº 850/2021 e nº 963/2025.
+5. Criar questões por seção com gabarito ancorado no artigo ou item oficial.
+6. Registrar data de consulta e data de corte de cada norma.
+
+---
+
+## Folha de revisão acumulada
+
+Use uma folha por sessão de estudo. Não copie a apostila inteira; registre apenas o que ainda confunde.
+
+**Matéria e tópico:** ______________________________________________
+
+**Regra que consigo explicar sem consulta:**  
+__________________________________________________________________  
+__________________________________________________________________
+
+**Exemplo concreto que confirma a regra:**  
+__________________________________________________________________  
+__________________________________________________________________
+
+**Exceção ou condição que não posso esquecer:**  
+__________________________________________________________________  
+__________________________________________________________________
+
+**Questão que errei e motivo do erro:**  
+__________________________________________________________________  
+__________________________________________________________________
+
+**Artigo, página ou fonte que preciso reler:**  
+__________________________________________________________________
+
+**Data da próxima revisão:** ________________________________________
+
+### Revisão espaçada sugerida
+
+- **D+1:** recuperar os conceitos sem consultar.
+- **D+7:** refazer as questões erradas.
+- **D+21:** resolver um conjunto misto, sem indicar previamente a matéria.
+- **D+45:** revisar os artigos, fórmulas ou procedimentos que continuam frágeis.
+
+A revisão deve testar recuperação, não apenas familiaridade visual. Se a resposta só parece óbvia depois de reler a explicação, o conteúdo ainda precisa de prática.
+
 
 # Anexo — controle editorial e validação humana
 
