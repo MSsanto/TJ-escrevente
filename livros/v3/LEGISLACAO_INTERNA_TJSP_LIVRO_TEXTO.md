@@ -127,3 +127,38 @@ E) substituir a norma por uma questão comentada.
 - Atomizar as Normas da Corregedoria por item, em vez de manter apenas o rótulo da seção.
 - Conferir dispositivos do Regimento e anexos da LC 1.111/2010.
 - Revisão jurídica/administrativa independente de competências, prazos e rotinas.
+
+## Complemento de estrutura normativa — conferência das fontes oficiais em 28/10/2026
+
+### Normas de Serviço da Corregedoria, Tomo I
+
+A página oficial do TJSP informa que o Tomo I foi atualizado até **22/10/2026**. Isso é posterior à data de publicação do edital registrada no projeto (19/10/2026); a edição final deve confirmar qual data de corte o edital exige e não importar automaticamente alterações posteriores.
+
+Fonte: [Normas Judiciais da Corregedoria — página oficial](https://www.tjsp.jus.br/Corregedoria/Comunicados/NormasJudiciais). A versão anotada pode ajudar a identificar alterações, mas a resposta de prova deve usar a redação aplicável ao edital.
+
+O sumário oficial identifica:
+- **Capítulo II — Função Correcional, arts. 5º–25.** Seção I, Atribuições, arts. 5º–19; subseção I, Corregedoria Permanente e Correições Ordinárias, Extraordinárias e Visitas Correcionais, arts. 6º–14; subseção II, Apurações Preliminares, Sindicâncias e Processos Administrativos, arts. 15–18. O edital indica essas duas subseções; não presumir que a subseção III, Pedido de Providências, esteja incluída se não indicada.
+- **Capítulo III — Ofícios de Justiça em Geral, arts. 26–189.** Seção I, Disposições Iniciais, arts. 26–27; Seção II, Atribuições, arts. 28–29; Seção V, Sistema Informatizado Oficial, arts. 46–62, com subseções I (disposições gerais, arts. 46–48), II (segurança, arts. 49–51) e III (cadastramento, movimentação e controle eletrônico de processos/incidentes, arts. 52–62); Seção VI, Livros e Classificadores Obrigatórios, arts. 63–79, com subseção I (livros, arts. 63–74) e II (classificadores, arts. 75–79); Seção VII, Escrituração, arts. 80–86; Seção VIII, Ordem dos Serviços dos Processos em Geral, arts. 87–102, com subseções I (autuação, abertura de volumes e numeração de feitos, arts. 87–91), II e III conforme o índice oficial.
+- O edital também inclui as Seções IX a XIX do Capítulo III. Essas seções precisam ser conferidas uma a uma no índice oficial e ligadas ao item correspondente da matriz; não basta marcar “Capítulo III” como concluído.
+
+### Como estudar as Normas da Corregedoria
+Para cada item previsto, criar uma ficha com: título oficial; artigos/itens abrangidos; ato cartorário; responsável; sequência de execução; sistema/livro/classificador; prazo; exceção; versão e data. Compare a redação normal com a versão anotada para distinguir texto vigente de redação anterior tachada.
+
+### Regimento Interno — estrutura para cobertura
+O PDF oficial disponível na Biblioteca do TJSP tem 117 páginas e traz nome de arquivo com compilação de 22/10/2026. Seu índice organiza o Regimento em:
+- **Título I — Organização:** Tribunal, órgãos, sessões, magistrados e estrutura.
+- **Título II — Competência:** regras de competência jurisdicional, prevenção, juiz certo, impedimento e suspeição.
+- **Título III — Atos e Procedimentos Internos:** sessões, reuniões, audiências, pauta, ordem dos trabalhos, feitos, apresentação, registro, autuação, distribuição e controle.
+- **Título IV — Incidentes, Súmulas e Ações:** incidentes, uniformização, inconstitucionalidade, reclamação, conflito de competência, desaforamento, fiança, correição parcial, exceção da verdade, ações e recursos regimentais.
+- **Título V — Atos de Administração, Reforma do Regimento, Secretaria e Disposições Finais/Transitórias.**
+
+Fonte: [Regimento Interno compilado — TJSP](https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/RegimentoInternoTJSP.pdf). O índice analítico precisa ser transformado em matriz de artigo/tópico e comparado ao edital antes de declarar cobertura integral.
+
+### Resoluções 850/2021 e 963/2025
+As páginas do sistema de legislação do TJSP dependem de JavaScript e não permitiram conferir o texto consolidado nesta leitura. Por isso, os resumos de teletrabalho e eproc deste livro são apenas guias de leitura. É necessário baixar os PDFs/atos oficiais, conferir vigência, alterações, artigos e comunicados aplicáveis, e só então homologar os resumos.
+
+### Pendências de desenvolvimento ainda não humanas
+1. Completar o índice de cada seção IX–XIX do Capítulo III das Normas e suas subseções.
+2. Transformar o índice integral do Regimento Interno em uma tabela artigo a artigo.
+3. Conferir os textos completos das Resoluções 850/2021 e 963/2025.
+4. Criar questões específicas por seção/subseção e verificar cada gabarito.
