@@ -21,3 +21,9 @@
 ## Impressão
 
 Inspeção visual das capas, miolos de semana e simulado realizada por amostragem. Sem garantia de inspeção humana de todas as páginas.
+
+## Atualização — 28/10/2026
+
+A biblioteca foi ampliada com livros por disciplina e foi criada a matriz [MATRIZ_COBERTURA_ANEXO_VIII_2026-10-28.csv](../../../docs/MATRIZ_COBERTURA_ANEXO_VIII_2026-10-28.csv), com 993 linhas de mapeamento de trabalho. A matriz não representa homologação substantiva: cada referência legal precisa de conferência da redação vigente, parágrafos, sufixos, exceções, prazos e questões correspondentes.
+
+A primeira revisão encontrou lacunas de atomização por sufixo (CP 313-A/313-B; CPP 394-A/396-A/400-A). Esta lista não deve ser tratada como varredura completa. A validação jurídica independente, a atualização contínua de Atualidades, a prática real no Microsoft 365 e a correção humana de redações continuam pendentes.
