@@ -65,3 +65,22 @@ Nova matriz: [MATRIZ_COBERTURA_ANEXO_VIII_2026-10-28.csv](MATRIZ_COBERTURA_ANEXO
 Foi criada a compilação única [TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.md](../livros/v3/TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.md), organizada em Conhecimentos Gerais e Conhecimentos Jurídicos, por matéria e capítulos. Ela reúne 12 cadernos/livros e preserva exercícios, gabaritos e avisos editoriais. A compilação é um índice de conveniência; não resolve lacunas de cobertura nem substitui a validação humana.
 
 O PDF consolidado foi gerado com sucesso e commitado em `livros/v3/TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.pdf` (215.152 bytes; workflow de build concluído com sucesso). A versão editável está em `livros/v3/TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.md`. A geração confirma a existência dos artefatos, não a homologação jurídica ou a cobertura integral do edital.
+
+
+## Comparação editorial com a referência de 237 páginas — 28/10/2026
+
+O arquivo de referência enviado para esta revisão tem 237 páginas e, pela extração textual, aproximadamente 44.536 palavras. Ele é um conjunto de cadernos semanais para **Oficial de Justiça**, baseado no Edital nº 01/2026. Seu valor aqui é metodológico — objetivos, explicações, exemplos, armadilhas, questões, gabaritos e revisão ativa —, não como fonte de conteúdo para Escrevente.
+
+A compilação de Escrevente tinha inicialmente 20.481 palavras e gerava 46 páginas. A diferença não era apenas de paginação: o texto tinha menos da metade das palavras da referência e não possuía quebras explícitas de página entre as disciplinas. A página, portanto, estava muito mais densa.
+
+Nesta revisão editorial, o Markdown consolidado foi ampliado para aproximadamente **29.694 palavras**, com um caderno complementar de prática orientada para Português, Matemática, Raciocínio Lógico, Informática, Atualidades, LBI, Redação e matérias jurídicas, além de 14 quebras explícitas de página entre as principais partes. O material segue em desenvolvimento; não se deve inflar a paginação artificialmente nem considerar o número de palavras prova de cobertura integral.
+
+### Pendências após a ampliação
+
+- Recompilar e conferir o PDF final, inclusive número de páginas, sumário, quebras de página e legibilidade.
+- Revisar independentemente todos os gabaritos novos; foi corrigido um erro de cálculo na questão de média ponderada durante a edição.
+- Expandir a teoria e os exercícios até que cada tópico do Anexo VIII tenha explicação e prática suficientes, sobretudo legislação interna do TJSP.
+- Completar a atomização das Normas da Corregedoria e do Regimento Interno por dispositivo.
+- Fazer revisão jurídica independente, teste prático de informática e correção humana de redações.
+
+**Estado atualizado:** ampliado editorialmente, mas ainda não pronto como material único e definitivo de estudo. A validação humana continua obrigatória.
