@@ -20,10 +20,7 @@ Este volume reúne os livros-texto e cadernos existentes na biblioteca do projet
 
 **Critério de paginação:** cada disciplina principal passa a iniciar em nova página. O número de páginas, por si só, não comprova cobertura; a qualidade será medida pelo cruzamento tópico a tópico com o Anexo VIII e pela existência de explicações e exercícios suficientes.
 
-## Sumário
-
-
-### PARTE I — CONHECIMENTOS GERAIS
+# PARTE I — CONHECIMENTOS GERAIS
 
 - [Língua Portuguesa](#lingua-portuguesa)
 - [Matemática e Raciocínio Lógico](#matematica-e-raciocinio-logico)
