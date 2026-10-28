@@ -51,3 +51,28 @@ Hardware/software; Windows e arquivos; Word; Excel; internet e e-mail; seguranç
 
 ## Fontes
 Edital vigente; documentação oficial Microsoft; CERT.br; texto oficial da LGPD nos recortes previstos no edital.
+
+## Complemento — apresentação, comunicação e colaboração
+Os aplicativos e versões exigidos precisam ser confirmados no Anexo VIII do edital. Os conceitos abaixo são uma base de estudo, não uma afirmação de que cada aplicativo está nominalmente previsto.
+
+### Apresentações
+Em aplicativos como PowerPoint, uma apresentação é composta por slides. Tema e layout definem estrutura visual; transições ocorrem entre slides; animações afetam objetos dentro do slide. Notas do apresentador são diferentes do conteúdo exibido ao público. Inserir imagem, gráfico ou mídia pode aumentar o tamanho do arquivo e exigir atenção a direitos de uso e acessibilidade.
+
+### Calendário, Outlook e mensagens
+Em clientes de correio como Outlook, diferencie mensagem, convite de reunião, evento de calendário, tarefa e contato. Responder a um convite não é o mesmo que encaminhar uma mensagem. Listas de distribuição e campos Para/Cc/Cco têm efeitos distintos. Antes de compartilhar agenda, confira fuso horário, recorrência, participantes e permissões.
+
+### Reuniões e colaboração
+Ferramentas de reunião e colaboração podem combinar chat, áudio/vídeo, compartilhamento de tela e arquivos. Permissão para visualizar não implica permissão para editar. O compartilhamento de um link pode ser limitado a pessoas específicas ou ampliado conforme a configuração; escolha o menor acesso necessário.
+
+### Navegadores e privacidade
+Histórico, cookies, cache e downloads são itens diferentes. Cookies podem guardar preferências ou identificadores; cache armazena recursos para acelerar carregamento; histórico registra páginas visitadas; limpar um desses itens não implica apagar todos os demais. Navegação privada reduz vestígios locais da sessão, mas não torna a atividade invisível ao provedor, empregador, rede ou sites acessados.
+
+### Backup, restauração e continuidade
+Regra prática: mantenha cópias em locais independentes, limite acesso e teste restauração. Uma cópia conectada permanentemente ao mesmo equipamento pode ser afetada pelo mesmo incidente. RPO representa a perda de dados tolerável medida em tempo; RTO representa o tempo-alvo para restaurar o serviço, quando esses conceitos forem cobrados.
+
+### Exercícios adicionais
+**6.** Em uma apresentação, uma transição é aplicada principalmente: (A) entre slides (B) à senha do arquivo (C) ao destinatário de e-mail (D) à fórmula da planilha (E) ao sistema de arquivos.  
+**7.** Qual afirmação sobre navegação privada é correta? (A) impede todo rastreamento externo (B) torna o usuário anônimo para o provedor (C) reduz parte do histórico local, mas não garante anonimato externo (D) elimina malware (E) substitui VPN em qualquer cenário.  
+**8.** Um link de arquivo deve ser compartilhado preferencialmente com: (A) acesso público por padrão (B) todas as pessoas da internet (C) as pessoas necessárias, com permissão mínima suficiente (D) edição para todos (E) credenciais enviadas no mesmo e-mail.
+
+**Gabarito comentado:** 6. **A** — transições conectam slides. 7. **C** — a navegação privada não garante anonimato externo. 8. **C** — aplique o princípio do menor privilégio.
