@@ -137,3 +137,44 @@ E) LBI, art. 34.
 - Conferir a versão do CPC vigente em 19/10/2026 e as alterações de 2026.
 - Validar prazos, requisitos, efeitos recursais e exceções com revisão jurídica independente.
 - Submeter questões a revisão técnica e calibração Vunesp.
+
+## Mapa de cobertura por intervalo
+
+| Dispositivos | Eixo de leitura |
+|---|---|
+| 144–148 | Impedimento e suspeição do juiz. |
+| 149–155 | Auxiliares da Justiça e suas funções. |
+| 188–211 | Forma, prática, publicidade/sigilo e validade dos atos processuais. |
+| 212–235 | Prazos processuais, calendário e contagem; conferir regras gerais e exceções. |
+| 236–275 | Comunicação dos atos, citação/intimação, cartas, nulidades, distribuição e valor da causa; separar por capítulo no índice oficial. |
+| 294–299 | Regras gerais de tutela provisória e tutela de urgência. |
+| 300–304 | Tutela antecipada antecedente e efeitos do procedimento. |
+| 305–310 | Tutela cautelar antecedente, efetivação e cessação dos efeitos. |
+| 311 | Tutela de evidência e hipóteses legais. |
+| 318–331 | Procedimento comum, petição inicial e improcedência liminar. |
+| 332–334 | Improcedência liminar e audiência de conciliação/mediação. |
+| 335–346 | Contestação, preliminares, reconvenção e revelia. |
+| 347–357 | Providências preliminares, saneamento e organização do processo. |
+| 358–484 | Audiência, prova, instrução e julgamento; conferir cada capítulo e espécie de prova. |
+| 485–512 | Sentença, extinção, remessa necessária, coisa julgada e liquidação, conforme o texto. |
+| 513–538 | Cumprimento de sentença e modalidades previstas no intervalo. |
+| 994–1008 | Regras gerais e recursos previstos no trecho; conferir cabimento e requisitos. |
+| 1009–1026 | Apelação, agravo e demais recursos/embargos abrangidos pelo intervalo; não extrapolar o limite final do edital. |
+
+O quadro serve para navegação e precisa ser cotejado com o sumário oficial e a redação vigente. Em especial, o CPC foi alterado em 2026; a ficha final deve indicar a versão aplicável em 19/10/2026 e destacar alterações posteriores.
+
+## Lei 9.099/1995 — arts. 3º–19
+Inclua expressamente o **art. 12-A**, sobre contagem de prazos em dias úteis, pois ele está dentro do intervalo civil do edital e foi omitido na matriz numérica anterior. Compare os arts. 12-A e 13: contagem de prazo e validade/nulidade de atos são temas diferentes.
+
+## Questões adicionais
+
+**5.** No procedimento comum, a revelia deve ser analisada à luz dos arts. 344–346, sem presumir que toda alegação do autor será sempre considerada verdadeira.  
+A) Correto. B) Incorreto, pois a revelia produz automaticamente procedência em qualquer causa. C) A revelia extingue o processo. D) A revelia substitui a citação. E) A revelia impede sentença.  
+
+**6.** A tutela de evidência é:  
+A) sempre idêntica à tutela cautelar; B) modalidade prevista no art. 311, com hipóteses legais próprias; C) recurso; D) forma de citação; E) sinônimo de coisa julgada.  
+
+**7.** Uma questão exige a contagem de prazo em Juizado Especial Cível. Além dos dispositivos gerais aplicáveis, deve-se conferir no recorte especial:  
+A) Lei 9.099/1995, art. 12-A; B) CPP, art. 400-A; C) CP, art. 313-B; D) LBI, art. 34; E) RI, art. 92.  
+
+**Gabarito:** 5-A; 6-B; 7-A.
