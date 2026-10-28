@@ -2404,12 +2404,12 @@ E) Um comentário sem referência.
 
 ### Rotina semanal até a prova
 
-1. Selecione notícias de fontes confiáveis e de diferentes áreas.
-2. Procure documentos primários quando houver dados oficiais, decisão judicial, lei, relatório ou comunicado.
-3. Registre o acontecimento sem reproduzir a linguagem emocional da manchete.
-4. Compare com o contexto anterior e verifique o que mudou.
-5. Crie uma pergunta de recuperação ativa e reveja a ficha em uma semana.
-6. Atualize a data de corte e remova informações superadas ou corrigidas.
+- Selecione notícias de fontes confiáveis e de diferentes áreas.
+- Procure documentos primários quando houver dados oficiais, decisão judicial, lei, relatório ou comunicado.
+- Registre o acontecimento sem reproduzir a linguagem emocional da manchete.
+- Compare com o contexto anterior e verifique o que mudou.
+- Crie uma pergunta de recuperação ativa e reveja a ficha em uma semana.
+- Atualize a data de corte e remova informações superadas ou corrigidas.
 
 ---
 
@@ -2501,11 +2501,11 @@ E) apenas a ambientes de trabalho.
 **Tema:** Os desafios para conciliar transformação digital e acesso igualitário aos serviços públicos.
 
 Antes de escrever, responda:
-1. Qual problema específico será discutido?
-2. Quem é afetado e de que maneira?
-3. Quais são duas causas ou dimensões do problema?
-4. Que medida concreta pode reduzir a dificuldade?
-5. Como a conclusão responde à tese apresentada na introdução?
+- Qual problema específico será discutido?
+- Quem é afetado e de que maneira?
+- Quais são duas causas ou dimensões do problema?
+- Que medida concreta pode reduzir a dificuldade?
+- Como a conclusão responde à tese apresentada na introdução?
 
 **Roteiro possível:** introdução com delimitação do problema e tese; desenvolvimento 1 sobre eficiência e acesso; desenvolvimento 2 sobre barreiras e medidas de inclusão; conclusão que retoma a tese e sintetiza as medidas. O roteiro é apenas uma possibilidade, não uma redação pronta nem uma garantia de nota.
 
@@ -3177,12 +3177,12 @@ E) presumir que uma rotina antiga continua vigente.
 
 ### Pendências que permanecem obrigatórias
 
-1. Atomizar todas as seções/subseções das Normas da Corregedoria indicadas no edital.
-2. Conferir o Regimento Interno por dispositivo, incluindo anexos e regras de competência/procedimento.
-3. Conferir a versão consolidada da LC nº 1.111/2010.
-4. Baixar e revisar as versões oficiais das Resoluções nº 850/2021 e nº 963/2025.
-5. Criar questões por seção com gabarito ancorado no artigo ou item oficial.
-6. Registrar data de consulta e data de corte de cada norma.
+- Atomizar todas as seções/subseções das Normas da Corregedoria indicadas no edital.
+- Conferir o Regimento Interno por dispositivo, incluindo anexos e regras de competência/procedimento.
+- Conferir a versão consolidada da LC nº 1.111/2010.
+- Baixar e revisar as versões oficiais das Resoluções nº 850/2021 e nº 963/2025.
+- Criar questões por seção com gabarito ancorado no artigo ou item oficial.
+- Registrar data de consulta e data de corte de cada norma.
 
 ---
 
