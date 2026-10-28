@@ -3239,6 +3239,485 @@ __________________________________________________________________
 A revisão deve testar recuperação, não apenas familiaridade visual. Se a resposta só parece óbvia depois de reler a explicação, o conteúdo ainda precisa de prática.
 
 
+
+
+---
+
+# Aulas de aprofundamento por assunto
+
+Este bloco complementa os resumos iniciais com mapas de leitura, distinções e procedimentos de resolução. Ele não substitui a leitura integral dos dispositivos listados no edital. Nos atos internos, a descrição do tema não será tratada como transcrição normativa: a conferência do texto oficial e da versão aplicável continua obrigatória.
+
+## Direito Constitucional — mapa dos dispositivos do edital
+
+### Como delimitar o recorte
+
+O Anexo VIII não manda estudar a Constituição inteira. O recorte é: **Título II, Capítulos I, II e III; Título III, Capítulo VII, Seções I e II; e art. 92**. O primeiro passo é marcar no texto constitucional o começo e o fim de cada parte. Evite incluir automaticamente os capítulos seguintes só porque tratam de temas próximos.
+
+| Bloco constitucional | Núcleo de estudo | Pegadinha recorrente |
+|---|---|---|
+| Direitos e deveres individuais e coletivos | Direitos, garantias, condições e remédios constitucionais | Confundir direito com instrumento de proteção; ignorar condições expressas |
+| Direitos sociais | Direitos sociais e disposições constitucionais relacionadas | Trocar direito social por direito de nacionalidade ou direito político |
+| Nacionalidade | Brasileiro nato, naturalizado e hipóteses constitucionais | Tratar todas as hipóteses como equivalentes |
+| Administração Pública | Princípios, acesso a cargos, acumulação, agentes e regras constitucionais | Transformar princípio em autorização para descumprir outro |
+| Poder Judiciário — art. 92 | Órgãos enumerados pela Constituição | Incluir órgão que não esteja no rol ou confundir órgão com unidade administrativa |
+
+### Art. 5º: método para as garantias
+
+Não estude o art. 5º como uma sequência indiferenciada de frases. Organize-o por famílias:
+
+- **Igualdade e legalidade:** identifique quem é protegido e qual limite se impõe ao Estado ou a particulares.
+- **Liberdades:** expressão, consciência, crença, reunião, associação, atividade intelectual e profissional, observadas as condições constitucionais.
+- **Privacidade e proteção de espaços e comunicações:** diferencie inviolabilidade, hipóteses de restrição e requisitos da exceção.
+- **Acesso à Justiça e garantias processuais:** direito de petição, acesso ao Judiciário, devido processo, contraditório, ampla defesa e regras de prova.
+- **Garantias penais e da pessoa presa:** legalidade penal, individualização, limites de penas, direitos do preso e regras constitucionais expressas.
+- **Remédios constitucionais:** associe cada instrumento ao tipo de lesão ou ameaça que busca enfrentar, sem confundir seus requisitos.
+
+Ao ler cada inciso, faça quatro perguntas: quem é o titular? Qual é o comportamento protegido ou proibido? Há uma condição expressa? Qual é a exceção? Se o inciso remete a lei, registre essa remissão.
+
+### Direitos sociais e nacionalidade
+
+Os direitos sociais devem ser lidos na literalidade constitucional, sem reduzir a lista àquilo que parece mais frequente em questões. Em nacionalidade, compare as hipóteses de nacionalidade originária com as de aquisição posterior; observe as condições e exceções textuais. Não deduza nacionalidade apenas por local de residência, sobrenome ou situação familiar.
+
+### Administração Pública: princípios e regras
+
+O art. 37 apresenta os princípios expressos de legalidade, impessoalidade, moralidade, publicidade e eficiência. A questão pode pedir o princípio nominalmente ou descrever uma situação prática. Para resolver, identifique o comportamento concreto:
+
+- preferência pessoal na distribuição de um benefício aponta para problema de impessoalidade;
+- divulgação indevida de informação protegida não se torna correta apenas porque a publicidade é princípio;
+- resultado rápido não torna válido um ato contrário à lei;
+- aparência formalmente regular não elimina a análise de moralidade e finalidade pública;
+- eficiência envolve boa prestação do serviço dentro da legalidade, não simples redução de custo a qualquer preço.
+
+As regras constitucionais sobre cargos e empregos públicos, concurso, acumulação, remuneração, responsabilidade e estabilidade têm condições próprias. Não extrapole uma exceção para situações que o texto não contempla. Ao estudar os arts. 37–41, mantenha uma ficha por artigo e destaque expressões como “na forma da lei”, “ressalvadas as hipóteses” e “desde que”.
+
+### Questões de aplicação
+
+**C11.** Um gestor escolhe um candidato para cargo efetivo apenas por amizade, sem concurso e fora de hipótese constitucional de livre nomeação. O princípio mais diretamente comprometido é:
+
+A) impessoalidade e observância das regras constitucionais de ingresso.  
+B) autonomia privada absoluta.  
+C) soberania internacional.  
+D) nacionalidade originária.  
+E) direito de reunião.
+
+**C12.** A Administração divulga dados pessoais sem avaliar a base jurídica e a necessidade da divulgação. Qual método é mais adequado?
+
+A) afirmar que a publicidade sempre autoriza qualquer divulgação.  
+B) harmonizar publicidade, legalidade e os direitos constitucionais pertinentes, examinando a regra aplicável.  
+C) presumir que nenhum dado pode ser divulgado.  
+D) ignorar a Constituição porque há sistema eletrônico.  
+E) concluir que todo ato é sigiloso.
+
+**Gabarito:** C11 — A. O acesso ao cargo e a impessoalidade devem respeitar o regime constitucional. C12 — B. Princípios precisam ser aplicados em conjunto; nenhum deles elimina automaticamente os demais.
+
+---
+
+## Direito Administrativo — trilha por grupos do Estatuto e improbidade
+
+### Como ler o Estatuto estadual
+
+O edital indica a Lei estadual nº 10.261/1968 nos intervalos **arts. 1º–86, 171–175 e 239–323**. Esses intervalos devem ser mantidos separados no plano de estudo, porque não formam um único tema contínuo. Para cada grupo, produza uma ficha com:
+
+- título oficial do capítulo ou seção;
+- conceito e sujeitos alcançados;
+- dever, direito, proibição ou procedimento;
+- prazo e termo inicial, se houver;
+- exceções e consequências;
+- artigo correlato ou remissão;
+- exemplo prático que ajude a distinguir a regra de uma regra próxima.
+
+Não conclua que todo o Estatuto está no edital. Também não conclua que basta estudar os títulos dos artigos: a banca pode trocar sujeito, condição, prazo ou consequência.
+
+### Dever funcional e responsabilidade
+
+Quando uma questão descreve a conduta de um servidor, separe o fato da qualificação jurídica. Primeiro escreva o que aconteceu sem usar o nome do ilícito; depois compare a conduta com o texto legal. Isso evita que palavras emocionalmente fortes, como “grave”, “desonesto” ou “abusivo”, substituam os requisitos normativos.
+
+A mesma conduta pode gerar apuração administrativa e, dependendo dos fatos e dos pressupostos legais, repercussões civis ou penais. Isso não significa que os procedimentos sejam iguais, que as sanções sejam intercambiáveis ou que a culpa em uma esfera seja automaticamente presumida em todas as outras. Identifique o fundamento e a consequência de cada regime.
+
+### Processo disciplinar: sequência lógica
+
+Ao estudar os dispositivos de procedimento disciplinar, transforme o texto em uma linha do tempo. Registre a forma de conhecimento do fato; a autoridade competente; a providência inicial; o modo de apuração; a oportunidade de defesa; a produção de provas; o relatório; a decisão; os recursos ou pedidos cabíveis; e os prazos. Essa linha do tempo deve ser construída com os artigos oficiais, não preenchida por analogia.
+
+Se dois procedimentos têm nomes parecidos, compare cabimento, autoridade, prazo, formalidade, finalidade e resultado. A diferença pode estar em um detalhe que a alternativa tenta ocultar.
+
+### Improbidade administrativa
+
+A Lei nº 8.429/1992 foi substancialmente alterada, especialmente pela Lei nº 14.230/2021. Para o estudo, não use material antigo sem conferência. Organize a leitura pelos tipos legais e pelos requisitos que a lei exige. A improbidade não deve ser tratada como sinônimo automático de qualquer ilegalidade, falha, desorganização ou infração disciplinar. O enquadramento exige análise dos elementos normativos aplicáveis, inclusive do elemento subjetivo quando exigido.
+
+Separe em fichas os atos relacionados a enriquecimento ilícito, prejuízo ao erário e violação de princípios, sempre conferindo a redação vigente e os requisitos de cada categoria. Registre também as consequências legais e as regras de prescrição pertinentes ao texto aplicável. Não memorize sanções ou prazos de resumos sem confirmar o dispositivo.
+
+### Questões de aplicação
+
+**AD11.** Um relatório chama uma conduta de “improbidade” apenas porque houve descumprimento de procedimento interno. Qual é o próximo passo correto?
+
+A) aplicar imediatamente todas as sanções da Lei de Improbidade.  
+B) verificar os fatos e confrontá-los com os elementos legais do tipo aplicável, sem confundir irregularidade com improbidade automática.  
+C) dispensar a defesa porque o relatório já qualificou a conduta.  
+D) escolher a sanção mais grave por precaução.  
+E) usar a definição de improbidade de um material anterior a alterações legais sem conferência.
+
+**AD12.** Ao estudar um prazo disciplinar, o candidato encontra regra geral e exceção no mesmo diploma. Deve:
+
+A) memorizar somente o prazo menor.  
+B) registrar o termo inicial, o evento que altera a contagem, a exceção e a consequência previstos na redação oficial.  
+C) presumir que todos os prazos são contados em dias corridos.  
+D) substituir o prazo por uma estimativa.  
+E) aplicar o prazo do CPC automaticamente.
+
+**Gabarito:** AD11 — B. A qualificação exige correspondência com os requisitos legais. AD12 — B. A contagem depende da regra concreta, do termo inicial e das exceções.
+
+---
+
+## Direito Penal — quadro de comparação para os tipos do edital
+
+### Falsidades documentais
+
+O grupo dos arts. 293–305 exige diferenciar o objeto e a conduta: falsificar ou alterar documento, falsidade ideológica, falsificação de documento público ou particular, certidões, uso de documento falso e supressão, ocultação ou destruição de documento, conforme os artigos aplicáveis. O nome genérico “falsidade” não basta para resolver a questão.
+
+Na leitura de cada artigo, destaque:
+- qual documento, selo, sinal ou objeto é protegido;
+- qual verbo descreve a conduta;
+- quem pode praticá-la;
+- se o tipo exige finalidade específica ou outro elemento subjetivo;
+- se a questão descreve falsificação, alteração, declaração falsa ou uso posterior;
+- quais artigos próximos devem ser comparados.
+
+**Exemplo de distinção:** alterar fisicamente um documento não é a mesma descrição legal que inserir declaração falsa em documento formalmente autêntico. Em questão concreta, a resposta depende do tipo e dos fatos descritos; não conclua apenas pela palavra “falso”.
+
+### Crimes funcionais e contra a Administração
+
+O grupo dos arts. 312–317 e 319–333 inclui tipos com diferenças importantes entre apropriação ou desvio de bem, manipulação de dados ou sistema, exigência de vantagem, solicitação ou recebimento de vantagem, retardamento indevido de ato, violação de dever e condutas de particulares contra a Administração.
+
+Compare especialmente:
+- **peculato:** identifique a relação funcional com o bem e a modalidade descrita;
+- **concussão:** observe o verbo “exigir” e os demais elementos do art. 316;
+- **corrupção passiva:** verifique a conduta descrita no art. 317;
+- **corrupção ativa:** analise a conduta do particular prevista no art. 333;
+- **prevaricação:** confira o ato de ofício e o interesse ou sentimento pessoal exigidos pelo art. 319;
+- **arts. 313-A e 313-B:** diferencie inserção ou facilitação de dados falsos de modificação ou alteração não autorizada de sistema/programa, de acordo com a redação de cada artigo;
+- **arts. 307 e 308:** não confunda atribuição de falsa identidade com o uso de documento de identidade alheia nas condições legais.
+
+A definição penal de funcionário público deve ser lida no Código Penal, inclusive no art. 327 quando pertinente. Não limite automaticamente o conceito ao servidor efetivo estatutário.
+
+### Crimes contra a Administração da Justiça
+
+Nos arts. 339–347, 357 e 359, compare a conduta concreta com o verbo do tipo e com o interesse protegido. Denunciação caluniosa, comunicação falsa de crime, autoacusação falsa, falso testemunho, coação no curso do processo, fraude processual e exploração de prestígio não são expressões intercambiáveis. A alternativa pode parecer moralmente reprovável, mas só é correta se corresponder aos elementos do artigo.
+
+### Ficha artigo a artigo
+
+Use uma ficha por dispositivo, com:
+- número e texto do artigo;
+- verbo nuclear;
+- sujeito ativo e eventual qualidade exigida;
+- objeto material;
+- elemento subjetivo e finalidade;
+- consumação e tentativa, se pertinentes;
+- causa de aumento, qualificadora ou modalidade específica;
+- tipo próximo que costuma confundir;
+- uma questão própria com gabarito justificado.
+
+Não memorize penas, qualificadoras ou revogações a partir deste quadro-resumo. Esses detalhes exigem consulta ao texto oficial aplicável.
+
+---
+
+## Direito Processual Civil — do ato processual ao recurso
+
+### Mapa do procedimento
+
+O recorte do CPC no edital abrange arts. 144–155; 188–275; 294–311; 318–538; 994–1026, além das Leis nº 9.099/1995 e nº 12.153/2009. O estudo deve respeitar os intervalos e as subdivisões: a numeração não indica, sozinha, que todos os artigos tratam da mesma fase.
+
+| Etapa ou grupo | Pergunta de controle |
+|---|---|
+| Impedimento, suspeição e auxiliares | Quem está sujeito à regra e qual é o fundamento legal? |
+| Atos, prazos e comunicações | Qual ato deve ser praticado, por quem, de que forma e em qual prazo? |
+| Tutela provisória | Há tutela de urgência ou de evidência? Quais pressupostos são exigidos? |
+| Procedimento comum | Qual é a fase processual e qual providência é cabível? |
+| Cumprimento de sentença | Qual é o título, a obrigação e a forma de cumprimento prevista? |
+| Recursos | Qual recurso, prazo, legitimidade, requisito e efeito se aplicam? |
+| Juizados | Qual lei rege a situação e qual recorte foi incluído no edital? |
+
+### Atos, prazos e comunicações
+
+Ao ler um dispositivo sobre prazo, não anote apenas o número de dias. Registre o termo inicial, a forma de contagem prevista, a existência de suspensão ou interrupção, a pessoa responsável e a consequência do descumprimento. Em citação e intimação, identifique a finalidade e o destinatário; não use o nome genérico “comunicação” como se todas as modalidades fossem iguais.
+
+Para a hora certa, monte a sequência exata exigida no CPC: pressupostos, diligências, suspeita de ocultação, comunicação da data de retorno, ato realizado, certidão e comunicação complementar prevista em lei. A ordem e o responsável por cada passo são pontos típicos de confusão.
+
+### Tutela provisória
+
+Diferencie tutela de urgência e tutela de evidência. Na tutela de urgência, confira os pressupostos legais de probabilidade do direito e perigo de dano ou risco ao resultado útil do processo, além das condições e limites aplicáveis. Na tutela de evidência, leia as hipóteses expressamente previstas; não exija automaticamente o mesmo requisito de perigo que caracteriza a urgência.
+
+### Procedimento comum e cumprimento de sentença
+
+A petição inicial delimita pedido e causa de pedir e deve observar os requisitos do CPC. Em cada questão, pergunte em que fase o processo está: postulatória, saneamento, instrução, julgamento ou cumprimento. Não confunda sentença com cumprimento de sentença, nem título judicial com mera expectativa de direito.
+
+### Recursos
+
+Para cada recurso do art. 994 e seguintes, crie uma tabela com cabimento, prazo, legitimidade, órgão competente, requisitos de admissibilidade, efeitos e eventual possibilidade de retratação. Não suponha que todos os recursos tenham o mesmo prazo ou que a interposição suspenda automaticamente os efeitos da decisão.
+
+### Questões de aplicação
+
+**PC11.** A alternativa afirma que todo erro formal causa nulidade automática. A resposta mais adequada é:
+
+A) correta, porque forma sempre prevalece sobre finalidade.  
+B) incorreta como regra universal; é necessário verificar o dispositivo, a finalidade do ato e a consequência legal aplicável.  
+C) correta apenas no cumprimento de sentença.  
+D) correta sempre que houver recurso.  
+E) irrelevante para o processo.
+
+**PC12.** Uma questão apresenta o prazo sem informar quando começou a correr. O candidato deve:
+
+A) escolher um prazo por memória.  
+B) localizar o dispositivo e identificar o termo inicial e as regras de contagem pertinentes.  
+C) presumir que o prazo começa na data da petição inicial.  
+D) aplicar a regra penal.  
+E) ignorar a omissão.
+
+**Gabarito:** PC11 — B. As consequências dependem do regime legal, do ato e das circunstâncias. PC12 — B. A contagem não pode ser resolvida sem o termo inicial e a regra aplicável.
+
+---
+
+## Direito Processual Penal — leitura por rito e por sujeito
+
+### Atores processuais
+
+Nos arts. 251–258, 261–267 e 274 do CPP, identifique o sujeito de cada regra: juiz, Ministério Público, acusado, defensor, curador, funcionário ou auxiliar da Justiça. Depois registre se a norma trata de atribuição, impedimento, suspeição, defesa técnica, nomeação de defensor, abandono ou afastamento. A troca do sujeito é uma pegadinha comum: uma providência atribuída à secretaria não deve ser transferida automaticamente ao oficial ou ao juiz.
+
+### Citação e intimação
+
+Nos arts. 351–372, construa um mapa das modalidades e dos atos: destinatário, local, forma, certidão, hipótese de edital e consequência. O procedimento penal deve ser conferido no CPP. Não importe automaticamente para o processo penal os prazos ou requisitos do CPC só porque os nomes dos atos são semelhantes.
+
+### Procedimentos
+
+O edital inclui:
+- procedimento comum e dispositivos correlatos nos arts. 394–405;
+- procedimento do Tribunal do Júri, arts. 406–497;
+- procedimento sumário, arts. 531–538;
+- restauração de autos, arts. 541–548;
+- recursos e nulidades, arts. 574–667;
+- Lei nº 9.099/1995, arts. 60–83, 88 e 89.
+
+Para cada rito, crie um fluxograma com início, decisões intermediárias, prazos, manifestações, atos de instrução e resultado. Não confunda procedimento comum com procedimento do júri; o segundo tem sequência própria e decisões características. A restauração de autos também não é recurso: é procedimento destinado à reconstrução de autos nas hipóteses legais.
+
+### Recursos e nulidades
+
+Em recursos, confira cabimento, legitimidade, prazo, forma, efeitos e órgão competente. Em nulidades, não use a fórmula simplista “qualquer erro anula tudo”. Leia o regime legal, identifique o ato e a consequência prevista, e verifique a exigência de prejuízo quando aplicável. A questão pode misturar a existência de irregularidade com o efeito processual dela; são perguntas diferentes.
+
+### Juizado Especial Criminal
+
+Os arts. 60–83, 88 e 89 da Lei nº 9.099/1995 devem ser estudados pelo recorte literal do edital. Registre competência, institutos, momentos processuais, condições e efeitos. Não conclua que toda infração penal é de competência do Juizado Especial Criminal nem que os procedimentos previstos na lei dispensam garantias processuais.
+
+### Questões de aplicação
+
+**PP13.** Uma alternativa aplica automaticamente ao CPP um prazo encontrado no CPC, sem identificar remissão legal. O erro é:
+
+A) considerar que normas processuais podem ter regras próprias.  
+B) presumir identidade entre regimes sem fundamento legal.  
+C) conferir o artigo.  
+D) identificar o rito.  
+E) comparar os sujeitos do ato.
+
+**PP14.** Para distinguir recurso e nulidade, deve-se:
+
+A) tratar ambos como pedido de revisão idêntico.  
+B) identificar a finalidade do instrumento, seus pressupostos e seus efeitos previstos no CPP.  
+C) escolher o termo mais familiar.  
+D) aplicar sempre o procedimento civil.  
+E) dispensar a leitura do artigo.
+
+**Gabarito:** PP13 — B. A semelhança dos nomes não elimina a necessidade de base legal. PP14 — B. Recursos e nulidades possuem regimes próprios.
+
+---
+
+## Legislação Interna do TJSP — mapa literal do Anexo VIII
+
+### O que o edital inclui
+
+A lista deve ser copiada e controlada sem generalizações:
+
+- **Resolução TJSP nº 850/2021:** regulamenta o teletrabalho no âmbito do TJSP.
+- **Resolução TJSP nº 963/2025:** dispõe sobre a governança e utilização do sistema eproc nas unidades do Poder Judiciário paulista.
+- **Lei Complementar nº 1.111/2010:** institui o Plano de Cargos e Carreiras dos servidores do TJSP.
+- **Regimento Interno do Tribunal de Justiça.**
+- **Normas da Corregedoria Geral da Justiça, Tomo I:**
+  - Capítulo II, Seção I, subseções I e II;
+  - Capítulo III, Seções I, II, V, VI e VII;
+  - Capítulo III, Seção VIII, subseções I, II e III;
+  - Capítulo III, Seções IX a XIX;
+  - Capítulo XI, Seções I a VII.
+
+A existência desses nomes no sumário não prova que o conteúdo esteja desenvolvido. Cada trecho deve ser conferido na fonte oficial e ligado a uma seção da apostila.
+
+### Cartão de leitura para cada ato
+
+**Identificação:** nome, número, data, órgão emissor e fonte oficial.
+
+**Vigência:** data de publicação, alterações posteriores e data de corte do edital. Se houver versão anotada, distinguir texto vigente de texto revogado ou substituído.
+
+**Abrangência:** unidades, pessoas, sistemas e situações alcançadas.
+
+**Procedimento:** responsável, sequência, documentos ou registros exigidos, sistema/livro, prazo, exceções e consequência.
+
+**Conferência:** artigo ou item exato; link oficial; data de consulta; dúvida que exige revisão humana.
+
+### Como não confundir as fontes
+
+- Uma **resolução** é um ato normativo próprio; não deve ser tratada como se fosse parte do Regimento Interno.
+- O **Regimento Interno** contém organização, competências e procedimentos regimentais; não se presume que todas as rotinas de uma unidade cartorária estejam nele.
+- As **Normas da Corregedoria** detalham matérias e rotinas conforme o recorte indicado no edital; estudar o Tomo inteiro pode consumir tempo fora do escopo e, ao mesmo tempo, deixar de aprofundar a seção efetivamente cobrada.
+- A **LC nº 1.111/2010** trata do plano de cargos e carreiras; não substitui o Estatuto estadual nem deve ser confundida com ele.
+
+### Questões de controle
+
+**TJ9.** O candidato estudou todo o capítulo geral das Normas da Corregedoria, mas não conferiu as subseções expressamente indicadas no edital. A cobertura pode ser marcada como completa?
+
+A) Sim, porque estudar mais sempre comprova o recorte específico.  
+B) Não; é necessário confirmar cada seção e subseção indicada, além de desenvolver o conteúdo correspondente.  
+C) Sim, se o resumo tiver muitas páginas.  
+D) Sim, se houver questões de outro cargo.  
+E) Não é necessário conferir o edital.
+
+**TJ10.** Uma resolução foi alterada após a data de publicação do edital. Qual é o procedimento correto para o material de prova?
+
+A) aplicar automaticamente a última versão sem analisar o edital.  
+B) registrar a data de corte prevista no edital e verificar as regras do próprio edital para legislação superveniente ou complementar.  
+C) usar sempre a primeira versão.  
+D) ignorar todas as alterações.  
+E) escolher a versão mais simples.
+
+**Gabarito:** TJ9 — B. A cobertura deve corresponder ao trecho literal, não apenas ao capítulo geral. TJ10 — B. O próprio edital estabelece a regra de corte e o tratamento da legislação superveniente ou complementar.
+
+---
+
+## Matemática e Raciocínio Lógico — rotina de solução
+
+### Operações, proporção e problemas
+
+Em situações-problema, destaque os dados e a pergunta antes de calcular. Se o enunciado descreve aumento, redução, comparação, distribuição ou produção, identifique a relação entre as grandezas. Regra de três não deve ser aplicada mecanicamente: confirme se as grandezas variam direta ou inversamente.
+
+Em porcentagem, defina a base de referência. Aumentar 20% e depois reduzir 20% não retorna, em geral, ao valor original, porque a segunda porcentagem incide sobre outra base. Em juros simples, o juro é proporcional ao capital, à taxa e ao tempo, conforme as unidades usadas. Converta a taxa para decimal e alinhe o período da taxa ao período do tempo.
+
+### Equações e sistemas
+
+Ao resolver equação, preserve a equivalência das operações nos dois lados. Em equação do segundo grau, identifique os coeficientes, calcule o discriminante e confira as raízes na equação original. Em sistema de equações, substituição e adição são métodos válidos; escolha o que reduz o risco de erro. Se o resultado não satisfizer as duas equações, a solução está incorreta.
+
+### Tabelas, gráficos e medidas
+
+Leia título, legenda, eixos, unidades e intervalo temporal. Uma barra maior pode representar quantidade acumulada, taxa ou valor percentual; não compare grandezas diferentes sem converter a medida. Em sistemas usuais, faça a conversão antes de operar. Perímetro mede contorno; área mede superfície; volume mede espaço ocupado. O teorema de Pitágoras se aplica a triângulo retângulo, não a qualquer triângulo.
+
+### Lógica
+
+Em proposições, registre o valor de verdade e a estrutura. A condicional “se p, então q” só é falsa quando p é verdadeira e q é falsa. A negação de “todos” é “existe pelo menos um que não”; a negação de “nenhum” é “existe pelo menos um”. Em problemas de relações, separe fatos fornecidos de possibilidades não confirmadas.
+
+### Rotina de conferência
+
+- A unidade final responde ao que foi pedido?
+- O sinal é compatível com o contexto?
+- A ordem de grandeza é plausível?
+- A resposta satisfaz a equação ou condição original?
+- A conclusão lógica decorre das premissas ou apenas parece provável?
+
+---
+
+## Informática — prática orientada no ambiente de trabalho
+
+### Word
+
+Pratique estilos de título, sumário automático, cabeçalho, rodapé, numeração, quebra de página e quebra de seção. Uma quebra de página move o conteúdo seguinte; uma quebra de seção permite separar configurações entre partes do documento. Em documentos extensos, o sumário deve ser atualizado após alterações nos títulos ou na paginação.
+
+Quando uma tabela ultrapassa a página, verifique a repetição de cabeçalho e o comportamento das linhas. Para impressão, confira orientação, margens, escala, área de impressão e pré-visualização. Não alinhe texto longo com espaços repetidos quando tabulações, tabelas ou estilos resolvem o problema de modo mais estável.
+
+### Excel
+
+Diferencie célula, intervalo, planilha e pasta de trabalho. Em fórmulas, confira operadores, parênteses, referências relativas e absolutas, intervalos e tipos de dados. Em classificação, mantenha as linhas completas; ordenar apenas uma coluna pode associar um nome ao registro errado. Em gráficos, selecione a série e os rótulos corretos e confira se a escala não induz a interpretação errada.
+
+Macros e arquivos com conteúdo ativo exigem cautela. A existência de uma extensão conhecida não torna o arquivo confiável. Antes de habilitar conteúdo, confirme a origem e a necessidade, seguindo as políticas de segurança aplicáveis.
+
+### Teams, OneDrive, e-mail e Internet
+
+No Teams, diferencie chat, canal, reunião, chamada, compartilhamento e permissões. No OneDrive, distinguir sincronização, armazenamento e compartilhamento ajuda a evitar cópias desnecessárias e acesso indevido. Em e-mail, revise destinatários, assunto, anexos e informações sensíveis antes de enviar. Na Internet, confira domínio, URL e origem de arquivos; um cadeado HTTPS não garante que o site seja legítimo.
+
+### Checklist de laboratório
+
+- Criar um documento com estilos e sumário.
+- Separar duas seções com numeração de páginas diferente.
+- Criar planilha com fórmula, referência absoluta, classificação e gráfico.
+- Testar compartilhamento de arquivo com permissão de leitura e de edição em ambiente controlado.
+- Identificar um exemplo de phishing e explicar os sinais de alerta.
+- Registrar versão do software e resultado do teste.
+
+A verificação final das versões do Microsoft 365 e dos comportamentos cobrados deve ser feita em ambiente real, porque a interface pode variar conforme versão, idioma e configuração institucional.
+
+---
+
+## Língua Portuguesa — análise gramatical dentro do texto
+
+### Classes de palavras
+
+A classificação depende do emprego. Um termo pode assumir funções diferentes em contextos distintos; por isso, não classifique apenas pela forma isolada. Substantivos nomeiam seres, objetos, ideias ou processos; adjetivos caracterizam; artigos determinam; numerais indicam quantidade ou ordem; pronomes retomam ou acompanham nomes; verbos expressam ação, estado ou fenômeno; advérbios modificam verbo, adjetivo, advérbio ou a oração; preposições relacionam termos; conjunções conectam orações ou elementos.
+
+Em questão da VUNESP, a pergunta pode cobrar o efeito de sentido, não apenas o rótulo gramatical. Um advérbio pode restringir a afirmação; um pronome pode retomar uma ideia inteira; uma conjunção pode mudar a relação entre duas proposições.
+
+### Concordância e regência
+
+Para concordância verbal, localize o núcleo do sujeito e confira a estrutura da oração. O termo mais próximo nem sempre é o sujeito. Verbos impessoais, como “haver” no sentido de existir e “fazer” indicando tempo decorrido, seguem regras próprias. Na concordância nominal, observe o núcleo a que o adjetivo ou particípio se refere e a estrutura da expressão.
+
+Na regência, identifique o verbo ou nome e o complemento exigido. A crase depende do encontro da preposição “a” com artigo ou demonstrativo compatível; não é determinada apenas pela presença de uma palavra feminina. Teste a regência e a possibilidade de artigo antes de decidir.
+
+### Colocação pronominal e pontuação
+
+A colocação pronominal deve ser estudada pelas regras e pelos fatores de atração, sem transformar preferências de linguagem informal em regra da norma-padrão. Na pontuação, identifique a estrutura sintática: vírgula pode isolar aposto, vocativo, oração intercalada ou adjunto deslocado, mas não deve separar sujeito e predicado sem justificativa. A pontuação também pode alterar o sentido de uma oração explicativa ou restritiva.
+
+### Técnica de reescrita
+
+Ao comparar duas versões de uma frase, confira se foram preservados:
+- o agente e o paciente da ação;
+- a negação e a intensidade;
+- a relação de causa, oposição, condição ou conclusão;
+- o tempo e o modo verbal;
+- o referente de cada pronome;
+- a informação pressuposta ou acrescentada;
+- a correção gramatical.
+
+Uma frase pode ser gramaticalmente correta e, ainda assim, alterar o sentido do texto original. A alternativa precisa atender aos dois requisitos quando o comando pede reescrita sem prejuízo de sentido.
+
+---
+
+## LBI — barreiras, adaptações e inclusão
+
+A Lei Brasileira de Inclusão exige distinguir a condição individual da interação com barreiras. Uma barreira pode estar no ambiente físico, no transporte, na comunicação, na informação, na tecnologia, na atitude ou na organização de um serviço. Não atribua toda dificuldade exclusivamente à pessoa quando o próprio ambiente impede ou restringe participação.
+
+Acessibilidade, desenho universal, tecnologia assistiva e adaptação razoável são conceitos relacionados, mas não idênticos. Ao estudar os arts. 1º–13 e 34–38, registre a definição legal e crie um exemplo que não amplie o conceito para além do texto. Em questão de atendimento, pergunte qual barreira existe, qual medida pode removê-la e quais condições a lei estabelece.
+
+No trabalho, o foco é igualdade de oportunidades, acessibilidade e inclusão. Não presuma que uma deficiência autorize a recusa automática de contratação ou determine incapacidade para qualquer atividade. A análise depende das atribuições, das condições e das regras legais pertinentes.
+
+Na área da saúde e do consentimento, respeite a autonomia e as garantias previstas na lei. Apoio ou adaptação não significa substituir automaticamente a vontade da pessoa. O procedimento deve ser acessível e adequado às necessidades individuais, dentro do quadro normativo.
+
+**Questão de aplicação:** se um sistema digital só pode ser usado com mouse e não oferece alternativa acessível, a análise deve considerar a barreira tecnológica e as medidas de acessibilidade cabíveis. Não basta responder que a pessoa deve procurar ajuda de terceiros; é necessário identificar o dever legal aplicável e a forma adequada de garantir acesso.
+
+---
+
+## Redação — estrutura funcional e controle do argumento
+
+Uma redação consistente não depende de uma introdução decorativa. A introdução deve apresentar o recorte do tema e uma tese que possa ser desenvolvida. Cada parágrafo argumentativo precisa ter uma função: apresentar uma razão, explicar por que ela importa, demonstrar sua relação com o tema e conduzir ao próximo ponto.
+
+Evite três erros:
+- **argumento circular:** repetir a tese como se fosse prova;
+- **generalização sem sustentação:** afirmar que “todos”, “sempre” ou “nunca” sem base;
+- **conclusão desconectada:** propor medida que não decorre dos problemas analisados.
+
+Ao revisar, marque a frase que contém a tese e escreva ao lado a função de cada parágrafo. Se dois parágrafos fazem exatamente o mesmo trabalho, reorganize um deles. Confira a rubrica oficial do edital e os critérios expressos de eliminação ou nota zero. A correção de argumentação, adequação ao tema e qualidade textual precisa de avaliação humana.
+
+---
+
+## Atualidades — como fechar a revisão sem congelar a informação
+
+Para cada tema, mantenha um registro com duas datas: a data do fato e a data da publicação. Registre também a fonte primária, a fonte jornalística, os dados principais, a unidade de medida, o contexto e a consequência. Em notícias econômicas, diferencie variação mensal, comparação com o mesmo período do ano anterior e acumulado; esses números não são intercambiáveis.
+
+Em política e instituições, identifique o órgão, a competência, a decisão efetivamente tomada e as etapas ainda pendentes. Em ciência e tecnologia, diferencie resultado de pesquisa, hipótese, promessa comercial e uso já implementado. Em cultura e sociedade, evite resumir um tema complexo a uma frase viral. Em assuntos internacionais, identifique atores, cronologia, fontes e o que é fato confirmado versus interpretação.
+
+Uma ficha de atualidades só deve ser considerada revisada quando o candidato consegue explicar o acontecimento sem ler a manchete e responder: o que ocorreu, quando, segundo qual fonte, por que importa e o que ainda não se sabe. A seleção precisa ser atualizada até perto da prova; o material não pode prometer cobertura de acontecimentos futuros.
+
+
 # Anexo — controle editorial e validação humana
 
 Esta compilação foi montada a partir dos arquivos da biblioteca versionada. Antes de considerar o curso pronto para uso como fonte única, é necessário:
