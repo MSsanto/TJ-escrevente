@@ -21,3 +21,10 @@ Preparação modular, 20 semanas, para a prova prevista em 14/03/2027. [Edital V
 
 - 26/10/2026: V3 com PDFs editáveis, dois novos simulados integrais e matriz de cobertura. Fontes Markdown versionadas neste Git; PDFs e dados de reprodução no pacote consolidado arquivado no Drive.
 - Preserve versões e nunca marque material como auditado sem fonte, data e exame editorial.
+
+## Apostilas consolidadas
+
+- [Todas as Apostilas — PDF consolidado](livros/v3/TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.pdf)
+- [Todas as Apostilas — versão editável](livros/v3/TODAS_AS_APOSTILAS_TJSP_ESCREVENTE_2027.md)
+
+Compilação por matérias e capítulos; ainda depende da validação humana indicada no relatório de auditoria.
