@@ -37,7 +37,7 @@ Arquivos ZIP são versão imutável por SHA-256; fontes Markdown e scripts devem
 
 - Criados livros-texto de Direito Penal, Processo Penal, Processo Civil, Constitucional, Administrativo, Legislação Interna e LBI.
 - Ampliados Português, Matemática/Raciocínio Lógico, Informática e Atualidades; criada rubrica específica de redação.
-- Criada matriz de cobertura do Anexo VIII com 1013 linhas de mapeamento.
+- Criada matriz de cobertura do Anexo VIII com 1062 linhas de mapeamento.
 - Identificados dispositivos com sufixos omitidos na atomização numérica anterior: CP 313-A/313-B, CPP 394-A/396-A/400-A e Lei 10.261/68 arts. 267-A–267-P (exceto K). A varredura integral ainda está pendente.
 - **Não marcar como concluído:** cobertura substantiva artigo a artigo, revisão jurídica independente, atomização das Normas da Corregedoria, validação prática do Microsoft 365 e correção humana de redações.
 - A nova edição de livros ainda não foi confirmada como enviada ao Google Drive. A integração Google Drive está desabilitada por política do ambiente atual; não declarar upload sem verificação.
