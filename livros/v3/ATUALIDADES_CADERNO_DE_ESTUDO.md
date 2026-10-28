@@ -73,3 +73,25 @@ Uma notícia só entra no caderno definitivo quando tem data, fonte verificável
 ## Fontes internas
 - conteudo/v3/legislacao/ATUALIDADES_2026.md — fotografia parcial de 26/10/2026.
 - conteudo/v3/legislacao/FONTES_OFICIAIS.md — catálogo de fontes do projeto.
+
+## Boletim factual de referência — corte em 28/10/2026
+
+**Regra do edital:** fatos políticos, econômicos, sociais e culturais, nacionais e internacionais, ocorridos a partir do primeiro semestre de 2026 e divulgados na mídia local e/ou nacional. O material não pode ser considerado atualizado até a prova de março de 2027 sem revisões futuras.
+
+### Economia brasileira — indicadores verificáveis
+- O IBGE divulgou que o PIB cresceu **1,1% no 1º trimestre de 2026** em relação ao trimestre anterior, com ajuste sazonal; a agropecuária cresceu 2,0%, a indústria 1,0% e os serviços 0,5%. Fonte: [IBGE — PIB do 1º trimestre](https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46917-pib-cresce-1-1-no-primeiro-trimestre-de-2026).
+- No 2º trimestre de 2026, o PIB cresceu **0,5%** ante o trimestre anterior e **2,0%** ante o 2º trimestre de 2025; no acumulado de quatro trimestres, alta de 1,9%. Fonte: [Agência Brasil — 1/9/2026](https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/pib-do-brasil-cresce-05-no-segundo-trimestre-mostra-ibge) e [IBGE — Contas Nacionais Trimestrais](https://www.ibge.gov.br/estatisticas/todos-os-produtos-estatisticas/9300-contas-nacionais-trimestrais.html).
+- No painel consultado em 28/10/2026, o IBGE apresentava IPCA de **0,82% em setembro de 2026** e **4,58% em 12 meses**; desemprego de **5,4% no 2º trimestre de 2026**. Esses números devem ser atualizados quando houver divulgação nova. Fonte: [IBGE — indicadores econômicos](https://www.ibge.gov.br/indicadores-economicos.html).
+- As vendas do comércio cresceram 0,5% em junho de 2026 frente a maio e 1,9% no primeiro semestre em relação ao mesmo período de 2025, segundo a Pesquisa Mensal de Comércio. Fonte: [Agência Brasil, 13/8/2026](https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/vendas-no-comercio-crescem-05-em-junho-e-sobem-19-no-1o-semestre).
+
+### Como transformar notícia em ficha de prova
+Para cada fato, registre: data de ocorrência; data da publicação; fonte original; dado/decisão confirmada; contexto; impacto; o que ainda é projeção ou controvérsia; possível confusão de prova. Não transforme previsão de mercado em resultado observado e não confunda taxa trimestral, comparação interanual e acumulado de 12 meses.
+
+### Rotina de atualização até a prova
+1. Consultar semanalmente IBGE, Banco Central, Agência Brasil, governo federal, organismos internacionais e veículos de alcance nacional.
+2. Separar política, economia, sociedade, cultura, ciência/tecnologia, meio ambiente e relações internacionais.
+3. Para temas controversos, cruzar duas fontes independentes e distinguir fato de opinião.
+4. Atualizar a data de corte e retirar fatos superados por novos dados.
+5. Resolver questões autorais sem olhar as respostas e manter uma lista de temas que exigem contexto adicional.
+
+**Limite:** este boletim cobre alguns indicadores econômicos verificáveis, não todas as notícias políticas, sociais, culturais e internacionais desde o 1º semestre de 2026. A atualização contínua até março de 2027 é indispensável; não existe forma honesta de fechar hoje a cobertura de acontecimentos futuros.
