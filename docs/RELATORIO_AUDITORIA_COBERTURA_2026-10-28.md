@@ -73,7 +73,7 @@ O arquivo de referência enviado para esta revisão tem 237 páginas e, pela ext
 
 A compilação de Escrevente tinha inicialmente 20.481 palavras e gerava 46 páginas. A diferença não era apenas de paginação: o texto tinha menos da metade das palavras da referência e não possuía quebras explícitas de página entre as disciplinas. A página, portanto, estava muito mais densa.
 
-Nesta revisão editorial, o Markdown consolidado foi ampliado para aproximadamente **29.694 palavras**, com um caderno complementar de prática orientada para Português, Matemática, Raciocínio Lógico, Informática, Atualidades, LBI, Redação e matérias jurídicas, além de 14 quebras explícitas de página entre as principais partes. O material segue em desenvolvimento; não se deve inflar a paginação artificialmente nem considerar o número de palavras prova de cobertura integral.
+Nesta revisão editorial, o Markdown consolidado foi ampliado para aproximadamente **41.516 palavras**, com um caderno complementar de prática orientada, aulas de aprofundamento, plano de estudo em 20 semanas, mini-simulado de 30 questões com gabarito comentado e **227 comandos explícitos de quebra de página**. O PDF recompilado tem **271 páginas**, portanto está agora em escala comparável à referência. A paginação é usada para legibilidade e organização, não como prova de cobertura jurídica integral.
 
 ### Pendências após a ampliação
 
@@ -84,3 +84,14 @@ Nesta revisão editorial, o Markdown consolidado foi ampliado para aproximadamen
 - Fazer revisão jurídica independente, teste prático de informática e correção humana de redações.
 
 **Estado atualizado:** ampliado editorialmente, mas ainda não pronto como material único e definitivo de estudo. A validação humana continua obrigatória.
+
+
+### Achados de atualização normativa — 28/10/2026
+
+A consulta às fontes oficiais revelou um ponto que exige controle explícito de data:
+
+- O [Tomo I das Normas Judiciais da Corregedoria](https://portal.tjsp.jus.br/Corregedoria/Comunicados/NormasJudiciais) consultado indica atualização até **22/10/2026**, enquanto o edital de Escrevente foi publicado em **14/10/2026**. É necessário comparar as mudanças entre as datas e aplicar a cláusula temporal do edital, sem presumir inclusão ou exclusão automática.
+- A versão compilada do [Regimento Interno do TJSP](https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/RegimentoInternoTJSP.pdf) encontrada está identificada como compilada em **30/04/2026**. O [Assento Regimental nº 597/2026, publicado no DJE em 22/10/2026](https://www.tjsp.jus.br/atc/dejesp/consultaSimples.do?cdCaderno=10&cdVolume=4545&nuDiario=4545&nuSeqpagina=1) altera os arts. 31, 32, 42, 46, § 4º, 190, 191, 192 e 200, e revoga o art. 285. O material já registra esse alerta; a aplicação ao concurso depende da cláusula temporal do edital e de validação humana.
+- A ficha oficial da [Resolução TJSP nº 850/2021](https://esaj.tjsp.jus.br/gcn-frontend-vue/legislacao/find/196070) está identificada como compilada em 25/04/2022 e aponta alteração pela Resolução nº 864/2022. Confirmar eventuais atos posteriores pertinentes antes de homologar.
+- A ficha oficial da [Resolução TJSP nº 963/2025](https://esaj.tjsp.jus.br/gcn-frontend-vue/legislacao/find/229313) remete ao [Provimento CSM nº 2.834/2026](https://esaj.tjsp.jus.br/gcn-frontend-vue/legislacao/find/243065), de 11/06/2026. A relação entre o ato listado no edital e o provimento correlato deve ser documentada, sem ampliar silenciosamente o escopo.
+
