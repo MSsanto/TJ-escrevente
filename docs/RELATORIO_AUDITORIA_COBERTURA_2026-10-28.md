@@ -5,7 +5,7 @@
 
 ## Resultado executivo
 
-A biblioteca foi ampliada e a cobertura programática foi mapeada para os livros, mas **não está homologada nem pode ser anunciada como 100% coberta em profundidade**. A matriz anterior possuía 937 linhas; 926 estavam explicitamente marcadas como não homologadas. A nova matriz reúne 1013 linhas: as 937 referências anteriores, 20 dispositivos com sufixos identificados nas varreduras iniciais e 51 tópicos não jurídicos/redação.
+A biblioteca foi ampliada e a cobertura programática foi mapeada para os livros, mas **não está homologada nem pode ser anunciada como 100% coberta em profundidade**. A matriz anterior possuía 937 linhas; 926 estavam explicitamente marcadas como não homologadas. A nova matriz reúne 1062 linhas: as 937 referências anteriores, 30 referências a dispositivos com sufixos identificadas nas varreduras iniciais e 51 tópicos não jurídicos/redação.
 
 Nova matriz: [MATRIZ_COBERTURA_ANEXO_VIII_2026-10-28.csv](MATRIZ_COBERTURA_ANEXO_VIII_2026-10-28.csv).
 
@@ -32,7 +32,7 @@ Nova matriz: [MATRIZ_COBERTURA_ANEXO_VIII_2026-10-28.csv](MATRIZ_COBERTURA_ANEXO
 ## Achados que exigem atenção
 
 1. **A matriz não é prova de cobertura substantiva.** Uma linha com referência e livro-alvo não prova que cada artigo, parágrafo, exceção, prazo ou sanção foi explicado e exercitado.
-2. **Sufixos legais:** a atomização anterior contava principalmente artigos inteiros. A revisão identificou CP 313-A/313-B; CPP 394-A/396-A/400-A; Estatuto paulista 267-A a 267-P (exceto 267-K, não localizado) dentro dos intervalos do edital. Essa busca inicial não substitui uma varredura completa de sufixos em todos os diplomas.
+2. **Sufixos legais:** a atomização anterior contava principalmente artigos inteiros. A revisão identificou CP 313-A/313-B; CPP 394-A/396-A/400-A; Estatuto paulista 267-A–267-P (exceto K); Lei 9.099 art. 12-A; LBI art. 2-A; NSCGJ art. 27-A e arts. 189-A–189-G dentro dos intervalos do edital. Essa busca inicial não substitui uma varredura completa de sufixos em todos os diplomas.
 3. **Legislação interna:** os cinco blocos de Normas da Corregedoria estão indexados, mas ainda precisam ser atomizados até o item/subitem efetivamente previsto. Regimento Interno e LC 1.111/2010 precisam de mapas por dispositivo/anexo.
 4. **Atualidades:** o boletim contém indicadores econômicos verificáveis, não todos os fatos políticos, sociais, culturais e internacionais do período. Atualizar até a prova é parte do trabalho, não uma etapa que possa ser encerrada em outubro de 2026.
 5. **Informática:** o texto explica os tópicos, mas falta validar operações em ambiente real do Microsoft 365 e criar exercícios práticos com arquivos.
