@@ -1,5 +1,5 @@
 # Atualidades — caderno de estudo e atualização
-**TJSP Escrevente · versão 1.2 · 02/11/2026**
+**TJSP Escrevente · versão 1.3 · 02/11/2026**
 
 > Este caderno é uma ferramenta de acompanhamento, não uma lista definitiva de tudo o que poderá ser cobrado. O arquivo ATUALIDADES_2026.md contém o painel factual resumido. A cobertura precisa continuar sendo atualizada até a prova.
 
@@ -62,9 +62,11 @@ Fontes: [TSE — regras sobre IA nas campanhas de 2026](https://www.tse.jus.br/c
 
 ### 3.2 Economia — Brasil
 
-**Reforma Tributária do consumo.** O ano de 2026 é fase de teste da CBS (federal) e do IBS (estadual e municipal), com alíquotas de teste de 0,9% e 0,1%, respectivamente. A partir de 03/08/2026, empresas do regime regular passaram a ter de preencher os campos de CBS e IBS nos documentos fiscais eletrônicos. Em 06/08, Receita Federal e CGIBS adiaram o início das validações automáticas que rejeitariam documentos sem os campos; a decisão não suspendeu a obrigação de informar os tributos. A apuração em 2026 é informativa, sem efeitos tributários para quem cumpre as obrigações acessórias previstas. O Imposto Seletivo é federal e tem função extrafiscal. A transição é gradual, com vigência integral prevista para 2033.
+**Reforma Tributária do consumo.** O ano de 2026 é fase de teste da CBS (federal) e do IBS (estadual e municipal), com alíquotas de teste de 0,9% e 0,1%, respectivamente. O cronograma escalona os documentos: em 03/08, dez tipos, entre eles NF-e, NFC-e, CT-e, BP-e e documentos de energia e transporte; em 01/10, NFS-e de serviços em geral, NFCom, Declaração de Importação de Remessa e DeRE (1ª fase); em 15/11, DeRE (2ª fase, eventos periódicos mensais); em 01/12, outros documentos específicos; e em 01/01/2027, documentos do Simples Nacional. Em 06/08, Receita Federal e CGIBS adiaram apenas as validações automáticas que rejeitariam documentos sem todos os campos de CBS/IBS; não suspenderam a obrigação de informar os tributos nem alteraram o cronograma. A apuração de 2026 é de teste, sem efeitos tributários para quem cumpre as obrigações acessórias previstas. O Imposto Seletivo é federal e tem função extrafiscal.
 
-Fontes: [Receita Federal — cronograma dos documentos fiscais eletrônicos, atualizado em 28/10/2026](https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria-do-consumo/orientacoes-da-reforma-tributaria/cronograma) · [CGIBS — comunicado de 06/08/2026 sobre adiamento das validações](https://cgibs.gov.br/receita-federal-e-comite-gestor-do-ibs-esclarecem-adiamento-das-regras-de-validacao-dos-documentos-fiscais-eletronicos) · [Receita Federal — entenda a Reforma Tributária](https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria-do-consumo/entenda).
+Fontes: [Receita Federal — cronograma atualizado em 28/10/2026](https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria-do-consumo/orientacoes-da-reforma-tributaria/cronograma) · [CGIBS — esclarecimento de 06/08/2026](https://cgibs.gov.br/receita-federal-e-comite-gestor-do-ibs-esclarecem-adiamento-das-regras-de-validacao-dos-documentos-fiscais-eletronicos) · [Receita Federal — entenda a Reforma Tributária](https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria-do-consumo/entenda).
+
+
 
 **Inflação, juros e atividade.** No corte de 02/11:
 - IPCA de setembro: 0,82% no mês e 4,58% em 12 meses.
@@ -77,9 +79,11 @@ Atenção à comparação: a Selic é taxa básica anual definida pelo Copom; IP
 
 Fontes: [IBGE — painel de indicadores](https://www.ibge.gov.br/estats) · [IBGE — IPCA](https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html?=&t=resultados) · [Banco Central — histórico da Selic](https://www.bcb.gov.br/controleinflacao/historicotaxasjuros) · [Ata do Copom, setembro de 2026](https://www.bcb.gov.br/publicacoes/atascopom/16092026) · [Agência Brasil/IBGE — PIB do 2º trimestre](https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/pib-do-brasil-cresce-05-no-segundo-trimestre-mostra-ibge).
 
-**Mercado de trabalho.** Em 30/10/2026, o IBGE divulgou taxa de desocupação de 5,2% no trimestre móvel encerrado em setembro, a menor para um terceiro trimestre desde o início da série em 2012. A taxa composta de subutilização foi de 13,0%, e a população ocupada chegou a 103,6 milhões. Não chamar o resultado de “desemprego mensal”: trata-se de trimestre móvel.
+**Mercado de trabalho.** O último resultado mensal que consegui confirmar na página oficial do IBGE neste fechamento foi 5,3% de desocupação no trimestre móvel encerrado em julho (maio-junho-julho), com subutilização de 13,0%, divulgado em 27/08/2026. A PNAD mensal usa trimestres móveis, não mede um mês isolado. O calendário do IBGE apontava divulgação do período encerrado em setembro para 30/10, mas não localizei o release oficial correspondente nesta consulta; por isso, não atribuo uma taxa a setembro.
 
-Fonte: [IBGE — PNAD Contínua, divulgação mensal](https://www.ibge.gov.br/estatisticas/sociais/trabalho/17270-pnad-continua.html?edicao=41487&t=microdados).
+Fonte: [IBGE — PNAD Contínua, divulgação mensal e calendário](https://www.ibge.gov.br/estatisticas/sociais/trabalho/9171-pesquisa-nacional-por-amostra-de-domicilios-continua-mensal.html?=&t=destaques).
+
+
 
 **Economia mundial.** O FMI, no World Economic Outlook de outubro de 2026, projetou crescimento global de 3,1% em 2026 e 3,4% em 2027; inflação global de 4,7% em 2026 e 4,1% em 2027. O relatório destacou riscos ligados a conflitos, tensões comerciais, vulnerabilidades fiscais e reavaliação das expectativas sobre IA. São projeções, não resultados realizados.
 
@@ -91,19 +95,15 @@ Fonte: [FMI — World Economic Outlook, outubro de 2026](https://www.imf.org/en/
 
 Fonte: [IBGE — uso da internet ultrapassa 90% da população de 10 anos ou mais](https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47408-proporcao-de-usuarios-da-internet-no-pais-ultrapassou-90-da-populacao-de-10-anos-ou-mais-em-2025).
 
-**Violência e saúde dos adolescentes — PeNSE 2024.** A quinta edição da Pesquisa Nacional de Saúde do Escolar foi divulgada em 25/03/2026. Entre estudantes de 13 a 17 anos, 18,5% relataram ter sofrido assédio sexual ao longo da vida; o percentual foi de 26,0% entre meninas e 10,9% entre meninos. A pesquisa também registrou 12,7% de adolescentes vítimas de cyberbullying nas redes sociais e aumento da experimentação de cigarros eletrônicos. O período de referência é 2024; a divulgação ocorreu em 2026.  
+**Violência e saúde dos adolescentes — PeNSE 2024.** A quinta edição da Pesquisa Nacional de Saúde do Escolar foi divulgada em 25/03/2026. Entre estudantes de 13 a 17 anos, 18,5% relataram ter sofrido assédio sexual ao longo da vida; o percentual foi de 26,0% entre meninas e 10,9% entre meninos. A pesquisa também apontou que 12,7% sofreram cyberbullying nas redes sociais (15,2% das meninas e 10,3% dos meninos) e que 27,2% relataram bullying recorrente no ambiente escolar. Em relação a 2019, houve redução do uso de cigarro, álcool e drogas ilícitas. O período de referência é 2024; a divulgação ocorreu em 2026.  
 Fonte: [IBGE — 5ª edição da PeNSE, 25/03/2026](https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46171-5-edicao-da-pense-meninas-sao-as-maiores-vitimas-de-violencia-sexual).
 
-**Trabalho infantil.** Em 16/10/2026, o IBGE divulgou estimativa de 1,499 milhão de crianças e adolescentes de 5 a 17 anos em situação de trabalho infantil no Brasil em 2025. O dado é estatística experimental da PNAD Contínua e deve ser apresentado com o ano de referência.  
-Fonte: [IBGE — Trabalho de crianças e adolescentes de 5 a 17 anos, 2025](https://www.ibge.gov.br/estatisticas/sociais/trabalho/17270-pnad-continua.html?edicao=44008).
 
-**Desmatamento.** Dados do PRODES divulgados em 16/10/2026 indicaram 3.335 km² de desmatamento na Amazônia entre agosto de 2025 e julho de 2026, queda de 41,8% ante o período anterior e menor taxa da série iniciada em 1988. No Cerrado, foram 5.516,69 km², redução de 23,8% e menor valor da série iniciada em 2001. A queda não significa eliminação do desmatamento.
 
-Fonte: [INPE — menores taxas históricas na Amazônia e no Cerrado](https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/brasil-alcanca-menores-taxas-de-desmatamento-da-serie-historica-na-amazonia-e-no-cerrado/).
+**Trabalho infantil.** Em 16/10/2026, o IBGE divulgou que 1,499 milhão de crianças e adolescentes de 5 a 17 anos estavam em situação de trabalho infantil em 2025 (4,0% dessa faixa etária), queda de 9,2% ante 2024 e menor nível da série iniciada em 2016. Ainda assim, 525 mil estavam em ocupações classificadas entre as piores formas de trabalho infantil. O dado tem referência em 2025 e divulgação em 2026; a aprendizagem profissional a partir dos 14 anos tem regras legais próprias e não deve ser confundida com trabalho infantil.  
+Fonte: [Agência Gov/IBGE — trabalho infantil em 2025, 16/10/2026](https://agenciagov.ebc.com.br/noticias/202610/trabalho-infantil-tem-a-maior-reducao-da-historia-com-apoio-de-politicas-publicas-diz-pesquisa) · [Agência Brasil — dados da PNAD, 16/10/2026](https://agenciabrasil.ebc.com.br/en/geral/noticia/2026-10/child-labor-brazil-falls-92-2024-2025).
 
-**Seca.** Segundo o CEMADEN, os municípios em seca severa ou extrema passaram de 157 em agosto para 276 em setembro de 2026 (+75,8%). A seca extrema passou de 4 para 54 municípios; a concentração mais crítica ocorreu no Nordeste, especialmente em Alagoas, Sergipe e norte da Bahia. Redução de desmatamento e agravamento de seca são indicadores distintos e podem ocorrer ao mesmo tempo.
 
-Fonte: [CEMADEN — Monitoramento de secas e impactos, setembro de 2026](https://www.gov.br/cemaden/pt-br/assuntos/monitoramento/impactos-seca/monitoramento-de-seca-para-o-brasil/monitoramento-de-secas-e-impactos-no-brasil-2013-setembro-2026).
 
 ### 3.4 Política e sociedade — cenário internacional
 
@@ -228,6 +228,14 @@ C) meninas e meninos apresentaram percentuais idênticos de assédio sexual.
 D) o levantamento excluiu estudantes da rede pública.  
 E) o cyberbullying não foi pesquisado.
 
+
+**14.** Sobre o levantamento do IBGE divulgado em 16/10/2026 a respeito do trabalho infantil:
+A) em 2025, eram 1,499 milhão de crianças e adolescentes de 5 a 17 anos nessa situação, 4,0% da faixa etária; houve queda de 9,2% em relação a 2024, mas 525 mil permaneciam nas piores formas.  
+B) o levantamento apontou aumento de 9,2% em relação a 2024.  
+C) o total se referia exclusivamente a crianças com menos de 14 anos.  
+D) o trabalho infantil foi eliminado em 2025.  
+E) a pesquisa não incluiu adolescentes de 16 e 17 anos.
+
 ### Gabarito comentado
 
 1. **A.** Para o Escrevente 02/2026, Atualidades continua com quatro questões; a LBI permanece nos arts. 1º–13 e 34–38, e a distribuição de Matemática, Raciocínio Lógico e Informática não mudou.
@@ -243,6 +251,7 @@ E) o cyberbullying não foi pesquisado.
 11. **B.** O ouro de Braathen e a prata de Ribera foram marcos inéditos para o Brasil nos respectivos Jogos de Inverno.
 12. **B.** Em 02/11, a conferência ainda não havia começado; não atribuir a ela resultados antecipados.
 13. **A.** A PeNSE 2024 foi divulgada em 25/03/2026; o resultado deve ser identificado como dado de pesquisa, não como ocorrência em 2026.
+14. **A.** A queda foi de 9,2%, mas 1,499 milhão ainda estavam em situação de trabalho infantil e 525 mil nas piores formas.
 
 ## 5. Fontes e rotina de manutenção
 
@@ -265,5 +274,5 @@ E) o cyberbullying não foi pesquisado.
 
 ## 6. Histórico de atualização
 
-- **02/11/2026 — versão 1.2 (corretiva):** revisão do vínculo entre edital e conteúdo programático: para o Escrevente 02/2026, o Anexo VIII das páginas 154–155 mantém 4 questões de Atualidades e LBI arts. 1º–13 e 34–38, como em 2025. O bloco de 3 questões e arts. 79–87 pertence a outro edital no mesmo DJE. Atualizados OCHA de 29/10, Reforma Tributária, PeNSE e trabalho infantil; acrescentada uma questão social e gabarito comentado.
+- **02/11/2026 — versão 1.3:** mantida a comparação correta dos editais; refinado o cronograma operacional da Reforma Tributária; corrigido o indicador de desemprego para o último dado mensal confirmado (5,3% no trimestre encerrado em julho), sem atribuir número não confirmado ao trimestre encerrado em setembro; atualizados PeNSE, trabalho infantil e OCHA; acrescentada questão de revisão social.
 - **28/10/2026 — versão 1.0:** caderno metodológico e primeiro boletim parcial de indicadores econômicos.
