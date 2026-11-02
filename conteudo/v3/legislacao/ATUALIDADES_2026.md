@@ -6,21 +6,21 @@
 
 > Material de revisão com cobertura seletiva. Distinguir sempre data do fato, data da divulgação, dado observado, projeção, proposta e evento ainda futuro. A publicação de uma estatística em 2026 pode trazer dados referentes a 2025; nesse caso, a data de divulgação e o período de referência devem aparecer separadamente.
 
-## 1. Atenção: o Edital 02/2026 mudou a distribuição
+## 1. Comparação correta dos editais 02/2025 e 02/2026 — Escrevente
 
-A leitura do Diário da Justiça Eletrônico do TJSP, edição 4542, de 19/10/2026, corrige resumos de cursinhos que ainda reproduzem a distribuição anterior:
+A conferência do Anexo VIII do **Edital de Abertura nº 02/2026 para Escrevente Técnico Judiciário (2ª a 10ª RAJs)**, no DJE edição 4542, evita uma confusão presente no mesmo volume: algumas páginas antes aparece um bloco de três questões e LBI arts. 79–87, mas ele pertence a outro edital. Para o Escrevente 02/2026, o conteúdo programático está nas páginas 154–155 e prevê **04 questões de Atualidades**, com LBI arts. 1º–13 e 34–38.
 
-| Item | Edital 02/2025 | Edital 02/2026 |
+| Item | Edital 02/2025 — Escrevente | Edital 02/2026 — Escrevente |
 |---|---:|---:|
-| Atualidades | 4 questões | **3 questões** |
-| Estatuto da Pessoa com Deficiência | arts. 1º–13 e 34–38 | **arts. 1º–13, 34–38 e 79–87** |
-| Matemática | 4 questões | integrada ao bloco de Matemática e Raciocínio Lógico |
-| Raciocínio lógico | 7 questões | integrado ao bloco de Matemática e Raciocínio Lógico |
-| Informática | 9 questões | **5 questões** |
+| Atualidades | 4 questões | **4 questões** |
+| Estatuto da Pessoa com Deficiência | arts. 1º–13 e 34–38 | **arts. 1º–13 e 34–38** |
+| Matemática | 4 questões | **4 questões** |
+| Raciocínio lógico | 7 questões | **7 questões** |
+| Informática | 9 questões | **9 questões** |
 
-No edital atual, Matemática e Raciocínio Lógico somam 7 questões, sendo 3 de Matemática e 4 de Raciocínio Lógico. A matéria de Atualidades passou de quatro para três questões. O recorte temporal também avançou: o edital de 2025 falava em fatos ocorridos a partir do primeiro semestre de 2025; o de 2026 fala em fatos divulgados a partir do primeiro semestre de 2026. Não use material de preparação que ainda indique quatro questões para Atualidades sem conferir o edital oficial.
+**Conclusão:** não houve mudança na quantidade de questões nem nos artigos da LBI para o Escrevente 02/2026. A mudança central em Atualidades é o recorte temporal: o edital anterior considera fatos ocorridos a partir do primeiro semestre de 2025; o atual, fatos ocorridos a partir do primeiro semestre de 2026, divulgados na mídia local e/ou nacional. Não confundir o edital de Escrevente 02/2026 com o bloco de três questões que aparece antes dele no mesmo Diário.
 
-**Fontes primárias:** [TJSP — Edital 02/2026, DJE edição 4542, 19/10/2026, p. 125](https://www.tjsp.jus.br/atc/dejesp/consultaSimples.do?cdCaderno=10&cdVolume=4542&nuDiario=4542&nuSeqpagina=125) · [TJSP — Edital 02/2025, DJE edição 4255, 01/08/2025](https://www.tjsp.jus.br/atcapi/dje/v1/caderno/pagina/download/site?idCaderno=10&idEdicao=4255&idVolume=4255&pagina=79).
+**Fontes primárias:** [TJSP — Edital 02/2026, DJE edição 4542, Anexo VIII, p. 154–155](https://www.tjsp.jus.br/atcapi/dje/v1/caderno/pagina/download/site?idCaderno=10&idEdicao=4542&idVolume=4542&pagina=155) · [TJSP — Edital 02/2025, DJE edição 4255, Anexo VIII, p. 77–78](https://www.tjsp.jus.br/atcapi/dje/v1/caderno/pagina/download/site?idCaderno=10&idEdicao=4255&idVolume=4255&pagina=79).
 
 ## 2. Fatos e atualizações relevantes
 
@@ -34,14 +34,14 @@ Fontes: [TSE — regras sobre IA nas campanhas de 2026](https://www.tse.jus.br/c
 
 ### Economia — Brasil
 
-**Reforma Tributária do consumo: 2026 é ano de teste.** A CBS é federal; o IBS pertence aos estados e municípios; o Imposto Seletivo é federal e tem função extrafiscal, voltada a desestimular bens e serviços prejudiciais à saúde ou ao meio ambiente. Em 2026, as alíquotas de teste são 0,9% para a CBS e 0,1% para o IBS. Os valores são compensáveis com PIS/Cofins e o contribuinte que cumprir as obrigações acessórias previstas fica dispensado do recolhimento de IBS/CBS no período de teste. Não confundir o teste de 2026 com a substituição integral dos tributos atuais: a transição é gradual e a vigência integral está prevista para 2033.  
-Fontes: [Receita Federal — entenda a Reforma Tributária](https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria-do-consumo/entenda) · [Comunicado conjunto Receita Federal/Comitê Gestor do IBS](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2025/dezembro/comunicado-conjunto).
+**Reforma Tributária do consumo: 2026 é ano de teste e adaptação operacional.** A CBS é federal; o IBS é compartilhado por estados e municípios; o Imposto Seletivo é federal e tem função extrafiscal. As alíquotas de teste de 2026 são 0,9% para a CBS e 0,1% para o IBS. A partir de 03/08/2026, empresas do regime regular passaram a ter de preencher os campos de IBS e CBS nos documentos fiscais eletrônicos. Atenção à atualização posterior: em 06/08, Receita Federal e CGIBS adiaram o início das validações automáticas que rejeitariam documentos sem esses campos; isso **não suspendeu a obrigação de informar** os tributos. A apuração de 2026 é informativa, sem efeitos tributários para quem cumpre as obrigações acessórias previstas. A substituição dos tributos atuais é gradual, com transição até 2033.  
+Fontes: [Receita Federal — cronograma dos documentos fiscais eletrônicos, atualizado em 28/10/2026](https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria-do-consumo/orientacoes-da-reforma-tributaria/cronograma) · [CGIBS — comunicado de 06/08/2026 sobre adiamento das validações](https://cgibs.gov.br/receita-federal-e-comite-gestor-do-ibs-esclarecem-adiamento-das-regras-de-validacao-dos-documentos-fiscais-eletronicos) · [Receita Federal — entenda a Reforma Tributária](https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria-do-consumo/entenda).
 
 **Inflação, juros e atividade.** No corte de 02/11, os últimos dados oficiais disponíveis indicavam: IPCA de setembro em 0,82% e acumulado de 4,58% em 12 meses; IPCA-15 de outubro em 0,32% (prévia, não o IPCA fechado do mês); meta Selic em 13,75% ao ano desde 17/09/2026; PIB do segundo trimestre com alta de 0,5% ante o trimestre anterior e 2,0% ante o mesmo trimestre de 2025, com crescimento de 1,9% em quatro trimestres. O Copom registrou expectativas de inflação acima da meta e cenário de cautela. Não misture IPCA com IPCA-15, taxa mensal com acumulado de 12 meses ou dado observado com expectativa.  
 Fontes: [IBGE — painel de indicadores](https://www.ibge.gov.br/estats) · [IBGE — IPCA](https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html?=&t=resultados) · [Banco Central — histórico da Selic](https://www.bcb.gov.br/controleinflacao/historicotaxasjuros) · [Ata do Copom de setembro de 2026](https://www.bcb.gov.br/publicacoes/atascopom/16092026) · [Agência Brasil/IBGE — PIB do 2º trimestre](https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/pib-do-brasil-cresce-05-no-segundo-trimestre-mostra-ibge).
 
-**Mercado de trabalho.** Em 30/10/2026, o IBGE divulgou taxa de desocupação de 5,2% no trimestre móvel encerrado em setembro, a menor para um terceiro trimestre desde o início da série em 2012. A taxa composta de subutilização ficou em 13,0%. A população ocupada chegou a 103,6 milhões. O dado de desemprego é uma taxa trimestral móvel, não um resultado mensal isolado.  
-Fonte: [IBGE — painel e releases da PNAD Contínua](https://www.ibge.gov.br/estats).
+**Mercado de trabalho.** Em 30/10/2026, o IBGE divulgou taxa de desocupação de 5,2% no trimestre móvel encerrado em setembro, a menor para um terceiro trimestre desde o início da série em 2012. A taxa composta de subutilização ficou em 13,0%. A população ocupada chegou a 103,6 milhões. O dado é trimestral móvel, não um resultado mensal isolado.  
+Fonte: [IBGE — PNAD Contínua, divulgação mensal](https://www.ibge.gov.br/estatisticas/sociais/trabalho/17270-pnad-continua.html?edicao=41487&t=microdados).
 
 **Economia mundial — projeção do FMI.** No World Economic Outlook de outubro de 2026, o FMI projetou crescimento mundial de 3,1% em 2026 e 3,4% em 2027; a inflação global foi projetada em 4,7% em 2026 e 4,1% em 2027. O relatório apontou riscos de baixa ligados a conflitos, tensões comerciais, vulnerabilidades fiscais e reavaliação das expectativas sobre IA. São projeções, não resultados já realizados.  
 Fonte: [FMI — World Economic Outlook, outubro de 2026](https://www.imf.org/en/Publications/WEO/Issues/2026/10/13/world-economic-outlook-october-2026).
@@ -50,6 +50,12 @@ Fonte: [FMI — World Economic Outlook, outubro de 2026](https://www.imf.org/en/
 
 **Inclusão digital e desigualdade de acesso.** Em pesquisa divulgada em 02/07/2026, o IBGE informou que 90,5% das pessoas de 10 anos ou mais utilizaram a internet em 2025, equivalentes a 168,7 milhões. O acesso foi de 91,5% nas áreas urbanas e 83,0% nas rurais. O uso de serviços públicos pela internet chegou a 41,1% dos usuários. A expansão da conectividade não elimina diferenças territoriais, etárias, educacionais e de letramento digital. O ano de referência dos dados é 2025; a divulgação ocorreu em 2026.  
 Fonte: [IBGE — uso da internet ultrapassa 90% da população de 10 anos ou mais](https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47408-proporcao-de-usuarios-da-internet-no-pais-ultrapassou-90-da-populacao-de-10-anos-ou-mais-em-2025).
+
+**Violência e saúde dos adolescentes — PeNSE 2024.** A quinta edição da Pesquisa Nacional de Saúde do Escolar foi divulgada em 25/03/2026. Entre estudantes de 13 a 17 anos, 18,5% relataram ter sofrido alguma forma de assédio sexual ao longo da vida; o percentual foi de 26,0% entre meninas e 10,9% entre meninos. A pesquisa também registrou aumento do cyberbullying e da experimentação de cigarros eletrônicos. O período de referência é 2024; a divulgação ocorreu em 2026.  
+Fonte: [IBGE — 5ª edição da PeNSE, 25/03/2026](https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46171-5-edicao-da-pense-meninas-sao-as-maiores-vitimas-de-violencia-sexual).
+
+**Trabalho infantil.** Em 16/10/2026, o IBGE divulgou estimativa de 1,499 milhão de crianças e adolescentes de 5 a 17 anos em situação de trabalho infantil no Brasil em 2025. É um indicador social com referência em 2025 e divulgação em 2026; não confundir com trabalho permitido na aprendizagem profissional, que tem regras legais próprias.  
+Fonte: [IBGE — Trabalho de crianças e adolescentes de 5 a 17 anos, 2025](https://www.ibge.gov.br/estatisticas/sociais/trabalho/17270-pnad-continua.html?edicao=44008).
 
 **Desmatamento: queda nas taxas monitoradas pelo PRODES.** Dados divulgados em 16/10/2026 indicaram 3.335 km² de desmatamento na Amazônia entre agosto de 2025 e julho de 2026, redução de 41,8% em relação ao período anterior e menor taxa da série iniciada em 1988. No Cerrado, foram 5.516,69 km², redução de 23,8% e menor valor da série do bioma, iniciada em 2001. A redução é relevante, mas não significa que o desmatamento tenha sido eliminado.  
 Fonte: [INPE — menores taxas históricas na Amazônia e no Cerrado](https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/brasil-alcanca-menores-taxas-de-desmatamento-da-serie-historica-na-amazonia-e-no-cerrado/).
@@ -62,11 +68,11 @@ Fonte: [CEMADEN — Monitoramento de secas e impactos, setembro de 2026](https:/
 **Conflito envolvendo Irã, Estados Unidos e Israel.** Em 02/11/2026, as negociações mediadas pelo Catar em Doha continuavam sem acordo final. A reabertura do Estreito de Ormuz, o bloqueio naval, as sanções e o programa nuclear iraniano permaneciam entre os principais pontos de divergência. O conflito afeta a navegação e o fornecimento de energia, com reflexos sobre petróleo, fretes, inflação e comércio internacional. Trate como conflito em andamento e negociação inconclusa, não como guerra encerrada ou acordo firmado.  
 Fonte: [Reuters — negociações em Doha, 01/11/2026](https://www.reuters.com/world/middle-east/iranian-negotiators-doha-continue-talks-end-us-iran-war-official-says-2026-11-01/).
 
-**Gaza: crise humanitária persistente.** Relatório da OCHA de 22/10/2026 registrou continuidade de ataques, disparos, vítimas civis, deslocamento e restrições à assistência humanitária, apesar do cessar-fogo anunciado em outubro de 2025. A distinção importante é entre anúncio de cessar-fogo e cessação efetiva da violência e das necessidades humanitárias.  
-Fonte: [ONU/OCHA — Humanitarian Situation Report, 22/10/2026](https://www.ochaopt.org/content/humanitarian-situation-report-22-october-2026).
+**Gaza e Cisjordânia: crise humanitária e deslocamentos.** O relatório mais recente da OCHA disponível no corte foi publicado em 31/10, com período de referência de 19 a 25/10. Em Gaza, registrou ataques e disparos com vítimas civis, incêndios em abrigos, dificuldades de abastecimento e preparação para riscos de alagamento no inverno. Segundo o Ministério da Saúde de Gaza, citado pela OCHA, 33 palestinos foram mortos e 188 feridos entre 20 e 26/10; esses números devem ser apresentados com a atribuição da fonte. Na Cisjordânia, a OCHA registrou 397 ataques de colonos com vítimas ou danos materiais entre 1º e 26/10, o maior total mensal desde o início da documentação em 2006; cerca de 3.000 pessoas teriam sido deslocadas na operação em Hebron, mas esse número ainda estava em verificação.  
+Fonte: [ONU/OCHA — Humanitarian Situation Report, 29/10/2026, publicado em 31/10](https://www.ochaopt.org/content/humanitarian-situation-report-29-october-2026).
 
-**COP31 — agenda futura.** A 31ª Conferência das Partes da Convenção do Clima da ONU está programada para 09 a 20/11/2026, em Antália, Turquia. Na data deste corte, a conferência ainda não ocorreu; não atribuir decisões, acordos ou resultados a ela.  
-Fonte: [UNFCCC — COP31](https://unfccc.int/cop31/ifp).
+**COP31 — agenda futura e preparação diplomática.** A 31ª Conferência das Partes da Convenção do Clima da ONU está programada para 09 a 20/11/2026, em Antália, Turquia. A Pre-COP foi realizada de 05 a 08/10 no Pacífico, em parceria entre Fiji, Tuvalu e Austrália. A cúpula de líderes está prevista para 11 e 12/11; a Turquia sediará a conferência, e o australiano Chris Bowen presidirá as negociações. Em 02/11, a COP31 ainda não havia começado: não atribuir decisões ou resultados antecipados.  
+Fonte: [UNFCCC — COP31, datas, sede e presidências](https://unfccc.int/cop31).
 
 ### Cultura e esporte
 
@@ -94,9 +100,9 @@ Fonte: [FIFA — final Espanha 1 x 0 Argentina](https://www.fifa.com/pt/tourname
 - **Copa do Mundo:** antes constavam sede, período e 48 participantes; agora consta a campeã e o placar da final.
 - **Jogos de Inverno:** antes constavam apenas as datas; agora foram acrescentadas a primeira medalha olímpica de inverno e a primeira medalha paralímpica de inverno do Brasil.
 - **Economia:** acrescentados a fase de teste da reforma tributária, a decisão mais recente da Selic, a prévia de inflação de outubro e a divulgação do desemprego de setembro.
-- **Sociedade e ambiente:** acrescentados dados de inclusão digital, PRODES 2026 e agravamento da seca em setembro.
-- **Internacional:** acrescentados o estado das negociações sobre o conflito envolvendo o Irã e a atualização humanitária de Gaza.
-- **COP31:** permanece como evento futuro. Só será atualizado com decisões efetivamente publicadas após a conferência.
+- **Sociedade e ambiente:** acrescentados dados de inclusão digital, PeNSE, trabalho infantil, PRODES 2026 e agravamento da seca em setembro.
+- **Internacional:** acrescentados o estado das negociações sobre o conflito envolvendo o Irã e o relatório OCHA de 29/10, com atualização de Gaza e da Cisjordânia.
+- **COP31:** permanece como evento futuro; foram acrescentados os dados da Pre-COP e a agenda da cúpula de líderes, sem antecipar decisões da conferência.
 
 ## 4. Questões de revisão
 
@@ -104,5 +110,5 @@ As questões e o gabarito comentado estão no arquivo [ATUALIDADES_CADERNO_DE_ES
 
 ## 5. Histórico de revisão
 
-- **02/11/2026:** corrigida a distribuição do Edital 02/2026 para 3 questões de Atualidades; acrescentada a extensão do Estatuto da Pessoa com Deficiência aos arts. 79–87; comparado o programa com o Edital 02/2025; atualizados os resultados eleitorais, esportivos e culturais e incorporados novos dados econômicos, sociais, ambientais e internacionais.
+- **02/11/2026:** correção de conferência documental: o bloco de 3 questões e LBI arts. 79–87 que aparece antes no mesmo DJE pertence a outro edital; o Anexo VIII do Edital 02/2026 de Escrevente, p. 154–155, prevê 4 questões de Atualidades e LBI arts. 1º–13 e 34–38, exatamente como a edição 02/2025. Atualizados também economia, PeNSE, trabalho infantil, PRODES, seca, OCHA de 29/10 e agenda da COP31.
 - **26/10/2026:** fotografia inicial com calendário eleitoral, datas dos eventos esportivos e agenda da COP31.
