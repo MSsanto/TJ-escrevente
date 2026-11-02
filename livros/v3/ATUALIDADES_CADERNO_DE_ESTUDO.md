@@ -79,10 +79,13 @@ Atenção à comparação: a Selic é taxa básica anual definida pelo Copom; IP
 
 Fontes: [IBGE — painel de indicadores](https://www.ibge.gov.br/estats) · [IBGE — IPCA](https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html?=&t=resultados) · [Banco Central — histórico da Selic](https://www.bcb.gov.br/controleinflacao/historicotaxasjuros) · [Ata do Copom, setembro de 2026](https://www.bcb.gov.br/publicacoes/atascopom/16092026) · [Agência Brasil/IBGE — PIB do 2º trimestre](https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/pib-do-brasil-cresce-05-no-segundo-trimestre-mostra-ibge).
 
-**Mercado de trabalho.** O último resultado mensal confirmado na página oficial do IBGE neste fechamento foi 5,3% de desocupação no trimestre móvel encerrado em agosto (junho-julho-agosto), com taxa de subutilização de 13,1%, divulgado em 29/09/2026. A PNAD mensal usa trimestres móveis, não mede um mês isolado. O calendário do IBGE apontava divulgação do período encerrado em setembro para 30/10, mas o painel oficial ainda não listava esse release na consulta de 02/11; por isso, não atribuo uma taxa a setembro.
+**Mercado de trabalho.** Em 30/10/2026, o IBGE divulgou taxa de desocupação de 5,2% no trimestre móvel de julho a setembro, a menor para um terceiro trimestre desde o início da série em 2012. A taxa caiu ante 5,4% no trimestre abril-junho de 2026 e 5,6% no terceiro trimestre de 2025. A população ocupada atingiu 103,6 milhões (recorde da série); 5,6 milhões estavam desocupadas. A taxa composta de subutilização ficou em 13,0%, estável frente ao trimestre anterior. A PNAD Contínua mensal usa trimestres móveis, não mede um mês isolado; "menor para o terceiro trimestre" não significa menor taxa de toda a série.
 
-Fonte: [IBGE — PNAD Contínua, divulgação mensal e calendário](https://www.ibge.gov.br/estatisticas/sociais/trabalho/9171-pesquisa-nacional-por-amostra-de-domicilios-continua-mensal.html?=&t=destaques).
+Fontes: [Agência Gov, via IBGE, 30/10/2026](https://agenciagov.ebc.com.br/noticias/202610/taxa-de-desemprego-tem-queda-e-alcanca-menor-resultado-para-setembro-em-14-anos) · [IBGE — notícia original, 30/10/2026](https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48411-30-10-noticia-2).
 
+
+**Querosene de aviação e custos do transporte.** A Petrobras anunciou reajuste médio de 7,2% no preço do querosene de aviação (QAV) vendido às distribuidoras, em vigor desde 01/11/2026: acréscimo de R$ 0,45 por litro. A empresa relacionou a alta às cotações internacionais, às tensões geopolíticas no Oriente Médio e à redução da capacidade de refino na Rússia e na Ucrânia. O QAV representa parcela relevante dos custos das companhias aéreas; o aumento pode pressionar tarifas, mas não permite afirmar repasse automático ou proporcional ao consumidor.  
+Fonte: [Agência Brasil, 01/11/2026](https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-reajusta-combustivel-de-aviacao-em-r-045-por-litro).
 
 
 **Economia mundial.** O FMI, no World Economic Outlook de outubro de 2026, projetou crescimento global de 3,1% em 2026 e 3,4% em 2027; inflação global de 4,7% em 2026 e 4,1% em 2027. O relatório destacou riscos ligados a conflitos, tensões comerciais, vulnerabilidades fiscais e reavaliação das expectativas sobre IA. São projeções, não resultados realizados.
@@ -106,6 +109,10 @@ Fonte: [Agência Gov/IBGE — trabalho infantil em 2025, 16/10/2026](https://age
 
 
 ### 3.4 Política e sociedade — cenário internacional
+
+**Privatização parcial da TAP — Portugal.** Em 14/10/2026, o Conselho de Ministros português selecionou a Lufthansa para adquirir 44,9% da TAP, com possibilidade de mais 5% caso os trabalhadores não exerçam o direito de compra. O valor anunciado para essa fase é de € 1,201 bilhão; o Estado mantém 50,1% e o controle acionário. A proposta prevê preservar a marca, a sede em Portugal e o hub de Lisboa. A seleção do investidor não significa que a operação já esteja concluída: há etapas contratuais e regulatórias posteriores.
+
+Fonte: [Governo de Portugal — seleção da Lufthansa, 14/10/2026](https://portugal.gov.pt/gc25/comunicacao/noticias/governo-seleciona-a-lufthansa-para-aquisicao-de-ate-499-do-capital-social-da-tap).
 
 **Conflito envolvendo Irã, Estados Unidos e Israel.** Em 02/11/2026, as negociações mediadas pelo Catar em Doha continuavam sem acordo final. O Estreito de Ormuz, o bloqueio naval, as sanções e o programa nuclear iraniano permaneciam entre os pontos centrais. O conflito afeta navegação e fornecimento de energia, com possíveis reflexos em petróleo, fretes, inflação e comércio internacional. O status correto é conflito em andamento e negociação inconclusa.
 
@@ -245,12 +252,26 @@ D) é permitida para menores de 18 anos quando o produto não contém nicotina.
 E) aumentou apenas entre adultos.
 
 
-**16.** No corte de 02/11/2026, qual era o último resultado mensal de desocupação que constava no painel oficial do IBGE consultado?
-A) 5,2% no trimestre encerrado em setembro, com subutilização de 13,0%.  
-B) 5,3% no trimestre móvel encerrado em agosto, com subutilização de 13,1%; o release de setembro previsto para 30/10 ainda não constava do painel consultado.  
-C) 5,4% no trimestre encerrado em setembro, com subutilização de 12,0%.  
-D) 6,1% no trimestre encerrado em agosto, com subutilização de 15,0%.  
-E) 4,0% no trimestre encerrado em agosto, com subutilização de 10,0%.
+**16.** Segundo a PNAD Contínua divulgada em 30/10/2026, qual foi o resultado do mercado de trabalho no trimestre móvel de julho a setembro?
+A) Desocupação de 5,2% e subutilização de 13,0%; a população ocupada chegou a 103,6 milhões, recorde da série.  
+B) Desocupação de 5,3% e subutilização de 13,1%, referentes apenas ao mês de setembro.  
+C) Desocupação de 6,1% e população ocupada de 100 milhões.  
+D) Desocupação de 4,0% e subutilização de 10,0%.  
+E) Desocupação de 5,2%, mas com queda da população ocupada para 98 milhões.
+
+**17.** Sobre o reajuste do querosene de aviação anunciado pela Petrobras para novembro de 2026, é correto afirmar que:
+A) houve redução de 7,2% no preço do QAV, com vigência a partir de 1º de dezembro.  
+B) houve aumento médio de 7,2%, equivalente a R$ 0,45 por litro, a partir de 01/11; a companhia relacionou a alta às cotações internacionais e às tensões geopolíticas.  
+C) o reajuste foi de 18% e incidiu diretamente sobre o preço final das passagens.  
+D) o QAV é produzido e comercializado exclusivamente pela ANAC.  
+E) o preço é definido diariamente pelo Congresso Nacional.
+
+**18.** Sobre a privatização parcial da TAP, anunciada pelo Governo de Portugal em 14/10/2026:
+A) a operação já transferiu 100% da companhia à Lufthansa, sem participação estatal.  
+B) a Air France-KLM foi escolhida para adquirir 50,1% e encerrar o hub de Lisboa.  
+C) a Lufthansa foi selecionada para adquirir 44,9%, com até 5% adicionais reservados aos trabalhadores; o Estado mantém 50,1% e o controle.  
+D) a seleção do investidor foi feita pela Comissão Europeia, sem decisão do Conselho de Ministros português.  
+E) a TAP deixará de manter marca e sede em Portugal.
 
 ### Gabarito comentado
 
@@ -269,7 +290,9 @@ E) 4,0% no trimestre encerrado em agosto, com subutilização de 10,0%.
 13. **A.** A PeNSE 2024 foi divulgada em 25/03/2026; o resultado deve ser identificado como dado de pesquisa, não como ocorrência em 2026.
 14. **A.** A queda foi de 9,2%, mas 1,499 milhão ainda estavam em situação de trabalho infantil e 525 mil nas piores formas.
 15. **B.** A experimentação aumentou na PeNSE. A RDC Anvisa nº 855/2024 proíbe fabricação, importação, comercialização, distribuição, armazenamento, transporte e propaganda; o uso individual não é proibido, mas o uso em ambientes coletivos fechados continua vedado.
-16. **B.** O dado mais recente confirmado no painel consultado é 5,3% em junho-julho-agosto; não foi atribuído um resultado ao período encerrado em setembro sem o release oficial listado.
+16. **A.** O release de 30/10 trouxe 5,2% de desocupação e 13,0% de subutilização no trimestre julho-setembro. A população ocupada chegou a 103,6 milhões. A taxa foi a menor para um terceiro trimestre desde 2012, não necessariamente a menor de toda a série.
+17. **B.** O reajuste médio de 7,2% entrou em vigor em 01/11 e correspondeu a R$ 0,45 por litro; a notícia atribuiu a pressão às cotações internacionais e às tensões geopolíticas.
+18. **C.** O Governo português selecionou a Lufthansa, mas a primeira fase é minoritária: o Estado conserva 50,1% e o controle. A conclusão depende de etapas posteriores.
 
 ## 5. Fontes e rotina de manutenção
 
@@ -292,5 +315,6 @@ E) 4,0% no trimestre encerrado em agosto, com subutilização de 10,0%.
 
 ## 6. Histórico de atualização
 
-- **02/11/2026 — versão 1.6:** mantida a comparação correta dos editais; refinado o cronograma operacional da Reforma Tributária; atualizado o último dado mensal confirmado de desocupação para 5,3% no trimestre encerrado em agosto, com subutilização de 13,1%; registrado que o release previsto para setembro ainda não constava do painel oficial consultado; ampliada a PeNSE com os dados de experimentação de cigarros eletrônicos e a nuance da RDC Anvisa; detalhada a Pre-COP de Fiji e o encontro de líderes em Tuvalu; atualizados trabalho infantil e OCHA; acrescentadas questões de revisão.
+- **02/11/2026 — versão 1.7:** atualizada a PNAD com o resultado divulgado em 30/10; acrescentado o reajuste do QAV de 01/11; incluída a seleção da Lufthansa para a privatização parcial da TAP; adicionadas duas questões de revisão e gabarito comentado.
+- **02/11/2026 — versão 1.6 (registro intermediário):** mantida a comparação correta dos editais; refinado o cronograma operacional da Reforma Tributária; a consulta inicial não capturou o release da PNAD publicado em 30/10, corrigido na versão 1.7; ampliada a PeNSE com os dados de experimentação de cigarros eletrônicos e a nuance da RDC Anvisa; detalhada a Pre-COP de Fiji e o encontro de líderes em Tuvalu; atualizados trabalho infantil e OCHA; acrescentadas questões de revisão.
 - **28/10/2026 — versão 1.0:** caderno metodológico e primeiro boletim parcial de indicadores econômicos.
