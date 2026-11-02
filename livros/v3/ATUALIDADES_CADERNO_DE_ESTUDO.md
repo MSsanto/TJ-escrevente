@@ -95,7 +95,7 @@ Fonte: [FMI — World Economic Outlook, outubro de 2026](https://www.imf.org/en/
 
 Fonte: [IBGE — uso da internet ultrapassa 90% da população de 10 anos ou mais](https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47408-proporcao-de-usuarios-da-internet-no-pais-ultrapassou-90-da-populacao-de-10-anos-ou-mais-em-2025).
 
-**Violência e saúde dos adolescentes — PeNSE 2024.** A quinta edição da Pesquisa Nacional de Saúde do Escolar foi divulgada em 25/03/2026. Entre estudantes de 13 a 17 anos, 18,5% relataram ter sofrido assédio sexual ao longo da vida; o percentual foi de 26,0% entre meninas e 10,9% entre meninos. A pesquisa também apontou que 12,7% sofreram cyberbullying nas redes sociais (15,2% das meninas e 10,3% dos meninos) e que 27,2% relataram bullying recorrente no ambiente escolar. Embora o uso de cigarro, álcool e drogas ilícitas tenha recuado em relação a 2019, a experimentação de cigarros eletrônicos subiu de 16,8% para 29,6% entre 2019 e 2024. A Anvisa mantém proibidas fabricação, importação, comercialização, distribuição, armazenamento, transporte e propaganda desses dispositivos. O período de referência é 2024; a divulgação ocorreu em 2026.  
+**Violência e saúde dos adolescentes — PeNSE 2024.** A quinta edição da Pesquisa Nacional de Saúde do Escolar foi divulgada em 25/03/2026. Entre estudantes de 13 a 17 anos, 18,5% relataram ter sofrido assédio sexual ao longo da vida; o percentual foi de 26,0% entre meninas e 10,9% entre meninos. A pesquisa também apontou que 12,7% sofreram cyberbullying nas redes sociais (15,2% das meninas e 10,3% dos meninos) e que 27,2% relataram bullying recorrente no ambiente escolar. Embora o uso de cigarro, álcool e drogas ilícitas tenha recuado em relação a 2019, a experimentação de cigarros eletrônicos subiu de 16,8% para 29,6% entre 2019 e 2024. A Anvisa mantém proibidas fabricação, importação, comercialização, distribuição, armazenamento, transporte e propaganda desses dispositivos; a norma não proíbe o uso individual, mas o uso em ambientes coletivos fechados continua vedado. O período de referência é 2024; a divulgação ocorreu em 2026.  
 Fontes: [IBGE — 5ª edição da PeNSE, 25/03/2026](https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46171-5-edicao-da-pense-meninas-sao-as-maiores-vitimas-de-violencia-sexual) · [Anvisa — RDC 855/2024 mantém a proibição](https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2024/anvisa-atualiza-regulacao-de-cigarro-eletronico-e-mantem-proibicao).
 
 
@@ -115,7 +115,7 @@ Fonte: [Reuters — negociações em Doha, 01/11/2026](https://www.reuters.com/w
 
 Fonte: [ONU/OCHA — Humanitarian Situation Report, 29/10/2026, publicado em 31/10](https://www.ochaopt.org/content/humanitarian-situation-report-29-october-2026).
 
-**COP31.** A 31ª Conferência das Partes da Convenção do Clima da ONU está programada para 09 a 20/11/2026, em Antália, Turquia. A Pre-COP ocorreu de 05 a 08/10 no Pacífico, em parceria entre Fiji, Tuvalu e Austrália. A cúpula de líderes está prevista para 11 e 12/11; a Turquia sediará a conferência, e o australiano Chris Bowen presidirá as negociações. Em 02/11, ainda era evento futuro; não atribuir decisões ou resultados antes de sua publicação.
+**COP31.** A 31ª Conferência das Partes da Convenção do Clima da ONU está programada para 09 a 20/11/2026, em Antália, Turquia. A Pre-COP ocorreu em Fiji, de 05 a 08/10, com um encontro de líderes em Tuvalu. A cúpula de líderes está prevista para 11 e 12/11; a Turquia sediará a conferência, e o australiano Chris Bowen presidirá as negociações. Em 02/11, ainda era evento futuro; não atribuir decisões ou resultados antes de sua publicação.
 
 Fonte: [UNFCCC — COP31, datas, sede e presidências](https://unfccc.int/cop31).
 
@@ -131,7 +131,7 @@ Fonte: [UNFCCC — COP31, datas, sede e presidências](https://unfccc.int/cop31)
 
 **Paralimpíadas de Inverno.** Em 10/03/2026, Cristian Westemaier Ribera conquistou prata no sprint sentado do esqui cross-country, primeira medalha brasileira nos Jogos Paralímpicos de Inverno. Fonte: [Comitê Paralímpico Internacional](https://www.paralympic.org/news/cristian-westemaier-ribera-brazil-winter-medal).
 
-**Copa do Mundo FIFA 2026.** Primeira edição com 48 seleções e 104 partidas, organizada por Canadá, México e Estados Unidos. Em 19/07/2026, a Espanha venceu a Argentina por 1 a 0 na prorrogação, com gol de Ferran Torres aos 106 minutos, conquistando o segundo título mundial masculino. Fonte: [FIFA — final Espanha 1 x 0 Argentina](https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/espanha-argentina-resumo-melhores-momentos-final).
+**Copa do Mundo FIFA 2026.** Primeira edição com 48 seleções e 104 partidas, organizada por Canadá, México e Estados Unidos. Em 19/07/2026, a Espanha venceu a Argentina por 1 a 0 na prorrogação, com gol de Ferran Torres aos 106 minutos, conquistando o segundo título mundial masculino. Fonte: [FIFA — final Espanha 1 x 0 Argentina](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/spain-argentina-final-report-highlights).
 
 ## 4. Questões de revisão — estilo objetivo
 
@@ -239,7 +239,7 @@ E) a pesquisa não incluiu adolescentes de 16 e 17 anos.
 
 **15.** A PeNSE 2024 apontou que a experimentação de cigarros eletrônicos:
 A) caiu de 29,6% para 16,8% entre 2019 e 2024, e a Anvisa liberou a comercialização.  
-B) subiu de 16,8% para 29,6% entre 2019 e 2024, embora a Anvisa mantenha proibidas fabricação, importação, comercialização e propaganda dos dispositivos.  
+B) subiu de 16,8% para 29,6% entre 2019 e 2024; a Anvisa proíbe fabricação, importação, comercialização e propaganda, mas não o uso individual (o uso em ambiente coletivo fechado continua vedado).  
 C) não foi investigada pelo IBGE.  
 D) é permitida para menores de 18 anos quando o produto não contém nicotina.  
 E) aumentou apenas entre adultos.
