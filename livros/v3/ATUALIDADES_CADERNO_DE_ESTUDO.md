@@ -1,5 +1,5 @@
 # Atualidades — caderno de estudo e atualização
-**TJSP Escrevente · versão 1.4 · 02/11/2026**
+**TJSP Escrevente · versão 1.5 · 02/11/2026**
 
 > Este caderno é uma ferramenta de acompanhamento, não uma lista definitiva de tudo o que poderá ser cobrado. O arquivo ATUALIDADES_2026.md contém o painel factual resumido. A cobertura precisa continuar sendo atualizada até a prova.
 
@@ -79,7 +79,7 @@ Atenção à comparação: a Selic é taxa básica anual definida pelo Copom; IP
 
 Fontes: [IBGE — painel de indicadores](https://www.ibge.gov.br/estats) · [IBGE — IPCA](https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html?=&t=resultados) · [Banco Central — histórico da Selic](https://www.bcb.gov.br/controleinflacao/historicotaxasjuros) · [Ata do Copom, setembro de 2026](https://www.bcb.gov.br/publicacoes/atascopom/16092026) · [Agência Brasil/IBGE — PIB do 2º trimestre](https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/pib-do-brasil-cresce-05-no-segundo-trimestre-mostra-ibge).
 
-**Mercado de trabalho.** O último resultado mensal que consegui confirmar na página oficial do IBGE neste fechamento foi 5,3% de desocupação no trimestre móvel encerrado em julho (maio-junho-julho), com subutilização de 13,0%, divulgado em 27/08/2026. A PNAD mensal usa trimestres móveis, não mede um mês isolado. O calendário do IBGE apontava divulgação do período encerrado em setembro para 30/10, mas não localizei o release oficial correspondente nesta consulta; por isso, não atribuo uma taxa a setembro.
+**Mercado de trabalho.** O último resultado mensal confirmado na página oficial do IBGE neste fechamento foi 5,3% de desocupação no trimestre móvel encerrado em agosto (junho-julho-agosto), com taxa de subutilização de 13,1%, divulgado em 29/09/2026. A PNAD mensal usa trimestres móveis, não mede um mês isolado. O calendário do IBGE apontava divulgação do período encerrado em setembro para 30/10, mas o painel oficial ainda não listava esse release na consulta de 02/11; por isso, não atribuo uma taxa a setembro.
 
 Fonte: [IBGE — PNAD Contínua, divulgação mensal e calendário](https://www.ibge.gov.br/estatisticas/sociais/trabalho/9171-pesquisa-nacional-por-amostra-de-domicilios-continua-mensal.html?=&t=destaques).
 
@@ -244,6 +244,14 @@ C) não foi investigada pelo IBGE.
 D) é permitida para menores de 18 anos quando o produto não contém nicotina.  
 E) aumentou apenas entre adultos.
 
+
+**16.** No corte de 02/11/2026, qual era o último resultado mensal de desocupação que constava no painel oficial do IBGE consultado?
+A) 5,2% no trimestre encerrado em setembro, com subutilização de 13,0%.  
+B) 5,3% no trimestre móvel encerrado em agosto, com subutilização de 13,1%; o release de setembro previsto para 30/10 ainda não constava do painel consultado.  
+C) 5,4% no trimestre encerrado em setembro, com subutilização de 12,0%.  
+D) 6,1% no trimestre encerrado em agosto, com subutilização de 15,0%.  
+E) 4,0% no trimestre encerrado em agosto, com subutilização de 10,0%.
+
 ### Gabarito comentado
 
 1. **A.** Para o Escrevente 02/2026, Atualidades continua com quatro questões; a LBI permanece nos arts. 1º–13 e 34–38, e a distribuição de Matemática, Raciocínio Lógico e Informática não mudou.
@@ -261,6 +269,7 @@ E) aumentou apenas entre adultos.
 13. **A.** A PeNSE 2024 foi divulgada em 25/03/2026; o resultado deve ser identificado como dado de pesquisa, não como ocorrência em 2026.
 14. **A.** A queda foi de 9,2%, mas 1,499 milhão ainda estavam em situação de trabalho infantil e 525 mil nas piores formas.
 15. **B.** A experimentação aumentou na PeNSE, mas a RDC Anvisa nº 855/2024 mantém a proibição da fabricação, importação, comercialização, distribuição, armazenamento, transporte e propaganda dos dispositivos.
+16. **B.** O dado mais recente confirmado no painel consultado é 5,3% em junho-julho-agosto; não foi atribuído um resultado ao período encerrado em setembro sem o release oficial listado.
 
 ## 5. Fontes e rotina de manutenção
 
@@ -283,5 +292,5 @@ E) aumentou apenas entre adultos.
 
 ## 6. Histórico de atualização
 
-- **02/11/2026 — versão 1.4:** mantida a comparação correta dos editais; refinado o cronograma operacional da Reforma Tributária; corrigido o indicador de desemprego para o último dado mensal confirmado (5,3% no trimestre encerrado em julho), sem atribuir número não confirmado ao trimestre encerrado em setembro; ampliada a PeNSE com os dados de experimentação de cigarros eletrônicos e a regra da Anvisa; atualizados trabalho infantil e OCHA; acrescentada questão de revisão.
+- **02/11/2026 — versão 1.5:** mantida a comparação correta dos editais; refinado o cronograma operacional da Reforma Tributária; atualizado o último dado mensal confirmado de desocupação para 5,3% no trimestre encerrado em agosto, com subutilização de 13,1%; registrado que o release previsto para setembro ainda não constava do painel oficial consultado; ampliada a PeNSE com os dados de experimentação de cigarros eletrônicos e a regra da Anvisa; atualizados trabalho infantil e OCHA; acrescentada questão de revisão.
 - **28/10/2026 — versão 1.0:** caderno metodológico e primeiro boletim parcial de indicadores econômicos.
