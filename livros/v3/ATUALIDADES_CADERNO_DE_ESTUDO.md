@@ -3,27 +3,25 @@
 
 > Este caderno é uma ferramenta de acompanhamento, não uma lista definitiva de tudo o que poderá ser cobrado. O arquivo ATUALIDADES_2026.md contém o painel factual resumido. A cobertura precisa continuar sendo atualizada até a prova.
 
-## 1. Leitura correta do edital 02/2026
+## 1. Leitura correta do Edital 02/2026 — Escrevente
 
-A conferência do texto oficial publicado no Diário da Justiça Eletrônico do TJSP, edição 4542, de 19/10/2026, é indispensável porque vários resumos externos ainda reproduzem a distribuição de 2025.
+A conferência do Anexo VIII do **Edital de Abertura nº 02/2026 para Escrevente Técnico Judiciário (2ª a 10ª RAJs)**, no DJE edição 4542, é essencial: o bloco de três questões e LBI arts. 79–87 que aparece algumas páginas antes pertence a outro edital do mesmo Diário. O conteúdo programático do Escrevente 02/2026 está nas páginas 154–155 e prevê quatro questões de Atualidades e os arts. 1º–13 e 34–38 da LBI.
 
-| Item | Edital 02/2025 | Edital 02/2026 |
+| Item | Edital 02/2025 — Escrevente | Edital 02/2026 — Escrevente |
 |---|---:|---:|
-| Atualidades | 4 questões | **3 questões** |
-| Lei Brasileira de Inclusão | arts. 1º–13 e 34–38 | **arts. 1º–13, 34–38 e 79–87** |
-| Matemática | 4 questões | integrada a Matemática e Raciocínio Lógico |
-| Raciocínio Lógico | 7 questões | integrado a Matemática e Raciocínio Lógico |
-| Informática | 9 questões | **5 questões** |
+| Atualidades | 4 questões | **4 questões** |
+| Lei Brasileira de Inclusão | arts. 1º–13 e 34–38 | **arts. 1º–13 e 34–38** |
+| Matemática | 4 questões | **4 questões** |
+| Raciocínio Lógico | 7 questões | **7 questões** |
+| Informática | 9 questões | **9 questões** |
 
-No edital 02/2026, Matemática e Raciocínio Lógico somam 7 questões: 3 de Matemática e 4 de Raciocínio Lógico. Atualidades passou de 4 para 3 questões. A Lei nº 13.146/2015 ganhou, no conteúdo indicado, os arts. 79 a 87, além dos arts. 1º a 13 e 34 a 38 já previstos em 2025.
-
-**Regra de prevalência:** se um curso, site ou resumo ainda indicar quatro questões de Atualidades para o edital 02/2026, prevalece o texto oficial do TJSP. Não confundir a distribuição de 2025 com a de 2026.
+**Conclusão:** a quantidade de questões e o recorte da LBI não mudaram para o Escrevente 02/2026. A mudança em Atualidades é o período: o edital 02/2025 considera fatos ocorridos a partir do primeiro semestre de 2025; o 02/2026 considera fatos ocorridos a partir do primeiro semestre de 2026, divulgados na mídia local e/ou nacional. Não confundir o edital do Escrevente 02/2026 com o bloco de três questões que aparece antes dele no mesmo Diário.
 
 Fontes oficiais:
-- [TJSP — Edital 02/2026, DJE edição 4542, 19/10/2026, p. 125](https://www.tjsp.jus.br/atc/dejesp/consultaSimples.do?cdCaderno=10&cdVolume=4542&nuDiario=4542&nuSeqpagina=125).
-- [TJSP — Edital 02/2025, DJE edição 4255, 01/08/2025](https://www.tjsp.jus.br/atcapi/dje/v1/caderno/pagina/download/site?idCaderno=10&idEdicao=4255&idVolume=4255&pagina=79).
+- [TJSP — Edital 02/2026, DJE edição 4542, Anexo VIII, p. 154–155](https://www.tjsp.jus.br/atcapi/dje/v1/caderno/pagina/download/site?idCaderno=10&idEdicao=4542&idVolume=4542&pagina=155).
+- [TJSP — Edital 02/2025, DJE edição 4255, Anexo VIII, p. 77–78](https://www.tjsp.jus.br/atcapi/dje/v1/caderno/pagina/download/site?idCaderno=10&idEdicao=4255&idVolume=4255&pagina=79).
 
-O texto atual descreve fatos políticos, econômicos, sociais e culturais, nacionais e internacionais, **divulgados a partir do primeiro semestre de 2026 na mídia local e/ou nacional**. Por isso, anote duas datas quando forem diferentes: a data do fato e a data em que a informação foi divulgada. Uma pesquisa publicada em julho de 2026 pode usar dados de 2025; o período de referência não deve ser confundido com a data de publicação.
+O edital atual usa a expressão **“fatos [...] ocorridos a partir do 1º semestre de 2026, divulgados na mídia local e/ou nacional”**. Registre a data do fato e a data da publicação quando forem diferentes. Uma pesquisa divulgada em 2026 pode utilizar dados de 2025; indique sempre o período de referência.
 
 ## 2. Método de estudo de cada notícia
 
@@ -64,9 +62,9 @@ Fontes: [TSE — regras sobre IA nas campanhas de 2026](https://www.tse.jus.br/c
 
 ### 3.2 Economia — Brasil
 
-**Reforma Tributária do consumo.** O ano de 2026 é fase de teste da CBS (federal) e do IBS (estadual e municipal). As alíquotas de teste são 0,9% para a CBS e 0,1% para o IBS. Os valores são compensáveis com PIS/Cofins; o contribuinte que cumpre as obrigações acessórias previstas fica dispensado do recolhimento de IBS/CBS no período de teste. O Imposto Seletivo é federal e tem função extrafiscal, voltada a desestimular o consumo de bens e serviços prejudiciais à saúde ou ao meio ambiente. A transição ocorre gradualmente, com vigência integral prevista para 2033.
+**Reforma Tributária do consumo.** O ano de 2026 é fase de teste da CBS (federal) e do IBS (estadual e municipal), com alíquotas de teste de 0,9% e 0,1%, respectivamente. A partir de 03/08/2026, empresas do regime regular passaram a ter de preencher os campos de CBS e IBS nos documentos fiscais eletrônicos. Em 06/08, Receita Federal e CGIBS adiaram o início das validações automáticas que rejeitariam documentos sem os campos; a decisão não suspendeu a obrigação de informar os tributos. A apuração em 2026 é informativa, sem efeitos tributários para quem cumpre as obrigações acessórias previstas. O Imposto Seletivo é federal e tem função extrafiscal. A transição é gradual, com vigência integral prevista para 2033.
 
-Fontes: [Receita Federal — entenda a Reforma Tributária](https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria-do-consumo/entenda) · [Comunicado conjunto Receita Federal/Comitê Gestor do IBS](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2025/dezembro/comunicado-conjunto).
+Fontes: [Receita Federal — cronograma dos documentos fiscais eletrônicos, atualizado em 28/10/2026](https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria-do-consumo/orientacoes-da-reforma-tributaria/cronograma) · [CGIBS — comunicado de 06/08/2026 sobre adiamento das validações](https://cgibs.gov.br/receita-federal-e-comite-gestor-do-ibs-esclarecem-adiamento-das-regras-de-validacao-dos-documentos-fiscais-eletronicos) · [Receita Federal — entenda a Reforma Tributária](https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria-do-consumo/entenda).
 
 **Inflação, juros e atividade.** No corte de 02/11:
 - IPCA de setembro: 0,82% no mês e 4,58% em 12 meses.
@@ -81,7 +79,7 @@ Fontes: [IBGE — painel de indicadores](https://www.ibge.gov.br/estats) · [IBG
 
 **Mercado de trabalho.** Em 30/10/2026, o IBGE divulgou taxa de desocupação de 5,2% no trimestre móvel encerrado em setembro, a menor para um terceiro trimestre desde o início da série em 2012. A taxa composta de subutilização foi de 13,0%, e a população ocupada chegou a 103,6 milhões. Não chamar o resultado de “desemprego mensal”: trata-se de trimestre móvel.
 
-Fonte: [IBGE — painel e releases da PNAD Contínua](https://www.ibge.gov.br/estats).
+Fonte: [IBGE — PNAD Contínua, divulgação mensal](https://www.ibge.gov.br/estatisticas/sociais/trabalho/17270-pnad-continua.html?edicao=41487&t=microdados).
 
 **Economia mundial.** O FMI, no World Economic Outlook de outubro de 2026, projetou crescimento global de 3,1% em 2026 e 3,4% em 2027; inflação global de 4,7% em 2026 e 4,1% em 2027. O relatório destacou riscos ligados a conflitos, tensões comerciais, vulnerabilidades fiscais e reavaliação das expectativas sobre IA. São projeções, não resultados realizados.
 
@@ -92,6 +90,12 @@ Fonte: [FMI — World Economic Outlook, outubro de 2026](https://www.imf.org/en/
 **Inclusão digital.** Pesquisa divulgada pelo IBGE em 02/07/2026 informou que 90,5% das pessoas de 10 anos ou mais utilizaram internet em 2025, equivalentes a 168,7 milhões. O uso foi de 91,5% nas áreas urbanas e 83,0% nas rurais. Serviços públicos on-line foram utilizados por 41,1% dos usuários. O dado mostra expansão da conectividade, mas também desigualdade territorial e desafios de letramento digital. O período de referência é 2025; a divulgação ocorreu em 2026.
 
 Fonte: [IBGE — uso da internet ultrapassa 90% da população de 10 anos ou mais](https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47408-proporcao-de-usuarios-da-internet-no-pais-ultrapassou-90-da-populacao-de-10-anos-ou-mais-em-2025).
+
+**Violência e saúde dos adolescentes — PeNSE 2024.** A quinta edição da Pesquisa Nacional de Saúde do Escolar foi divulgada em 25/03/2026. Entre estudantes de 13 a 17 anos, 18,5% relataram ter sofrido assédio sexual ao longo da vida; o percentual foi de 26,0% entre meninas e 10,9% entre meninos. A pesquisa também registrou 12,7% de adolescentes vítimas de cyberbullying nas redes sociais e aumento da experimentação de cigarros eletrônicos. O período de referência é 2024; a divulgação ocorreu em 2026.  
+Fonte: [IBGE — 5ª edição da PeNSE, 25/03/2026](https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46171-5-edicao-da-pense-meninas-sao-as-maiores-vitimas-de-violencia-sexual).
+
+**Trabalho infantil.** Em 16/10/2026, o IBGE divulgou estimativa de 1,499 milhão de crianças e adolescentes de 5 a 17 anos em situação de trabalho infantil no Brasil em 2025. O dado é estatística experimental da PNAD Contínua e deve ser apresentado com o ano de referência.  
+Fonte: [IBGE — Trabalho de crianças e adolescentes de 5 a 17 anos, 2025](https://www.ibge.gov.br/estatisticas/sociais/trabalho/17270-pnad-continua.html?edicao=44008).
 
 **Desmatamento.** Dados do PRODES divulgados em 16/10/2026 indicaram 3.335 km² de desmatamento na Amazônia entre agosto de 2025 e julho de 2026, queda de 41,8% ante o período anterior e menor taxa da série iniciada em 1988. No Cerrado, foram 5.516,69 km², redução de 23,8% e menor valor da série iniciada em 2001. A queda não significa eliminação do desmatamento.
 
@@ -107,13 +111,13 @@ Fonte: [CEMADEN — Monitoramento de secas e impactos, setembro de 2026](https:/
 
 Fonte: [Reuters — negociações em Doha, 01/11/2026](https://www.reuters.com/world/middle-east/iranian-negotiators-doha-continue-talks-end-us-iran-war-official-says-2026-11-01/).
 
-**Gaza.** Relatório da OCHA de 22/10/2026 registrou continuidade de ataques, disparos, vítimas civis, deslocamento e restrições à assistência humanitária, apesar do cessar-fogo anunciado em outubro de 2025. Distinguir anúncio de cessar-fogo da cessação efetiva da violência e das necessidades humanitárias.
+**Gaza e Cisjordânia.** O relatório mais recente da OCHA disponível no corte foi publicado em 31/10, com período de referência de 19 a 25/10. Em Gaza, registrou ataques e disparos com vítimas civis, incêndios em abrigos, dificuldades de abastecimento e preparação para riscos de alagamento no inverno. Segundo o Ministério da Saúde de Gaza, citado pela OCHA, 33 palestinos foram mortos e 188 feridos entre 20 e 26/10. Na Cisjordânia, a OCHA registrou 397 ataques de colonos com vítimas ou danos materiais entre 1º e 26/10, o maior total mensal desde o início da documentação em 2006; cerca de 3.000 pessoas teriam sido deslocadas na operação em Hebron, mas esse número ainda estava em verificação. Atribuir números e declarações às fontes correspondentes.
 
-Fonte: [ONU/OCHA — Humanitarian Situation Report, 22/10/2026](https://www.ochaopt.org/content/humanitarian-situation-report-22-october-2026).
+Fonte: [ONU/OCHA — Humanitarian Situation Report, 29/10/2026, publicado em 31/10](https://www.ochaopt.org/content/humanitarian-situation-report-29-october-2026).
 
-**COP31.** A 31ª Conferência das Partes da Convenção do Clima da ONU está programada para 09 a 20/11/2026, em Antália, Turquia. No corte deste boletim, ainda era evento futuro. Não atribuir decisões ou resultados antes da publicação de documentos oficiais.
+**COP31.** A 31ª Conferência das Partes da Convenção do Clima da ONU está programada para 09 a 20/11/2026, em Antália, Turquia. A Pre-COP ocorreu de 05 a 08/10 no Pacífico, em parceria entre Fiji, Tuvalu e Austrália. A cúpula de líderes está prevista para 11 e 12/11; a Turquia sediará a conferência, e o australiano Chris Bowen presidirá as negociações. Em 02/11, ainda era evento futuro; não atribuir decisões ou resultados antes de sua publicação.
 
-Fonte: [UNFCCC — COP31](https://unfccc.int/cop31/ifp).
+Fonte: [UNFCCC — COP31, datas, sede e presidências](https://unfccc.int/cop31).
 
 ### 3.5 Cultura e esporte
 
@@ -131,12 +135,12 @@ Fonte: [UNFCCC — COP31](https://unfccc.int/cop31/ifp).
 
 ## 4. Questões de revisão — estilo objetivo
 
-**1.** Em comparação com o Edital 02/2025, o Edital 02/2026 do TJSP:
-A) manteve quatro questões de Atualidades e os mesmos artigos da LBI.  
+**1.** Em comparação com o Edital 02/2025, o Edital 02/2026 do TJSP para Escrevente:
+A) manteve quatro questões de Atualidades, os mesmos artigos da LBI e a mesma distribuição de Matemática, Raciocínio Lógico e Informática.  
 B) reduziu Atualidades para três questões e acrescentou os arts. 79 a 87 da LBI.  
 C) aumentou Atualidades para cinco questões e retirou os arts. 34 a 38 da LBI.  
 D) retirou Atualidades do programa.  
-E) manteve nove questões de Informática.
+E) reduziu Informática para cinco questões.
 
 **2.** Sobre as eleições presidenciais brasileiras de 2026, é correto afirmar que:
 A) o segundo turno ocorreu em 25/10 e o TSE informou a vitória de Lula sobre Flávio Bolsonaro.  
@@ -215,9 +219,18 @@ C) foi realizada em Paris em outubro de 2026.
 D) seus resultados já estavam todos aprovados em 02/11.  
 E) é uma competição esportiva.
 
+
+
+**13.** De acordo com a quinta edição da PeNSE, divulgada pelo IBGE em março de 2026:
+A) 18,5% dos estudantes de 13 a 17 anos relataram assédio sexual alguma vez na vida; o percentual foi maior entre meninas.  
+B) a pesquisa foi realizada em 2026 e não apresenta dados sobre violência.  
+C) meninas e meninos apresentaram percentuais idênticos de assédio sexual.  
+D) o levantamento excluiu estudantes da rede pública.  
+E) o cyberbullying não foi pesquisado.
+
 ### Gabarito comentado
 
-1. **B.** O edital atual reduziu Atualidades para três questões e ampliou o recorte da LBI para incluir os arts. 79 a 87.
+1. **A.** Para o Escrevente 02/2026, Atualidades continua com quatro questões; a LBI permanece nos arts. 1º–13 e 34–38, e a distribuição de Matemática, Raciocínio Lógico e Informática não mudou.
 2. **A.** A votação do segundo turno ocorreu em 25/10/2026; o TSE informou a vitória de Lula.
 3. **C.** A norma exige transparência sobre conteúdo sintético e estabelece restrições específicas próximas ao pleito; não é proibição genérica de toda IA.
 4. **C.** 2026 é fase de teste da CBS e do IBS; a transição completa ainda não ocorreu.
@@ -229,6 +242,7 @@ E) é uma competição esportiva.
 10. **A.** A edição de 2026 ampliou o torneio para 48 seleções e 104 partidas; a Espanha venceu a final.
 11. **B.** O ouro de Braathen e a prata de Ribera foram marcos inéditos para o Brasil nos respectivos Jogos de Inverno.
 12. **B.** Em 02/11, a conferência ainda não havia começado; não atribuir a ela resultados antecipados.
+13. **A.** A PeNSE 2024 foi divulgada em 25/03/2026; o resultado deve ser identificado como dado de pesquisa, não como ocorrência em 2026.
 
 ## 5. Fontes e rotina de manutenção
 
@@ -251,5 +265,5 @@ E) é uma competição esportiva.
 
 ## 6. Histórico de atualização
 
-- **02/11/2026 — versão 1.1:** comparação formal dos editais 02/2025 e 02/2026; correção de Atualidades para 3 questões; inclusão dos arts. 79–87 da LBI; atualização de eleições, economia, trabalho, conectividade, clima, relações internacionais, cultura e esporte; inclusão de 12 questões autorais com gabarito comentado.
+- **02/11/2026 — versão 1.2 (corretiva):** revisão do vínculo entre edital e conteúdo programático: para o Escrevente 02/2026, o Anexo VIII das páginas 154–155 mantém 4 questões de Atualidades e LBI arts. 1º–13 e 34–38, como em 2025. O bloco de 3 questões e arts. 79–87 pertence a outro edital no mesmo DJE. Atualizados OCHA de 29/10, Reforma Tributária, PeNSE e trabalho infantil; acrescentada uma questão social e gabarito comentado.
 - **28/10/2026 — versão 1.0:** caderno metodológico e primeiro boletim parcial de indicadores econômicos.
