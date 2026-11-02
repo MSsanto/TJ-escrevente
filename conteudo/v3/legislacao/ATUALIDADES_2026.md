@@ -2,7 +2,7 @@
 
 **Corte editorial:** 02/11/2026  
 **Concurso:** TJSP — Escrevente Técnico Judiciário — Edital nº 02/2026  
-**Critério:** fatos políticos, econômicos, sociais e culturais, nacionais e internacionais, divulgados a partir do primeiro semestre de 2026 na mídia local e/ou nacional.
+**Critério:** fatos políticos, econômicos, sociais e culturais, nacionais e internacionais, ocorridos a partir do primeiro semestre de 2026 e divulgados na mídia local e/ou nacional.
 
 > Material de revisão com cobertura seletiva. Distinguir sempre data do fato, data da divulgação, dado observado, projeção, proposta e evento ainda futuro. A publicação de uma estatística em 2026 pode trazer dados referentes a 2025; nesse caso, a data de divulgação e o período de referência devem aparecer separadamente.
 
