@@ -1,5 +1,5 @@
 # Atualidades — caderno de estudo e atualização
-**TJSP Escrevente · versão 1.5 · 02/11/2026**
+**TJSP Escrevente · versão 1.6 · 02/11/2026**
 
 > Este caderno é uma ferramenta de acompanhamento, não uma lista definitiva de tudo o que poderá ser cobrado. O arquivo ATUALIDADES_2026.md contém o painel factual resumido. A cobertura precisa continuar sendo atualizada até a prova.
 
@@ -96,7 +96,7 @@ Fonte: [FMI — World Economic Outlook, outubro de 2026](https://www.imf.org/en/
 Fonte: [IBGE — uso da internet ultrapassa 90% da população de 10 anos ou mais](https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47408-proporcao-de-usuarios-da-internet-no-pais-ultrapassou-90-da-populacao-de-10-anos-ou-mais-em-2025).
 
 **Violência e saúde dos adolescentes — PeNSE 2024.** A quinta edição da Pesquisa Nacional de Saúde do Escolar foi divulgada em 25/03/2026. Entre estudantes de 13 a 17 anos, 18,5% relataram ter sofrido assédio sexual ao longo da vida; o percentual foi de 26,0% entre meninas e 10,9% entre meninos. A pesquisa também apontou que 12,7% sofreram cyberbullying nas redes sociais (15,2% das meninas e 10,3% dos meninos) e que 27,2% relataram bullying recorrente no ambiente escolar. Embora o uso de cigarro, álcool e drogas ilícitas tenha recuado em relação a 2019, a experimentação de cigarros eletrônicos subiu de 16,8% para 29,6% entre 2019 e 2024. A Anvisa mantém proibidas fabricação, importação, comercialização, distribuição, armazenamento, transporte e propaganda desses dispositivos; a norma não proíbe o uso individual, mas o uso em ambientes coletivos fechados continua vedado. O período de referência é 2024; a divulgação ocorreu em 2026.  
-Fontes: [IBGE — 5ª edição da PeNSE, 25/03/2026](https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46171-5-edicao-da-pense-meninas-sao-as-maiores-vitimas-de-violencia-sexual) · [Anvisa — RDC 855/2024 mantém a proibição](https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2024/anvisa-atualiza-regulacao-de-cigarro-eletronico-e-mantem-proibicao).
+Fontes: [IBGE — 5ª edição da PeNSE, 25/03/2026](https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46171-5-edicao-da-pense-meninas-sao-as-maiores-vitimas-de-violencia-sexual) · [Anvisa — RDC 855/2024 mantém a proibição](https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2024/anvisa-atualiza-regulacao-de-cigarro-eletronico-e-mantem-proibicao) · [Anvisa — FAQ sobre uso individual e locais coletivos](https://www.gov.br/anvisa/pt-br/acessoainformacao/perguntasfrequentes/tabaco/cigarro-eletronico-2).
 
 
 
@@ -117,7 +117,7 @@ Fonte: [ONU/OCHA — Humanitarian Situation Report, 29/10/2026, publicado em 31/
 
 **COP31.** A 31ª Conferência das Partes da Convenção do Clima da ONU está programada para 09 a 20/11/2026, em Antália, Turquia. A Pre-COP ocorreu em Fiji, de 05 a 08/10, com um encontro de líderes em Tuvalu. A cúpula de líderes está prevista para 11 e 12/11; a Turquia sediará a conferência, e o australiano Chris Bowen presidirá as negociações. Em 02/11, ainda era evento futuro; não atribuir decisões ou resultados antes de sua publicação.
 
-Fonte: [UNFCCC — COP31, datas, sede e presidências](https://unfccc.int/cop31).
+Fontes: [UNFCCC — COP31, datas, sede e presidências](https://unfccc.int/cop31) · [UNFCCC — mensagem às partes, maio de 2026, com datas da Pre-COP em Fiji e evento de líderes em Tuvalu](https://unfccc.int/sites/default/files/resource/message_to_parties%20_and_observers_q_1_2026_update.pdf).
 
 ### 3.5 Cultura e esporte
 
@@ -268,7 +268,7 @@ E) 4,0% no trimestre encerrado em agosto, com subutilização de 10,0%.
 12. **B.** Em 02/11, a conferência ainda não havia começado; não atribuir a ela resultados antecipados.
 13. **A.** A PeNSE 2024 foi divulgada em 25/03/2026; o resultado deve ser identificado como dado de pesquisa, não como ocorrência em 2026.
 14. **A.** A queda foi de 9,2%, mas 1,499 milhão ainda estavam em situação de trabalho infantil e 525 mil nas piores formas.
-15. **B.** A experimentação aumentou na PeNSE, mas a RDC Anvisa nº 855/2024 mantém a proibição da fabricação, importação, comercialização, distribuição, armazenamento, transporte e propaganda dos dispositivos.
+15. **B.** A experimentação aumentou na PeNSE. A RDC Anvisa nº 855/2024 proíbe fabricação, importação, comercialização, distribuição, armazenamento, transporte e propaganda; o uso individual não é proibido, mas o uso em ambientes coletivos fechados continua vedado.
 16. **B.** O dado mais recente confirmado no painel consultado é 5,3% em junho-julho-agosto; não foi atribuído um resultado ao período encerrado em setembro sem o release oficial listado.
 
 ## 5. Fontes e rotina de manutenção
@@ -292,5 +292,5 @@ E) 4,0% no trimestre encerrado em agosto, com subutilização de 10,0%.
 
 ## 6. Histórico de atualização
 
-- **02/11/2026 — versão 1.5:** mantida a comparação correta dos editais; refinado o cronograma operacional da Reforma Tributária; atualizado o último dado mensal confirmado de desocupação para 5,3% no trimestre encerrado em agosto, com subutilização de 13,1%; registrado que o release previsto para setembro ainda não constava do painel oficial consultado; ampliada a PeNSE com os dados de experimentação de cigarros eletrônicos e a regra da Anvisa; atualizados trabalho infantil e OCHA; acrescentada questão de revisão.
+- **02/11/2026 — versão 1.6:** mantida a comparação correta dos editais; refinado o cronograma operacional da Reforma Tributária; atualizado o último dado mensal confirmado de desocupação para 5,3% no trimestre encerrado em agosto, com subutilização de 13,1%; registrado que o release previsto para setembro ainda não constava do painel oficial consultado; ampliada a PeNSE com os dados de experimentação de cigarros eletrônicos e a nuance da RDC Anvisa; detalhada a Pre-COP de Fiji e o encontro de líderes em Tuvalu; atualizados trabalho infantil e OCHA; acrescentadas questões de revisão.
 - **28/10/2026 — versão 1.0:** caderno metodológico e primeiro boletim parcial de indicadores econômicos.
