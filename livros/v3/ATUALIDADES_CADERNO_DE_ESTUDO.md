@@ -1,5 +1,5 @@
 # Atualidades — caderno de estudo e atualização
-**TJSP Escrevente · versão 1.3 · 02/11/2026**
+**TJSP Escrevente · versão 1.4 · 02/11/2026**
 
 > Este caderno é uma ferramenta de acompanhamento, não uma lista definitiva de tudo o que poderá ser cobrado. O arquivo ATUALIDADES_2026.md contém o painel factual resumido. A cobertura precisa continuar sendo atualizada até a prova.
 
@@ -95,8 +95,8 @@ Fonte: [FMI — World Economic Outlook, outubro de 2026](https://www.imf.org/en/
 
 Fonte: [IBGE — uso da internet ultrapassa 90% da população de 10 anos ou mais](https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47408-proporcao-de-usuarios-da-internet-no-pais-ultrapassou-90-da-populacao-de-10-anos-ou-mais-em-2025).
 
-**Violência e saúde dos adolescentes — PeNSE 2024.** A quinta edição da Pesquisa Nacional de Saúde do Escolar foi divulgada em 25/03/2026. Entre estudantes de 13 a 17 anos, 18,5% relataram ter sofrido assédio sexual ao longo da vida; o percentual foi de 26,0% entre meninas e 10,9% entre meninos. A pesquisa também apontou que 12,7% sofreram cyberbullying nas redes sociais (15,2% das meninas e 10,3% dos meninos) e que 27,2% relataram bullying recorrente no ambiente escolar. Em relação a 2019, houve redução do uso de cigarro, álcool e drogas ilícitas. O período de referência é 2024; a divulgação ocorreu em 2026.  
-Fonte: [IBGE — 5ª edição da PeNSE, 25/03/2026](https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46171-5-edicao-da-pense-meninas-sao-as-maiores-vitimas-de-violencia-sexual).
+**Violência e saúde dos adolescentes — PeNSE 2024.** A quinta edição da Pesquisa Nacional de Saúde do Escolar foi divulgada em 25/03/2026. Entre estudantes de 13 a 17 anos, 18,5% relataram ter sofrido assédio sexual ao longo da vida; o percentual foi de 26,0% entre meninas e 10,9% entre meninos. A pesquisa também apontou que 12,7% sofreram cyberbullying nas redes sociais (15,2% das meninas e 10,3% dos meninos) e que 27,2% relataram bullying recorrente no ambiente escolar. Embora o uso de cigarro, álcool e drogas ilícitas tenha recuado em relação a 2019, a experimentação de cigarros eletrônicos subiu de 16,8% para 29,6% entre 2019 e 2024. A Anvisa mantém proibidas fabricação, importação, comercialização, distribuição, armazenamento, transporte e propaganda desses dispositivos. O período de referência é 2024; a divulgação ocorreu em 2026.  
+Fontes: [IBGE — 5ª edição da PeNSE, 25/03/2026](https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46171-5-edicao-da-pense-meninas-sao-as-maiores-vitimas-de-violencia-sexual) · [Anvisa — RDC 855/2024 mantém a proibição](https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2024/anvisa-atualiza-regulacao-de-cigarro-eletronico-e-mantem-proibicao).
 
 
 
@@ -236,6 +236,14 @@ C) o total se referia exclusivamente a crianças com menos de 14 anos.
 D) o trabalho infantil foi eliminado em 2025.  
 E) a pesquisa não incluiu adolescentes de 16 e 17 anos.
 
+
+**15.** A PeNSE 2024 apontou que a experimentação de cigarros eletrônicos:
+A) caiu de 29,6% para 16,8% entre 2019 e 2024, e a Anvisa liberou a comercialização.  
+B) subiu de 16,8% para 29,6% entre 2019 e 2024, embora a Anvisa mantenha proibidas fabricação, importação, comercialização e propaganda dos dispositivos.  
+C) não foi investigada pelo IBGE.  
+D) é permitida para menores de 18 anos quando o produto não contém nicotina.  
+E) aumentou apenas entre adultos.
+
 ### Gabarito comentado
 
 1. **A.** Para o Escrevente 02/2026, Atualidades continua com quatro questões; a LBI permanece nos arts. 1º–13 e 34–38, e a distribuição de Matemática, Raciocínio Lógico e Informática não mudou.
@@ -252,6 +260,7 @@ E) a pesquisa não incluiu adolescentes de 16 e 17 anos.
 12. **B.** Em 02/11, a conferência ainda não havia começado; não atribuir a ela resultados antecipados.
 13. **A.** A PeNSE 2024 foi divulgada em 25/03/2026; o resultado deve ser identificado como dado de pesquisa, não como ocorrência em 2026.
 14. **A.** A queda foi de 9,2%, mas 1,499 milhão ainda estavam em situação de trabalho infantil e 525 mil nas piores formas.
+15. **B.** A experimentação aumentou na PeNSE, mas a RDC Anvisa nº 855/2024 mantém a proibição da fabricação, importação, comercialização, distribuição, armazenamento, transporte e propaganda dos dispositivos.
 
 ## 5. Fontes e rotina de manutenção
 
@@ -274,5 +283,5 @@ E) a pesquisa não incluiu adolescentes de 16 e 17 anos.
 
 ## 6. Histórico de atualização
 
-- **02/11/2026 — versão 1.3:** mantida a comparação correta dos editais; refinado o cronograma operacional da Reforma Tributária; corrigido o indicador de desemprego para o último dado mensal confirmado (5,3% no trimestre encerrado em julho), sem atribuir número não confirmado ao trimestre encerrado em setembro; atualizados PeNSE, trabalho infantil e OCHA; acrescentada questão de revisão social.
+- **02/11/2026 — versão 1.4:** mantida a comparação correta dos editais; refinado o cronograma operacional da Reforma Tributária; corrigido o indicador de desemprego para o último dado mensal confirmado (5,3% no trimestre encerrado em julho), sem atribuir número não confirmado ao trimestre encerrado em setembro; ampliada a PeNSE com os dados de experimentação de cigarros eletrônicos e a regra da Anvisa; atualizados trabalho infantil e OCHA; acrescentada questão de revisão.
 - **28/10/2026 — versão 1.0:** caderno metodológico e primeiro boletim parcial de indicadores econômicos.
