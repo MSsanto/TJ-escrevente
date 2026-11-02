@@ -53,7 +53,7 @@ Fonte: [IBGE — PNAD Contínua, divulgação mensal e calendário](https://www.
 Fonte: [IBGE — uso da internet ultrapassa 90% da população de 10 anos ou mais](https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47408-proporcao-de-usuarios-da-internet-no-pais-ultrapassou-90-da-populacao-de-10-anos-ou-mais-em-2025).
 
 **Violência e saúde dos adolescentes — PeNSE 2024.** A quinta edição da Pesquisa Nacional de Saúde do Escolar foi divulgada em 25/03/2026. Entre estudantes de 13 a 17 anos, 18,5% relataram ter sofrido assédio sexual ao longo da vida; o percentual foi de 26,0% entre meninas e 10,9% entre meninos. A pesquisa também apontou que 12,7% sofreram cyberbullying nas redes sociais (15,2% das meninas e 10,3% dos meninos) e que 27,2% relataram bullying recorrente no ambiente escolar. Embora o uso de cigarro, álcool e drogas ilícitas tenha recuado em relação a 2019, a experimentação de cigarros eletrônicos subiu de 16,8% para 29,6% entre 2019 e 2024. A Anvisa mantém proibidas fabricação, importação, comercialização, distribuição, armazenamento, transporte e propaganda desses dispositivos; a norma não proíbe o uso individual, mas o uso em ambientes coletivos fechados continua vedado. O período de referência é 2024; a divulgação ocorreu em 2026.  
-Fontes: [IBGE — 5ª edição da PeNSE, 25/03/2026](https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46171-5-edicao-da-pense-meninas-sao-as-maiores-vitimas-de-violencia-sexual) · [Anvisa — RDC 855/2024 mantém a proibição](https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2024/anvisa-atualiza-regulacao-de-cigarro-eletronico-e-mantem-proibicao).
+Fontes: [IBGE — 5ª edição da PeNSE, 25/03/2026](https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46171-5-edicao-da-pense-meninas-sao-as-maiores-vitimas-de-violencia-sexual) · [Anvisa — RDC 855/2024 mantém a proibição](https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2024/anvisa-atualiza-regulacao-de-cigarro-eletronico-e-mantem-proibicao) · [Anvisa — FAQ sobre uso individual e locais coletivos](https://www.gov.br/anvisa/pt-br/acessoainformacao/perguntasfrequentes/tabaco/cigarro-eletronico-2).
 
 
 
@@ -77,7 +77,7 @@ Fonte: [Reuters — negociações em Doha, 01/11/2026](https://www.reuters.com/w
 Fonte: [ONU/OCHA — Humanitarian Situation Report, 29/10/2026, publicado em 31/10](https://www.ochaopt.org/content/humanitarian-situation-report-29-october-2026).
 
 **COP31 — agenda futura e preparação diplomática.** A 31ª Conferência das Partes da Convenção do Clima da ONU está programada para 09 a 20/11/2026, em Antália, Turquia. A Pre-COP foi realizada em Fiji, de 05 a 08/10, com um encontro de líderes em Tuvalu. A cúpula de líderes está prevista para 11 e 12/11; a Turquia sediará a conferência, e o australiano Chris Bowen presidirá as negociações. Em 02/11, a COP31 ainda não havia começado: não atribuir decisões ou resultados antecipados.  
-Fonte: [UNFCCC — COP31, datas, sede e presidências](https://unfccc.int/cop31).
+Fontes: [UNFCCC — COP31, datas, sede e presidências](https://unfccc.int/cop31) · [UNFCCC — mensagem às partes, maio de 2026, com datas da Pre-COP em Fiji e evento de líderes em Tuvalu](https://unfccc.int/sites/default/files/resource/message_to_parties%20_and_observers_q_1_2026_update.pdf).
 
 ### Cultura e esporte
 
