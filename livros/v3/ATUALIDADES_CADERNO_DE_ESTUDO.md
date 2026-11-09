@@ -313,27 +313,6 @@ C) a Lufthansa foi selecionada para adquirir 44,9%, com até 5% adicionais reser
 D) a seleção do investidor foi feita pela Comissão Europeia, sem decisão do Conselho de Ministros português.  
 E) a TAP deixará de manter marca e sede em Portugal.
 
-### Gabarito comentado
-
-1. **A.** Para o Escrevente 02/2026, Atualidades continua com quatro questões; a LBI permanece nos arts. 1º–13 e 34–38, e a distribuição de Matemática, Raciocínio Lógico e Informática não mudou.
-2. **A.** A votação do segundo turno ocorreu em 25/10/2026; o TSE informou a vitória de Lula.
-3. **C.** A norma exige transparência sobre conteúdo sintético e estabelece restrições específicas próximas ao pleito; não é proibição genérica de toda IA.
-4. **C.** 2026 é fase de teste da CBS e do IBS; a transição completa ainda não ocorreu.
-5. **B.** IPCA-15 é prévia; IPCA é o índice oficial fechado do mês.
-6. **A.** São projeções do FMI, não resultados observados.
-7. **B.** O dado refere-se à população com 10 anos ou mais e mostra diferença entre áreas urbanas e rurais.
-8. **B.** Os indicadores medem fenômenos distintos: desmatamento monitorado pelo PRODES e condições de seca pelo CEMADEN.
-9. **C.** As conversas estavam inconclusas e o Estreito de Ormuz era um dos pontos estratégicos.
-10. **A.** A edição de 2026 ampliou o torneio para 48 seleções e 104 partidas; a Espanha venceu a final.
-11. **B.** O ouro de Braathen e a prata de Ribera foram marcos inéditos para o Brasil nos respectivos Jogos de Inverno.
-12. **B.** Em 02/11, a conferência ainda não havia começado; não atribuir a ela resultados antecipados.
-13. **A.** A PeNSE 2024 foi divulgada em 25/03/2026; o resultado deve ser identificado como dado de pesquisa, não como ocorrência em 2026.
-14. **A.** A queda foi de 9,2%, mas 1,499 milhão ainda estavam em situação de trabalho infantil e 525 mil nas piores formas.
-15. **B.** A experimentação aumentou na PeNSE. A RDC Anvisa nº 855/2024 proíbe fabricação, importação, comercialização, distribuição, armazenamento, transporte e propaganda; o uso individual não é proibido, mas o uso em ambientes coletivos fechados continua vedado.
-16. **A.** O release de 30/10 trouxe 5,2% de desocupação e 13,0% de subutilização no trimestre julho-setembro. A população ocupada chegou a 103,6 milhões. A taxa foi a menor para um terceiro trimestre desde 2012, não necessariamente a menor de toda a série.
-17. **B.** O reajuste médio de 7,2% entrou em vigor em 01/11 e correspondeu a R$ 0,45 por litro; a notícia atribuiu a pressão às cotações internacionais e às tensões geopolíticas.
-18. **C.** O Governo português selecionou a Lufthansa, mas a primeira fase é minoritária: o Estado conserva 50,1% e o controle. A conclusão depende de etapas posteriores.
-
 **19.** Segundo a totalização divulgada pelo TSE em 29/10/2026, o resultado do segundo turno presidencial foi:
 A) Lula, 51,79%, e Flávio Bolsonaro, 48,21%, com 100% das urnas totalizadas às 23h26 de 25/10.  
 B) Flávio Bolsonaro, 51,79%, e Lula, 48,21%.  
@@ -410,6 +389,27 @@ B) 12/11.
 C) 18/11.  
 D) 27/11.  
 E) 02/12.
+
+### Gabarito comentado
+
+1. **A.** Para o Escrevente 02/2026, Atualidades continua com quatro questões; a LBI permanece nos arts. 1º–13 e 34–38, e a distribuição de Matemática, Raciocínio Lógico e Informática não mudou.
+2. **A.** A votação do segundo turno ocorreu em 25/10/2026; o TSE informou a vitória de Lula.
+3. **C.** A norma exige transparência sobre conteúdo sintético e estabelece restrições específicas próximas ao pleito; não é proibição genérica de toda IA.
+4. **C.** 2026 é fase de teste da CBS e do IBS; a transição completa ainda não ocorreu.
+5. **B.** IPCA-15 é prévia; IPCA é o índice oficial fechado do mês.
+6. **A.** São projeções do FMI, não resultados observados.
+7. **B.** O dado refere-se à população com 10 anos ou mais e mostra diferença entre áreas urbanas e rurais.
+8. **B.** Os indicadores medem fenômenos distintos: desmatamento monitorado pelo PRODES e condições de seca pelo CEMADEN.
+9. **C.** As conversas estavam inconclusas e o Estreito de Ormuz era um dos pontos estratégicos.
+10. **A.** A edição de 2026 ampliou o torneio para 48 seleções e 104 partidas; a Espanha venceu a final.
+11. **B.** O ouro de Braathen e a prata de Ribera foram marcos inéditos para o Brasil nos respectivos Jogos de Inverno.
+12. **B.** Em 02/11, a conferência ainda não havia começado; não atribuir a ela resultados antecipados.
+13. **A.** A PeNSE 2024 foi divulgada em 25/03/2026; o resultado deve ser identificado como dado de pesquisa, não como ocorrência em 2026.
+14. **A.** A queda foi de 9,2%, mas 1,499 milhão ainda estavam em situação de trabalho infantil e 525 mil nas piores formas.
+15. **B.** A experimentação aumentou na PeNSE. A RDC Anvisa nº 855/2024 proíbe fabricação, importação, comercialização, distribuição, armazenamento, transporte e propaganda; o uso individual não é proibido, mas o uso em ambientes coletivos fechados continua vedado.
+16. **A.** O release de 30/10 trouxe 5,2% de desocupação e 13,0% de subutilização no trimestre julho-setembro. A população ocupada chegou a 103,6 milhões. A taxa foi a menor para um terceiro trimestre desde 2012, não necessariamente a menor de toda a série.
+17. **B.** O reajuste médio de 7,2% entrou em vigor em 01/11 e correspondeu a R$ 0,45 por litro; a notícia atribuiu a pressão às cotações internacionais e às tensões geopolíticas.
+18. **C.** O Governo português selecionou a Lufthansa, mas a primeira fase é minoritária: o Estado conserva 50,1% e o controle. A conclusão depende de etapas posteriores.
 
 ### Gabarito comentado — questões 19 a 29
 
