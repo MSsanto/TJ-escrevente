@@ -1,5 +1,5 @@
 # Atualidades — caderno de estudo e atualização
-**TJSP Escrevente · versão 1.8 · 09/11/2026**
+**TJSP Escrevente · versão 1.9 · 09/11/2026**
 
 > Este caderno é uma ferramenta de acompanhamento, não uma lista definitiva de tudo o que poderá ser cobrado. O arquivo ATUALIDADES_2026.md contém o painel factual resumido. A cobertura precisa continuar sendo atualizada até a prova.
 
@@ -76,6 +76,10 @@ Fontes: [Receita Federal — cronograma atualizado em 28/10/2026](https://www.go
 - O Copom registrou expectativas de inflação acima da meta e postura cautelosa.
 
 Atenção à comparação: a Selic é taxa básica anual definida pelo Copom; IPCA é índice oficial de inflação ao consumidor; IPCA-15 é uma prévia com período de coleta próprio. A variação trimestral do PIB não é a mesma coisa que a comparação interanual.
+
+**Atualização de 04/11 — decisão do Copom.** O Comitê manteve a Selic em 13,75% ao ano, por unanimidade, interrompendo cinco cortes consecutivos iniciados em março. O comunicado destacou maior incerteza, expectativas de inflação mais elevadas e desaceleração mais acentuada da atividade econômica. As projeções de inflação do Comitê subiram para 5,6% em 2026, 4,7% em 2027 e 3,5% no horizonte do segundo trimestre de 2028. O Copom não indicou quando poderá retomar os cortes.
+
+Fontes: [Reuters — decisão unânime do Copom, 04/11/2026](https://www.reuters.com/world/americas/brazils-central-bank-ends-run-rate-cuts-after-lula-election-win-2026-11-04/) · [Folha — manutenção da Selic, 04/11/2026](https://www1.folha.uol.com.br/mercado/2026/11/banco-central-mantem-selic-em-1375-ao-ano-e-interrompe-ciclo-de-cortes-de-juros-apos-choque-eleitoral.shtml) · [Banco Central — histórico da Selic](https://www.bcb.gov.br/controleinflacao/historicotaxasjuros).
 
 Fontes: [IBGE — painel de indicadores](https://www.ibge.gov.br/estats) · [IBGE — IPCA](https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html?=&t=resultados) · [Banco Central — histórico da Selic](https://www.bcb.gov.br/controleinflacao/historicotaxasjuros) · [Ata do Copom, setembro de 2026](https://www.bcb.gov.br/publicacoes/atascopom/16092026) · [Agência Brasil/IBGE — PIB do 2º trimestre](https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/pib-do-brasil-cresce-05-no-segundo-trimestre-mostra-ibge).
 
@@ -390,6 +394,13 @@ C) 18/11.
 D) 27/11.  
 E) 02/12.
 
+**30.** Na reunião de 03 e 04/11/2026, o Copom:
+A) manteve a Selic em 13,75% ao ano, por unanimidade, interrompendo cinco cortes consecutivos iniciados em março.  
+B) reduziu a Selic para 13,50% e anunciou mais dois cortes automáticos.  
+C) elevou a Selic para 15,00%.  
+D) substituiu a meta de inflação pelo crescimento do PIB.  
+E) decidiu que a Selic seria definida pelo Congresso Nacional.
+
 ### Gabarito comentado
 
 1. **A.** Para o Escrevente 02/2026, Atualidades continua com quatro questões; a LBI permanece nos arts. 1º–13 e 34–38, e a distribuição de Matemática, Raciocínio Lógico e Informática não mudou.
@@ -411,7 +422,7 @@ E) 02/12.
 17. **B.** O reajuste médio de 7,2% entrou em vigor em 01/11 e correspondeu a R$ 0,45 por litro; a notícia atribuiu a pressão às cotações internacionais e às tensões geopolíticas.
 18. **C.** O Governo português selecionou a Lufthansa, mas a primeira fase é minoritária: o Estado conserva 50,1% e o controle. A conclusão depende de etapas posteriores.
 
-### Gabarito comentado — questões 19 a 29
+### Gabarito comentado — questões 19 a 30
 
 19. **A.** O TSE registrou 51,79% para Lula e 48,21% para Flávio Bolsonaro; a totalização de 100% terminou às 23h26 de 25/10.  
 20. **B.** A lista contém 27 minerais e utiliza classes de prioridade; terras raras, grafita e lítio estão na prioridade alta.  
@@ -424,6 +435,7 @@ E) 02/12.
 27. **B.** A COP31 abriu em Antália em 09/11 e estava em andamento; a cúpula de líderes ocorreria em 11 e 12/11.  
 28. **B.** O relatório registra impactos das chuvas e ressalta que parte dos números ainda dependia de avaliação e verificação.  
 29. **B.** O calendário do IBGE previa a divulgação do IPCA de outubro em 12/11; antes da publicação não se deve antecipar o resultado.
+30. **A.** O Copom manteve 13,75% ao ano, interrompendo o ciclo de cinco reduções consecutivas; a decisão foi unânime e não indicou data para retomada dos cortes.
 
 
 
@@ -448,7 +460,7 @@ E) 02/12.
 
 ## 6. Histórico de atualização
 
-- **09/11/2026 — versão 1.8:** atualizados os números finais do 2º turno com dados oficiais do TSE; acrescentados minerais críticos, Mapa do Caminho para desmatamento e carbono, transição energética, Lei do Enamed, Novembro Negro, Cultura Negra Vive, balanço da Lei Rouanet, intervenção cambial do Japão e relatório OCHA sobre chuvas em Gaza; COP31 atualizada para conferência aberta; incluídas datas futuras do IBGE e questões 19–29 com gabarito. Itens sem novidade confirmada não foram repetidos.
+- **09/11/2026 — versão 1.9:** incorporada a decisão do Copom de 04/11, que manteve a Selic em 13,75% e interrompeu cinco cortes consecutivos, com atualização das projeções de inflação; acrescentada a questão 30 e seu gabarito. A versão 1.8 acrescentou o resultado final do TSE, minerais críticos, Mapa do Caminho, transição energética, Enamed, Novembro Negro, Lei Rouanet, intervenção cambial do Japão, COP31 em andamento, relatório OCHA sobre chuvas em Gaza e calendário do IBGE; questões 19–29.
 - **02/11/2026 — versão 1.7:** atualizada a PNAD com o resultado divulgado em 30/10; acrescentado o reajuste do QAV de 01/11; incluída a seleção da Lufthansa para a privatização parcial da TAP; adicionadas duas questões de revisão e gabarito comentado.
 - **02/11/2026 — versão 1.6 (registro intermediário):** mantida a comparação correta dos editais; refinado o cronograma operacional da Reforma Tributária; a consulta inicial não capturou o release da PNAD publicado em 30/10, corrigido na versão 1.7; ampliada a PeNSE com os dados de experimentação de cigarros eletrônicos e a nuance da RDC Anvisa; detalhada a Pre-COP de Fiji e o encontro de líderes em Tuvalu; atualizados trabalho infantil e OCHA; acrescentadas questões de revisão.
 - **28/10/2026 — versão 1.0:** caderno metodológico e primeiro boletim parcial de indicadores econômicos.
