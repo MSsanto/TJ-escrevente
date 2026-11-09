@@ -1,5 +1,5 @@
 # Atualidades — caderno de estudo e atualização
-**TJSP Escrevente · versão 1.6 · 02/11/2026**
+**TJSP Escrevente · versão 1.8 · 09/11/2026**
 
 > Este caderno é uma ferramenta de acompanhamento, não uma lista definitiva de tudo o que poderá ser cobrado. O arquivo ATUALIDADES_2026.md contém o painel factual resumido. A cobertura precisa continuar sendo atualizada até a prova.
 
@@ -48,13 +48,13 @@ Não misture:
 - redução de desmatamento com eliminação do desmatamento;
 - uso de IA com uso de deepfake em propaganda eleitoral.
 
-## 3. Boletim factual — corte em 02/11/2026
+## 3. Boletim factual — atualização até 09/11/2026
 
 ### 3.1 Política e instituições — Brasil
 
-**Eleições gerais de 2026.** O primeiro turno ocorreu em 04/10 e o segundo em 25/10. O TSE informou a vitória de Luiz Inácio Lula da Silva no segundo turno contra Flávio Bolsonaro. A Reuters registrou que o resultado assegurou a Lula um quarto mandato não consecutivo. Atualização em relação ao boletim anterior: o calendário já não é futuro; o resultado está confirmado. Em prova, diferenciar eleição, apuração, proclamação do resultado e diplomação.
+**Eleições gerais de 2026.** O primeiro turno ocorreu em 04/10 e o segundo em 25/10. Em notícia de 29/10, o TSE informou que a totalização de 100% das urnas terminou às 23h26 de 25/10 e que o resultado matemático se tornou irreversível às 21h09. Lula foi reeleito com 64.256.232 votos (51,79%), contra 59.826.041 (48,21%) de Flávio Bolsonaro. O segundo turno teve participação de 128,2 milhões de eleitores e abstenção de 19,2%. Diferencie resultado matemático, totalização, proclamação e diplomação.
 
-Fontes: [TSE — resultados das Eleições 2026](https://www.tse.jus.br/eleicoes/eleicoes-2026-content/divulgacao-dos-resultados-das-eleicoes-2026) · [Reuters, 26/10/2026](https://www.reuters.com/world/americas/brazils-lula-reelected-president-runoff-vote-2026-10-26/).
+Fonte: [TSE — totalização e resultado do 2º turno, 29/10/2026](https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/envio-rapido-de-boletins-de-urna-garante-totalizacao-recorde-no-2o-turno).
 
 **IA e propaganda eleitoral.** A Resolução TSE nº 23.755, de 02/03/2026, atualizou regras de propaganda e desinformação. Conteúdo sintético multimídia produzido ou significativamente alterado por IA deve receber identificação explícita, destacada e acessível. Há restrições específicas para novos conteúdos sintéticos no intervalo de 72 horas antes do pleito e 24 horas depois. Deepfakes para favorecer ou prejudicar candidaturas são vedados. Não é correto resumir a norma como proibição de todo e qualquer uso de IA.
 
@@ -68,7 +68,7 @@ Fontes: [Receita Federal — cronograma atualizado em 28/10/2026](https://www.go
 
 
 
-**Inflação, juros e atividade.** No corte de 02/11:
+**Inflação, juros e atividade.** No corte de 02/11, mantido como fotografia do último conjunto de dados publicados:
 - IPCA de setembro: 0,82% no mês e 4,58% em 12 meses.
 - IPCA-15 de outubro: 0,32%; é prévia, não o IPCA fechado de outubro.
 - Meta Selic: 13,75% ao ano desde 17/09/2026.
@@ -78,6 +78,8 @@ Fontes: [Receita Federal — cronograma atualizado em 28/10/2026](https://www.go
 Atenção à comparação: a Selic é taxa básica anual definida pelo Copom; IPCA é índice oficial de inflação ao consumidor; IPCA-15 é uma prévia com período de coleta próprio. A variação trimestral do PIB não é a mesma coisa que a comparação interanual.
 
 Fontes: [IBGE — painel de indicadores](https://www.ibge.gov.br/estats) · [IBGE — IPCA](https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html?=&t=resultados) · [Banco Central — histórico da Selic](https://www.bcb.gov.br/controleinflacao/historicotaxasjuros) · [Ata do Copom, setembro de 2026](https://www.bcb.gov.br/publicacoes/atascopom/16092026) · [Agência Brasil/IBGE — PIB do 2º trimestre](https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/pib-do-brasil-cresce-05-no-segundo-trimestre-mostra-ibge).
+
+**Calendário de atualização dos indicadores.** Em 09/11, o calendário do IBGE previa IPCA e INPC de outubro para 12/11; PNAD Contínua trimestral (julho-setembro) para 18/11; PNAD mensal, referência outubro, para 27/11; e primeiros resultados da POF 2024–2025 para 27/11. Não antecipar números antes da divulgação. Fontes: [IBGE — calendário conjuntural](https://www.ibge.gov.br/calendario/conjunturais.html) · [IBGE — comunicados](https://www.ibge.gov.br/comunicados.html).
 
 **Mercado de trabalho.** Em 30/10/2026, o IBGE divulgou taxa de desocupação de 5,2% no trimestre móvel de julho a setembro, a menor para um terceiro trimestre desde o início da série em 2012. A taxa caiu ante 5,4% no trimestre abril-junho de 2026 e 5,6% no terceiro trimestre de 2025. A população ocupada atingiu 103,6 milhões (recorde da série); 5,6 milhões estavam desocupadas. A taxa composta de subutilização ficou em 13,0%, estável frente ao trimestre anterior. A PNAD Contínua mensal usa trimestres móveis, não mede um mês isolado; "menor para o terceiro trimestre" não significa menor taxa de toda a série.
 
@@ -118,13 +120,13 @@ Fonte: [Governo de Portugal — seleção da Lufthansa, 14/10/2026](https://port
 
 Fonte: [Reuters — negociações em Doha, 01/11/2026](https://www.reuters.com/world/middle-east/iranian-negotiators-doha-continue-talks-end-us-iran-war-official-says-2026-11-01/).
 
-**Gaza e Cisjordânia.** O relatório mais recente da OCHA disponível no corte foi publicado em 31/10, com período de referência de 19 a 25/10. Em Gaza, registrou ataques e disparos com vítimas civis, incêndios em abrigos, dificuldades de abastecimento e preparação para riscos de alagamento no inverno. Segundo o Ministério da Saúde de Gaza, citado pela OCHA, 33 palestinos foram mortos e 188 feridos entre 20 e 26/10. Na Cisjordânia, a OCHA registrou 397 ataques de colonos com vítimas ou danos materiais entre 1º e 26/10, o maior total mensal desde o início da documentação em 2006; cerca de 3.000 pessoas teriam sido deslocadas na operação em Hebron, mas esse número ainda estava em verificação. Atribuir números e declarações às fontes correspondentes.
+**Gaza e Cisjordânia.** No corte anterior (02/11), o relatório OCHA mais recente havia sido publicado em 31/10, com período de referência de 19 a 25/10. A atualização sobre as chuvas intensas de 06 a 08/11 está no item 3.6. Em Gaza, registrou ataques e disparos com vítimas civis, incêndios em abrigos, dificuldades de abastecimento e preparação para riscos de alagamento no inverno. Segundo o Ministério da Saúde de Gaza, citado pela OCHA, 33 palestinos foram mortos e 188 feridos entre 20 e 26/10. Na Cisjordânia, a OCHA registrou 397 ataques de colonos com vítimas ou danos materiais entre 1º e 26/10, o maior total mensal desde o início da documentação em 2006; cerca de 3.000 pessoas teriam sido deslocadas na operação em Hebron, mas esse número ainda estava em verificação. Atribuir números e declarações às fontes correspondentes.
 
 Fonte: [ONU/OCHA — Humanitarian Situation Report, 29/10/2026, publicado em 31/10](https://www.ochaopt.org/content/humanitarian-situation-report-29-october-2026).
 
-**COP31.** A 31ª Conferência das Partes da Convenção do Clima da ONU está programada para 09 a 20/11/2026, em Antália, Turquia. A Pre-COP ocorreu em Fiji, de 05 a 08/10, com um encontro de líderes em Tuvalu. A cúpula de líderes está prevista para 11 e 12/11; a Turquia sediará a conferência, e o australiano Chris Bowen presidirá as negociações. Em 02/11, ainda era evento futuro; não atribuir decisões ou resultados antes de sua publicação.
+**COP31.** A 31ª Conferência das Partes abriu em 09/11/2026, em Antália, Turquia, e está prevista até 20/11. A Turquia sedia o encontro e Chris Bowen, da Austrália, conduz a presidência das negociações. A Cúpula de Líderes está marcada para 11 e 12/11. A Pre-COP foi realizada em Fiji, de 05 a 08/10, com encontro de líderes em Tuvalu. No corte de 09/11, a conferência havia começado, mas não havia resultados finais; não confundir abertura com encerramento ou acordo aprovado.
 
-Fontes: [UNFCCC — COP31, datas, sede e presidências](https://unfccc.int/cop31) · [UNFCCC — mensagem às partes, maio de 2026, com datas da Pre-COP em Fiji e evento de líderes em Tuvalu](https://unfccc.int/sites/default/files/resource/message_to_parties%20_and_observers_q_1_2026_update.pdf).
+Fontes: [UNFCCC — COP31](https://unfccc.int/cop31) · [ONU — COP31, 09/11/2026](https://www.un.org/en/climatechange/cop31) · [Associated Press — abertura e temas em disputa, 09/11/2026](https://apnews.com/article/edd587ab19f3b57848b50f9dc724ba82).
 
 ### 3.5 Cultura e esporte
 
@@ -139,6 +141,44 @@ Fontes: [UNFCCC — COP31, datas, sede e presidências](https://unfccc.int/cop31
 **Paralimpíadas de Inverno.** Em 10/03/2026, Cristian Westemaier Ribera conquistou prata no sprint sentado do esqui cross-country, primeira medalha brasileira nos Jogos Paralímpicos de Inverno. Fonte: [Comitê Paralímpico Internacional](https://www.paralympic.org/news/cristian-westemaier-ribera-brazil-winter-medal).
 
 **Copa do Mundo FIFA 2026.** Primeira edição com 48 seleções e 104 partidas, organizada por Canadá, México e Estados Unidos. Em 19/07/2026, a Espanha venceu a Argentina por 1 a 0 na prorrogação, com gol de Ferran Torres aos 106 minutos, conquistando o segundo título mundial masculino. Fonte: [FIFA — final Espanha 1 x 0 Argentina](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/spain-argentina-final-report-highlights).
+
+### 3.6 Atualizações confirmadas entre 03 e 09/11/2026
+
+**Minerais críticos e estratégicos.** Em 05/11, o Conselho Nacional para a Industrialização de Minerais Críticos e Estratégicos aprovou a lista de 27 minerais priorizados pela Política Nacional de Minerais Críticos e Estratégicos. A classificação considera riscos geopolíticos e de abastecimento, concentração da produção e vulnerabilidade brasileira. Entre os de prioridade alta estão terras raras, grafita, lítio, níquel, cobalto, cobre, manganês, silício e urânio. O objetivo é estimular pesquisa, beneficiamento, transformação e agregação de valor no país; a inclusão na lista não dispensa licenciamento ou contrapartidas socioambientais.
+
+Fonte: [Casa Civil — lista brasileira de minerais críticos e estratégicos, 05/11/2026](https://www.gov.br/casacivil/pt-br/assuntos/noticias/2026/novembro/governo-federal-aprova-lista-brasileira-de-minerais-criticos-e-estrategicos).
+
+**Mapa do Caminho para conter o desmatamento e aperfeiçoar o mercado de carbono.** Em 06/11, o Comitê Interministerial sobre Mudança do Clima aprovou um Mapa do Caminho para interromper e reverter o desmatamento e a degradação florestal até 2030. A reunião também tratou da regulamentação do mercado doméstico de carbono, do monitoramento do Plano Clima e do inventário nacional de emissões. Foram definidos limites de 50 milhões de toneladas de CO₂ equivalente para autorização de resultados de mitigação de 2026 a 2030 e 100 milhões para 2031 a 2035. Não confundir esses parâmetros de autorização com eliminação efetiva do desmatamento.
+
+Fonte: [Casa Civil — aprovação do Mapa do Caminho, 06/11/2026](https://www.gov.br/casacivil/pt-br/assuntos/noticias/2026/novembro/governo-federal-aprova-mapa-do-caminho-brasileiro-para-interromper-e-reverter-o-desmatamento-e-a-degradacao-florestal-ate-2030).
+
+**Transição energética e redução da dependência de fósseis.** Em 06/11, o Conselho Nacional de Política Energética aprovou diretrizes para elaborar um Mapa do Caminho Nacional de redução gradual da dependência de combustíveis fósseis. Um grupo interministerial coordenado pelo Ministério de Minas e Energia terá 270 dias, contados da designação de seus integrantes, para elaborar o documento, com possibilidade de prorrogação. Também foi aprovado o Plano Nacional de Transição Energética, com ações para os quatro anos seguintes. O Balanço Energético Nacional citado pelo governo aponta que fontes renováveis representaram 49,5% da matriz energética brasileira em 2025; a matriz elétrica é outro indicador e tem participação renovável superior a 80%.
+
+Fonte: [Casa Civil — diretrizes para o Mapa do Caminho da transição energética, 06/11/2026](https://www.gov.br/casacivil/pt-br/assuntos/noticias/2026/novembro/governo-lula-estabelece-diretrizes-para-reduzir-gradualmente-dependencia-de-combustiveis-fosseis-no-brasil).
+
+**Lei do Enamed.** Em 06/11, foi sancionada a Lei nº 15.527/2026, que institui o Exame Nacional de Avaliação da Formação Médica. A avaliação será aplicada pelo MEC em três etapas, ao final do 4º, 8º e 12º semestres. Conforme a regra de transição, a comprovação de proficiência para obtenção do registro nos Conselhos Regionais de Medicina alcança estudantes que ingressaram em Medicina a partir de 19/06/2026; quem já estava matriculado antes permanece submetido às regras vigentes na data de ingresso.
+
+Fonte: [Casa Civil — sanção da Lei 15.527/2026, 06/11/2026](https://www.gov.br/casacivil/pt-br/assuntos/noticias/2026/novembro/presidente-lula-sanciona-lei-que-torna-enamed-requisito-para-exercicio-da-medicina).
+
+**Novembro Negro e Cultura Negra Vive.** O Ministério da Igualdade Racial abriu a programação nacional em 03/11, com o tema “Brasil pela Igualdade Racial: o legado para o futuro” e ações interministeriais de enfrentamento ao racismo e promoção de direitos. Em 05/11, o Ministério da Cultura lançou a campanha Cultura Negra Vive 2026, para dar visibilidade a artistas, coletivos, patrimônios, memórias e manifestações afro-brasileiras. A agenda se relaciona ao Dia Nacional da Consciência Negra, em 20/11.
+
+Fontes: [Ministério da Igualdade Racial — Novembro Negro, 03/11/2026](https://www.gov.br/igualdaderacial/pt-br/assuntos/noticias/lancamento-do-novembro-negro-2026-tem-assinatura-de-cooperacao-e-acoes-interministeriais-de-promocao-da-igualdade-racial) · [Ministério da Cultura — Cultura Negra Vive, 05/11/2026](https://www.gov.br/cultura/pt-br/assuntos/noticias/minc-lanca-edicao-2026-da-campanha-cultura-negra-vive).
+
+**Lei Rouanet: recorde de propostas em 2026.** Balanço divulgado em 04/11 pelo Ministério da Cultura informou 25.650 propostas recebidas em 2026, maior volume desde a criação da lei em 1991 e alta de 11,6% ante 2025. Entre janeiro e outubro, os projetos apoiados captaram R$ 1,67 bilhão por incentivo fiscal. Proposta apresentada, projeto aprovado e recurso efetivamente captado são etapas diferentes.
+
+Fonte: [Agência Gov/MinC — recorde de propostas da Lei Rouanet, 04/11/2026](https://agenciagov.ebc.com.br/noticias/202611/lei-rouanet-bate-recorde-de-25-6-mil-propostas-culturais-em-2026-1).
+
+**Intervenção cambial do Japão.** Em 09/11, o Ministério das Finanças japonês publicou os detalhes das operações de intervenção de julho a setembro: total de ¥ 15,3993 trilhões, com venda de dólares e compra de ienes em 30/07 (¥ 7,9756 trilhões), 31/07 (¥ 5,5523 trilhões) e 03/08 (¥ 1,8714 trilhão). O objetivo era conter a desvalorização do iene. Trata-se de operação cambial com compra e venda de ativos, não de despesa orçamentária convencional.
+
+Fonte: [Ministério das Finanças do Japão — operações cambiais, julho–setembro de 2026, 09/11/2026](https://www.mof.go.jp/english/policy/international_policy/reference/feio/quarter/2026_3Qe.html) · [Reuters — divulgação dos dados, 09/11/2026](https://www.reuters.com/world/asia-pacific/japans-july-yen-buying-intervention-sets-fresh-daily-record-2026-11-09/).
+
+**Gaza: chuvas intensas e agravamento da emergência humanitária.** Em relatório publicado em 09/11, a OCHA informou que chuvas fortes entre 06 e 08/11 provocaram inundações, danos a abrigos, instalações humanitárias e espaços de aprendizagem. Até 08/11, parceiros humanitários haviam recebido pedidos de ajuda de mais de 26 mil famílias; os números ainda eram preliminares. A OCHA registrou relatos de um bebê morto por afogamento e de cinco pessoas mortas após o desabamento de uma duna sobre tendas, segundo a Defesa Civil. O relatório apontou escassez de tendas, lonas, cobertores e equipamentos de drenagem. Atribuir os números às fontes citadas no relatório.
+
+Fonte: [ONU/OCHA — relatório sobre chuvas fortes em Gaza, 08/11, publicado em 09/11/2026](https://www.ochaopt.org/content/humanitarian-situation-report-heavy-rains-gaza-strip-8-november-2026).
+
+**Calendário de divulgação do IBGE.** Em 09/11, o calendário oficial previa IPCA e INPC de outubro em 12/11; PNAD Contínua trimestral (julho-setembro) em 18/11; PNAD mensal, referência outubro, em 27/11; e primeiros resultados da POF 2024–2025 em 27/11. São datas previstas, não resultados. Não antecipar números antes da divulgação.
+
+Fontes: [IBGE — calendário conjuntural](https://www.ibge.gov.br/calendario/conjunturais.html) · [IBGE — comunicados](https://www.ibge.gov.br/comunicados.html).
 
 ## 4. Questões de revisão — estilo objetivo
 
@@ -294,6 +334,99 @@ E) a TAP deixará de manter marca e sede em Portugal.
 17. **B.** O reajuste médio de 7,2% entrou em vigor em 01/11 e correspondeu a R$ 0,45 por litro; a notícia atribuiu a pressão às cotações internacionais e às tensões geopolíticas.
 18. **C.** O Governo português selecionou a Lufthansa, mas a primeira fase é minoritária: o Estado conserva 50,1% e o controle. A conclusão depende de etapas posteriores.
 
+**19.** Segundo a totalização divulgada pelo TSE em 29/10/2026, o resultado do segundo turno presidencial foi:
+A) Lula, 51,79%, e Flávio Bolsonaro, 48,21%, com 100% das urnas totalizadas às 23h26 de 25/10.  
+B) Flávio Bolsonaro, 51,79%, e Lula, 48,21%.  
+C) Lula venceu com 64% dos votos válidos.  
+D) a eleição foi decidida pelo Congresso Nacional.  
+E) o TSE não concluiu a totalização até novembro.
+
+**20.** Sobre a lista de minerais críticos e estratégicos aprovada em 05/11/2026:
+A) a lista inclui somente petróleo, gás natural e carvão.  
+B) foram priorizados 27 minerais, com terras raras, grafita e lítio entre os de prioridade alta.  
+C) a lista extinguiu a Agência Nacional de Mineração.  
+D) a classificação considera apenas o preço internacional, sem fatores geopolíticos.  
+E) a inclusão dispensa licenciamento e obrigações socioambientais.
+
+**21.** O Mapa do Caminho aprovado pelo Comitê Interministerial sobre Mudança do Clima em 06/11/2026 tem como objetivo:
+A) eliminar imediatamente todas as atividades agropecuárias.  
+B) interromper e reverter o desmatamento e a degradação florestal até 2030, articulando também medidas de mercado de carbono e monitoramento climático.  
+C) substituir o IBGE pelo INPE.  
+D) encerrar o mercado regulado de carbono.  
+E) declarar que o desmatamento já foi eliminado.
+
+**22.** Sobre as diretrizes de transição energética aprovadas pelo CNPE em 06/11/2026:
+A) o Brasil determinou o fechamento imediato de todas as usinas fósseis.  
+B) foi aprovado um plano de ação para os próximos quatro anos e um grupo interministerial terá 270 dias, contados da designação de seus integrantes, para elaborar o Mapa do Caminho Nacional.  
+C) a matriz energética brasileira tinha 80% de fontes renováveis em 2025.  
+D) a decisão foi tomada exclusivamente pela ANEEL.  
+E) a resolução proíbe qualquer participação da sociedade civil.
+
+**23.** A Lei nº 15.527/2026, que institui o Enamed:
+A) criou exame aplicado apenas depois da residência médica.  
+B) prevê três etapas ao final do 4º, 8º e 12º semestres e regra de transição para estudantes que ingressaram a partir de 19/06/2026.  
+C) extinguiu os Conselhos Regionais de Medicina.  
+D) aplica-se retroativamente a todos os médicos já registrados.  
+E) transfere a avaliação para os conselhos estaduais de educação.
+
+**24.** Sobre a Lei Rouanet, no balanço divulgado em 04/11/2026:
+A) foram recebidas 25.650 propostas, recorde desde 1991, e a captação entre janeiro e outubro chegou a R$ 1,67 bilhão.  
+B) foram aprovados 25.650 projetos e todos receberam integralmente o valor solicitado.  
+C) a captação caiu 50% em relação a 2025.  
+D) o mecanismo foi substituído pelo Fundo de Garantia do Tempo de Serviço.  
+E) a captação é feita exclusivamente por recursos diretos do Tesouro, sem incentivo fiscal.
+
+**25.** A programação nacional do Novembro Negro 2026 foi lançada com o tema:
+A) “Brasil pela Igualdade Racial: o legado para o futuro”, com ações interministeriais de promoção da igualdade racial.  
+B) “Brasil sem eleições”, organizada pelo TSE.  
+C) “Cultura e inflação”, organizada pelo Banco Central.  
+D) “COP31 no Brasil”, organizada pela FIFA.  
+E) “Abolição do racismo por decreto”, sem participação de outros ministérios.
+
+**26.** Segundo o Ministério das Finanças do Japão, os dados publicados em 09/11/2026 sobre intervenção cambial indicaram:
+A) compra de dólares e venda de ienes para enfraquecer a moeda japonesa.  
+B) venda de dólares e compra de ienes em três datas entre 30/07 e 03/08, totalizando ¥ 15,3993 trilhões.  
+C) uma despesa orçamentária de ¥ 15,3993 trilhões em infraestrutura.  
+D) intervenção realizada exclusivamente pelo Banco Central Europeu.  
+E) ausência de operações no terceiro trimestre de 2026.
+
+**27.** No corte de 09/11/2026, sobre a COP31:
+A) a conferência havia sido encerrada em Belém.  
+B) a abertura ocorreu em 09/11, em Antália, e a Cúpula de Líderes estava prevista para 11 e 12/11; ainda não havia texto final.  
+C) a conferência ocorreria apenas em dezembro.  
+D) a Austrália era o país anfitrião e a Turquia presidia as negociações.  
+E) os resultados finais já estavam aprovados no primeiro dia.
+
+**28.** Sobre o relatório da OCHA publicado em 09/11/2026:
+A) as chuvas entre 06 e 08/11 não afetaram abrigos ou instalações humanitárias em Gaza.  
+B) foram relatadas inundações e danos a abrigos e espaços de aprendizagem; os pedidos de ajuda de mais de 26 mil famílias ainda eram dados preliminares.  
+C) a OCHA informou que todas as famílias deslocadas já haviam retornado às suas casas.  
+D) o relatório declarou encerrada a emergência humanitária.  
+E) o documento tratou exclusivamente da Cisjordânia.
+
+**29.** Conforme o calendário oficial consultado em 09/11/2026, a divulgação do IPCA de outubro estava prevista para:
+A) 09/11.  
+B) 12/11.  
+C) 18/11.  
+D) 27/11.  
+E) 02/12.
+
+### Gabarito comentado — questões 19 a 29
+
+19. **A.** O TSE registrou 51,79% para Lula e 48,21% para Flávio Bolsonaro; a totalização de 100% terminou às 23h26 de 25/10.  
+20. **B.** A lista contém 27 minerais e utiliza classes de prioridade; terras raras, grafita e lítio estão na prioridade alta.  
+21. **B.** O Mapa do Caminho busca interromper e reverter desmatamento e degradação florestal até 2030; não significa que o resultado já tenha sido alcançado.  
+22. **B.** A resolução cria diretrizes para elaborar o Mapa do Caminho; o prazo de 270 dias começa após a designação dos integrantes do grupo. A matriz energética total não deve ser confundida com a matriz elétrica.  
+23. **B.** A lei prevê três etapas durante a graduação e estabelece regra de transição para quem ingressou a partir de 19/06/2026.  
+24. **A.** O balanço registrou propostas apresentadas e captação efetiva; são conceitos diferentes.  
+25. **A.** O tema oficial é “Brasil pela Igualdade Racial: o legado para o futuro”; a agenda envolve diferentes ministérios.  
+26. **B.** O Japão vendeu dólares e comprou ienes em três datas; intervenção cambial não é despesa orçamentária convencional.  
+27. **B.** A COP31 abriu em Antália em 09/11 e estava em andamento; a cúpula de líderes ocorreria em 11 e 12/11.  
+28. **B.** O relatório registra impactos das chuvas e ressalta que parte dos números ainda dependia de avaliação e verificação.  
+29. **B.** O calendário do IBGE previa a divulgação do IPCA de outubro em 12/11; antes da publicação não se deve antecipar o resultado.
+
+
+
 ## 5. Fontes e rotina de manutenção
 
 ### Hierarquia de fontes
@@ -315,6 +448,7 @@ E) a TAP deixará de manter marca e sede em Portugal.
 
 ## 6. Histórico de atualização
 
+- **09/11/2026 — versão 1.8:** atualizados os números finais do 2º turno com dados oficiais do TSE; acrescentados minerais críticos, Mapa do Caminho para desmatamento e carbono, transição energética, Lei do Enamed, Novembro Negro, Cultura Negra Vive, balanço da Lei Rouanet, intervenção cambial do Japão e relatório OCHA sobre chuvas em Gaza; COP31 atualizada para conferência aberta; incluídas datas futuras do IBGE e questões 19–29 com gabarito. Itens sem novidade confirmada não foram repetidos.
 - **02/11/2026 — versão 1.7:** atualizada a PNAD com o resultado divulgado em 30/10; acrescentado o reajuste do QAV de 01/11; incluída a seleção da Lufthansa para a privatização parcial da TAP; adicionadas duas questões de revisão e gabarito comentado.
 - **02/11/2026 — versão 1.6 (registro intermediário):** mantida a comparação correta dos editais; refinado o cronograma operacional da Reforma Tributária; a consulta inicial não capturou o release da PNAD publicado em 30/10, corrigido na versão 1.7; ampliada a PeNSE com os dados de experimentação de cigarros eletrônicos e a nuance da RDC Anvisa; detalhada a Pre-COP de Fiji e o encontro de líderes em Tuvalu; atualizados trabalho infantil e OCHA; acrescentadas questões de revisão.
 - **28/10/2026 — versão 1.0:** caderno metodológico e primeiro boletim parcial de indicadores econômicos.
