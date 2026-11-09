@@ -436,8 +436,8 @@ E) 02/12.
 4. Redes sociais como pista de busca, nunca como confirmação isolada.
 
 ### Fontes recorrentes
-- Brasil: [IBGE](https://www.ibge.gov.br/), [Banco Central](https://www.bcb.gov.br/), [TSE](https://www.tse.jus.br/), [Receita Federal](https://www.gov.br/receitafederal/), [INPE](https://www.gov.br/inpe/), [CEMADEN](https://www.gov.br/cemaden/).
-- Internacional: [ONU/OCHA](https://www.ochaopt.org/), [UNFCCC](https://unfccc.int/), [FMI](https://www.imf.org/), [Reuters](https://www.reuters.com/).
+- Brasil: [IBGE](https://www.ibge.gov.br/), [Banco Central](https://www.bcb.gov.br/), [TSE](https://www.tse.jus.br/), [Receita Federal](https://www.gov.br/receitafederal/), [Casa Civil](https://www.gov.br/casacivil/), [Ministério da Cultura](https://www.gov.br/cultura/), [Ministério da Igualdade Racial](https://www.gov.br/igualdaderacial/), [INPE](https://www.gov.br/inpe/), [CEMADEN](https://www.gov.br/cemaden/).
+- Internacional: [ONU/OCHA](https://www.ochaopt.org/), [UNFCCC](https://unfccc.int/), [FMI](https://www.imf.org/), [Ministério das Finanças do Japão](https://www.mof.go.jp/english/), [Reuters](https://www.reuters.com/).
 - Cultura e esporte: [FIFA](https://www.fifa.com/), [Comitê Olímpico Internacional](https://www.olympics.com/ioc), [Comitê Paralímpico Internacional](https://www.paralympic.org/), [Academy Awards](https://www.oscars.org/), [Grammy](https://www.grammy.com/), [Festival de Cannes](https://www.festival-cannes.com/).
 
 ### Rotina até a prova
