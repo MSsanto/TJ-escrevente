@@ -187,11 +187,6 @@ Fonte: [Folha — finalistas do Prêmio São Paulo de Literatura, 16/11/2026](ht
 O IPCA de outubro foi publicado em 12/11. As próximas datas consultadas no calendário do IBGE são: PNAD Contínua trimestral (julho a setembro), 18/11; PNAD Contínua mensal, referência outubro, 27/11; e IPCA de novembro, 11/12. Datas futuras são previsões de divulgação, não resultados.  
 Fontes: [IBGE — calendário da PNAD Contínua](https://www.ibge.gov.br/estatisticas/sociais/trabalho/9173-pnad-continua.html) · [IBGE — calendário do IPCA](https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html).
 
-### Agenda de divulgação — indicadores brasileiros
-
-**Situação das divulgações.** O IPCA de outubro foi publicado em 12/11 (0,14% no mês; 4,10% no ano; 4,63% em 12 meses). Permanecem previstas a PNAD Contínua trimestral (julho a setembro) em 18/11, a PNAD mensal de outubro em 27/11 e o IPCA de novembro em 11/12. São datas de calendário, não resultados antecipados.  
-Fontes: [IBGE — calendário de indicadores conjunturais de 2026](https://www.ibge.gov.br/calendario/conjunturais.html) · [IBGE — comunicados e calendário de divulgações](https://www.ibge.gov.br/comunicados.html).
-
 ## 3. O que mudou desde a fotografia anterior
 
 - **Eleições:** o registro anterior trazia as datas e tratava o segundo turno como futuro; agora o resultado de 25/10 está confirmado.
