@@ -1,5 +1,5 @@
 # Atualidades — caderno de estudo e atualização
-**TJSP Escrevente · versão 1.9 · 09/11/2026**
+**TJSP Escrevente · versão 2.0 · 16/11/2026**
 
 > Este caderno é uma ferramenta de acompanhamento, não uma lista definitiva de tudo o que poderá ser cobrado. O arquivo ATUALIDADES_2026.md contém o painel factual resumido. A cobertura precisa continuar sendo atualizada até a prova.
 
@@ -48,7 +48,7 @@ Não misture:
 - redução de desmatamento com eliminação do desmatamento;
 - uso de IA com uso de deepfake em propaganda eleitoral.
 
-## 3. Boletim factual — atualização até 09/11/2026
+## 3. Boletim factual — atualização até 16/11/2026
 
 ### 3.1 Política e instituições — Brasil
 
@@ -183,6 +183,52 @@ Fonte: [ONU/OCHA — relatório sobre chuvas fortes em Gaza, 08/11, publicado em
 **Calendário de divulgação do IBGE.** Em 09/11, o calendário oficial previa IPCA e INPC de outubro em 12/11; PNAD Contínua trimestral (julho-setembro) em 18/11; PNAD mensal, referência outubro, em 27/11; e primeiros resultados da POF 2024–2025 em 27/11. São datas previstas, não resultados. Não antecipar números antes da divulgação.
 
 Fontes: [IBGE — calendário conjuntural](https://www.ibge.gov.br/calendario/conjunturais.html) · [IBGE — comunicados](https://www.ibge.gov.br/comunicados.html).
+
+### 3.7 Atualizações confirmadas entre 10 e 16/11/2026
+
+**Emendas Constitucionais nº 140 e 141/2026 — 16/10.** O Congresso promulgou duas emendas. A EC 141 substitui a escala 6x1 por dois dias de repouso semanal remunerado, sem redução salarial. A transição prevê jornada máxima de 42 horas após 60 dias da publicação e de 40 horas após 14 meses. Um dia de repouso deve ocorrer preferencialmente aos domingos. A EC 140 estabelece regras especiais de aposentadoria para agentes comunitários de saúde e agentes de combate às endemias. Para prova, memorize os números das emendas, a data de promulgação e as duas etapas da redução da jornada; não confunda promulgação com início de cada etapa de vigência.
+
+Fonte: [Senado Federal — promulgação das ECs 140 e 141, 16/10/2026](https://www12.senado.leg.br/noticias/materias/2026/10/16/congresso-promulga-o-fim-da-escala-6x1-e-aposentadoria-de-agentes-de-saude).
+
+**IPCA de outubro — divulgação em 12/11.** O IPCA variou 0,14% em outubro, contra 0,82% em setembro. Acumulou 4,10% no ano e 4,63% em 12 meses (antes, 4,58%). Alimentação e bebidas registrou 1,04%, maior variação e maior impacto entre os grupos; Transportes caiu 0,59% e Habitação, 0,51%. A queda da taxa mensal não significou queda do nível geral de preços: houve aumento de preços, porém em ritmo menor. O acumulado em 12 meses subiu. Não confundir IPCA com IPCA-15.
+
+Fonte: [IBGE — IPCA e INPC de outubro de 2026, 12/11/2026](https://ftp.ibge.gov.br/Precos_Indices_de_Precos_ao_Consumidor/INPC/Fasciculo_Indicadores_IBGE/ipca-inpc_202610caderno.pdf).
+
+**Novo Caged — emprego formal em setembro.** O MTE divulgou em 04/11 a criação de 121.305 postos formais em setembro. De janeiro a setembro, o saldo chegou a 1.248.914 (+2,65%), com estoque de 48.359.577 vínculos. Serviços liderou o saldo de setembro (+81.241). Caged é registro administrativo de vínculos formais; PNAD Contínua é pesquisa domiciliar, abrange também informalidade e permite medir desocupação. Não some os dois indicadores nem os trate como a mesma população.
+
+Fonte: [MTE — Novo Caged de setembro, 04/11/2026](https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/novembro/pais-gerou-1-248-mil-empregos-formais-ate-setembro-de-2026).
+
+**Resgate de 21 trabalhadores em condições análogas à escravidão.** Em operação iniciada em 10/11 e divulgada em 11/11, o MTE resgatou 21 brasileiros e paraguaios em fábricas clandestinas de cigarros no interior de São Paulo. A fiscalização relatou jornadas de aproximadamente 12 horas diárias durante sete dias por semana, ausência de salários, ameaças, retenção de celulares e restrição de liberdade. Os elementos foram associados ao art. 149 do Código Penal: trabalho forçado, jornada exaustiva e condições degradantes. Trabalho análogo à escravidão não exige necessariamente correntes ou cárcere físico.
+
+Fonte: [MTE — resgate de 21 trabalhadores, 11/11/2026](https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/novembro/mte-resgata-21-trabalhadores-em-fabricas-clandestinas-de-cigarros-no-interior-de-sao-paulo).
+
+**Seguro-Defeso — balanço de 11/11.** O MTE informou economia estimada de R$ 2,2 bilhões com novas verificações de elegibilidade e repasses superiores a R$ 6,1 bilhões a pescadores artesanais até 01/11/2026. Entre os mecanismos citados estão cruzamento de bases governamentais, regularidade do CPF e do Registro Geral da Atividade Pesqueira (RGP), e comprovação da atividade pesqueira. Os valores de economia são estimativas divulgadas pelo Ministério.
+
+Fonte: [MTE — novas regras do Seguro-Defeso, 11/11/2026](https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/novembro/novas-regras-do-seguro-defeso-economizam-r-2-2-bilhoes-aos-cofres-publicos).
+
+**COP31 — financiamento climático e agenda brasileira.** A COP31 segue em Antália, Turquia, de 09 a 20/11; no corte de 16/11, ainda não havia decisões finais. Em 12/11, o AIIB anunciou pacote de US$ 1,6 bilhão para apoiar reformas climáticas na Turquia, com foco em financiamento sustentável, mercado de carbono, renováveis e resiliência. Em 13/11, o Ministério da Fazenda brasileiro informou captação de US$ 5,5 bilhões em títulos soberanos sustentáveis, cerca de R$ 191 bilhões mobilizados pelo Eco Invest Brasil e previsão de R$ 27,5 bilhões em recursos reembolsáveis do Fundo Clima em 2026. Os dados brasileiros são balanço oficial do governo, não decisão da conferência.
+
+Fontes: [UNFCCC — COP31](https://unfccc.int/cop31) · [Reuters — AIIB e Turquia, 12/11/2026](https://www.reuters.com/sustainability/cop/cop31-host-turkey-aiib-strike-record-16-billion-climate-policy-deal-2026-11-12/) · [Ministério da Fazenda — Transformação Ecológica na COP31, atualizado em 13/11/2026](https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/ministerio-da-fazenda-apresenta-avancos-da-transformacao-ecologica-durante-cop31-na-turquia/).
+
+**ASEAN–China — negociações sobre o Mar do Sul da China.** Em 15/11, os países da ASEAN e a China não concluíram o Código de Conduta, apesar de acordo provisório sobre cerca de 80% do texto. Permaneceram pendentes questões sobre alcance geográfico e força juridicamente vinculante. Singapura deverá prosseguir com as negociações ao assumir a presidência da ASEAN em 2027.
+
+Fonte: [Reuters — negociações ASEAN–China, 15/11/2026](https://www.reuters.com/world/china/asean-china-fail-conclude-south-china-sea-code-conduct-2026-11-15/).
+
+**IA e estabilidade financeira — Estados Unidos.** O relatório de estabilidade financeira do Federal Reserve, publicado em novembro, mostrou que 87% dos 23 contatos profissionais consultados pela equipe do Federal Reserve Bank of New York citaram a IA como risco relevante para o sistema financeiro, ante 50% na pesquisa da primavera. Entre as preocupações: avaliações excessivas de ativos, financiamento complexo de data centers e ataques cibernéticos. Em 16/11, o diretor Michael Barr também discutiu riscos de algoritmos de negociação, manipulação de mercado e agentes de IA que movimentam contas bancárias. Trata-se de percepção de profissionais consultados, não de opinião da população nem de mudança na taxa de juros.
+
+Fontes: [Federal Reserve — Financial Stability Report, novembro de 2026](https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf) · [Federal Reserve — discurso de Michael Barr, 16/11/2026](https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm).
+
+**16ª Mostra de Cinema e Direitos Humanos.** O MDHC anunciou a mostra de 17/11 a 06/12, em 15 capitais, com programação gratuita e acessível. O tema é “O tempo que nos habita: narrativas do envelhecer, da ancestralidade e a construção do futuro”, com foco no protagonismo das pessoas idosas e no uso do audiovisual para educação em direitos humanos.
+
+Fonte: [MDHC — 16ª Mostra de Cinema e Direitos Humanos, 13/11/2026](https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/16a-mostra-de-cinema-e-direitos-humanos-reflete-sobre-o-protagonismo-das-pessoas-idosas/).
+
+**19º Prêmio São Paulo de Literatura.** Em 16/11, foram anunciados 20 finalistas nas categorias Melhor Romance e Melhor Romance de Estreia, referentes a livros publicados em 2025. Cada vencedor receberá R$ 200 mil; a cerimônia está prevista para 15/12, na Biblioteca Parque Villa-Lobos. A lista tem 13 mulheres entre os 20 finalistas. O resultado final ainda não é conhecido.
+
+Fonte: [Folha — finalistas do Prêmio São Paulo de Literatura, 16/11/2026](https://www1.folha.uol.com.br/ilustrada/2026/11/premio-sao-paulo-de-literatura-tem-maioria-de-mulheres-entre-finalistas.shtml).
+
+**Agenda do IBGE após a divulgação do IPCA de outubro.** O IPCA de outubro saiu em 12/11. Permanecem previstas a PNAD Contínua trimestral (julho-setembro) em 18/11, a PNAD mensal de outubro em 27/11 e o IPCA de novembro em 11/12. Não antecipar resultados.
+
+Fontes: [IBGE — calendário da PNAD Contínua](https://www.ibge.gov.br/estatisticas/sociais/trabalho/9173-pnad-continua.html) · [IBGE — calendário do IPCA](https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html).
 
 ## 4. Questões de revisão — estilo objetivo
 
@@ -401,6 +447,76 @@ C) elevou a Selic para 15,00%.
 D) substituiu a meta de inflação pelo crescimento do PIB.  
 E) decidiu que a Selic seria definida pelo Congresso Nacional.
 
+**31.** A Emenda Constitucional nº 141/2026, promulgada em 16/10/2026, estabeleceu:
+A) jornada máxima de 36 horas semanais, com três dias de repouso imediato.  
+B) dois dias de repouso semanal remunerado, sem redução salarial, com limite de 42 horas após 60 dias e de 40 horas após 14 meses da publicação.  
+C) jornada de 40 horas semanais imediatamente em 16/10, sem transição.  
+D) dois dias de repouso, mas com redução proporcional do salário.  
+E) aplicação exclusiva aos servidores públicos.
+
+**32.** Segundo o IBGE, o IPCA de outubro de 2026:
+A) foi de 0,14% no mês, acumulou 4,10% no ano e 4,63% em 12 meses.  
+B) foi de 0,82% no mês e 0,14% em 12 meses.  
+C) registrou deflação de 0,14% e acumulado anual negativo.  
+D) foi de 1,04% no mês, puxado por Transportes.  
+E) correspondeu ao IPCA-15, uma prévia ainda não encerrada.
+
+**33.** Sobre o Novo Caged divulgado em 04/11/2026, é correto afirmar que:
+A) registrou 121.305 demissões líquidas em setembro.  
+B) mediu a taxa de desocupação de 5,2% por pesquisa domiciliar.  
+C) registrou saldo de 121.305 empregos formais em setembro e 1.248.914 no acumulado de janeiro a setembro.  
+D) contabilizou apenas trabalhadores informais.  
+E) registrou saldo negativo em todos os setores.
+
+**34.** No resgate divulgado pelo MTE em 11/11/2026, 21 trabalhadores foram encontrados em fábricas clandestinas de cigarros:
+A) em situação regular, com jornada de seis horas e salário pago.  
+B) em operação exclusivamente ambiental, sem fiscalização trabalhista.  
+C) apenas com irregularidades documentais, sem restrição de liberdade.  
+D) em condições descritas como análogas à escravidão, com jornada exaustiva, ausência de pagamento, ameaças e restrição de liberdade.  
+E) em trabalho voluntário autorizado pelo Ministério Público.
+
+**35.** Sobre o balanço do Seguro-Defeso divulgado pelo MTE em 11/11/2026:
+A) o Ministério informou economia estimada de R$ 2,2 bilhões e repasses superiores a R$ 6,1 bilhões até 01/11/2026.  
+B) o benefício foi extinto para todos os pescadores artesanais.  
+C) a economia divulgada foi de R$ 22 bilhões, com pagamentos suspensos desde 2025.  
+D) a verificação passou a dispensar CPF e registro profissional da pesca.  
+E) o benefício é destinado exclusivamente a trabalhadores da indústria naval.
+
+**36.** Sobre as negociações entre ASEAN e China em novembro de 2026:
+A) o Código de Conduta do Mar do Sul da China foi concluído e entrou imediatamente em vigor.  
+B) não houve consenso sobre nenhum trecho do texto.  
+C) cerca de 80% do texto tinha acordo provisório, mas o código não foi concluído e persistiam divergências sobre seu caráter vinculante e alcance geográfico.  
+D) a negociação foi transferida para a União Europeia.  
+E) o tema dizia respeito exclusivamente a tarifas agrícolas.
+
+**37.** O relatório de estabilidade financeira do Federal Reserve de novembro de 2026 registrou que:
+A) 87% da população dos Estados Unidos usa IA para negociar ações.  
+B) 87% dos contatos profissionais consultados citaram IA como risco relevante à estabilidade financeira; o dado é percepção de uma amostra de mercado, não pesquisa de opinião pública.  
+C) o Fed proibiu o uso de inteligência artificial pelos bancos.  
+D) a pesquisa concluiu que a IA não apresenta risco cibernético.  
+E) o relatório anunciou mudança imediata da taxa básica de juros.
+
+**38.** Durante a COP31, em 12/11/2026, o AIIB anunciou:
+A) doação de US$ 1,6 bilhão para encerrar todas as emissões mundiais.  
+B) empréstimo de US$ 16 bilhões ao Brasil para financiar a Copa do Mundo.  
+C) pacote de US$ 1,6 bilhão para apoiar reformas climáticas na Turquia, incluindo financiamento sustentável, mercado de carbono e resiliência.  
+D) cancelamento do Acordo de Paris.  
+E) financiamento destinado exclusivamente à exploração de carvão.
+
+**39.** A 16ª Mostra de Cinema e Direitos Humanos de 2026:
+A) ocorre de 17/11 a 06/12 em 15 capitais, com tema ligado ao envelhecimento e ao protagonismo das pessoas idosas.  
+B) é uma competição internacional restrita a filmes estrangeiros.  
+C) foi realizada em apenas uma cidade durante o mês de janeiro.  
+D) é organizada pela FIFA e trata de esporte.  
+E) não possui programação gratuita ou acessível.
+
+**40.** Sobre o 19º Prêmio São Paulo de Literatura, em 16/11/2026:
+A) os vencedores já haviam sido anunciados em novembro.  
+B) foram selecionadas 200 obras em uma única categoria.  
+C) a premiação foi encerrada e não haverá cerimônia em dezembro.  
+D) os finalistas concorrem apenas a um prêmio honorário, sem valor em dinheiro.  
+E) foram anunciados 20 finalistas em duas categorias; cada vencedor receberá R$ 200 mil, com cerimônia prevista para 15/12.
+
 ### Gabarito comentado
 
 1. **A.** Para o Escrevente 02/2026, Atualidades continua com quatro questões; a LBI permanece nos arts. 1º–13 e 34–38, e a distribuição de Matemática, Raciocínio Lógico e Informática não mudou.
@@ -439,6 +555,20 @@ E) decidiu que a Selic seria definida pelo Congresso Nacional.
 
 
 
+### Gabarito comentado — questões 31 a 40
+
+31. **B.** A EC 141 prevê dois dias de repouso semanal remunerado e redução gradual da jornada máxima, sem redução salarial: 42 horas após 60 dias e 40 horas após 14 meses da publicação.  
+32. **A.** O IPCA de outubro foi 0,14%; o acumulado foi 4,10% no ano e 4,63% em 12 meses. A maior variação entre os grupos foi Alimentação e bebidas (1,04%).  
+33. **C.** O Novo Caged mede movimentações de vínculos formais. O saldo foi de 121.305 em setembro e 1.248.914 no acumulado de janeiro a setembro. Não confundir com a PNAD, pesquisa domiciliar.  
+34. **D.** O MTE relatou condições enquadráveis no art. 149 do Código Penal, como trabalho forçado, jornada exaustiva e condições degradantes.  
+35. **A.** Os R$ 2,2 bilhões são economia estimada informada pelo MTE; os repasses superiores a R$ 6,1 bilhões referem-se ao período até 01/11/2026.  
+36. **C.** Acordo provisório sobre cerca de 80% do texto não equivale à conclusão do código. Permaneceram divergências jurídicas e geográficas.  
+37. **B.** O percentual refere-se a 87% dos 23 contatos de mercado consultados pela equipe do Federal Reserve Bank of New York, não à população dos Estados Unidos.  
+38. **C.** O AIIB anunciou pacote de US$ 1,6 bilhão para apoiar reformas climáticas na Turquia. O pacote não representa uma decisão final da COP31.  
+39. **A.** A mostra foi anunciada para 17/11 a 06/12, em 15 capitais, com foco no envelhecimento, ancestralidade e direitos humanos.  
+40. **E.** A lista de 20 finalistas foi anunciada em 16/11; os vencedores seriam conhecidos em 15/12. Cada categoria prevê prêmio de R$ 200 mil.
+
+
 ## 5. Fontes e rotina de manutenção
 
 ### Hierarquia de fontes
@@ -448,8 +578,8 @@ E) decidiu que a Selic seria definida pelo Congresso Nacional.
 4. Redes sociais como pista de busca, nunca como confirmação isolada.
 
 ### Fontes recorrentes
-- Brasil: [IBGE](https://www.ibge.gov.br/), [Banco Central](https://www.bcb.gov.br/), [TSE](https://www.tse.jus.br/), [Receita Federal](https://www.gov.br/receitafederal/), [Casa Civil](https://www.gov.br/casacivil/), [Ministério da Cultura](https://www.gov.br/cultura/), [Ministério da Igualdade Racial](https://www.gov.br/igualdaderacial/), [INPE](https://www.gov.br/inpe/), [CEMADEN](https://www.gov.br/cemaden/).
-- Internacional: [ONU/OCHA](https://www.ochaopt.org/), [UNFCCC](https://unfccc.int/), [FMI](https://www.imf.org/), [Ministério das Finanças do Japão](https://www.mof.go.jp/english/), [Reuters](https://www.reuters.com/).
+- Brasil: [IBGE](https://www.ibge.gov.br/), [Banco Central](https://www.bcb.gov.br/), [TSE](https://www.tse.jus.br/), [Senado Federal](https://www12.senado.leg.br/), [Receita Federal](https://www.gov.br/receitafederal/), [MTE](https://www.gov.br/trabalho-e-emprego/), [Casa Civil](https://www.gov.br/casacivil/), [Ministério da Cultura](https://www.gov.br/cultura/), [Ministério dos Direitos Humanos](https://www.gov.br/mdh/), [Ministério da Igualdade Racial](https://www.gov.br/igualdaderacial/), [INPE](https://www.gov.br/inpe/), [CEMADEN](https://www.gov.br/cemaden/).
+- Internacional: [ONU/OCHA](https://www.ochaopt.org/), [UNFCCC](https://unfccc.int/), [FMI](https://www.imf.org/), [Federal Reserve](https://www.federalreserve.gov/), [ASEAN](https://asean.org/), [Ministério das Finanças do Japão](https://www.mof.go.jp/english/), [Reuters](https://www.reuters.com/).
 - Cultura e esporte: [FIFA](https://www.fifa.com/), [Comitê Olímpico Internacional](https://www.olympics.com/ioc), [Comitê Paralímpico Internacional](https://www.paralympic.org/), [Academy Awards](https://www.oscars.org/), [Grammy](https://www.grammy.com/), [Festival de Cannes](https://www.festival-cannes.com/).
 
 ### Rotina até a prova
@@ -459,6 +589,8 @@ E) decidiu que a Selic seria definida pelo Congresso Nacional.
 - **Véspera:** conferir fontes e status; não decorar rumor de última hora.
 
 ## 6. Histórico de atualização
+
+- **16/11/2026 — versão 2.0:** atualização do IPCA de outubro após divulgação em 12/11; inclusão das ECs 140 e 141/2026, Novo Caged, resgate de trabalhadores em condições análogas à escravidão, balanço do Seguro-Defeso, novos desdobramentos da COP31, negociações ASEAN–China, riscos financeiros associados à IA, Mostra de Cinema e Direitos Humanos e finalistas do Prêmio São Paulo de Literatura. Acrescentadas questões 31–40 e gabarito comentado. A COP31 permanece em andamento, sem antecipação de resultados finais.
 
 - **09/11/2026 — versão 1.9:** incorporada a decisão do Copom de 04/11, que manteve a Selic em 13,75% e interrompeu cinco cortes consecutivos, com atualização das projeções de inflação; acrescentada a questão 30 e seu gabarito. A versão 1.8 acrescentou o resultado final do TSE, minerais críticos, Mapa do Caminho, transição energética, Enamed, Novembro Negro, Lei Rouanet, intervenção cambial do Japão, COP31 em andamento, relatório OCHA sobre chuvas em Gaza e calendário do IBGE; questões 19–29.
 - **02/11/2026 — versão 1.7:** atualizada a PNAD com o resultado divulgado em 30/10; acrescentado o reajuste do QAV de 01/11; incluída a seleção da Lufthansa para a privatização parcial da TAP; adicionadas duas questões de revisão e gabarito comentado.
