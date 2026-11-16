@@ -1,6 +1,6 @@
 # Atualidades — painel de fatos verificáveis
 
-**Corte editorial:** 09/11/2026  
+**Corte editorial:** 16/11/2026  
 **Concurso:** TJSP — Escrevente Técnico Judiciário — Edital nº 02/2026  
 **Critério:** fatos políticos, econômicos, sociais e culturais, nacionais e internacionais, ocorridos a partir do primeiro semestre de 2026 e divulgados na mídia local e/ou nacional.
 
@@ -108,7 +108,7 @@ Fonte: [Comitê Paralímpico Internacional — primeira medalha brasileira](http
 **Copa do Mundo FIFA 2026.** A edição foi a primeira com 48 seleções e 104 partidas, organizada por Canadá, México e Estados Unidos. Na final de 19/07/2026, a Espanha venceu a Argentina por 1 a 0 na prorrogação, com gol de Ferran Torres aos 106 minutos, e conquistou seu segundo título mundial masculino. O painel anterior registrava apenas sede, datas e formato; o resultado final é a atualização.  
 Fonte: [FIFA — final Espanha 1 x 0 Argentina](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/spain-argentina-final-report-highlights).
 
-## 2.1 Atualizações confirmadas até 09/11/2026
+## 2.1 Atualizações confirmadas até 16/11/2026
 
 ### Política e instituições — Brasil
 
@@ -150,9 +150,46 @@ Fontes: [UNFCCC — COP31](https://unfccc.int/cop31) · [ONU — COP31, 09/11/20
 **Gaza: chuvas intensas e agravamento da emergência humanitária.** Em relatório publicado em 09/11, a OCHA informou que chuvas fortes entre 06 e 08/11 provocaram inundações, danos a abrigos, instalações humanitárias e espaços de aprendizagem. Até 08/11, parceiros humanitários haviam recebido pedidos de ajuda de mais de 26 mil famílias; os números ainda eram preliminares. A OCHA registrou relatos de um bebê morto por afogamento e de cinco pessoas mortas após o desabamento de uma duna sobre tendas, segundo a Defesa Civil. O relatório também apontou escassez de tendas, lonas, cobertores e equipamentos de drenagem. Atribuir os números à OCHA e às fontes locais citadas; não apresentá-los como contagem independente do próprio boletim.  
 Fonte: [ONU/OCHA — Humanitarian Situation Report: Heavy Rains in the Gaza Strip, 08/11, publicado em 09/11/2026](https://www.ochaopt.org/content/humanitarian-situation-report-heavy-rains-gaza-strip-8-november-2026).
 
+### Atualizações confirmadas de 10 a 16/11/2026
+
+**Emendas Constitucionais nº 140 e 141/2026 — jornada de trabalho e agentes de saúde.** Em 16/10, o Congresso promulgou duas emendas. A EC 141 substitui a escala 6x1 por dois dias de repouso semanal remunerado, sem redução salarial: após 60 dias da publicação, a jornada máxima passa de 44 para 42 horas; 14 meses após a publicação, cai para 40 horas semanais. Um dos dias de repouso deve ocorrer preferencialmente aos domingos. A EC 140 estabeleceu regras especiais de aposentadoria para agentes comunitários de saúde e agentes de combate às endemias. Não confundir a promulgação com a data de início de cada etapa de vigência.  
+Fontes: [Senado Federal — promulgação das ECs 140 e 141, 16/10/2026](https://www12.senado.leg.br/noticias/materias/2026/10/16/congresso-promulga-o-fim-da-escala-6x1-e-aposentadoria-de-agentes-de-saude) · [Câmara — tramitação da PEC 221/2019 e transformação na EC 141](https://www.camara.leg.br/proposicoesWeb/prop_imp?idProposicao=2233802).
+
+**IPCA de outubro — divulgado em 12/11.** O índice subiu 0,14% no mês, ante 0,82% em setembro. Acumulou 4,10% em 2026 e 4,63% em 12 meses (contra 4,58% nos 12 meses imediatamente anteriores). Alimentação e bebidas teve a maior variação entre os grupos (1,04%) e o maior impacto (0,22 ponto percentual); Transportes caiu 0,59% e Habitação, 0,51%. O resultado mensal desacelerou, mas o acumulado em 12 meses aumentou. Não confundir IPCA fechado com IPCA-15, que é prévia.  
+Fonte: [IBGE — IPCA e INPC de outubro de 2026, publicado em 12/11/2026](https://ftp.ibge.gov.br/Precos_Indices_de_Precos_ao_Consumidor/INPC/Fasciculo_Indicadores_IBGE/ipca-inpc_202610caderno.pdf).
+
+**Emprego formal — Novo Caged de setembro, divulgado em 04/11.** Foram criados 121.305 postos formais no mês; o saldo de janeiro a setembro chegou a 1.248.914 vínculos (+2,65%), com estoque de 48.359.577 vínculos formais. Serviços liderou o saldo mensal (+81.241). É dado administrativo sobre empregos formais; não substitui a PNAD Contínua, que é pesquisa domiciliar e também capta ocupações informais e desocupação.  
+Fonte: [MTE — Novo Caged de setembro, 04/11/2026](https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/novembro/pais-gerou-1-248-mil-empregos-formais-ate-setembro-de-2026).
+
+**Trabalho análogo à escravidão — resgate de 21 pessoas no interior paulista.** Em operação iniciada em 10/11 e divulgada em 11/11, a Auditoria-Fiscal do Trabalho resgatou 21 brasileiros e paraguaios de fábricas clandestinas de cigarros em Araraquara, Bebedouro e Américo Brasiliense. O MTE relatou ausência de pagamento, jornadas de aproximadamente 12 horas por dia durante sete dias da semana, retenção de celulares, ameaças e impedimento de saída. A fiscalização apontou elementos enquadráveis no art. 149 do Código Penal, incluindo trabalho forçado, jornada exaustiva e condições degradantes.  
+Fonte: [MTE — resgate de 21 trabalhadores, 11/11/2026](https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/novembro/mte-resgata-21-trabalhadores-em-fabricas-clandestinas-de-cigarros-no-interior-de-sao-paulo).
+
+**Seguro-Defeso — balanço de controle e pagamentos.** Em 11/11, o MTE informou economia estimada de R$ 2,2 bilhões com novas verificações para concessão do benefício e repasses superiores a R$ 6,1 bilhões a pescadores artesanais até 01/11/2026. Entre os mecanismos citados estão cruzamentos de bases públicas, regularidade do CPF e do Registro Geral da Atividade Pesqueira (RGP), além de comprovação do exercício da atividade. Os R$ 2,2 bilhões são estimativa divulgada pelo próprio Ministério, não auditoria independente.  
+Fonte: [MTE — novas regras do Seguro-Defeso, 11/11/2026](https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/novembro/novas-regras-do-seguro-defeso-economizam-r-2-2-bilhoes-aos-cofres-publicos).
+
+**COP31 — financiamento climático e agenda brasileira.** A conferência permanece em andamento em Antália, Turquia, de 09 a 20/11; portanto, não há resultado final a registrar neste corte. Em 12/11, o Banco Asiático de Investimento em Infraestrutura (AIIB) anunciou pacote de financiamento de US$ 1,6 bilhão para apoiar reformas climáticas na Turquia, incluindo mercado de carbono, energias renováveis e resiliência. Em 13/11, o Ministério da Fazenda brasileiro informou que o país havia captado US$ 5,5 bilhões em títulos soberanos sustentáveis, mobilizado cerca de R$ 191 bilhões pelo Eco Invest Brasil e previa R$ 27,5 bilhões em recursos reembolsáveis do Fundo Clima em 2026. Os valores brasileiros são balanço oficial do governo; não equivalem a decisões finais da COP31.  
+Fontes: [UNFCCC — COP31, 09–20/11/2026](https://unfccc.int/cop31) · [Reuters — pacote AIIB–Turquia de US$ 1,6 bilhão, 12/11/2026](https://www.reuters.com/sustainability/cop/cop31-host-turkey-aiib-strike-record-16-billion-climate-policy-deal-2026-11-12/) · [Ministério da Fazenda — Transformação Ecológica na COP31, atualizado em 13/11/2026](https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/ministerio-da-fazenda-apresenta-avancos-da-transformacao-ecologica-durante-cop31-na-turquia/).
+
+**ASEAN e China — Código de Conduta do Mar do Sul da China não concluído.** Em 15/11, a presidência filipina da ASEAN informou que as negociações com a China não haviam sido concluídas, embora houvesse acordo provisório sobre cerca de 80% do texto. Permaneciam divergências sobre o alcance geográfico e sobre o caráter juridicamente vinculante do código. Singapura deverá continuar os esforços quando assumir a presidência da ASEAN em 2027. O tema envolve soberania, direito do mar, segurança regional e uma rota central do comércio internacional.  
+Fonte: [Reuters — ASEAN e China não concluem o Código de Conduta, 15/11/2026](https://www.reuters.com/world/china/asean-china-fail-conclude-south-china-sea-code-conduct-2026-11-15/).
+
+**Inteligência artificial e estabilidade financeira nos Estados Unidos.** O *Financial Stability Report* do Federal Reserve, publicado em novembro, registrou que 87% dos 23 contatos de mercado consultados pela equipe do Federal Reserve Bank of New York citaram a IA como risco relevante à estabilidade financeira — ante 50% na pesquisa da primavera. As preocupações incluíram avaliações elevadas de empresas, financiamento complexo de data centers e riscos cibernéticos. Em discurso de 16/11, o diretor Michael Barr também mencionou riscos de comportamento de manada em operações automatizadas, manipulação de mercado e agentes de IA agindo em contas bancárias. O percentual representa a opinião de contatos profissionais consultados, não a opinião de 87% da população nem uma decisão de política monetária.  
+Fontes: [Federal Reserve — Financial Stability Report, novembro de 2026](https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf) · [Federal Reserve — discurso de Michael Barr, 16/11/2026](https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm) · [Reuters — riscos da IA ao sistema financeiro, 16/11/2026](https://www.reuters.com/world/feds-barr-warns-ai-risks-financial-system-2026-11-16/).
+
+**Cultura e direitos humanos — 16ª Mostra de Cinema e Direitos Humanos.** O Ministério dos Direitos Humanos e da Cidadania anunciou a realização da mostra de 17/11 a 06/12, em 15 capitais, com programação gratuita e acessível. O tema é “O tempo que nos habita: narrativas do envelhecer, da ancestralidade e a construção do futuro”, destacando o protagonismo das pessoas idosas.  
+Fonte: [MDHC — 16ª Mostra de Cinema e Direitos Humanos, 13/11/2026](https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/novembro/16a-mostra-de-cinema-e-direitos-humanos-reflete-sobre-o-protagonismo-das-pessoas-idosas/).
+
+**Cultura — finalistas do 19º Prêmio São Paulo de Literatura.** A lista de 20 finalistas foi anunciada em 16/11, nas categorias Melhor Romance e Melhor Romance de Estreia, referentes a livros publicados em 2025. Cada vencedor receberá R$ 200 mil; a cerimônia está prevista para 15/12, na Biblioteca Parque Villa-Lobos. A notícia registra 13 mulheres entre os 20 finalistas. O resultado final ainda não foi divulgado.  
+Fonte: [Folha — finalistas do Prêmio São Paulo de Literatura, 16/11/2026](https://www1.folha.uol.com.br/ilustrada/2026/11/premio-sao-paulo-de-literatura-tem-maioria-de-mulheres-entre-finalistas.shtml).
+
+### Agenda atualizada de divulgação — indicadores brasileiros
+
+O IPCA de outubro foi publicado em 12/11. As próximas datas consultadas no calendário do IBGE são: PNAD Contínua trimestral (julho a setembro), 18/11; PNAD Contínua mensal, referência outubro, 27/11; e IPCA de novembro, 11/12. Datas futuras são previsões de divulgação, não resultados.  
+Fontes: [IBGE — calendário da PNAD Contínua](https://www.ibge.gov.br/estatisticas/sociais/trabalho/9173-pnad-continua.html) · [IBGE — calendário do IPCA](https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html).
+
 ### Agenda de divulgação — indicadores brasileiros
 
-**Próximas datas oficiais do IBGE.** O calendário consultado em 09/11 previa a divulgação do IPCA e do INPC de outubro em 12/11; da PNAD Contínua trimestral (julho a setembro) em 18/11; da PNAD Contínua mensal, referência outubro, em 27/11; e dos primeiros resultados da POF 2024–2025 também em 27/11. São datas previstas, não resultados: atualizar os indicadores somente após a publicação oficial.  
+**Situação das divulgações.** O IPCA de outubro foi publicado em 12/11 (0,14% no mês; 4,10% no ano; 4,63% em 12 meses). Permanecem previstas a PNAD Contínua trimestral (julho a setembro) em 18/11, a PNAD mensal de outubro em 27/11 e o IPCA de novembro em 11/12. São datas de calendário, não resultados antecipados.  
 Fontes: [IBGE — calendário de indicadores conjunturais de 2026](https://www.ibge.gov.br/calendario/conjunturais.html) · [IBGE — comunicados e calendário de divulgações](https://www.ibge.gov.br/comunicados.html).
 
 ## 3. O que mudou desde a fotografia anterior
@@ -160,7 +197,7 @@ Fontes: [IBGE — calendário de indicadores conjunturais de 2026](https://www.i
 - **Eleições:** o registro anterior trazia as datas e tratava o segundo turno como futuro; agora o resultado de 25/10 está confirmado.
 - **Copa do Mundo:** antes constavam sede, período e 48 participantes; agora consta a campeã e o placar da final.
 - **Jogos de Inverno:** antes constavam apenas as datas; agora foram acrescentadas a primeira medalha olímpica de inverno e a primeira medalha paralímpica de inverno do Brasil.
-- **Economia brasileira:** além da reforma tributária, PNAD e QAV, foi registrada a manutenção da Selic em 13,75% em 04/11, interrompendo cinco cortes consecutivos; o IPCA fechado de outubro ainda aguardava divulgação oficial.
+- **Economia brasileira:** além da reforma tributária, PNAD e QAV, foi registrada a manutenção da Selic em 13,75% em 04/11 e, agora, o IPCA de outubro (0,14% mensal; 4,63% em 12 meses), publicado em 12/11; acrescentados os saldos do Novo Caged e a EC 141/2026.
 - **Sociedade e ambiente:** acrescentados dados de inclusão digital, PeNSE, trabalho infantil, PRODES 2026 e agravamento da seca em setembro.
 - **Economia internacional:** incluídas as projeções do FMI para 2026–2027 e a seleção da Lufthansa para a privatização parcial da TAP, preservando a distinção entre seleção do investidor e conclusão da operação.
 - **Política e sociedade internacional:** o relatório OCHA de 29/10 foi complementado pelo informe de 09/11 sobre as chuvas e inundações em Gaza; não foi presumido encerramento do conflito.
@@ -171,6 +208,8 @@ Fontes: [IBGE — calendário de indicadores conjunturais de 2026](https://www.i
 As questões e o gabarito comentado estão no arquivo [ATUALIDADES_CADERNO_DE_ESTUDO.md](../../../livros/v3/ATUALIDADES_CADERNO_DE_ESTUDO.md).
 
 ## 5. Histórico de revisão
+
+- **16/11/2026 — versão 2.0:** atualização do IPCA de outubro após divulgação oficial em 12/11; inclusão das ECs 140 e 141/2026, Novo Caged de setembro, resgate de 21 trabalhadores em condições análogas à escravidão, balanço do Seguro-Defeso, novos desdobramentos financeiros da COP31, negociações ASEAN–China, avaliação do Federal Reserve sobre riscos financeiros da IA e agenda cultural de novembro. Acrescentada agenda atualizada do IBGE. A COP31 permanece em andamento; não foram antecipadas decisões finais.
 
 - **09/11/2026 — versão 1.9:** incorporada a decisão do Copom de 04/11, que manteve a Selic em 13,75% e interrompeu cinco cortes consecutivos, com atualização das projeções de inflação; preservada a distinção entre inflação observada e projeções. A versão 1.8 acrescentou o resultado final do TSE, minerais críticos, mapas climáticos e energéticos, Enamed, Novembro Negro, Lei Rouanet, intervenção cambial do Japão, COP31 em andamento, relatório OCHA sobre chuvas em Gaza e calendário do IBGE.
 - **02/11/2026 — versão 1.7:** corrigida a fotografia do mercado de trabalho com o release da PNAD divulgado em 30/10 (5,2% de desocupação e 13,0% de subutilização no trimestre julho-setembro); incluídos o reajuste do QAV em 01/11, as projeções do FMI de outubro e a seleção da Lufthansa para a privatização parcial da TAP. Mantida a distinção entre dado observado, projeção e operação ainda sujeita a etapas posteriores.
