@@ -196,7 +196,12 @@ Fontes: [IBGE — calendário da PNAD Contínua](https://www.ibge.gov.br/estatis
 - **Sociedade e ambiente:** acrescentados dados de inclusão digital, PeNSE, trabalho infantil, PRODES 2026 e agravamento da seca em setembro.
 - **Economia internacional:** incluídas as projeções do FMI para 2026–2027 e a seleção da Lufthansa para a privatização parcial da TAP, preservando a distinção entre seleção do investidor e conclusão da operação.
 - **Política e sociedade internacional:** o relatório OCHA de 29/10 foi complementado pelo informe de 09/11 sobre as chuvas e inundações em Gaza; não foi presumido encerramento do conflito.
-- **COP31:** a fotografia de 02/11 tratava a conferência como futura; em 09/11 foi atualizada para registrar a abertura, mantendo em aberto os resultados finais.
+- **COP31:** a fotografia de 02/11 tratava a conferência como futura; em 09/11 foi atualizada para registrar a abertura e, nesta versão, foram acrescentados o pacote AIIB–Turquia de US$ 1,6 bilhão e os instrumentos brasileiros de financiamento climático. A conferência continua em andamento, sem decisões finais no corte de 16/11.
+- **Trabalho e direitos sociais:** incluídas as ECs 140 e 141/2026, o balanço do Novo Caged, o resgate de 21 trabalhadores em condições análogas à escravidão e o balanço do Seguro-Defeso, sempre distinguindo texto constitucional, dado administrativo e estimativa ministerial.
+- **Inflação:** substituída a pendência do IPCA de outubro pelo resultado oficial divulgado em 12/11 (0,14% no mês; 4,63% em 12 meses).
+- **Geopolítica:** acrescentado o impasse ASEAN–China sobre o Código de Conduta do Mar do Sul da China; acordo provisório de 80% não significa conclusão.
+- **Tecnologia e finanças:** acrescentada a avaliação do Federal Reserve sobre riscos de IA à estabilidade financeira, com o cuidado de identificar que 87% se refere a 23 contatos profissionais consultados.
+- **Cultura:** acrescentadas a 16ª Mostra de Cinema e Direitos Humanos e a lista de finalistas do 19º Prêmio São Paulo de Literatura.
 
 ## 4. Questões de revisão
 
