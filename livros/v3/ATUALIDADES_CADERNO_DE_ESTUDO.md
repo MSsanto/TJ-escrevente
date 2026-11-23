@@ -1,5 +1,5 @@
 # Atualidades — caderno de estudo e atualização
-**TJSP Escrevente · versão 2.0 · 16/11/2026**
+**TJSP Escrevente · versão 2.1 · 23/11/2026**
 
 > Este caderno é uma ferramenta de acompanhamento, não uma lista definitiva de tudo o que poderá ser cobrado. O arquivo ATUALIDADES_2026.md contém o painel factual resumido. A cobertura precisa continuar sendo atualizada até a prova.
 
@@ -226,9 +226,39 @@ Fonte: [MDHC — 16ª Mostra de Cinema e Direitos Humanos, 13/11/2026](https://w
 
 Fonte: [Folha — finalistas do Prêmio São Paulo de Literatura, 16/11/2026](https://www1.folha.uol.com.br/ilustrada/2026/11/premio-sao-paulo-de-literatura-tem-maioria-de-mulheres-entre-finalistas.shtml).
 
-**Agenda do IBGE após a divulgação do IPCA de outubro.** O IPCA de outubro saiu em 12/11. Permanecem previstas a PNAD Contínua trimestral (julho-setembro) em 18/11, a PNAD mensal de outubro em 27/11 e o IPCA de novembro em 11/12. Não antecipar resultados.
+**Agenda do IBGE após a divulgação do IPCA de outubro.** O IPCA de outubro saiu em 12/11 e a PNAD Contínua trimestral (julho-setembro) foi divulgada em 18/11. As próximas datas previstas são a PNAD mensal de outubro em 27/11, o IPCA de novembro em 11/12 e a PNAD trimestral de outubro a dezembro em 19/02/2027. Não antecipar resultados.
 
 Fontes: [IBGE — calendário da PNAD Contínua](https://www.ibge.gov.br/estatisticas/sociais/trabalho/9173-pnad-continua.html) · [IBGE — calendário do IPCA](https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html).
+
+### 3.8 Atualizações confirmadas entre 17 e 23/11/2026
+
+**PNAD Contínua — detalhamento estadual do 3º trimestre, 18/11.** A taxa nacional de desocupação permaneceu em 5,2%, já registrada no boletim de 30/10. A novidade desta divulgação foi o recorte por estado e por grupos sociais: a taxa caiu em oito UFs, ficou estável em 18 e aumentou no Espírito Santo. Pernambuco teve a maior desocupação (8,6%) e Santa Catarina, a menor (2,2%). A informalidade foi de 37,5% dos ocupados, com maiores taxas no Pará (58,0%), Maranhão (56,9%) e Bahia (51,2%). A desocupação foi de 6,3% entre mulheres e 4,3% entre homens. O IBGE registrou ainda aumento de 171 mil pessoas em desalento no trimestre. Para prova, diferencie desocupação, informalidade, subutilização e desalento: são indicadores distintos.
+
+Fonte: [Agência Gov, via IBGE — PNAD do 3º trimestre, 18/11/2026](https://agenciagov.ebc.com.br/noticias/202611/pnad-desocupacao-cai-em-oito-estados-e-fica-estavel-em-18-no-terceiro-trimestre).
+
+**Ajuste fiscal — PLP 299/2026.** O Senado concluiu a votação do projeto em 18/11; no turno suplementar, o texto foi aprovado por 69 votos a 2. A estimativa técnica registrada pelo Senado é de impacto positivo de R$ 45,1 bilhões a R$ 56,1 bilhões no resultado primário de 2027. A proposta altera a Lei Complementar nº 200/2023 (arcabouço fiscal) e reúne instrumentos de controle de despesas, revisão de benefícios tributários e limites a compensações fiscais. Foi remetida à Câmara em 19/11. A pauta oficial da sessão convocada para 23/11 às 18h incluía o PLP, mas, no corte das 08h04, a deliberação ainda não havia ocorrido. O projeto não é lei vigente: ainda depende da tramitação na Câmara e das etapas legislativas posteriores.
+
+Fontes: [Rádio Senado — conclusão da votação, 18/11/2026](https://www12.senado.leg.br/radio/1/noticia/2026/11/18/senado-conclui-votacao-do-ajuste-fiscal) · [Congresso Nacional — tramitação do PLP 299/2026](https://www.congressonacional.leg.br/web/atividade/materias/-/materia/176328) · [Câmara — pauta de 23/11/2026](https://www.camara.leg.br/evento-legislativo/83419).
+
+**COP31 — resultado final, 22/11.** A conferência de Antália, inicialmente prevista para 09 a 20/11, prolongou-se por cerca de dois dias. A presidência declarou que não havia consenso sobre a decisão de cobertura (“Antalya Pact”), em meio a divergências sobre referência expressa à transição para longe dos combustíveis fósseis e financiamento de adaptação. Algumas decisões técnicas e procedimentais, inclusive sobre o Programa de Trabalho para Transição Justa, foram adotadas; a principal decisão política não. O resultado não revoga o Acordo de Paris nem compromissos anteriores. Para prova, diferencie a decisão de cobertura das decisões temáticas aprovadas.
+
+Fontes: [UNFCCC — COP31](https://unfccc.int/cop31) · [Reuters — encerramento sem acordo, 21/11/2026](https://www.reuters.com/sustainability/cop/cop31-climate-talks-close-final-deal-says-summit-president-2026-11-21/) · [The Guardian — plenária final, 22/11/2026](https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates).
+
+**Sudão — relatório do OHCHR, divulgado em 17/11.** O Alto Comissariado das Nações Unidas para os Direitos Humanos informou que pelo menos 1.390 civis foram mortos entre janeiro e junho de 2026 no conflito sudanês; mais de 80% dessas mortes foram atribuídas a ataques com drones. Entre julho e outubro, foram documentadas outras 840 mortes, quase 520 associadas a drones. O total documentado de janeiro a outubro ultrapassou 2.230 civis mortos, mais de 1.630 por drones. Kordofan concentrou mais de dois terços das vítimas documentadas. Mercados, hospitais, escolas e fontes de água também foram atingidos. Atribua os números ao OHCHR e não os trate como contagem definitiva de todas as vítimas.
+
+Fonte: [ONU Genebra — briefing do OHCHR sobre o Sudão, 17/11/2026](https://www.unognewsroom.org/teleprompter/en/3326/un-geneva-press-briefing-17-november-2026/9892).
+
+**Mercados internacionais — correção em ações ligadas à IA.** Na semana encerrada em 20/11, o Nasdaq caiu cerca de 10%, a maior queda semanal desde março de 2020, em meio à venda de ações ligadas à inteligência artificial e a dúvidas sobre avaliações e retorno dos investimentos em centros de dados. A oscilação atingiu outros mercados e elevou a aversão ao risco. É movimento financeiro e reavaliação de risco, não prova isolada de recessão nem decisão de política monetária.
+
+Fonte: [Reuters — mercados globais, 22/11/2026](https://www.reuters.com/world/china/global-markets-global-markets-2026-11-22/).
+
+**Cultura e patrimônio — Salvador e Rio de Janeiro.** Em 20/11, a 23ª Caminhada da Liberdade, promovida pelo Ilê Aiyê em Salvador, homenageou Gilberto Gil e celebrou a ancestralidade e a cultura afro-brasileira. Em 21/11, foi inaugurada no Palácio da Aclamação a primeira unidade do CCBB no Nordeste e a quinta do país, com a exposição “Nação Ilê”. De 23 a 27/11, o Iphan programou no Rio de Janeiro o Seminário Internacional Acervos de Referência para o Patrimônio Cultural e o II Encontro de Mantenedores de Acervos Presidenciais, voltados à preservação, gestão, pesquisa e acesso a acervos, inclusive digitais. No corte de 23/11, a abertura estava prevista para as 18h.
+
+Fontes: [MinC — 23ª Caminhada da Liberdade, 20/11/2026](https://www.gov.br/cultura/pt-br/assuntos/noticias/margareth-menezes-participa-da-23a-caminhada-da-liberdade-em-salvador/) · [Governo da Bahia — inauguração do CCBB Salvador, 21/11/2026](https://www.ba.gov.br/comunicacao/noticias/2026-11/385788/bahia-ganha-primeira-unidade-do-ccbb-no-nordeste-com-exposicao-em-homenagem) · [Iphan — seminário e encontro de acervos, 23–27/11/2026](https://www.gov.br/iphan/pt-br/assuntos/seminario-internacional-acervos-de-referencia-para-o-patrimonio-cultural-e-o-ii-encontro-de-mantenedores-de-acervos-presidenciais).
+
+**Agenda do IBGE atualizada.** A PNAD Contínua trimestral de julho a setembro foi divulgada em 18/11. As próximas datas previstas são: PNAD Contínua mensal, referência outubro, em 27/11; IPCA de novembro, em 11/12; e PNAD Contínua trimestral, referência outubro a dezembro, em 19/02/2027. Datas futuras são previsões, não resultados.
+
+Fontes: [IBGE — calendário da PNAD Contínua](https://www.ibge.gov.br/estatisticas/sociais/trabalho/9173-pesquisa-nacional-por-amostra-de-domicilios-continua-pnad-continua.html) · [IBGE — calendário do IPCA](https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html).
 
 ## 4. Questões de revisão — estilo objetivo
 
@@ -517,6 +547,55 @@ C) a premiação foi encerrada e não haverá cerimônia em dezembro.
 D) os finalistas concorrem apenas a um prêmio honorário, sem valor em dinheiro.  
 E) foram anunciados 20 finalistas em duas categorias; cada vencedor receberá R$ 200 mil, com cerimônia prevista para 15/12.
 
+**41.** Sobre a PNAD Contínua do terceiro trimestre de 2026, divulgada em 18/11, é correto afirmar que:
+A) a taxa nacional ficou em 5,2%, e a taxa de informalidade foi de 37,5% da população ocupada.  
+B) a taxa nacional subiu para 8,6%, e todos os estados registraram alta.  
+C) a informalidade ficou em 5,2% e a desocupação, em 37,5%.  
+D) a taxa de desocupação foi maior em Santa Catarina e menor em Pernambuco.  
+E) a pesquisa deixou de medir diferenças entre grupos sociais.
+
+**42.** Sobre o PLP 299/2026:
+A) foi sancionado como lei em 18/11, após aprovação unânime no Senado.  
+B) o Senado concluiu a votação em 18/11; o projeto foi remetido à Câmara e ainda não estava em vigor no corte de 23/11.  
+C) foi rejeitado pelo Senado e arquivado.  
+D) trata exclusivamente da criação de um novo imposto estadual.  
+E) foi aprovado definitivamente pela Câmara em 19/11.
+
+**43.** Qual foi o resultado da COP31 em Antália?
+A) A conferência foi cancelada antes da abertura.  
+B) Todos os países aprovaram por unanimidade uma decisão vinculante de eliminação imediata dos combustíveis fósseis.  
+C) Não houve consenso sobre a decisão política de cobertura, embora algumas decisões técnicas e sobre o Programa de Trabalho para Transição Justa tenham sido adotadas.  
+D) O Acordo de Paris foi revogado.  
+E) Nenhuma decisão temática ou procedimental foi aprovada.
+
+**44.** Segundo o informe do OHCHR divulgado em 17/11/2026, no Sudão:
+A) mais de 1.390 civis foram mortos entre janeiro e junho, e mais de 80% dessas mortes foram atribuídas a ataques com drones.  
+B) o conflito havia terminado em junho.  
+C) os ataques atingiram apenas instalações militares.  
+D) não houve registro de vítimas civis por drones.  
+E) o relatório foi produzido pelo Banco Mundial.
+
+**45.** Qual fato cultural ocorreu em Salvador em 21/11/2026?
+A) Foi inaugurada a primeira unidade do CCBB no Nordeste e a quinta do país, no Palácio da Aclamação, com a exposição “Nação Ilê”.  
+B) Foi inaugurado o primeiro museu nacional de cinema da América Latina.  
+C) A cidade sediou a abertura da COP31.  
+D) Foi realizada a cerimônia final do Prêmio São Paulo de Literatura.  
+E) O Ilê Aiyê foi criado nessa data.
+
+**46.** Sobre os mercados internacionais na semana encerrada em 20/11:
+A) o Nasdaq subiu 10% em um único pregão após decisão do Federal Reserve.  
+B) a queda das ações de tecnologia provou que a economia mundial entrou em recessão.  
+C) o movimento ocorreu exclusivamente por causa de uma mudança na taxa básica de juros do Banco Central Europeu.  
+D) o Nasdaq caiu cerca de 10% na semana, em meio à reavaliação de ações ligadas à IA e dúvidas sobre avaliações e investimentos em centros de dados.  
+E) a volatilidade foi restrita ao mercado brasileiro.
+
+**47.** O seminário do Iphan programado para 23 a 27/11/2026 no Rio de Janeiro trata principalmente de:
+A) regulação de mercados financeiros e criptomoedas.  
+B) treinamento de atletas para os Jogos Olímpicos.  
+C) preservação, gestão, pesquisa e acesso a acervos de referência para o patrimônio cultural, inclusive acervos presidenciais.  
+D) revisão do Código Eleitoral.  
+E) negociação do Código de Conduta do Mar do Sul da China.
+
 ### Gabarito comentado
 
 1. **A.** Para o Escrevente 02/2026, Atualidades continua com quatro questões; a LBI permanece nos arts. 1º–13 e 34–38, e a distribuição de Matemática, Raciocínio Lógico e Informática não mudou.
@@ -569,6 +648,16 @@ E) foram anunciados 20 finalistas em duas categorias; cada vencedor receberá R$
 40. **E.** A lista de 20 finalistas foi anunciada em 16/11; os vencedores seriam conhecidos em 15/12. Cada categoria prevê prêmio de R$ 200 mil.
 
 
+### Gabarito comentado — questões 41 a 47
+
+41. **A.** A taxa nacional de desocupação foi 5,2%, mas a divulgação de 18/11 acrescentou recortes estaduais e sociais. A informalidade foi de 37,5% dos ocupados; não confundir informalidade com desocupação.  
+42. **B.** O Senado concluiu a votação do PLP 299/2026 em 18/11 e remeteu o texto à Câmara. Projeto aprovado em uma Casa não é lei vigente; a pauta da Câmara para 23/11 estava convocada, ainda sem deliberação no corte das 08h04.  
+43. **C.** A decisão de cobertura da COP31 não obteve consenso. Algumas decisões técnicas e sobre transição justa foram aprovadas; isso não equivale à adoção do “Antalya Pact” nem revoga compromissos anteriores.  
+44. **A.** Os números são do OHCHR: 1.390 civis mortos entre janeiro e junho, mais de 80% em ataques com drones; o balanço documentado até outubro ultrapassou 2.230 mortos.  
+45. **A.** O CCBB Salvador abriu sua sede física no Palácio da Aclamação em 21/11, primeira unidade da rede no Nordeste e quinta no país, com a exposição “Nação Ilê”.  
+46. **D.** A queda semanal do Nasdaq foi associada à venda de ações ligadas à IA e à reavaliação de avaliações e gastos com centros de dados. É um movimento de mercado, não confirmação de recessão.  
+47. **C.** O seminário do Iphan e o encontro de mantenedores de acervos presidenciais tratam de preservação, gestão, pesquisa e acesso ao patrimônio documental, bibliográfico e museológico.
+
 ## 5. Fontes e rotina de manutenção
 
 ### Hierarquia de fontes
@@ -589,6 +678,8 @@ E) foram anunciados 20 finalistas em duas categorias; cada vencedor receberá R$
 - **Véspera:** conferir fontes e status; não decorar rumor de última hora.
 
 ## 6. Histórico de atualização
+
+- **23/11/2026 — versão 2.1:** acrescentadas as questões 41–47 e respectivos comentários; atualizados os recortes estaduais e de informalidade da PNAD trimestral, a tramitação do PLP 299/2026, o resultado final da COP31, o informe do OHCHR sobre o Sudão, a correção em ações de tecnologia ligadas à IA e fatos culturais de Salvador e do Iphan. Corrigida a agenda do IBGE após a divulgação da PNAD em 18/11. A sessão da Câmara de 23/11 e o seminário do Iphan permaneciam como eventos previstos no corte das 08h04.
 
 - **16/11/2026 — versão 2.0:** atualização do IPCA de outubro após divulgação em 12/11; inclusão das ECs 140 e 141/2026, Novo Caged, resgate de trabalhadores em condições análogas à escravidão, balanço do Seguro-Defeso, novos desdobramentos da COP31, negociações ASEAN–China, riscos financeiros associados à IA, Mostra de Cinema e Direitos Humanos e finalistas do Prêmio São Paulo de Literatura. Acrescentadas questões 31–40 e gabarito comentado. A COP31 permanece em andamento, sem antecipação de resultados finais.
 
